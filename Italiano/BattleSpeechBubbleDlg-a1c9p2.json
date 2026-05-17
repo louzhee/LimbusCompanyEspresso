@@ -132,17 +132,17 @@
     {
       "id": "battle_s3_11005_1_1",
       "desc": "Nclair - S3 1",
-      "dlg": "<color=#A4180B>Ti depurerò...</color>"
+      "dlg": "<color=#bd9a52>Ti depurerò...</color>"
     },
     {
       "id": "battle_s3_11005_1_2",
       "desc": "Nclair - Croce",
-      "dlg": "<color=#A4180B>Da tutta la feccia!</color>"
+      "dlg": "<color=#bd9a52>Da tutta la feccia!</color>"
     },
     {
       "id": "battle_s3_11005_1_2_Back",
       "desc": "Nclair - Croce",
-      "dlg": "<color=#A4180B>Da tutta la feccia.</color>"
+      "dlg": "<color=#bd9a52>Da tutta la feccia.</color>"
     },
     
     {
@@ -505,7 +505,81 @@
       "dlg": "<color=#41E8E6>Abbatti il nemico e mostrami il tuo valore.</color>"
     },
 
-
+    {
+      "id": "battle_s3_10415_1",
+      "desc": "BLADE OF THE HOUSE OF SPIDERS RYOSHU | Spidershu - Rend Space",
+      "dlg": "<color=#c5adf7>Cancellerò tutto... continuerò a tagliare senza sosta fino alla morte.</color>"
+    },
+    {
+      "id": "battle_special_10415_1",
+      "desc": "Spidershu - Ally killed 1",
+      "dlg": "<color=#c5adf7>L'ho finalmente reciso del tutto...?</color>"
+    },
+    {
+      "id": "battle_special_10415_1_2",
+      "desc": "Spidershu - Ally killed 2",
+      "dlg": "<color=#c5adf7>Scissione.</color>"
+    },
+    {
+      "id": "battle_special_10415_2",
+      "desc": "Spidershu - Ally killed 3",
+      "dlg": "<color=#c5adf7>... Troppo persistente.</color>"
+    },
+    {
+      "id": "battle_special_10415_5",
+      "desc": "Spidershu - Killing Rodion",
+      "dlg": "<color=#c5adf7>Ne ho abbastanza di te e della tua dannata tecnica Palermitana— Fottiti!</color>"
+    },
+    {
+      "id": "battle_special_10415_4",
+      "desc": "Spidershu - Killing Yi Sang",
+      "dlg": "<color=#c5adf7>È inutile provare a prevedere le mie mosse. Lo sai meglio di tutti, non è così?</color>"
+    },
+    {
+      "id": "battle_special_10415_6",
+      "desc": "Spidershu - Killing Outis",
+      "dlg": "<color=#c5adf7>Ti avviso, è molto calda... Calda da morire!</color>"
+    },
+    {
+      "id": "battle_special_10415_7",
+      "desc": "Spidershu - Killing Hong Lu",
+      "dlg": "<color=#c5adf7>Lo senti? Ascolta il boato di tutta la mia sofferenza, le innumerevoli grida che mi supplicano di ucciderti!!</color>"
+    },
+    {
+      "id": "battle_special_10415_8",
+      "desc": "Spidershu - Inevitable Termination",
+      "dlg": "<color=#c5adf7>E così, persino questo istante... verrà reciso del tutto.</color>"
+    },
+    {
+      "id": "battle_special_10415_10",
+      "desc": "Spidershu - Rend Space String Connection",
+      "dlg": "<color=#c5adf7>Ho sopportato ogni istante soffocante.\nHo atteso di uscire con disperazione.\nE vi ho maledetti, ignorando ogni giudizio.</color>"
+    },
+    {
+      "id": "battle_special_10415_9",
+      "desc": "Spidershu - Rend Space Ecoshear (Thumb)",
+      "dlg": "<i><color=#80312d>Così volge al termine la nostra caccia!</color></i>"
+    },
+    {
+      "id": "battle_special_10415_9_1",
+      "desc": "Spidershu - Rend Space Ecoshear (Index)",
+      "dlg": "<i><color=#FFFFFF>Prevedere le mie mosse è inutile...</color></i>"
+    },
+    {
+      "id": "battle_special_10415_9_2",
+      "desc": "Spidershu - Rend Space Ecoshear (Middle)",
+      "dlg": "<i><color=#5F239C>Ho fatto centro!</color=#5F239C></i>"
+    },
+    {
+      "id": "battle_special_10415_9_3",
+      "desc": "Spidershu - Rend Space Ecoshear (Ring)",
+      "dlg": "<i><color=#41E8E6>Arrivederci a tutti.</color></i>"
+    },
+    {
+      "id": "battle_special_10415_11",
+      "desc": "Spidershu - Rend Space Ecoshear (Final)",
+      "dlg": "<color=#c5adf7>L'unica cosa rimasta da incolpare... è il mio rancore angosciante.</color>"
+    },
 
 
 
@@ -991,7 +1065,7 @@
     {
         "id": "battle_s2_10814_1_1-02",
         "desc": "Kira - Crossing Dervish",
-        "dlg": "Uno."
+        "dlg": "Un."
     },
     {
         "id": "battle_s2_10814_1_2-02",

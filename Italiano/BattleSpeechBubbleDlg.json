@@ -465,6 +465,116 @@
       "desc": "Lord Hong Lu - Jia Qiu (3 Dialogue)",
       "dlg": "Il male va estirpato alla radice senza pietà [除惡務盡 斬草除根].\nLa Via che ho scelto in quanto Lord è una strada che non ha bisogno dell'approvazione altrui. Dunque, fratello— no, Jia Qiu, questo dialogo ha raggiunto un punto di stallo."
     },
+    {
+      "id": "battle_eE_10415_1",
+      "desc": "Spidershu - Lucio interaction",
+      "dlg": "Ti farò a pezzi, così non ti azzarderai più a fare tali imitazioni."
+    },
+    {
+      "id": "battle_eE_10415_2",
+      "desc": "Spidershu - Ren interaction",
+      "dlg": "E tu... chi sei? Non ti ho mai visto al Nido dei Ragni."
+    },
+    {
+      "id": "battle_eE_10415_3",
+      "desc": "Spidershu - I think this is Albina? I don't have the ID so it's a guessing game",
+      "dlg": "... Almeno quell'armatura protegge i miei occhi dal tuo corpo ripugnante."
+    },
+    {
+      "id": "battle_eE_10415_4",
+      "desc": "Spidershu - Sora interaction",
+      "dlg": "Forse quel dannato aggeggio smetterà di suonare non appena ti taglierò in mille pezzi e butterò ciò che ne resta in una fogna abbandonata."
+    },
+    {
+      "id": "battle_eE_10415_5",
+      "desc": "Spidershu - Shiomi Yoru interaction 1",
+      "dlg": "Persino in questo posto... c'è un essere come me?"
+    },
+    {
+      "id": "battle_eE_10415_6",
+      "desc": "Spidershu - Shiomi Yoru interaction 2",
+      "dlg": "Li vedo. Riesco a vedere tutti i fili del tuo tempo che si intrecciano su sé stessi."
+    },
+    {
+      "id": "battle_eE_10415_7",
+      "desc": "Spidershu - Dihui Star Interaction 1",
+      "dlg": "Spero che, cancellandomi, anche tu riesca a fare lo stesso."
+    },
+    {
+      "id": "battle_eE_10415_8",
+      "desc": "Spidershu - Dihui Star interaction 2",
+      "dlg": "È un peccato... hai visto un cielo che non volevi vedere e ti sei abbandonata alla speranza."
+    },
+    {
+      "id": "battle_eE_10415_9",
+      "desc": "Spidershu - Araya, interaction 1",
+      "dlg": "Che senso ha raccontarlo ancora e ancora, se non se lo ricorderà mai?"
+    },
+    {
+      "id": "battle_eE_10415_10",
+      "desc": "Spidershu - Araya interaction 2",
+      "dlg": "Non tornò neanche con l'appassire delle stesse ortensie."
+    },
+    {
+      "id": "battle_eE_10415_11",
+      "desc": "Spidershu - Araya interaction 3",
+      "dlg": "E non è passato un solo giorno in cui non volessi scoppiare in lacrime."
+    },
+    {
+      "id": "battle_eE_10415_12",
+      "desc": "Spidershu - Araya interaction 4",
+      "dlg": "Già. Faresti meglio a spezzare tutti quei fili, Dal primo all'ultimo."
+    },
+    {
+      "id": "battle_eE_10415_13",
+      "desc": "Spidershu - Rien interaction",
+      "dlg": "Quel dannato rumore... Sei tu...! Sei la persona che devo fare a pezzi!"
+    },
+    {
+      "id": "battle_eE_10415_14",
+      "desc": "Spidershu - Rien (Furioso-Replica) interaction",
+      "dlg": "Scommetto che hai atteso con ansia. O è stato il tuo dio a dirti di farlo?"
+    },
+    {
+      "id": "battle_eE_10415_15",
+      "desc": "Spidershu - Rien (Furioso-Crescendo) interaction",
+      "dlg": "Quelli che meritano l'inferno siete voi, non io..."
+    },
+    {
+      "id": "battle_eE_10415_16",
+      "desc": "Spidershu - Rien (Furioso Lacrimosa-Crescendo) interaction",
+      "dlg": "E invece è proprio <i>così</i> semplice.\nPrima che questi fili strangolanti mi schiaccino, io... impugnerò la mia spada... e li reciderò tutti!!"
+    },
+    {
+      "id": "battle_eE_10415_17",
+      "desc": "Spidershu - Valencina interaction (MD only)",
+      "dlg": "Non ti devo alcuna spiegazione.\nTi faccio a pezzi perché mi va, come quando mi prendevi a botte tanto per sfogarti un po'."
+    },
+    {
+      "id": "battle_eE_10415_18",
+      "desc": "Spidershu - Rien interaction (MD only)",
+      "dlg": "Spero che la tua morte non sia stata pianificata dal tuo dio. Non vorrei rovinarmi tutto il divertimento."
+    },
+    {
+      "id": "battle_eE_10415_19",
+      "desc": "Spidershu - Matthias interaction (MD only)",
+      "dlg": "La tua Reliquia, le tue catene, la tua stupida collezione di giocattoli, la tua vita... Troverò tutto ciò a cui tieni e lo distruggerò."
+    },
+    {
+      "id": "battle_eE_10415_20",
+      "desc": "Spidershu - Callisto interaction (MD only)",
+      "dlg": "Morirai felice quando ti farò a pezzi? O ti pentirai di non aver mai ultimato la tua opera?"
+    },
+    {
+      "id": "battle_eE_10415_21",
+      "desc": "Spidershu - Sora interaction (MD only)",
+      "dlg": "Quel dannato aggeggio... Non mi sorprende che l'Arayashiki ti abbia fatta a pezzi."
+    },
+    {
+      "id": "battle_eE_10415_22",
+      "desc": "Spidershu - Ren interaction (MD only)",
+      "dlg": "È così familiare... Anche se nostri fili non si sono mai incrociati."
+    },
 
 
 	  {
@@ -1705,116 +1815,6 @@
       "id": "",
       "desc": "template",
       "dlg": ""
-    },
-    {
-      "id": "battle_eE_10415_1",
-      "desc": "이스터 - 메인(상) - 루치오 조우 시",
-      "dlg": "I'll cut you up so you won't dare attempt such mimicry again."
-    },
-    {
-      "id": "battle_eE_10415_2",
-      "desc": "이스터 - 메인(상) - 렌 조우 시",
-      "dlg": "Who... are you? There wasn't anyone like you at the House of Spiders."
-    },
-    {
-      "id": "battle_eE_10415_3",
-      "desc": "이스터 - 메인(상) - 알비나 조우 시",
-      "dlg": "... At least that armor keeps that revolting sight of you hidden."
-    },
-    {
-      "id": "battle_eE_10415_4",
-      "desc": "이스터 - 메인(중) - 소라 조우 시",
-      "dlg": "Maybe that irksome beeping will fall silent once I've cut you up into a shapeless thing and tossed what's left of you into some forsaken gutter."
-    },
-    {
-      "id": "battle_eE_10415_5",
-      "desc": "이스터 - 메인(중) - 소지 아비 1차 조우 시",
-      "dlg": "... This place too, has a thing like me?"
-    },
-    {
-      "id": "battle_eE_10415_6",
-      "desc": "이스터 - 메인(하) - 소지 아비 2차 조우 시",
-      "dlg": "I can see every thread of time entangling with your being."
-    },
-    {
-      "id": "battle_eE_10415_7",
-      "desc": "이스터 - 메인(하) - 소지 아비 3차 조우 시",
-      "dlg": "As I erase myself, I hope you'll be able to erase yourself."
-    },
-    {
-      "id": "battle_eE_10415_8",
-      "desc": "이스터 - 메인(하) - 아라야 조우 시",
-      "dlg": "Pity... You saw the sky you never wanted to see and began to hope."
-    },
-    {
-      "id": "battle_eE_10415_9",
-      "desc": "이스터 - 메인(하) - 아라야 2페이즈 시작",
-      "dlg": "You may speak of it again and again, but she still wouldn't remember."
-    },
-    {
-      "id": "battle_eE_10415_10",
-      "desc": "이스터 - 메인(하) - 아라야 2페이즈 2턴",
-      "dlg": "She wouldn't return even as those same flowers wilt."
-    },
-    {
-      "id": "battle_eE_10415_11",
-      "desc": "이스터 - 메인(하) - 아라야 2페이즈 3턴",
-      "dlg": "And not a day must have passed without you wanting to cry."
-    },
-    {
-      "id": "battle_eE_10415_12",
-      "desc": "이스터 - 메인(하) - 아라야 2페이즈 4턴 (측은지심을 느끼고 있어야 함 / 연민이 있어야 한다)",
-      "dlg": "Yes. So sever them all away here and now. Every single thread."
-    },
-    {
-      "id": "battle_eE_10415_13",
-      "desc": "이스터 - 메인(하) - 뤼엔 조우 시",
-      "dlg": "That awful noise... It's you. You're the one I'm meant to sever away here."
-    },
-    {
-      "id": "battle_eE_10415_14",
-      "desc": "이스터 - 메인(하) - 뤼엔 퓨리오소 장착 시 (1페이즈)",
-      "dlg": "You must've wanted this day to come. Or should I say, your god did?"
-    },
-    {
-      "id": "battle_eE_10415_15",
-      "desc": "이스터 - 메인(하) - 뤼엔 퓨리오소 장착 시 (2페이즈)",
-      "dlg": "I'm not the one who belongs in hell. It's you."
-    },
-    {
-      "id": "battle_eE_10415_16",
-      "desc": "이스터 - 메인(하) - 뤼엔 최종 연출 턴",
-      "dlg": "I <i>can</i> cut it off.\nBefore the weight of these entangling, strangling threads crush me to death... I will raise this sword... and cut them all off!"
-    },
-    {
-      "id": "battle_eE_10415_17",
-      "desc": "이스터 - 거던(히든) - 발렌치나 조우 시",
-      "dlg": "You don't deserve to ask me for explanations. I'm cutting you up because I want to, exactly as you used to kick me just because you felt like letting off some steam."
-    },
-    {
-      "id": "battle_eE_10415_18",
-      "desc": "이스터 - 거던(히든) - 뤼엔 조우 시",
-      "dlg": "I'd prefer if your death isn't in that god's plans. Won't get an opportunity to have my share of joy otherwise."
-    },
-    {
-      "id": "battle_eE_10415_19",
-      "desc": "이스터 - 거던(히든) - 마티아스 조우 시",
-      "dlg": "That Relic, those chains, the juvenile collection of toys, your life... I will find every last one of the things you hold dear and destroy them."
-    },
-    {
-      "id": "battle_eE_10415_20",
-      "desc": "이스터 - 거던(히든) - 칼리스토 조우 시",
-      "dlg": "Will you be happy once the blade cuts you through, knowing that your work is nearly complete? Or will you lament that you won't be there to witness its completion?"
-    },
-    {
-      "id": "battle_eE_10415_21",
-      "desc": "이스터 - 거던(히든) - 소라 조우 시",
-      "dlg": "That infuriating beeper... No wonder Arayashiki cut you to ribbons."
-    },
-    {
-      "id": "battle_eE_10415_22",
-      "desc": "이스터 - 거던(히든) - 렌 조우 시",
-      "dlg": "... A stranger with a familiar form. But how? Our threads have never been entangled."
     }
   ]
 }
