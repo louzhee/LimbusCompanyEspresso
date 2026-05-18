@@ -3645,7 +3645,7 @@
       "desc": "- Max Stack: {0} ({1} ottenute)",
       "summary": "",
       "undefined": "-",
-      "flavor": "The threads of fate are entwined by encounter, and by the length of time surrendered unto another.\nThe myriad moments wherein one's time and another's overlap, be they fair or foul, will bind their strings in pitiless entanglement.\nThe time that has already been shared cannot be undone."
+      "flavor": "I fili del destino si intrecciano ad ogni incontro, e dalla quantità di tempo dedicata ad altri\nLa miriade di momenti nei quali il tempo di un individuo e un alto si sovrappongono, che siano felici o cattivi, leggeranno i loro fili in un intreccio spietato\nIl tempo che è già stato condiviso non può essere revocato."
     },
     {
       "id": "SojiRyoshuEchoFuture",
@@ -3653,7 +3653,7 @@
       "desc": "- Max Stack: 1\n- Subisce +5% danni dalle Abilità Attacco Base di Lama del Nido dei Ragni Ryōshū",
       "summary": "",
       "undefined": "-",
-      "flavor": "A phantom trace (殘影) is not simply a faint shade left in passing. It is the shadow of times past, cruelly drawn across bygone days."
+      "flavor": "Una traccia fantasma (殘影) non è semplicemente una debole ombra lasciata durante il passaggio. È il ricordo di tempi passati, disegnata crudelmente tra giorni andati"
     },
     {
       "id": "SojiRyoshuEntangle",
@@ -3661,7 +3661,7 @@
       "desc": "- Max Stack: 4\n- Ottiene 1 Stack per ogni Identità Precettore del Nido dei Ragni sconfitta\n- Ottiene un effetto speciale in base a quale alleato del Nido dei Ragni è stato sconfitto\n- Subisce -7.5% danni per ogni Stack",
       "summary": "",
       "undefined": "-",
-      "flavor": "And so, let it be cut and severed. Even if it strays from what must be."
+      "flavor": "E dunque, che venga tagliato e reciso. Anche a costo di deviare dal destino."
     },
     {
       "id": "SojiRyoshuShin",
@@ -3685,7 +3685,7 @@
       "desc": "- Max Stack: 70\n- Somma totale delle Stack di Traccia della Lama inflitte da questa unità\n- Può ottenere fino a 25 Stack per turno",
       "summary": "",
       "undefined": "-",
-      "flavor": "Etch a mark into the earth. Such is the purpose this blade was made to serve.\nInto this sword was poured the light of a star, so that something may be left behind in this land."
+      "flavor": "Incidere un marchio sulla terra. Questo è lo scopo per cui questa lama è stata creata\nIn questa spada è stata versata la luce di una stella, così che possa rimanere qualcosa su questa terra"
     }
   ]
 }
