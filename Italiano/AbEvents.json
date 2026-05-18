@@ -562,12 +562,12 @@
       "title": "Looking for a Drone",
       "prevDesc": "",
       "eventDesc": "Un Peccatore bravo a perquisire dovrebbe fare al caso nostro.",
-      "behaveDesc": "Chi sarà il più efficiente per questo compito?",
+      "behaveDesc": "Chi sarà il più efficiente?",
       "successDesc": [
-        "[{0}] si ritrova con diverse ferite alle mani per frugare dentro al rottame.\nPer fortuna, siamo riusciti a trovare una piccola ampolla all'interno.\n\"Dopo tutto quel lavoraccio...\"\nSospirano gli altri Peccatori per il misero bottino.\n...Siamo usciti dalla stanza con la promessa di riavvolgere il tempo per loro la prossima volta."
+        "[{0}] si ritrova con diverse ferite alle mani dopo aver frugato dentro al rottame.\nPer fortuna, siamo riusciti a trovare una piccola fiala all'interno.\n\"Dopo tutto quel lavoraccio...\"\nSospirano gli altri Peccatori per il misero bottino.\n...Siamo usciti dalla stanza con la promessa di riavvolgere il tempo per loro la prossima volta."
       ],
       "failureDesc": [
-        "I detriti erano più affilati del previsto.\n\"…!\"\n[{0}] si ritrova con diverse ferite alle mani per frugare dentro al rottame.\n\"Immagino non ci sia niente.\"\nDopo aver passato parecchi minuti a cerca, non si è trovato niente di utile.\n\"…….\"\nSento lo sguardo rancoroso dei Peccatori dietro di me."
+        "I detriti erano più affilati del previsto.\n\"…!\"\n[{0}] si ritrova con diverse ferite alle mani dopo aver frugato dentro al rottame.\n\"Immagino non ci sia niente.\"\nDopo aver passato parecchio tempo a cercare, non abbiamo trovato niente di utile.\n\"…….\"\nSento lo sguardo rancoroso dei Peccatori sulle mie spalle."
       ]
     },
     {
@@ -580,7 +580,7 @@
         "\"Whoa!\"\n[{0}] tocca l'uovo. L'uovo inizia ad illuminarsi.\nPoco dopo, si è indurito per poi dare forma ad una gemma unica nel suo genere.\n\"Potrebbe valerne la pena prendercela.\"\n[{0}] mostra segni di stanchezza, ma non c'era niente di strano col suo corpo per quel che potevamo vedere.\nAbbiamo lasciato il posto con la gemma in nostro possesso."
       ],
       "failureDesc": [
-        "\"Whoa!\"\n[{0}] tocca l'uovo. L'uovo inizia ad illuminarsi.\nPerò, l'uovo presto si è ridotto in un mucchio di polvere.\n\"Ugh...\"\nNella mano di [{0}] era rimasta una misteriosa ferita.\nSente persino dell'affaticamento.\n...Abbiamo lasciato la stanza, consolando [{0}]."
+        "\"Whoa!\"\n[{0}] tocca l'uovo. L'uovo inizia ad illuminarsi.\nPerò, presto si è ridotto in un mucchio di polvere.\n\"Ugh...\"\nNella mano di [{0}] era rimasta una misteriosa ferita.\nInoltre notavamo un'improvvisa stanchezza da parte sua.\n...Abbiamo lasciato la stanza, consolando [{0}]."
       ]
     },
     {
@@ -588,9 +588,9 @@
       "title": "PickingRowAndColumn",
       "prevDesc": "",
       "eventDesc": "Vedendo più da vicino, riesci quasi a notare qualcos'altro all'interno.\nUn Peccatore con la vista aguzza potrebbe ottenere qualcosa di buono.",
-      "behaveDesc": "Chi darà un occhiata?",
+      "behaveDesc": "Chi darà un'occhiata?",
       "successDesc": [
-        "[{0}] guarda l'armadio.\nRiesce a scoprire un cassetto nascosto. Il cassetto conteneva un mucchio di oggetti utili.\nPresto, l'area inizia a disperdersi, e l'armadio scompare"
+        "[{0}] guarda l'armadio.\nRiesce a scoprire un cassetto nascosto. Il cassetto conteneva un mucchio di oggetti utili.\nSenti l'area continuare a distorcersi, forse non rimane molto tempo."
       ],
       "failureDesc": [
         "[{0}] guarda l'armadio.\nForse ha sprecato troppo tempo a riflettere; Presto, l'area inizia a disperdersi, e l'armadio scompare."
@@ -603,8 +603,8 @@
       "eventDesc": "Tutti i Peccatori guardano la finestra.",
       "behaveDesc": "Chi parlerà con le figure?",
       "successDesc": [
-        "<i>Piansisenzascelta.\nOh ▽ ! Eccomiinpena.\nContemplotalepensiero:\nComedebbapiangerIo.\n\nQuando [{0}] inizia a parlare con le figure nella finestra, loro si contorcono per poi sparire.\nDopodiché un frammento cade dalla finestra.\nLo abbiamo preso per poi lasciare la stanza.</i>",
-        "<i>Piansisenzascelta.\nOh ▽ ! Eccomiinpena.\nContemplotalepensiero:\nComedebbapiangerIo.\n\nQuando [{0}] inizia a parlare con le figure nella finestra, loro si contorcono per poi sparire.\nDopodiché un frammento cade dalla finestra.\nLo abbiamo preso per poi lasciare la stanza.</i>"
+        "<i>Piansisenzascelta.\nOh ▽ ! Eccomiinpena.\nContemplotalepensiero:\nComedebbapiangerIo.</i>\n\nQuando [{0}] inizia a parlare con le figure nella finestra, loro si contorcono per poi sparire.\nDopodiché un frammento cade dalla finestra.\nLo abbiamo preso per poi lasciare la stanza.",
+        "<i>Piansisenzascelta.\nOh ▽ ! Eccomiinpena.\nContemplotalepensiero:\nComedebbapiangerIo.</i>\n\nQuando [{0}] inizia a parlare con le figure nella finestra, loro si contorcono per poi sparire.\nDopodiché un frammento cade dalla finestra.\nLo abbiamo preso per poi lasciare la stanza."
       ],
       "failureDesc": [
         "…………..\n[{0}] ha provato a parlare, ma non c'è stata risposta.\nPresto, le figure si contorcono per poi sparire.\n\"Cosa, volevano che noi cantassimo o che?\"\nAbbiamo lasciato la stanza con i Peccatori che si lamentavano."
@@ -630,10 +630,10 @@
       "eventDesc": "",
       "behaveDesc": "Fermerai di nuovo Dongrang?",
       "successDesc": [
-        "[{0}] mira con la sua arma a Dongrang mentre la sua concentrazione è altrove.\n\n\"Kgh...\"\n\nPare che l'attacco sia stato un successo.\nLa mossa di Dongrang che stava preparando non è stata portata a termine.\n\n\"Ho capito da che parte state...\"\n\n\"Allora mi sbarazzerò di tutti voi assieme a Yi Sang e il suo ideale.\""
+        "[{0}] mira con la sua arma verso Dongrang mentre la sua concentrazione è altrove.\n\n\"Kgh...\"\n\nSembra che l'attacco sia stato un successo.\nLa mossa che stava preparando Dongrang non è stata portata a termine.\n\n\"Ho capito da che parte state...\"\n\n\"Allora mi sbarazzerò di tutti voi assieme a Yi Sang e il suo ideale.\""
       ],
       "failureDesc": [
-        "[{0}] mira con la sua arma a Dongrang mentre la sua concentrazione è altrove.\n\n\"Che incompetenza.\"\n\nPerò, ciò che sembrava un varco nelle sue difese si rivela una trappola.\nL'attaccante viene respinto dal contrattacco.\n\n\"Hah, ho capito da che parte state...\"\n\n\"Non mi lasciate altra scelta. mi sbarazzerò di tutti voi assieme a Yi Sang e il suo ideale..\""
+        "[{0}] mira con la sua arma verso Dongrang mentre la sua concentrazione è altrove.\n\n\"Che incompetenza.\"\n\nPerò, ciò che sembrava un varco nelle sue difese si rivela una trappola.\nL'attaccante viene respinto dal contrattacco.\n\n\"Hah, ho capito da che parte state...\"\n\n\"Non mi lasciate altra scelta. mi sbarazzerò di tutti voi assieme a Yi Sang e il suo ideale..\""
       ]
     },
     {
