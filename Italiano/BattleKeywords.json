@@ -3050,7 +3050,8 @@
       "summary": "",
       "undefined": "-",
       "flavor": "I fili del destino si intrecciano ad ogni incontro, e dalla quantità di tempo dedicata ad altri\nLa miriade di momenti nei quali il tempo di un individuo e un alto si sovrappongono, che siano felici o cattivi, leggeranno i loro fili in un intreccio spietato\nIl tempo che è già stato condiviso non può essere revocato."
-    {
+    },
+      {
       "id": "SojiRyoshuEchoFuture",
       "name": "Traccia Fantasma",
       "desc": "- Max Stack: 1\n- Subisce +5% danni dalle Abilità Attacco Base di Lama del Nido dei Ragni Ryōshū",
