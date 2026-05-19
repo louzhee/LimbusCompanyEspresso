@@ -2,123 +2,123 @@
   "dataList": [
     {
       "id": 863001,
-      "name": "Melee Combat",
-      "desc": "If this unit's Speed is faster than the target's, deal +10% damage for every Speed difference (max 30%)\nIf this unit's Speed is slower than the target's deal -10% damage for every Speed difference (max 30%)"
+      "name": "Combattimento Ravvicinato",
+      "desc": "Se la Velocità di questa Unità è più alta di quella del bersaglio, infligge +10% danni per ogni Velocità di differenza (max 30%)\nSe la Velocità di questa Unità è più bassa di quella del bersaglio, infligge -10% danni per ogni Velocità di differenza (max 30%)"
     },
     {
       "id": 863002,
-      "name": "Charge Forth",
-      "desc": "Raise Min & Max Speed values by 1 for every 5 [Breath] on self (max 4)"
+      "name": "Carica",
+      "desc": "Velocità Min & Max +1 per ogni 5 [Breath] su di sé (max 4)"
     },
     {
       "id": 863003,
-      "name": "Summon Targets",
-      "desc": "At 75%- PV, gain a new pattern\nWhen gaining a new pattern, summon G Corp. Head Manager and Downcast Veteran; then, inflict Stigmatized on the target with the least current PV\n- Change Min & Max Speed values on self to 1.\n- Gain 300 Shield PV."
+      "name": "Evoca Bersagli",
+      "desc": "A 75%- PV, ottiene un nuovo pattern\nQuando cambia pattern, evoca Vecchio Manager Capo della G Corp. e Reduce Demoralizzato. Poi:\n- Infligge Stigmatizzato sul bersaglio con meno PV;\n- Fissa la Velocità Min & Max su di sé a 1;\n- Ottiene 300 Scudo."
     },
     {
       "id": 863004,
-      "name": "Designate Target",
-      "desc": "When using Designated Target Fire or Target Readjustment Fire: among targets with the slowest Speed, inflict [FellBulletMark] against target with the least current PV"
+      "name": "Assegna il Bersaglio",
+      "desc": "Quando usa Fuoco al Bersaglio Deciso o Fuoco al Bersaglio Cambiato, infligge [FellBulletMark] sull'Unità con meno PV tra le Unità più lente"
     },
     {
       "id": 863201,
-      "name": "Oxygen Supply",
-      "desc": "At the first Turn Start of the turn Sleeping Bag of a Bygone Day appeared, it gains 10 [Breath] Potency and +10 [Breath] Count\n\nTurn End: at less than 10 [Breath] Potency or [Breath] Count, consume PV from the Head Part equal to 2% of the Core's max PV to gain 5 [Breath] and +5 [Breath] Count (cannot be Part broken or defeated due to this effect)"
+      "name": "Rifornimento di Ossigeno",
+      "desc": "Quando la Saccoccia del Passato arriva in battaglia, ottiene +10 Potenza e Conteggio [Breath]\n\nA fine turno, se ha meno di 10 Potenza o Conteggio [Breath], la testa perde PV pari al 2% dei PV max del Corpo per ottenere 5 [Breath] e +5 Conteggio [Breath] (questo effetto non rompe la Parte e non sconfigge l'Anormalità)"
     },
     {
       "id": 863202,
-      "name": "Deep Breath",
-      "desc": "Multiply Critical Chance from [Breath] effects by x 1.5\n\nOn Crit:\n- At 15+ [Breath] Potency, consume up to ([Breath] Potency on self / 5) [Breath] Potency to deal +([Breath] Potency consumed x 4)% damage on Crit\n- At 15+ [Breath] Count, consume up t ([Breath] Count on self / 5) [Breath] Count to deal +([Breath] Count consumed x 8)% damage on Crit"
+      "name": "Respiri Profondi",
+      "desc": "Aumenta le chance del Colpo Critico di [Breath] di 1.5x\n\nSu Colpo Critico:\n- A 15+ [Breath], consuma fino a (Potenza [Breath] su di sé / 5) Potenza [Breath] per infliggere +(Potenza [Breath] consumata x 4)% danni su Colpo Critico\n- A 15+ Conteggio [Breath], consuma fino a (Conteggio [Breath] su di sé / 5) Conteggio [Breath] per infliggere +(Conteggio [Breath] consumato x 8)% danni su Colpo Critico"
     },
     {
       "id": 863203,
       "name": "Oxygen-saturated",
-      "desc": "In the turn this unit uses 'That's... Mine!', fix its Speed to 1. At Turn Start, apply 6 [Breath] Potency and +6 [Breath] Count to all units present on the Stage.\n\nAt the end of the same turn, consume any excess [Breath] Potency and [Breath] Count past 5 Potency and 5 Count; then, at the next Turn Start, apply the same amount of [Breath] Potency and [Breath] Count consumed to the Head Part"
+      "desc": "Nel turno in cui usa 'È... MIO!', fissa la Velocità a 1. A inizio turno, applica 6 [Breath] e +6 Conteggio [Breath] a tutte le Unità presenti.\n\nAlla fine dello stesso turno, consuma ogni Potenza e Conteggio [Breath] oltre i 5 di entrambi. All'inizio del turno successivo, applica la quantità di Potenza e Conteggio [Breath] consumata alla Testa"
     },
     {
       "id": 863204,
-      "name": "Shattered Ribcage",
-      "desc": "When the Body Part is broken, remove the Body Part next turn and replace it with a Person Part"
+      "name": "Gabbia Toracica in Frantumi",
+      "desc": "Quando il Corpo è Rotto, rimuove la parte Corpo e la rimpiazza con la Parte Persona"
     },
     {
       "id": 863205,
-      "name": "Ribcage Regeneration",
-      "desc": "At Combat End, halve the [Breath] Potency and [Breath] Count on the Person Part\nNext Turn, the Person Part disappears and is replaced by Body Part"
+      "name": "Rigenerazione della gabbia Toracica",
+      "desc": "A fine combattimento, dimezza la Potenza e il Conteggio [Breath] sulla parte Persona\nNel Turno Successivo, la Parte Persona viene rimpiazzata dalla Parte Corpo"
     },
     {
       "id": 863206,
-      "name": "Excruciating Suffering",
-      "desc": "Every time this unit loses a Clash and takes a hit, lose 1 [Breath] Potency\n\nEvery time this unit is hit by an Unopposed Attack, lose 1 [Breath] Count\n\nThis unit's [Breath] Potency and [Breath] Count, regardless of whether an attack hit Critically or whether its Passive activated, does not drop below 5"
+      "name": "Dolore Straziante",
+      "desc": "Quando questa Unità viene colpita dopo aver perso uno Scontro, perde 1 [Breath]\n\nQuando questa Unità viene colpita da un Attacco Incontrastato, perde 1 Conteggio [Breath]\n\nLa Potenza e il Conteggio [Breath] di questa Unità non può scendere sotto il 5."
     },
     {
       "id": 863207,
-      "name": "Anguished Screaming",
-      "desc": "At 40% or less Core PV, use 'Share the Pain' next turn"
+      "name": "Grida Angoscianti",
+      "desc": "Quando i PV del Corpo scendono al 40%, usa 'Condividere il Dolore' nel turno successivo"
     },
     {
       "id": 863208,
-      "name": "After Effect",
-      "desc": "When the Person dies, both the Body and the Head Parts gain +0.2 Resistance to Slash, Pierce, and Blunt until next turn (once per Encounter)"
+      "name": "Postumi",
+      "desc": "Quando la Persona muore, aumenta la Resistenza ai danni Tagliente, Perforante e Contundente del Corpo e della Testa di 0.2 fino al turno successivo (una volta per Incontro)"
     },
     {
       "id": 863301,
-      "name": "Indulgent Petals",
-      "desc": "Turn End: at 20+ [BloodDinner], consume up to 50 [BloodDinner] and heal the Core and the Head Parts equal to [BloodDinner] consumed\n- Does not activate if the Head Part is either Staggered or Destroyed"
+      "name": "Petali Indulgenti",
+      "desc": "A fine turno, a 20+ [BloodDinner], consuma fino a 50 [BloodDinner] per curare i PV del Corpo e della Testa in base all'[BloodDinner] consumata\n- Non si attiva se la Parte Testa è Stordita o Rotta."
     },
     {
       "id": 863302,
-      "name": "A Drop of Nourishment",
-      "desc": "Attack End: Heal the Core and the Part equal to the amount of damage this unit's Attack Skill dealt\n- Does not activate if the Head Part is either Staggered or Destroyed"
+      "name": "Una Goccia di Linfa",
+      "desc": "Fine attacco: Il Nucleo e la Parte recuperano PV pari al danno inflitto dalle Abilità Attacco di questa Unità\n- Non si attiva se la Parte Testa è Stordita o Rotta."
     },
     {
       "id": 863303,
-      "name": "Yearning",
-      "desc": "Turn End: if this unit healed PV, gain 1 [AttackUp] and 1 [DefenseDown] next turn for every 10 PV healed (max 10)"
+      "name": "Bramare",
+      "desc": "A fine turno: se questa unità ha recuperato PV, ottiene 1 [AttackUp] e 1 [DefenseDown] nel turno successivo per ogni 10 PV recuperati (max 10)"
     },
     {
       "id": 863304,
-      "name": "Bloodthirsty Stench",
-      "desc": "At 100+ [BloodDinner], use a special Skill\nTurn End: at 500+ [BloodDinner_Accumulation] by this unit, or if this unit is at less than 60% PV, gain a new pattern"
+      "name": "Odore Assetato di Sangue",
+      "desc": "A 100+ [BloodDinner], usa un'Abilità speciale.\nA fine turno: a 500+ [BloodDinner_Accumulation] da questa Unità, o se i PV di questa Unità scendono al 60%, ottiene un nuovo pattern"
     },
     {
       "id": 863305,
-      "name": "Refracted Sin",
-      "desc": "[Combustion], [Laceration], [Vibration], [Burst], and [Sinking] Potency only stacks up to 50 (including the Unique variations of above Keywords)"
+      "name": "Peccato Rifratto",
+      "desc": "Il massimo della Potenza [Combustion], [Laceration], [Vibration], [Burst], e [Sinking] è ridotto a 50 (inclide le varianti Speciali)"
     },
     {
       "id": 863306,
-      "name": "Sharp Thorn",
-      "desc": "If this unit's Body Part takes damage from an enemy Skill, inflict +1 [Laceration] Count on the attacker (once per turn per Identity)"
+      "name": "Spina Appuntita",
+      "desc": "Se la Parte Corpo subisce danni da un'Abilità nemica, infligge +1 Conteggio [Laceration] sull'attaccante (una volta per turno per Identità)"
     },
     {
       "id": 863307,
-      "name": "Endless Thirst",
-      "desc": "Turn Start: gain 1 [DefenseDown] for every 100 [BloodDinner_Accumulation] by this unit (max 10)\nTurn Start: gain 1 [TakeHpHealIncrease] for every 200 [BloodDinner_Accumulation] by this unit (max 5)"
+      "name": "Sete Infinita",
+      "desc": "A inizio turno: ottiene 1 [DefenseDown] per ogni 100 [BloodDinner_Accumulation] da questa Unità (max 10)\nA inizio turno: ottiene 1 [TakeHpHealIncrease] per ogni 200 [BloodDinner_Accumulation] da questa Unità (max 5)"
     },
     {
       "id": 863308,
-      "name": "Endless Yearning",
-      "desc": "Triggers a Choice Event every 'multiple of 3' turns."
+      "name": "Bramare Senza Sosta",
+      "desc": "inizia un Evento a Scelta ogni volta che il numero di turni è un multiplo di 3."
     },
     {
       "id": 863309,
-      "name": "Increased Refraction Rate",
-      "desc": "If 9 turns have passed since this unit appeared on the field, starting next turn, gain 1 [AttackUp] every turn past the 10th turn (max 10)"
+      "name": "Frequenza di Rifrazione Aumentata",
+      "desc": "Se sono passati 9 turni dall'apparizione di questa Unità, ottiene 1 [AttackUp] per ogni turno dopo il 10 (max 10)"
     },
     {
       "id": 863101,
-      "name": "Designated Execution",
-      "desc": "When killed by Der Fluchschütze, apply 1 [Agility], 1 [Enhancement], and 2 [AttackDmgUp] next turn to Der Fluchschütze"
+      "name": "Esecuzione Scelta",
+      "desc": "Se ucciso da Der Fluchschütze, applica 1 [Agility], 1 [Enhancement], e 2 [AttackDmgUp] a Der Fluchschütze nel turno seguente"
     },
     {
       "id": 863102,
-      "name": "First Strike Wins",
-      "desc": "When killed by a Sinner, give 3 E.G.O resources in the affinity of the Skill that killed this unit"
+      "name": "Il Primo A Colpo Vince",
+      "desc": "Se ucciso da un Peccatore, genera 3 Risorse E.G.O dell'affinità dell'Abilità Attacco che ha sconfitto questa Unità"
     },
     {
       "id": 863103,
-      "name": "Not Me",
-      "desc": "If this unit doesn't have Stigmatized at Combat Start, gain 300 Shield."
+      "name": "Non Io",
+      "desc": "A inizio combattimento, se questa Unità non ha Stigmatizzato, ottiene 300 Scudo."
     }
   ]
 }
