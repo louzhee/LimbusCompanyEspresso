@@ -462,31 +462,31 @@
     },
     {
       "id": "SpiderHouse10115",
-      "desc": "The House of Spiders: The Index Nursefather Yi Sang\n- On Base Attack Skill Use, convert the final Coin into Unbreakable Coin. Unbreakable Coins of Base Attack Skills deal +10% damage"
+      "desc": "Il Nido dei Ragni: Il Precettore dell'Indice Yi Sang\n- All'Uso di un'Abilità Attacco Base, converte la Moneta finale in Moneta Infrangibile. Le Monete Infrangibili delle Abilità Attacco Base infliggono +10% danni"
     },
     {
       "id": "SpiderHouse10314",
-      "desc": "The Index Proxy - Effloresced E.G.O::Procuration Don Quixote\n- On Base Attack Skill Use, gain 2 Poise. On Crit using Base Attack Skills, inflict 1 Sinking"
+      "desc": "Mandataria Dell'Indice - E.G.O Manifestato:: Attuazione Don Quixote\n- All'Uso di un'Abilità Attacco Base, ottiene 2 Equilibrio. Su Colpo Critico usando un'Abilità Attacco Base, infligge 1 Annegamento"
     },
     {
       "id": "SpiderHouse10814",
-      "desc": "The House of Spiders: The Middle Apprentice Ishmael\n- Inflict 1 additional Burn Potency using Base Skills"
+      "desc": "Il Nido dei Ragni: Apprendista del Medio Ishmael\n- Infligge +1 Potenza Bruciatura in più usando le Abilità Base"
     },
     {
       "id": "SpiderHouse10614",
-      "desc": "The House of Spiders: The Ring Nursefather Hong Lu\n- Gain Somatic Frisson-inspiring Melody"
+      "desc": "Il Nido dei Ragni: Il Precettore dell'Anulare Hong Lu\n- Ottiene Melodia Ispira Brividi Somatica"
     },
     {
       "id": "SpiderHouse10215",
-      "desc": "The House of Spiders: The Ring Apprentice Faust\n- Turn Start: Gain Shield equal to 10% HP"
+      "desc": "Il Nido dei Ragni: Apprendista dell'Anulare Faust\n- Inizio Turno: Ottiene Scudo pari a 10% PV"
     },
     {
       "id": "SpiderHouse11015",
-      "desc": "The House of Spiders: The Pinky Apprentice Sinclair\n- Turn Start: Gain +1 Poise Count and 1 Crit DMG Up"
+      "desc": "Il Nido dei Ragni: Apprendista del Mignolo Sinclair\n- Inizio Turno: Ottiene +1 Conteggio Equilibrio e 1 Danno Critico Aumentato"
     },
     {
       "id": "SojiRyoshuEntangle",
-      "desc": "- Max Stack: 4\n- Gain 1 Stack for every defeated The House of Spiders Nursefather Identity\n- Gain a different unique effect based on which of The House of Spiders ally was defeated\n- Take -7.5% damage for every Stack"
+      "desc": "- Max Stack: 4\n- Ottiene 1 Stack per ogni Identità Precettore del Nido dei Ragni sconfitta\n- Ottiene un effetto speciale in base a quale alleato del Nido dei Ragni è stato sconfitto\n- Subisce -7.5% danni per ogni Stack"
     }
   ]
 }
