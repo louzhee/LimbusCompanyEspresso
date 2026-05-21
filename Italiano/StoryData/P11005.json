@@ -1,269 +1,269 @@
 {
-  "dataList": [
-    {
-      "id": 0,
-      "model": "파우스트",
-      "teller": "Faust",
-      "title": "The One Who Grips",
-      "content": "Sinclair."
-    },
-    {
-      "id": 1,
-      "content": "A soft and gentle voice enveloped the area."
-    },
-    {
-      "id": 2,
-      "model": "파우스트",
-      "teller": "Faust",
-      "title": "The One Who Grips",
-      "content": "Look this way, Sinclair."
-    },
-    {
-      "id": 3,
-      "content": "The voice is wrapping—perhaps coiling, even."
-    },
-    {
-      "id": 4,
-      "content": "Alas."
-    },
-    {
-      "id": 5,
-      "model": "파우스트",
-      "teller": "Faust",
-      "title": "The One Who Grips",
-      "content": "Keke… Kahah! Isn't this a magnificent sight?"
-    },
-    {
-      "id": 6,
-      "content": "The laughter of the one standing next to the child completely twisted the air, like a hair-raising shriek made by two sharp pieces of metal scraping against each other, then flicking away."
-    },
-    {
-      "id": 7,
-      "content": "Examining the area closely…"
-    },
-    {
-      "id": 8,
-      "content": "One could see that it was surrounded by raging, knifelike flames."
-    },
-    {
-      "id": 9,
-      "model": "파우스트",
-      "teller": "Faust",
-      "title": "The One Who Grips",
-      "content": "How does it feel, Sinclair? How does it feel to witness this sight ablaze?!"
-    },
-    {
-      "id": 10,
-      "content": "Her voice could even be described as manic, her wry smirk more twisted than the fire around her."
-    },
-    {
-      "id": 11,
-      "model": "싱클레어",
-      "teller": "Sinclair",
-      "title": "The One Who Shall Grip",
-      "content": "…Ah."
-    },
-    {
-      "id": 12,
-      "content": "That is when the child opened his mouth."
-    },
-    {
-      "id": 13,
-      "content": "His lips trembled, his lungs brought up gasps and huffs."
-    },
-    {
-      "id": 14,
-      "content": "Could this be a response of fear? Indeed, it may seem that way."
-    },
-    {
-      "id": 15,
-      "content": "The child most certainly had something that one could call a chance."
-    },
-    {
-      "id": 16,
-      "content": "He could've hatched out of the shell that is fate with his own strength, and gripped control over the path his life should take."
-    },
-    {
-      "id": 17,
-      "content": "And yet…"
-    },
-    {
-      "id": 18,
-      "model": "싱클레어",
-      "teller": "Sinclair",
-      "title": "The One Who Shall Grip",
-      "content": "It's beautiful… Faust. Beautiful to look at those vile and repulsive things being purged."
-    },
-    {
-      "id": 19,
-      "content": "It's not so easy to reject the ease of letting another crack the egg from the outside."
-    },
-    {
-      "id": 20,
-      "content": "Even if they aren't your mother bird…"
-    },
-    {
-      "id": 21,
-      "content": "Even if they wrest hold of your path and jostle it…"
-    },
-    {
-      "id": 22,
-      "content": "That disquieting flame, almost mistakable for warmth, lures you into giving up your strength before it like a comforting bonfire."
-    },
-    {
-      "id": 23,
-      "model": "싱클레어",
-      "teller": "Sinclair",
-      "title": "The One Who Shall Grip",
-      "content": "Why didn't I let go earlier, Faust?"
-    },
-    {
-      "id": 24,
-      "model": "싱클레어",
-      "teller": "Sinclair",
-      "title": "The One Who Shall Grip",
-      "content": "I didn't need to bother trying to think or ponder so much when there was a clear answer laid right before me."
-    },
-    {
-      "id": 25,
-      "content": "The child spoke with a trembling voice, whimpering on the verge of tears."
-    },
-    {
-      "id": 26,
-      "content": "Pushed out of his nest all too soon, feigning the confidence he sorely lacks…"
-    },
-    {
-      "id": 27,
-      "content": "A baby bird who hasn't even broken his shell fully."
-    },
-    {
-      "id": 28,
-      "content": "That would be the description most befitting this child."
-    },
-    {
-      "id": 29,
-      "model": "파우스트",
-      "teller": "Faust",
-      "title": "The One Who Grips",
-      "content": "Not just anyone can be like Faust, Sinclair."
-    },
-    {
-      "id": 30,
-      "model": "파우스트",
-      "teller": "Faust",
-      "title": "The One Who Grips",
-      "content": "However, it's alright… Nfu."
-    },
-    {
-      "id": 31,
-      "content": "The child with silver hair spoke, pointing to the sky."
-    },
-    {
-      "id": 32,
-      "content": "Up above, something muttering indistinct mechanical noises was skewered to a nail."
-    },
-    {
-      "id": 33,
-      "model": "싱클레어",
-      "teller": "Sinclair",
-      "title": "The One Who Shall Grip",
-      "content": "Ah… Ahh!"
-    },
-    {
-      "id": 34,
-      "content": "The child's pupils further shrink, while his tremble grows yet more intense."
-    },
-    {
-      "id": 35,
-      "content": "It was painfully evident that he did not wish for what he was witnessing."
-    },
-    {
-      "id": 36,
-      "content": "Despite him knowing this as well, he has decided that he will be ignorant of it."
-    },
-    {
-      "id": 37,
-      "content": "Despite still thinking that what he is doing isn't right, he cannot resist the convenience of letting this mysterious mother bird bring him food."
-    },
-    {
-      "id": 38,
-      "content": "A pink chick who does nothing but gape and swallow."
-    },
-    {
-      "id": 39,
-      "content": "Having dived into a pot of boiling oil, the child had no choice but to flutter with his melting arms."
-    },
-    {
-      "id": 40,
-      "content": "…Though, by the time the fire dies down, he'll have been reduced to ash."
-    },
-    {
-      "id": 41,
-      "model": "싱클레어",
-      "teller": "Sinclair",
-      "title": "The One Who Shall Grip",
-      "content": "Ha… Haha."
-    },
-    {
-      "id": 42,
-      "content": "The child laughed."
-    },
-    {
-      "id": 43,
-      "model": "파우스트",
-      "teller": "Faust",
-      "title": "The One Who Grips",
-      "content": "Congratulations, Sinclair. Now you've become someone who can laugh at that sight."
-    },
-    {
-      "id": 44,
-      "content": "The one standing next to the child celebrated him with sincerity."
-    },
-    {
-      "id": 45,
-      "content": "In truth, she was lauding her own achievement more than anything; if there really were possibilities diverging into numerous worlds… she had managed to mold the child into a form one of those worlds must envy."
-    },
-    {
-      "id": 46,
-      "content": "It may even be that someone from another world has already been infatuated by a glimpse of the changing and charring child."
-    },
-    {
-      "id": 47,
-      "content": "Soon enough, that world too will face a storm of fire, oil, and sparks; the child there will face a similar yet distinct trial."
-    },
-    {
-      "id": 48,
-      "model": "파우스트",
-      "teller": "Faust",
-      "title": "The One Who Grips",
-      "content": "Now, let us begin, Sinclair. The cleansing of this world."
-    },
-    {
-      "id": 49,
-      "model": "싱클레어",
-      "teller": "Sinclair",
-      "title": "The One Who Shall Grip",
-      "content": "…Okay."
-    },
-    {
-      "id": 50,
-      "content": "The child weeps amidst the fire; he shall ultimately be snuffed out in flame, unceasingly swinging the steel in his two arms and failing to grip anything in his hands, unable to tread the path he chose."
-    },
-    {
-      "id": 51,
-      "content": "Whether he will break the shell from inside, or instead yield himself to the ease of being gripped open…"
-    },
-    {
-      "id": 52,
-      "content": "What happens in that world will stay there."
-    },
-    {
-      "id": 53,
-      "content": "Though, if you ask which world will be the first to reach that point…"
-    },
-    {
-      "id": 54,
-      "content": "Who could ever know?"
-    }
-  ]
+    "dataList": [
+        {
+            "id": 0,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Colei che Stringe",
+            "content": "Sinclair."
+        },
+        {
+            "id": 1,
+            "content": "Una voce morbida e gentile avvolse l'aria."
+        },
+        {
+            "id": 2,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Colei che Stringe",
+            "content": "Guarda da questa parte, Sinclair."
+        },
+        {
+            "id": 3,
+            "content": "Quella voce è avvolgente—o forse, persino stringente."
+        },
+        {
+            "id": 4,
+            "content": "Eppure."
+        },
+        {
+            "id": 5,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Colei che Stringe",
+            "content": "Keke… Kahah! Non è uno spettacolo magnifico?"
+        },
+        {
+            "id": 6,
+            "content": "La risata di chi si trovava accanto al fanciullo distorse completamente l'aria, come lo stridore agghiacciante di due pezzi di metallo affilati che si sfregano l'un l'altro, per poi scattare via."
+        },
+        {
+            "id": 7,
+            "content": "Osservando l'area da vicino…"
+        },
+        {
+            "id": 8,
+            "content": "Si poteva notare come fosse circondata da fiamme furiose, taglienti come lame."
+        },
+        {
+            "id": 9,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Colei che Stringe",
+            "content": "Cosa si prova, Sinclair? Cosa si prova a testimoniare questo spettacolo in fiamme?!"
+        },
+        {
+            "id": 10,
+            "content": "La sua voce poteva persino definirsi maniacale, il suo ghigno ancora più distorto del fuoco che la circondava."
+        },
+        {
+            "id": 11,
+            "model": "싱클레어",
+            "teller": "Sinclair",
+            "title": "Colui che Stringerà",
+            "content": "…Ah."
+        },
+        {
+            "id": 12,
+            "content": "Fu allora che il fanciullo aprì la bocca."
+        },
+        {
+            "id": 13,
+            "content": "Le sue labbra tremavano, i suoi polmoni esalavano sussulti e affanni."
+        },
+        {
+            "id": 14,
+            "content": "Che sia una reazione di paura? In effetti, potrebbe sembrare così."
+        },
+        {
+            "id": 15,
+            "content": "Il fanciullo aveva certamente avuto quella che si potrebbe definire un'opportunità."
+        },
+        {
+            "id": 16,
+            "content": "Avrebbe potuto schiudere da solo il guscio del destino con le proprie forze, e stringere il controllo sul cammino che la sua via avrebbe dovuto prendere."
+        },
+        {
+            "id": 17,
+            "content": "Eppure…"
+        },
+        {
+            "id": 18,
+            "model": "싱클레어",
+            "teller": "Sinclair",
+            "title": "Colui che Stringerà",
+            "content": "È bellissimo… Faust. È bellissimo vedere quelle cose vili e ripugnanti che vengono purificate."
+        },
+        {
+            "id": 19,
+            "content": "Non è così facile rifiutare la comodità di lasciare che sia un altro a rompere l'uovo dall'esterno."
+        },
+        {
+            "id": 20,
+            "content": "Anche se non si tratta della madre di un uccellino…"
+        },
+        {
+            "id": 21,
+            "content": "Anche se ti strappa di mano le redini del tuo destino e le scuote con violenza…"
+        },
+        {
+            "id": 22,
+            "content": "Quella fiamma inquietante, che si potrebbe quasi confondere con il calore, ti lusinga fino a farti abbandonare ogni forza dinanzi a essa, come davanti a un confortevole falò."
+        },
+        {
+            "id": 23,
+            "model": "싱클레어",
+            "teller": "Sinclair",
+            "title": "Colui che Stringerà",
+            "content": "Perché non ho ceduto prima, Faust?"
+        },
+        {
+            "id": 24,
+            "model": "싱클레어",
+            "teller": "Sinclair",
+            "title": "Colui che Stringerà",
+            "content": "Non avevo bisogno di tormentarmi a pensare o riflettere così tanto, quando c'era una risposta così chiara proprio davanti a me."
+        },
+        {
+            "id": 25,
+            "content": "Il fanciullo parlò con voce tremula, gemendo sull'orlo delle lacrime."
+        },
+        {
+            "id": 26,
+            "content": "Scacciato dal nido fin troppo presto, fingendo una sicurezza che gli manca disperatamente…"
+        },
+        {
+            "id": 27,
+            "content": "Un uccellino che non ha ancora rotto del tutto il proprio guscio."
+        },
+        {
+            "id": 28,
+            "content": "Sarebbe questa la descrizione più adatta a questo fanciullo."
+        },
+        {
+            "id": 29,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Colei che Stringe",
+            "content": "Non tutti possono essere come Faust, Sinclair."
+        },
+        {
+            "id": 30,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Colei che Stringe",
+            "content": "Tuttavia, va bene così… Fufu."
+        },
+        {
+            "id": 31,
+            "content": "La fanciulla dai capelli d'argento parlò, indicando il cielo."
+        },
+        {
+            "id": 32,
+            "content": "Lassù in alto, qualcosa che emetteva indistinti rumori meccanici era trafitta da un chiodo."
+        },
+        {
+            "id": 33,
+            "model": "싱클레어",
+            "teller": "Sinclair",
+            "title": "Colui che Stringerà",
+            "content": "Ah… Ahh!"
+        },
+        {
+            "id": 34,
+            "content": "Le pupille del fanciullo si rimpicciolirono ulteriormente, mentre il suo tremolio si fece ancora più intenso."
+        },
+        {
+            "id": 35,
+            "content": "Era dolorosamente evidente che non desiderasse ciò a cui stava assistendo."
+        },
+        {
+            "id": 36,
+            "content": "Nonostante lo sapesse bene anche lui, decise di ignorarlo."
+        },
+        {
+            "id": 37,
+            "content": "Nonostante pensasse ancora che ciò che stava facendo non fosse giusto, non riusciva a resistere alla comodità di lasciare che questa misteriosa madre-uccello gli porti il cibo."
+        },
+        {
+            "id": 38,
+            "content": "Un pulcino senza piume che non fa altro che spalancare il becco e inghiottire."
+        },
+        {
+            "id": 39,
+            "content": "Essendosi tuffato in un pentolone di olio bollente, al fanciullo non rimaneva che agitare le sue braccia ormai sciolte."
+        },
+        {
+            "id": 40,
+            "content": "…Anche se, quando finalmente il fuoco si sarà spento, si sarà ormai ridotto in cenere."
+        },
+        {
+            "id": 41,
+            "model": "싱클레어",
+            "teller": "Sinclair",
+            "title": "Colui che Stringerà",
+            "content": "Ha… Haha."
+        },
+        {
+            "id": 42,
+            "content": "Il fanciullo rise."
+        },
+        {
+            "id": 43,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Colei che Stringe",
+            "content": "Congratulazioni, Sinclair. Ora sei diventato qualcuno in grado di ridere di fronte a questo spettacolo."
+        },
+        {
+            "id": 44,
+            "content": "Chi si trovava accanto al fanciullo si congratulò con lui con sincerità."
+        },
+        {
+            "id": 45,
+            "content": "In verità, stava lodando il proprio successo più di ogni altra cosa; se esistessero davvero possibilità divergenti in numerosi mondi... era riuscita a plasmare il fanciullo in una forma che uno di quei mondi avrebbe dovuto invidiare."
+        },
+        {
+            "id": 46,
+            "content": "Potrebbe persino darsi che qualcuno da un altro mondo sia già rimasto infatuato dal barlume di quel fanciullo che cambia e si carbonizza."
+        },
+        {
+            "id": 47,
+            "content": "Ben presto anche quel mondo affronterà una tempesta di fuoco, olio e scintille; il fanciullo di quel luogo affronterà una prova simile, eppure distinta."
+        },
+        {
+            "id": 48,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Colei che Stringe",
+            "content": "Ora, iniziamo, Sinclair. La purificazione di questo mondo."
+        },
+        {
+            "id": 49,
+            "model": "싱클레어",
+            "teller": "Sinclair",
+            "title": "Colui che Stringerà",
+            "content": "…Va bene."
+        },
+        {
+            "id": 50,
+            "content": "Il fanciullo piangeva in mezzo al fuoco; alla fine verrà estinto dalle fiamme, facendo oscillare incessantemente l'acciaio con le sue braccia senza riuscire a stringere nulla tra le mani, incapace di percorrere il cammino che aveva scelto."
+        },
+        {
+            "id": 51,
+            "content": "Se romperà il guscio dall'interno, o se invece si arrenderà alla comodità di essere aperto da una stretta…"
+        },
+        {
+            "id": 52,
+            "content": "Ciò che accadrà in quel mondo rimarrà lì."
+        },
+        {
+            "id": 53,
+            "content": "Tuttavia, se vi chiedeste quale mondo sarà il primo a raggiungere quel punto…"
+        },
+        {
+            "id": 54,
+            "content": "Chi potrebbe mai saperlo?"
+        }
+    ]
 }
