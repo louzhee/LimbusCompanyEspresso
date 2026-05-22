@@ -357,7 +357,7 @@
     },
     {
       "id": 9726,
-      "name": "Calice dell'Effetto a Cascata",
+      "name": "Calice dello Sgocciolamento",
       "desc": "Quando un alleato vince uno Scontro con un'Abilità Attacco (non Abilità E.G.O) che infligge Potenza, Conteggio [Vibration] o '<noparse>Vibrazione</noparse> Speciale', infliggi 2 Potenza [Vibration] e +2 Conteggio [Vibration] (2 volte per turno).\n\nIdentità del Yurodivy: Infliggi 3 Potenza [Vibration] e +3 Conteggio [Vibration] invece. (3 volte per turno)\n\nSe l'Identità affetta si Scontra con bersagli con Livello Offensivo più alto, Potere Scontro +2; infliggi +20% danni dopo aver vinto lo Scontro.",
       "simpleDesc": [
         {

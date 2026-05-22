@@ -547,7 +547,7 @@
     {
       "id": 804801,
       "title": "Fairy Gentleman",
-      "prevDesc": "Un odore inebriante riempe l'aria, potrebbe benissimo ubriacarti.",
+      "prevDesc": "Un odore inebriante riempe l'aria, potrebbe facilmente ubriacarti.",
       "eventDesc": "La Fata Gentiluomo parla con una grossa risata.\n\"Huhu... Non pensavo che potessi bere così tanto.\"\nSi poteva sentire un leggero singhiozzo.\n\"Ammetto, mi avete preso un pochino alla sprovvista... giusto un pochino.\"\nLa fata avvicina il calice alla sua bocca.\n\"Ehi! Quella cosa sta cercando di smaltire la sbornia?\"\n\"Dobbiamo tenere quel mascalzone disorientato!\"\n…Pare che dobbiamo fermare la fata dal bere dal suo calice.",
       "behaveDesc": "Chi prenderà il calice dal gentiluomo?",
       "successDesc": [

@@ -2,42 +2,42 @@
     "dataList": [
         {
             "id": 810001,
-            "title": "Profeta della Pelle",
+            "title": "Skin Prophet",
             "prevDesc": "Il profeta scrive senza sosta.",
             "eventDesc": "I registri, incisi con quella piuma ardente, sono infiniti.\n\nEppure il profeta deve scrivere.\n\nPerché anche il futuro è infinito.",
             "behaveDesc": "Chi leggerà i registri?",
-            "successDesc": [
-                "[{0}] ha spento le fiamme ardenti e ha guardato tra i registri.\n\n@#$!@%!!@%!@%!@%\n\nIl Peccatore non riusciva a capire una sola parola... ma presto si rese conto che leggerli non era necessario.\n\n[{0}] si limitò ad accettare i registri così come apparivano naturalmente.\n\nIl Peccatore sentì come se qualcosa gli stringesse la testa, ma... il suo braccio che reggeva l'arma si sentì rinvigorito.\n\n... Una delle sue teste lo stava fissando."
-            ],
+          "successDesc": [
+            "{0} ha spento le fiamme ardenti e ha guardato tra i registri.\n\n@#$!@%!!@%!@%!@%\n\nNon riusciva a capire una sola parola... ma presto si rese conto che leggerli non era necessario.\n\nSi limitò ad accettare i registri così come apparivano naturalmente.\n\n{0} sentì come se qualcosa stringesse la sua testa, ma... il suo braccio che reggeva l'arma si sentì rinvigorito.\n\n... Una delle teste del Profeta fissava assiduamente {0}."
+          ],
             "failureDesc": [
-                "Non tutte le fiamme potevano essere spente.\n\n[{0}] guardò goffamente tra le cronache.\n\n@#$!@%!!@%!@%!@%\n\nUna sensazione impura e terrificante risalì lungo il corpo del Peccatore.\n\nIl Peccatore non poté fare a meno di indietreggiare di qualche passo.\n\nCosì facendo, [{0}] alzò istintivamente le mani...\n\n... e lasciò cadere a terra il libro della Profezia, colmo di scritte.\n\nIl libro cadde con il contenuto visibile a tutti i Peccatori...\n\nColpendo chiunque lo guardasse con un terrore ineffabile."
+                "Non tutte le fiamme potevano essere spente.\n\n{0} guardò goffamente tra le cronache.\n\n@#$!@%!!@%!@%!@%\n\nUna sensazione impura e terrificante risalì lungo il suo corpo.\n\nNon poté fare a meno di indietreggiare di qualche passo.\n\nCosì facendo, {0} alzò istintivamente le mani...\n\n... e lasciò cadere a terra il libro della Profezia, colmo di scritte.\n\nIl libro cadde con il contenuto visibile a tutti i Peccatori...\n\nColpendo chiunque lo guardasse con un terrore ineffabile."
             ]
         },
         {
             "id": 810101,
-            "title": "Perla Vagante",
+            "title": "Ambling Pearl",
             "prevDesc": "Cos'è quel luccichio in quel lerciume effervescente?",
             "eventDesc": "Guardando da vicino... sembra essere una sorta di gemma.\n\nNata dopo un lungo, lunghissimo tempo di attesa...\n\nNata nel flusso e riflusso del lerciume che riempie e abbandona quella creatura a ogni suo movimento.\n\nPrendere la sua gemma equivarrebbe a toglierle la ragione di esistere. Potrebbe andare in pezzi senza di essa.",
             "behaveDesc": "Chi la priverà del suo significato di vita?",
             "successDesc": [
-                "[{0}] si protende verso la luce scintillante.\n\nLa melma verde... la sensazione acida e bruciante... le larve brulicanti... tutto ciò innervosisce il Peccatore.\n\nMa nonostante tutto, [{0}] prevale, afferrando la gemma con la mano.\n\n!!!\n\nUn ruggito incomprensibile echeggia.\n\nLa creatura ha rigenerato rapidamente qualcosa di nuovo nelle sue fauci...\n\nMa non sarà mai la stessa cosa."
+                "{0} si protende verso la luce scintillante.\n\nLa melma verde... la sensazione acida e bruciante... le larve brulicanti... tutto ciò innervosisce il Peccatore.\n\nMa nonostante tutto, {0} prevale, afferrando la gemma con la mano.\n\n!!!\n\nUn ruggito incomprensibile echeggia.\n\nLa creatura ha rigenerato rapidamente qualcosa di nuovo nelle sue fauci...\n\nMa non sarà mai la stessa cosa."
             ],
             "failureDesc": [
-                "[{0}] si protende verso la luce scintillante.\n\nLa melma verde... la sensazione acida e bruciante... le larve brulicanti... tutto ciò innervosisce il Peccatore.\n\n... Non è un compito facile rovistare in tutta quella melma alla ricerca di quella luce.\n\n[{0}] non ce l'ha fatta più.\n\nLa pazienza e la perseveranza non durano in eterno. Il Peccatore ha dovuto liberare la mano dalle sue fauci.\n\nQuesta esperienza non ha lasciato altro che ferite sia a [{0}] che alla creatura."
+                "{0} si protende verso la luce scintillante.\n\nLa melma verde... la sensazione acida e bruciante... le larve brulicanti... tutto ciò innervosisce il Peccatore.\n\n... Non è un compito facile rovistare in tutta quella melma alla ricerca di quella luce.\n\n{0} non ce l'ha fatta più.\n\nLa pazienza e la perseveranza non durano in eterno. Il Peccatore ha dovuto liberare la mano dalle sue fauci.\n\nQuesta esperienza non ha lasciato altro che ferite sia a {0} che alla creatura."
             ]
         },
         {
             "id": 810201,
-            "title": "Corrente Torbida Divorasogni",
+            "title": "Dream-Devouring Siltcurrent",
             "prevDesc": "Qualcosa ondeggia tra i flutti.",
             "eventDesc": "Da dove viene quel relitto?\n\nDa dove, e come è finito qui?\n\nDopo così tanti anni, persino quel relitto potrebbe non ricordare più da dove sia venuto.\n\n... Potrebbe essere usato per fermare l'attacco dell'Anormalità.",
             "behaveDesc": "Chi si avvicinerà al relitto?",
             "successDesc": [
-                "[{0}] è riuscito/a infine a raggiungere il relitto.\n\nCiò è stato possibile perché gli altri Peccatori hanno fatto del loro meglio per attirare l'attenzione dell'Anormalità.\n\n[{0}] ha afferrato il relitto, ha cercato di spostarlo... per poi calarvi sopra la propria arma con forza.\n\nQuesto ha finito per lasciare diversi bordi taglienti sul relitto.\n\nSe qualcosa dovesse caricare contro questo ammasso... verrebbe trafitto, incapace di proseguire."
+                "{0} riesce infine a raggiungere il relitto.\n\nCiò è stato possibile perché gli altri Peccatori hanno fatto del loro meglio per attirare l'attenzione dell'Anormalità.\n\n{0} ha afferrato il relitto, ha cercato di spostarlo... per poi calarvi sopra la propria arma con forza.\n\nQuesto ha finito per lasciare diversi bordi taglienti sul relitto.\n\nSe qualcosa dovesse caricare contro questo ammasso... verrebbe trafitto, incapace di proseguire."
             ],
-            "failureDesc": [
-                "[{0}] è riuscito/a infine a raggiungere il relitto.\n\nCiò è stato possibile perché gli altri Peccatori hanno fatto del loro meglio per attirare l'attenzione dell'Anormalità.\n\n[{0}] ha afferrato il relitto, ha cercato di spostarlo... per poi calarvi sopra la propria arma con forza.\n\nMa non è facile brandire la propria arma in mezzo a acque così agitate.\n\nPeggio ancora, il relitto era più robusto di quanto apparisse.\n\nTutto ciò che il Peccatore è riuscito a fare è stato un forte rumore.\n\n... Che ha attirato l'attenzione dell'Anormalità su [{0}]. Non c'è voluto molto prima che l'Anormalità iniziasse a caricare verso [{0}]."
-            ]
+          "failureDesc": [
+            "{0} riesce infine a raggiungere il relitto.\n\nCiò è stato possibile perché gli altri Peccatori hanno fatto del loro meglio per attirare l'attenzione dell'Anormalità.\n\n{0} ha afferrato il relitto, ha cercato di spostarlo... per poi calarvi sopra la propria arma con forza.\n\nMa non è facile brandire la propria arma in mezzo ad acque così agitate.\n\nPeggio ancora, il relitto era più robusto di quanto apparisse.\n\nTutto ciò che {0} ha compiuto è stato creare un forte rumore.\n\n... Che ha attirato l'attenzione dell'Anormalità su di sé. Non c'è voluto molto prima che l'Anormalità iniziasse a caricare verso {0}."
+          ]
         },
         {
             "id": 1050101,

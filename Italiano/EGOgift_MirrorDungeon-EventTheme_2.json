@@ -486,7 +486,7 @@
     },
     {
       "id": 9774,
-      "name": "Spina della Ri-Accensione",
+      "name": "Spina di Ri-Accensione",
       "desc": "Le Abilità Attacco Base che infliggono Conteggio [Combustion]: infliggono +20% di danni e infliggono +1 Conteggio [Combustion] in più. Per Colpo con queste Abilità contro nemici con [Combustion] o '<noparse>Bruciatura</noparse>Speciale': infliggi 1 [DefenseDown] (2 volte per turno per Identità)\n\nPer le Identità di cui le Abilità Attacco Base infliggono Potenza o Conteggio [Combustion], o '<noparse>Bruciatura</noparse>Speciale': ad Inizio Turno, ottieni [AttackUp] uguale al numero dei turni sopravvissuti (eccezione del turno in cui si è uniti all'Incontro; max 5)",
       "simpleDesc": [
         {
