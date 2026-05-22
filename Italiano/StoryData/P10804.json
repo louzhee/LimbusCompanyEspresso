@@ -2,87 +2,87 @@
   "dataList": [
     {
       "id": 0,
-      "teller": "Panicking Colleague",
+      "teller": "Collega nel Panico",
       "title": "LCCB",
-      "content": "Enemy inbound! 100 meters!"
+      "content": "Nemico in arrivo! A 100 metri!"
     },
     {
       "id": 1,
-      "teller": "Anxious Colleague",
+      "teller": "Collega Ansioso",
       "title": "LCCB",
-      "content": "Crap… We're out of ammo, too…"
+      "content": "Merda… Abbiamo anche finito le munizioni…"
     },
     {
       "id": 2,
-      "content": "It was a clear emergency. The darkly clad children were terrified by an unknown threat with which they didn't know how to deal."
+      "content": "Era chiaramente un'emergenza. I ragazzi vestiti di scuro erano terrorizzati da una minaccia sconosciuta che non sapevano come affrontare."
     },
     {
       "id": 3,
-      "teller": "Anxious Colleague",
+      "teller": "Collega Ansioso",
       "title": "LCCB",
-      "content": "Dammit… Should've known bringing less to save the company budget was a bad call!"
+      "content": "Dannazione… Avrei dovuto saperlo che portare meno munizioni per risparmiare sul budget aziendale era una pessima idea!"
     },
     {
       "id": 4,
-      "teller": "Panicking Colleague",
+      "teller": "Collega nel Panico",
       "title": "LCCB",
-      "content": "Not like we could earn a better review from HR or anything, so why'd… Ope."
+      "content": "Non che questo ci avrebbe fatto ottenere una valutazione migliore dalle Risorse Umane, quindi perché… Oh."
     },
     {
       "id": 5,
-      "content": "The child's mouth went shut, for it suddenly dawned on them that their gun had stopped firing its projectiles."
+      "content": "Il ragazzo si azzittì, poiché si rese improvvisamente conto che la sua arma aveva smesso di sparare proiettili."
     },
     {
       "id": 6,
-      "teller": "Panicking Colleague",
+      "teller": "Collega nel Panico",
       "title": "LCCB",
-      "content": "…25 meters."
+      "content": "…25 metri."
     },
     {
       "id": 7,
-      "teller": "Anxious Colleague",
+      "teller": "Collega Ansioso",
       "title": "LCCB",
-      "content": "So this is the end for us…"
+      "content": "Quindi questa è la fine per noi…"
     },
     {
       "id": 8,
-      "content": "That's when their savior appeared, waving her golden-hour hair."
+      "content": "Fu proprio allora che apparve la loro salvatrice, con i capelli color tramonto che ondeggiavano nel vento."
     },
     {
       "id": 9,
       "model": "이스마엘",
-      "title": "LCCB Assistant Manager",
-      "content": "Relax you two. I'll take charge from here."
+      "title": "Assistente Manager LCCB",
+      "content": "Rilassatevi, voi due. Da qui me ne occupo io."
     },
     {
       "id": 10,
-      "teller": "Panicking Colleague",
+      "teller": "Collega nel Panico",
       "title": "LCCB",
-      "content": "…Ms. Ishmael!"
+      "content": "…Signorina Ishmael!"
     },
     {
       "id": 11,
-      "content": "With her shield raised, the child stared down her oncoming foe with unwavering resolve."
+      "content": "Con lo scudo sollevato, la ragazza fissò il nemico in avvicinamento con incrollabile risolutezza."
     },
     {
       "id": 12,
       "model": "이스마엘",
-      "title": "LCCB Assistant Manager",
-      "content": "This is Ishmael. I've joined up with the team at Operation Site BA21. Will help them wipe out the damn rats. Over."
+      "title": "Assistente Manager LCCB",
+      "content": "Qui Ishmael. Mi sono unita alla squadra nel sito operativo BA21. Li aiuterò a spazzare via quei maledetti ratti. Passo."
     },
     {
       "id": 13,
-      "content": "Her firearm emitted flashes of light, a semaphore of salvation."
+      "content": "La sua arma da fuoco emise bagliori di luce, un segnale di salvezza."
     },
     {
       "id": 14,
       "model": "이스마엘",
-      "title": "LCCB Assistant Manager",
-      "content": "Ah, and also… Please refrain from making idiotic suggestions such as conserving the LCC's ammo in the future. We have well-heeled sponsors backing us."
+      "title": "Assistente Manager LCCB",
+      "content": "Ah, e inoltre… In futuro vi prego di astenervi da suggerimenti idioti come risparmiare le munizioni della LCC. Abbiamo sponsor facoltosi che ci supportano."
     },
     {
       "id": 15,
-      "content": "…Along with flags of scathing lectures."
+      "content": "…Insieme a una scia di severe ramanzine."
     }
   ]
 }

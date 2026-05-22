@@ -2,101 +2,101 @@
   "dataList": [
     {
       "id": 0,
-      "content": "The child's eyes were laden with drowsiness and fatigue."
+      "content": "Gli occhi della fanciulla erano appesantiti dalla sonnolenza e dalla stanchezza."
     },
     {
       "id": 1,
-      "teller": "Strict Junior",
+      "teller": "Sottoposto pignolo",
       "title": "LCCB",
-      "content": "…Sensor signals're all clear. We should secure the aisle."
+      "content": "…I segnali dei sensori sono del tutto regolari. Dobbiamo mettere in sicurezza il corridoio."
     },
     {
       "id": 2,
       "model": "로쟈",
       "title": "LCCB",
-      "content": "Yaaawn… Ah, gee~ What a hassle."
+      "content": "Yaaawn… Ah, cielo~ Che seccatura."
     },
     {
       "id": 3,
-      "teller": "Strict Junior",
+      "teller": "Sottoposto pignolo",
       "title": "LCCB",
-      "content": "…This is our job."
+      "content": "…È il nostro lavoro."
     },
     {
       "id": 4,
       "model": "로쟈",
       "title": "LCCB",
-      "content": "I mean, yeah, 'course I'm doing it~ Haaa, why do we gotta do it to help the bus crew, though?"
+      "content": "Voglio dire, sì, ovvio che lo faccio~ Haaa, ma perché dobbiamo mobilitarci solo per aiutare quelli del bus?"
     },
     {
       "id": 5,
-      "teller": "Another Colleague",
+      "teller": "Un altro collega",
       "title": "LCCB",
-      "content": "It's what the LCC is tasked with."
+      "content": "Questo è il compito assegnato all'LCC."
     },
     {
       "id": 6,
-      "content": "“I know!” The child playfully retorted, smacking her lips."
+      "content": "“Lo so!” replicò la fanciulla in tono scherzoso, schioccando le labbra."
     },
     {
       "id": 7,
-      "content": "The LCC's work is to assist the 12 Sinners aboard Mephistopheles and ensure that they successfully retrieve the Golden Boughs. It was a fact she was well aware of."
+      "content": "Il compito dell'LCC era assistere i dodici Peccatori a bordo del Mephistopheles e assicurarsi che recuperassero con successo i Rami Dorati. Era un fatto di cui era ben consapevole."
     },
     {
       "id": 8,
-      "content": "Truthfully, the work didn't really strain her."
+      "content": "A dire il vero, quel lavoro non le pesava affatto."
     },
     {
       "id": 9,
-      "content": "She didn't have any amateurish complaints about risking her life to help people she's never met personally, either."
+      "content": "E non aveva nemmeno lamentele da dilettante sul rischiare la vita per aiutare persone che non aveva mai incontrato di persona."
     },
     {
       "id": 10,
-      "content": "If anything… she just disliked that her job didn't bring much excitement."
+      "content": "Semmai... le dispiaceva solo che il suo lavoro non le offrisse grandi emozioni."
     },
     {
       "id": 11,
       "model": "로쟈",
       "title": "LCCB",
-      "content": "Man~ I bet I could do the bus thing just as well. Plus, that guy… Vergilius? I wanna see him, too."
+      "content": "Uffa~ Scommetto che me la caverei alla grande anche con la storia del bus. E poi, quel tipo... Vergilius? Vorrei vedere anche lui."
     },
     {
       "id": 12,
-      "teller": "Another Colleague",
+      "teller": "Un altro collega",
       "title": "LCCB",
-      "content": "…You know you can't jump over just like that. Those Sinners are—"
+      "content": "…Sa bene che non può semplicemente trasferirsi di là così, su due piedi. Quei Peccatori sono—"
     },
     {
       "id": 13,
       "model": "로쟈",
       "title": "LCCB",
-      "content": "I know, have to resonate with that clockhead or whatever. Tsk, I know what it takes. I was just saying…"
+      "content": "Lo so, bisogna entrare in risonanza con quel testa a orologio o come si chiama. Tsk, so cosa comporta. Dicevo per dire..."
     },
     {
       "id": 14,
-      "content": "The child sighed, then spoke into the radio."
+      "content": "La fanciulla sospirò, poi parlò alla radio."
     },
     {
       "id": 15,
       "model": "로쟈",
       "title": "LCCB",
-      "content": "This is Rodya, commencing advance reconnaissance on containment in Sector E-361~"
+      "content": "Qui Rodya, inizio la ricognizione preliminare sul contenimento nel Settore E-361~"
     },
     {
       "id": 16,
-      "content": "She did a warm-up exercise, and then told her crew:"
+      "content": "Fece un po' di riscaldamento, poi disse alla sua squadra:"
     },
     {
       "id": 17,
       "model": "로쟈",
       "title": "LCCB",
-      "content": "Ready, everyone? Here goes~!"
+      "content": "Pronti tutti? Si va~!"
     },
     {
       "id": 18,
       "model": "로쟈",
       "title": "LCCB",
-      "content": "Breaching!"
+      "content": "Irruzione!"
     }
   ]
 }
