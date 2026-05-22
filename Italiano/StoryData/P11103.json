@@ -2,103 +2,103 @@
   "dataList": [
     {
       "id": 0,
-      "teller": "Presidente del Tribunale",
-      "title": "Corte Marziale",
-      "content": "La prego di elencare le corporazioni con cui ha colluso nella guerra."
+      "teller": "Giudice Presiedente",
+      "title": "Tribunale Militare",
+      "content": "Elenchi le entità societarie che hanno colluso con lei durante la guerra."
     },
     {
       "id": 1,
       "model": "오티스",
-      "title": "Manager Capo della G Corp.",
-      "content": "…F Corp, ed E Corp."
+      "title": "Responsabile Capo G Corp.",
+      "content": "…La F Corp e la E Corp."
     },
     {
       "id": 2,
-      "teller": "Presidente del Tribunale",
-      "title": "Corte Marziale",
-      "content": "…Nessun altro?"
+      "teller": "Giudice Presiedente",
+      "title": "Tribunale Militare",
+      "content": "…Ce ne sono altre?"
     },
     {
       "id": 3,
-      "content": "La domanda rese la ragazza irrequieta, sapeva bene che fornire la risposta prevista avrebbe messo a rischio la sua posizione."
+      "content": "La fanciulla era contrariata da quella domanda, specialmente perché sapeva che pronunciare la risposta attesa avrebbe messo a repentaglio la sua posizione."
     },
     {
       "id": 4,
       "model": "오티스",
-      "title": "Manager Capo della G Corp",
+      "title": "Responsabile Capo G Corp.",
       "content": "…La vecchia L Corp."
     },
     {
       "id": 5,
-      "teller": "Presidente del Tribunale",
-      "title": "Corte Marziale",
-      "content": "Ciò che ha appena dichiarato implica l'aver combattuto per conto dell'istigatore della guerra. Lo ammette?"
+      "teller": "Giudice Presiedente",
+      "title": "Tribunale Militare",
+      "content": "La sua testimonianza significherebbe che ha combattuto al fianco dell'istigatore della guerra. Lo ammette?"
     },
     {
       "id": 6,
       "model": "오티스",
-      "title": "Manager Capo della G Corp",
+      "title": "Responsabile Capo G Corp.",
       "content": "Stavo solo eseguendo gli ordini della G Corp in quanto dipendente—!"
     },
     {
       "id": 7,
-      "teller": "Presidente del Tribunale",
-      "title": "Corte Marziale",
+      "teller": "Giudice Presiedente",
+      "title": "Tribunale Militare",
       "content": "Manager Outis, la prego."
     },
     {
       "id": 8,
-      "content": "Infastidito dalla risposta non pertinente della ragazza, il presidente del tribunale alzò una mano per interrompere ulteriori spiegazioni."
+      "content": "Infastidito dal fatto che la fanciulla parlasse senza permesso, il giudice sollevò una mano per impedirle di interrompere ulteriormente."
     },
     {
       "id": 9,
       "model": "오티스",
-      "title": "Manager Capo della G Corp",
-      "content": "…Manager Capo Outis."
+      "title": "Responsabile Capo G Corp.",
+      "content": "…Manager Outis."
     },
     {
       "id": 10,
-      "teller": "Presidente del Tribunale",
-      "title": "Corte Marziale",
-      "content": "Mi ascolti, la guerra è finita. Inoltre, è stata la sua parte a vincere."
+      "teller": "Giudice Presiedente",
+      "title": "Tribunale Militare",
+      "content": "Ascolti, la guerra è finita. Inoltre, è stata la sua fazione a vincere."
     },
     {
       "id": 11,
-      "teller": "Presidente del Tribunale",
-      "title": "Corte Marziale",
-      "content": "G Corp. si è impossesata di ciò che voleva: decenni di energia dai sottoprodotti del fumo."
+      "teller": "Giudice Presiedente",
+      "title": "Tribunale Militare",
+      "content": "La G Corp. ha ottenuto ciò che cercava: decenni di energia dai sottoprodotti del Fumo."
     },
     {
       "id": 12,
-      "teller": "Presidente del Tribunale",
-      "title": "Corte Marziale",
-      "content": "La corte non si è radunata allo scopo di ritenerla responsabile o punirla. Lo capisce?"
+      "teller": "Giudice Presiedente",
+      "title": "Tribunale Militare",
+      "content": "Questo tribunale non si è riunito per ritenerla responsabile o per punirla. Ha capito?"
     },
     {
       "id": 13,
-      "content": "“Come no.” Pensò la ragazza."
+      "content": "\"Come no\", pensò tra sé la fanciulla."
     },
     {
       "id": 14,
-      "content": "La vittoria della G Corp e dei suoi alleati non significa che la loro influenza si estenda sull'intera Città."
+      "content": "La vittoria dell'alleanza della G Corp non significava che la sua influenza si estendesse all'intera Città."
     },
     {
       "id": 15,
-      "content": "Piuttosto, è sorto un problema: poiché la guerra ha coinvolto gli interessi interconessi di numerose Ali, il vincitore dovrà giustificare le sue azioni."
+      "content": "Al contrario, comportava un problema: poiché la guerra aveva coinvolto gli interessi inestricabilmente intrecciati di diverse Ali, il vincitore avrebbe avuto bisogno delle sue giustificazioni."
     },
     {
       "id": 16,
-      "content": "In situazioni simili, la mossa più scontata per una compagnia sarebbe quella di apparire il più innocente possibile agli occhi del pubblico scaricando le colpe su un capro espiatorio…"
+      "content": "Per questioni del genere… la mossa ovvia per un'azienda sarebbe stata quella di apparire il più innocente possibile agli occhi del pubblico, rimproverando un bersaglio facile…"
     },
     {
       "id": 17,
-      "content": "“…Ed è per questo che verrò gettata in pasto ai leoni.” E terminò il ragionamento."
+      "content": "\"…Ed è per questo che sarò gettata in pasto ai lupi\", concluse."
     },
     {
       "id": 18,
       "model": "오티스",
-      "title": "Manager Capo della G Corp",
-      "content": "…Lo capisco, vostro onore."
+      "title": "Responsabile Capo G Corp.",
+      "content": "…Ho capito, Vostro Onore."
     }
   ]
 }
