@@ -229,7 +229,7 @@
           "messageDesc": "50% di chance di ottenere un Dono E.G.O. Il fallimento risulterà in danni ai PV e PS.",
           "result": [
             "Finalmente la macchina si è fermata.\n\n“Uh… Ma guarda un po'!”\n\nUn piccolo scrigno in legno sbuca dal pavimento.\nLo aprite con cautela per poi trovare un mucchio di torce.\n\nNon è molto, ma dovrebbero dare un sollievo temporaneo nell'oscurità.\nUscite dalla stanza portando via le torce.",
-            "Finalmente la macchina si è fermata.\n\n“C-Che succede?!”\n\nAl posto della macchina, ora è la stanza a tremare e spaccarsi.\nUn momento dopo, il soffitto si apre, mostrando migliaia di chiodi che puntano verso la terra.\n\n“Fuori, ora!”\n\n“Diamine, vi ho detto che era una brutta idea maneggiare quel coso!”\n\nTe e i Peccatori evacuate velocemente la stanza, ma non senza ferite."
+            "Finalmente la macchina si è fermata.\n\n“C-Che succede?!”\n\nAl posto della macchina, ora è la stanza a tremare e spaccarsi.\nUn momento dopo, il soffitto si apre, mostrando migliaia di chiodi che puntano verso il pavimento.\n\n“Fuori, ora!”\n\n“Diamine, vi ho detto che era una brutta idea maneggiare quel coso!”\n\nTe e i Peccatori evacuate velocemente la stanza, ma non senza ferite."
           ]
         }
       ]
@@ -238,7 +238,7 @@
       "id": 10302,
       "name": "Before a Sealed Door",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "Una porta d'acciao si para ad un lato della stanza.\nSembra sia troppo spessa per riuscire a sfondarla con la forza.\n\n“Deve nascondere qualcosa di molto prezioso se è così ben sigillata~!”\n\nLa Peccatrice potrebbe aver ragione, magari si cela un tesoro dietro a quella porta.\nCosa farete?",
+      "desc": "Una porta d'acciao si para da un lato della stanza.\nSembra sia troppo spessa per riuscire a sfondarla con la forza.\n\n“Deve nascondere qualcosa di molto prezioso se è così ben sigillata~!”\n\nLa Peccatrice potrebbe aver ragione, magari si cela un tesoro dietro a quella porta.\nCosa farete?",
       "options": [
         {
           "message": "Aprila con la forza.",
@@ -260,7 +260,7 @@
       "id": 10303,
       "name": "The First Gate",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "Vedete un grosso cancello in lontananza.\nTrovi le recinzioni appuntite e i muri di pietra alquanto inquietanti.\n\nPare che sia l'unico passaggio per attraversare quest'area, ma è sorvegliata da un grande numero di Inquisitori.\nC'è qualcosa che possiamo fare a riguardo?",
+      "desc": "Vedete un grosso cancello in lontananza.\nTrovi le recinzioni appuntite e i muri di pietra alquanto lugubri.\n\nPare che sia l'unico passaggio per attraversare quest'area, ma è sorvegliata da un grande numero di Inquisitori.\nC'è qualcosa che possiamo fare a riguardo?",
       "options": [
         {
           "message": "Colpiscili da dietro.",
@@ -283,7 +283,7 @@
       "id": 10304,
       "name": "A Room Full of Crates",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "Dozzine di vecchie casse rotte sono sparse per il pavimento.\n\n“Bleah, ragnatele…”\n\nPulendo il tutto, trovate tre grosse casse particolari che vi erano nascoste.\n\n“Sono tutte chiuse a chiave.”\n\n“Sembra che tutti i lucchetti abbiano la stessa forma!”\n\n“…Ahimé, la chiave è di soffice costituzione. Non sarà fattibile usarla nuovamente una volta inserita in un lucchetto.”\n\nPare che avrete un solo tentativo.\nQuale aprirai?",
+      "desc": "Dozzine di vecchie casse rotte sono sparse per la stanza.\n\n“Bleah, ragnatele…”\n\nPulendo il tutto, trovate tre grosse casse particolari che vi erano nascoste.\n\n“Sono tutte chiuse a chiave.”\n\n“Sembra che tutti i lucchetti abbiano la stessa forma!”\n\n“…Ahimé, la chiave è di soffice costituzione. Non sarà fattibile usarla nuovamente una volta inserita in un lucchetto.”\n\nPare che avrete un solo tentativo.\nQuale aprirai?",
       "options": [
         {
           "message": "Apri il primo scrigno.",
@@ -320,14 +320,14 @@
           "message": "Attendi la fine della tortura.",
           "messageDesc": "Certe Identità perdono PS",
           "result": [
-            "Seppur era un orribile spettacolo da guardare, noi non siamo valorosi cavalieri.\nUn manager saggio non rischierebbe di perdere tutti i suoi Peccatori per qualche impulso infantile.\nIn quel caso…\n\n“…Capito.”\n\nSinclair ti da uno sguardo irritato mentre gli porgi la mano sulla spalla, ma poco dopo china la testa e lo accetta.\n\n…Si spera che sia la decisione giusta.\nHai scelto di vedere ed aspettare che la tortura terminasse."
+            "Seppur era un orribile spettacolo da guardare, noi non siamo valorosi cavalieri.\nUn manager saggio non rischierebbe di perdere tutti i suoi Peccatori per qualche impulso infantile.\nIn quel caso…\n\n“…Capito.”\n\nSinclair ti dà uno sguardo irritato mentre gli porgi la mano sulla spalla, ma poco dopo china la testa e lo accetta.\n\n…Si spera che sia la decisione giusta.\nHai scelto di vedere e aspettare che la tortura terminasse."
           ]
         },
         {
           "message": "Ferma la tortura.",
           "messageDesc": "Prova con Vantaggio per Ira, comincia un combattimento. Scegli Sinclair per ottenere 'Un Certo Marchio'. Passa per indebolire i nemici.",
           "result": [
-            "Non saremo valorosi cavalieri.\nMa, anche togliendo le morali, noi dovremo combatterli per proseguire.\n\n“…Lo dici seriamente?”\n\nQuando spieghi il tuo piano a Sinclair, ti guarda con stupore.\n\n“Pensavo mi avresti fermato…”\n\nParlava timorisamente, ma sembrava quantomeno felice della decisione.\n\n“Va bene. Lo farò.”\n\nSinclair si fionda dove stanno gli Inquisitori accompagnato dagli altri Peccatori."
+            "Non saremo valorosi cavalieri.\nMa anche togliendo le morali, noi dovremo combatterli per proseguire.\n\n“…Lo dici seriamente?”\n\nQuando spieghi il tuo piano a Sinclair, ti guarda con stupore.\n\n“Pensavo mi avresti fermato…”\n\nParlava timorosamente, ma sembrava quantomeno felice della decisione.\n\n“Va bene. Lo farò.”\n\nSinclair si fionda dove stanno gli Inquisitori accompagnato dagli altri Peccatori."
           ]
         }
       ]
@@ -345,7 +345,7 @@
         {
           "message": "Non toccare niente e vattene.",
           "result": [
-            "Sicuramente non è niente.\nSe davvero ne avremo bisogno, possiamo sempre tornare per recuperarlo.\n\nHai preferito non danneggiare la psiche dei tuoi Peccatori per un qualcosa di manco certo."
+            "Sicuramente non è niente.\nSe davvero ne avremo bisogno, possiamo sempre tornare per recuperarlo.\n\nHai preferito non danneggiare la psiche dei tuoi Peccatori per un qualcosa di nemmeno certo."
           ]
         }
       ]
@@ -354,7 +354,7 @@
       "id": 10307,
       "name": "[Hel. P. Me. He. Lp.]",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "Senti dei rumori meccanici dalla porta chiusa.\n\n“Sembrano delle grida di aiuto…”\n\nQuando hai iniziato a concentrarti sul suono, inizi a sentire dei passi.\n\n“Metallo… Quelli son suoni metallici…”\n\nSinclair si blocca.\nPare che un Inquisitore stia venendo per loro.\nCosa farete?",
+      "desc": "Senti dei rumori meccanici dalla porta chiusa.\n\n“Sembrano delle grida di aiuto…”\n\nQuando hai iniziato a concentrarti sul suono, inizi a sentire dei passi.\n\n“Metallo… Quelli sono suoni metallici…”\n\nSinclair si blocca.\nPare che un Inquisitore stia venendo per loro.\nCosa farete?",
       "options": [
         {
           "message": "Libera i protesici.",
@@ -377,7 +377,7 @@
       "id": 10308,
       "name": "Rite of Suppuration",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "Il cammino era rovente.\n\n“Perbacco, un tal calore liquefarrebbe le mie scarpe!”\n\nI Peccatori si avvicinano attentamente al cammino, per poi indietreggiare dal calore insopportabile.\nC'è qualcosa scritto sull'insegna di fronte al passaggio:\n\nProvate la vostra umanità\nE superate le debolezze della carne\nApritevi un varco con mobilità\n\nNon ci è voluto molto perché tutti capissero cosa intendeva.\n…Cosa farete?",
+      "desc": "Il cammino era rovente.\n\n“Perbacco, un tal calore liquefarrebbe le mie scarpe!”\n\nI Peccatori si avvicinano attentamente al sentiero, per poi indietreggiare dal calore insopportabile.\nC'è qualcosa scritto sull'insegna di fronte al passaggio:\n\nProvate la vostra umanità\nE superate le debolezze della carne\nApritevi un varco con mobilità\n\nNon ci è voluto molto perché tutti capissero cosa intendesse.\n…Cosa farete?",
       "options": [
         {
           "message": "Presenta il Sigillo della N Corp.",
@@ -394,8 +394,8 @@
           "message": "Cerca un altra via.",
           "messageDesc": "50% di chance di iniziare un combattimento a 3 ondate.",
           "result": [
-            "Sembra troppo pericoloso per mandare un Peccatore ad attraversare il passaggio rovente.\n\nPer non parlare di come non sapresti se il percorso verrebbe facilitato, se qualcuno riuscisse ad oltrepassarlo prima.\nHai capito che potreste riuscire a prendere un altra strada se non venite scoperti.\n\nSfortunatamente, un gruppo di pattuglia di Inquisitori vi ha notati.",
-            "Sembra troppo pericoloso per mandare un Peccatore ad attraversare il passaggio rovente.\n\nPer non parlare di come non sapresti se il percorso verrebbe facilitato, se qualcuno riuscisse ad oltrepassarlo prima.\nHai capito che potreste riuscire a prendere un altra strada se non venite scoperti.\n\nFortunatamente, siete riusciti a passare senza farvi notare."
+            "Sembra troppo pericoloso per mandare un Peccatore ad attraversare il passaggio rovente.\n\nPer non parlare di come non sapresti se il percorso verrebbe facilitato, se qualcuno riuscisse ad oltrepassarlo prima.\nHai capito che potreste riuscire a prendere un'altra strada se non venite scoperti.\n\nSfortunatamente, un gruppo di pattuglia di Inquisitori vi ha notati.",
+            "Sembra troppo pericoloso per mandare un Peccatore ad attraversare il passaggio rovente.\n\nPer non parlare di come non sapresti se il percorso verrebbe facilitato, se qualcuno riuscisse ad oltrepassarlo prima.\nHai capito che potreste riuscire a prendere un'altra strada se non venite scoperti.\n\nFortunatamente, siete riusciti a passare senza farvi notare."
           ]
         }
       ]
@@ -404,13 +404,13 @@
       "id": 10309,
       "name": "A Vessel of Zeal",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "Noti un piedistallo decorato con incisioni di un chiodo e di un martello.\n\n“Deve avere qualcosa a che fare con la N Corp.”\n\nBorbottava un Peccatore; te ti trovi d'accordo.\nProverai ad ottenere informazioni sulla N Corp? O…",
+      "desc": "Noti un piedistallo decorato con incisioni di un chiodo e di un martello.\n\n“Deve avere qualcosa a che fare con la N Corp.”\n\nBorbottava un Peccatore; ti trovi d'accordo.\nProverai ad ottenere informazioni sulla N Corp? O…",
       "options": [
         {
           "message": "Esamina il libro sul piedistallo.",
           "messageDesc": "Ottieni un Dono E.G.O",
           "result": [
-            "Sopra il piedistallo c'è un tomo di cui spesso notavi gli Inquisitori portarsi appresso.\nCogli l'occasione per dare un occhiata ad alcune pagine…\n\n“Ugh…”\n\nIl contenuto indecifrabile ti da solo mal di testa.\nHai deciso di metterlo da parte e di leggerlo più tardi."
+            "Sopra il piedistallo c'è un tomo di cui spesso notavi gli Inquisitori portarsi appresso.\nCogli l'occasione per dare un'occhiata ad alcune pagine…\n\n“Ugh…”\n\nIl contenuto indecifrabile ti dà solo mal di testa.\nHai deciso di metterlo da parte e di leggerlo più tardi."
           ]
         },
         {
@@ -496,7 +496,7 @@
       "id": 10314,
       "name": "Rite of Conclusion",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "Orribili Inquisitori trasformati della N Corp. stanno di guardia al cancello.\nVi preparate ad affrontarli, ma non sembrano essere minimamente ostili.\n\n“Solamente. Gli… eccelsi. Sono ammessi. In, questo luogo.”\n\n“Per… passare. Voi, dovete. Provare voi stessi. Degni.”\n\nNon siete molto certi cosa loro intendano con “provare voi stessi”.\nCosa farete?",
+      "desc": "Orribili Inquisitori della N Corp. trasformati stanno di guardia al cancello.\nVi preparate ad affrontarli, ma non sembrano essere minimamente ostili.\n\n“Solamente. Gli… eccelsi. Sono ammessi. In, questo luogo.”\n\n“Per… passare. Voi, dovete. Provare voi stessi. Degni.”\n\nNon siete molto sicuri cosa loro intendano con “provare voi stessi”.\nCosa farete?",
       "options": [
         {
           "message": "Mostra la prova di aver superato i riti.",
@@ -740,7 +740,7 @@
       "id": 801501,
       "name": "분홍신 선택지1",
       "subDesc": "사용 안하는 텍스트",
-      "desc": "Una voce viaggia tra i nastri fluttuanti.\n\n“Qual'è il tuo desiderio?”\n\n“Indossami.”\n\n“Ti porterò ovunque tu voglia andare.”\n\nLe proposte erano decisamente sospette, ma per qualche ragione, i Peccatori stanno facendo fatica a decidere cosa fare.\n\nCosa ne pensi?",
+      "desc": "Una voce viaggia tra i nastri fluttuanti.\n\n“Qual è il tuo desiderio?”\n\n“Indossami.”\n\n“Ti porterò ovunque tu voglia andare.”\n\nLe proposte erano decisamente sospette, ma per qualche ragione, i Peccatori stanno facendo fatica a decidere cosa fare.\n\nCosa ne pensi?",
       "options": [
         {
           "message": "Indossa le scarpe.",
@@ -802,7 +802,7 @@
           "message": "Devono per forza essere le cosce, così ricche e succose.",
           "messageDesc": "Ottieni un Dono E.G.O.",
           "result": [
-            "“Visto? Le cosce sono le migliori!”\n“Devi avere qualche problema alla lingua.”\nLa persona con in mano un petto di pollo, lascia un sospiro esasperato.\n“Ehi! Eccoti un premio. Ti meriti proprio una coscia tutta per te.”\nSoddisfatto, quello che tiene una coscia te ne da una dal suo secchio.\n“Continua stare in gamba, io ci conto!”\nNon sapendo come reagire, lasci il tavolo insieme alla coscia di pollo."
+            "“Visto? Le cosce sono le migliori!”\n“Devi avere qualche problema alla lingua.”\nLa persona con in mano un petto di pollo, lascia un sospiro esasperato.\n“Ehi! Eccoti un premio. Ti meriti proprio una coscia tutta per te.”\nSoddisfatto, quello che tiene una coscia te ne dà una dal suo secchio.\n“Continua stare in gamba, io ci conto!”\nNon sapendo come reagire, lasci il tavolo insieme alla coscia di pollo."
           ]
         },
         {
@@ -845,7 +845,7 @@
     {
       "id": 10401,
       "name": "Looking for a Drone",
-      "desc": "Un drone della K Corp. ruzzola per terra.\nIo posso resuscitare i Peccatori solo dove riesco a vedere la stella, quindi nel frattempo...\nForse riusciamo a trovare una fiala ancora usabile se cerchiamo dentro.",
+      "desc": "Un drone della K Corp. ruzzola per terra.\nIo posso resuscitare i Peccatori solo dove riesco a vedere la stella, quindi nel frattempo...\nForse riusciamo a trovare una fiala ancora utilizzabile se cerchiamo dentro.",
       "options": [
         {
           "message": "Fruga dentro il drone.",
@@ -857,7 +857,7 @@
           "message": "Vattene.",
           "messageDesc": "Niente accade.",
           "result": [
-            "\"Macché guardi? Non c'è niente da prendere.\"\n...Potremmo trovare qualcosa di utile dando un occhiata da vicino, ma le parti affilate e i detriti potrebbero causare ferite che faremmo meglio ad evitare.\nCe ne siamo andati dalla stanza."
+            "\"Macché guardi? Non c'è niente da prendere.\"\n...Potremmo trovare qualcosa di utile dando un'occhiata da vicino, ma le parti affilate e i detriti potrebbero causare ferite che faremmo meglio ad evitare.\nCe ne siamo andati dalla stanza."
           ]
         }
       ]
@@ -885,7 +885,7 @@
     {
       "id": 10402,
       "name": "An Ampule to Use",
-      "desc": "È pieno di ampolle della K Corp.\n\"Ooh~ Buon per noi! Ehi Dante, possiamo prendercene almeno una?\"\n\"Negativo. L'iniettore di ampolle si trova solo in questa stanza, quindi non sarà possibile usarli al di fuori di quest'area.\"\n...Cosa faremo?",
+      "desc": "È pieno di ampolle della K Corp.\n\"Ooh~ Buon per noi! Ehi Dante, possiamo prendercene almeno una?\"\n\"Negativo. L'iniettore di ampolle si trova solo in questa stanza, quindi non sarà possibile usarle al di fuori di quest'area.\"\n...Cosa faremo?",
       "options": [
         {
           "message": "Usa l'ampolla.",
@@ -905,13 +905,13 @@
     {
       "id": 1040201,
       "name": "An Ampule to Use",
-      "desc": "\"Guardate, degli avvertimenti sono scritti sulle ampolle!\"\nScorrendo tra le bottiglie di vetro, riesco a vedere delle piccole avvertenze attaccate ad esse.\nPerò, il testo è troppo denso per leggere chiaramente.\n\"Parti mancanti… insufficiente… fermare? Non ho idea di quel che sta dicendo.\"\n\"Illustre Manager! Appare che questo congegno abbia due modalità: singolo e gruppo!\"\nPare sia il momento di scegliere.\nCosa faremo?",
+      "desc": "\"Guardate, degli avvertimenti sono scritti sulle ampolle!\"\nScorrendo tra le bottiglie di vetro, riesco a vedere delle piccole avvertenze attaccate ad esse.\nPerò, il testo è troppo denso per leggere chiaramente.\n\"Parti mancanti… insufficiente… fermare? Non ho idea di quel che sta dicendo.\"\n\"Illustre Manager! Pare che questo congegno abbia due modalità: singolo e gruppo!\"\nPare sia il momento di scegliere.\nCosa faremo?",
       "options": [
         {
           "message": "Usa l'ampolla su tutti.",
           "messageDesc": "Tutti gli alleati con dei PV mancanti si curano completamente.\nGli alleati a PV pieni perdono PV e PS.",
           "result": [
-            "Non dovrebbe far male lasciare che tutti i Peccatori ne usufruiscano.\nHo premuto il pulsante 'gruppo'.\n\"Ngh!\"\n\"Che strano... improvvisamente mi sento male.\"\nQualche Peccatore geme dal dolore.\nPensando a cosa avevano in comune... Ho realizzato che non erano feriti.\n\"Questo non deve essere un qualcosa che si può amministrare agli individui in salute.\"\n...Devo far più attenzione la prossima volta."
+            "Non dovrebbe far male lasciare che tutti i Peccatori ne usufruiscano.\nHo premuto il pulsante 'gruppo'.\n\"Ngh!\"\n\"Che strano... improvvisamente mi sento male.\"\nQualche Peccatore geme dal dolore.\nPensando a cosa avevano in comune... Ho realizzato che non erano feriti.\n\"Questo non deve essere un qualcosa che si può amministrare agli individui in salute.\"\n...Devo fare più attenzione la prossima volta."
           ]
         },
         {
@@ -962,7 +962,7 @@
           "message": "Esprimi un desiderio.",
           "messageDesc": "50% di chance di ottenere un Dono E.G.O",
           "result": [
-            "\"Romantico.\"\nTutti hanno chiuso gli occhi ed espresso un desiderio.\nChe abbia ricevuto una risposta?\nQuando gli occhi si erano aperti, per terra c'era un frammento luccicante. \n\"Hmm, mi domando chi abbia desiderato questo?\"\nCommentavano i Peccatori, ma può darsi che non abbia niente a che fare coi desideri dopotutto.\nPrendendo il frammento, abbiamo lasciato il posto.",
+            "\"Romantico.\"\nTutti hanno chiuso gli occhi ed espresso un desiderio.\nChe abbia ricevuto una risposta?\nQuando gli occhi si erano aperti, per terra c'era un frammento luccicante.\n\"Hmm, mi domando chi abbia desiderato questo?\"\nCommentavano i Peccatori, ma può darsi che non abbia niente a che fare coi desideri dopotutto.\nPrendendo il frammento, abbiamo lasciato il posto.",
             "\"Romantico.\"\nTutti hanno chiuso gli occhi ed espresso un desiderio.\n...Però, non è successo niente.\n\"Chi è stato! Uno di voi deve aver aperto gli occhi nel mentre!\"\nCalmando il Peccatore infuriato, abbiamo lasciato la stanza."
           ]
         },
@@ -970,7 +970,7 @@
           "message": "Vattene.",
           "messageDesc": "Niente accade.",
           "result": [
-            "Se quella storiella fantasiosa fosse vera, avrei riavuto la mia vera testa molto tempo fa.\nAbbiamo lasciato la stanza, credendo che sia molto meglio invece di sprecare il nostro tempo."
+            "Se quella storiella fantasiosa fosse vera, avrei riavuto la mia vera testa molto tempo fa.\nCe ne siamo andati dalla stanza, credendo che sia molto meglio lasciar perdere invece di sprecare il nostro tempo."
           ]
         }
       ]
@@ -997,7 +997,7 @@
     {
       "id": 10407,
       "name": "Run",
-      "desc": "Lo spazio si distorce.\nAl tempo stesso, un verso familiare arriva dalle vostre spalle.\nAssomiglia tanto al verso di un'Anormalità che avevamo precedentemente ridotto ad un uovo.\n\"Iniziate a correre!!\"\nI tredici Peccatori corrono verso la via.\n\"Laggiù!\"\n\"Q-Quello è un vicolo cieco...\"\nI Peccatori sembrano spaventati... Proviamo lo stesso ad andare lì dentro?",
+      "desc": "Lo spazio si distorce.\nAl tempo stesso, un verso familiare arriva dalle vostre spalle.\nAssomiglia tanto al verso di un'Anormalità che avevamo precedentemente ridotto ad un uovo.\n\"Iniziate a correre!!\"\nI tredici Peccatori corrono verso la via.\n\"Laggiù!\"\n\"Q-Quello è un vicolo cieco...\"\nI Peccatori sembrano terrorizzati... Proviamo lo stesso ad andare lì dentro?",
       "options": [
         {
           "message": "Scappa.",
@@ -1037,7 +1037,7 @@
     {
       "id": 1040702,
       "name": "Run.",
-      "desc": "Continuiamo a scappare via.\n\"Sarebbe preferibile se non ci fossero altre circostanze da preoccuparsi.\nMormora un Peccatore di una sua osservazione.\n\"Huh?!\"\nSolo allora, il muro di fronte a noi si tramuta in una vasta area.\nCosa faremo adesso?",
+      "desc": "Continuiamo a correre via.\n\"Sarebbe preferibile se non ci fossero altre circostanze da preoccuparsi.\"\nMormora un Peccatore di una sua osservazione.\n\"Huh?!\"\nSolo allora, il muro di fronte a noi si tramuta in una vasta zona.\nCosa faremo adesso?",
       "options": [
         {
           "message": "Scappa.",
@@ -1090,7 +1090,7 @@
     {
       "id": 805003,
       "name": "Stand in his way.",
-      "desc": "\"Ho deciso... di eliminare tutto il mio passato.\"\n\n\"In altre parole, non avrò più niente a che fare con voi una volta tolto di mezzo Yi Sang.\"\n\nDongrang aggrotta, sembrando alquanto dispiaciuto.\n\n\"Ma allora... Perché continuate ad interferire?\"\n\nSembra che Dongrang stia preparando un attacco potente. Magari possiamo usare questo momento a nostro vantaggio.",
+      "desc": "\"Ho deciso... di cancellare tutto il mio passato.\"\n\n\"In altre parole, non avrò più niente a che fare con voi una volta tolto di mezzo Yi Sang.\"\n\nDongrang aggrotta, sembrando alquanto dispiaciuto.\n\n\"Ma allora... Perché continuate ad interferire?\"\n\nSembra che Dongrang stia preparando un attacco potente. Magari possiamo usare questo momento a nostro vantaggio.",
       "options": [
         {
           "message": "Fermalo.",
@@ -1103,7 +1103,7 @@
     {
       "id": 805005,
       "name": "Stand in his way.",
-      "desc": "\"Non dovrei sprecare il mio tempo in questo modo.\"\n\nArrivando ad una realizzazione, Dongrang si ferma sul posto.\nE ammirava il soffitto come se guardasse il cielo stellato.\n\n\"In questo momento... Ci sto rimettendo per ogni secondo che non piange.\"\n\n\"Il tempo e le opportunità di cambiare il mondo... stanno svanendo.\"\n\nDongrang lanciò uno sguardo coi suoi occhi iniettati di sangue.\n\n\"Yi Sang... Sei tu, tu sei l'unico che se ne deve andare per che tutto ciò finisca!\"",
+      "desc": "\"Non dovrei sprecare il mio tempo in questo modo.\"\n\nArrivando ad una realizzazione, Dongrang si ferma sul posto.\nE ammirava il soffitto come se guardasse il cielo stellato.\n\n\"In questo momento... Ci sto rimettendo per ogni secondo che non piange.\"\n\n\"Il tempo e le opportunità di cambiare il mondo... stanno svanendo.\"\n\nDongrang lancia uno sguardo coi suoi occhi iniettati di sangue.\n\n\"Yi Sang... Sei tu, tu sei l'unico che se ne deve andare per che tutto ciò finisca!\"",
       "options": [
         {
           "message": "Fermalo.",
@@ -1122,21 +1122,21 @@
           "message": "Apri lo scaffale nella seconda riga, quinta colonna.",
           "messageDesc": "Ottieni un Dono E.G.O.",
           "result": [
-            "Hai preso l'oggetto dallo scaffale sulla seconda riga, quinta colonna.\nÈ una misteriosa massa verde.\nQuando la osservi, sembra di guardare una maschera.\nPresto, l'area inizia a dissolversi, e l'armadio scompare."
+            "Hai preso l'oggetto dallo scaffale sulla seconda riga, quinta colonna.\nÈ una misteriosa massa verde.\nQuando la osservi, ti sembra di guardare una maschera.\nPresto, l'area inizia a dissolversi, e l'armadio scompare."
           ]
         },
         {
           "message": "Apri lo scaffale nella quinta riga, ottava colonna.",
           "messageDesc": "Ottieni un Dono E.G.O.",
           "result": [
-            "Hai preso l'oggetto dallo scaffale sulla quinta riga, ottava colonna.\nÈ una misteriosa massa blu.\nQuando la osservi, sembra di guardare un pugnale.\nPresto, l'area inizia a dissolversi, e l'armadio scompare."
+            "Hai preso l'oggetto dallo scaffale sulla quinta riga, ottava colonna.\nÈ una misteriosa massa blu.\nQuando la osservi, ti sembra di guardare un pugnale.\nPresto, l'area inizia a dissolversi, e l'armadio scompare."
           ]
         },
         {
           "message": "Apri lo scaffale nella sesta riga, prima colonna.",
           "messageDesc": "Ottieni un Dono E.G.O.",
           "result": [
-            "Hai preso l'oggetto dallo scaffale sulla sesta riga, prima colonna.\nÈ una misteriosa massa gialla.\nQuando la osservi, sembra di guardare un fiore.\nPresto, l'area inizia a dissolversi, e l'armadio scompare."
+            "Hai preso l'oggetto dallo scaffale sulla sesta riga, prima colonna.\nÈ una misteriosa massa gialla.\nQuando la osservi, ti sembra di guardare un fiore.\nPresto, l'area inizia a dissolversi, e l'armadio scompare."
           ]
         }
       ]

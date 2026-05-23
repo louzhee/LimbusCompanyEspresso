@@ -1,160 +1,160 @@
 {
-  "dataList": [
-    {
-      "id": 0,
-      "content": "The child was surrounded by people in thick suits of armor."
-    },
-    {
-      "id": 1,
-      "content": "Each individual carried a large nail in one hand, and in the other was a hammer so massive that it almost seemed improbable to hold with a single grip."
-    },
-    {
-      "id": 2,
-      "teller": "Faithful Inquisitor",
-      "title": "N Corp. Mittelhammer",
-      "content": "Hear me, Großhammer."
-    },
-    {
-      "id": 3,
-      "content": "One of them approached the child to report…"
-    },
-    {
-      "id": 4,
-      "teller": "Faithful Inquisitor",
-      "title": "N Corp. Mittelhammer",
-      "content": "The shadows of heresy are no longer seen in this area."
-    },
-    {
-      "id": 5,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "N Corp. Großhammer",
-      "content": "……"
-    },
-    {
-      "id": 6,
-      "content": "The child, referred to as a Großhammer, gently exhaled. His breath trembled ever so slightly."
-    },
-    {
-      "id": 7,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "N Corp. Großhammer",
-      "content": "You may return now."
-    },
-    {
-      "id": 8,
-      "content": "The child's voice is always low and aloof."
-    },
-    {
-      "id": 9,
-      "content": "His vocalizations were reflected by the mask that covers his face at all times, giving his voice a holy-sounding echo."
-    },
-    {
-      "id": 10,
-      "teller": "Faithful Inquisitor",
-      "title": "N Corp. Mittelhammer",
-      "content": "What about you, Großhammer…"
-    },
-    {
-      "id": 11,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "N Corp. Großhammer",
-      "content": "I have a duty to see it to the end, for the One Who Grips has ordered it."
-    },
-    {
-      "id": 12,
-      "teller": "Faithful Inquisitor",
-      "title": "N Corp. Mittelhammer",
-      "content": "If that is what the One Who Grips wishes."
-    },
-    {
-      "id": 13,
-      "content": "Clatter, clatter."
-    },
-    {
-      "id": 14,
-      "content": "All the others left the space, leaving the child alone in that corpse-littered corridor."
-    },
-    {
-      "id": 15,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "N Corp. Großhammer",
-      "content": "Huff…"
-    },
-    {
-      "id": 16,
-      "content": "The child removes his mask."
-    },
-    {
-      "id": 17,
-      "content": "It revealed his concealed side."
-    },
-    {
-      "id": 18,
-      "content": "A small mechanical device covers his mouth. Green tubes are eerily embedded in his skin."
-    },
-    {
-      "id": 19,
-      "content": "Right, that gadget must belong to K Corp."
-    },
-    {
-      "id": 20,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "N Corp. Großhammer",
-      "content": "My faith… is draining."
-    },
-    {
-      "id": 21,
-      "content": "The child's voice was now far shakier. It wasn't brought about by fear or dread."
-    },
-    {
-      "id": 22,
-      "content": "It's a swelling, the struggle of something trying to break free."
-    },
-    {
-      "id": 23,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "N Corp. Großhammer",
-      "content": "Ugh!"
-    },
-    {
-      "id": 24,
-      "content": "The tremble soon subsides, however."
-    },
-    {
-      "id": 25,
-      "content": "It seems the child did something with the device about his mouth. The liquid in its tubes drained into it in an instant."
-    },
-    {
-      "id": 26,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "N Corp. Großhammer",
-      "content": "I… am purity…"
-    },
-    {
-      "id": 27,
-      "content": "Clatter, clatter."
-    },
-    {
-      "id": 28,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "N Corp. Großhammer",
-      "content": "A hammer… loyal to the One Who Grips…"
-    },
-    {
-      "id": 29,
-      "content": "The child wore his mask once again."
-    },
-    {
-      "id": 30,
-      "content": "Thus, he walked away, muttering to himself."
-    }
-  ]
+    "dataList": [
+        {
+            "id": 0,
+            "content": "Il fanciullo era circondato da individui che indossavano spesse armature."
+        },
+        {
+            "id": 1,
+            "content": "Ognuno di loro stringeva un grosso chiodo in una mano, mentre nell'altra reggeva un martello così imponente che sembrava quasi impossibile da impugnare con una sola mano."
+        },
+        {
+            "id": 2,
+            "teller": "Inquisitore Fedele",
+            "title": "Mittelhammer della N Corp.",
+            "content": "Uditemi, Großhammer."
+        },
+        {
+            "id": 3,
+            "content": "Uno di loro si avvicinò al fanciullo per fare rapporto…"
+        },
+        {
+            "id": 4,
+            "teller": "Inquisitore Fedele",
+            "title": "Mittelhammer della N Corp.",
+            "content": "Le ombre dell'eresia non si scorgono più in questa zona."
+        },
+        {
+            "id": 5,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Großhammer della N Corp.",
+            "content": "……"
+        },
+        {
+            "id": 6,
+            "content": "Il fanciullo, che era stato definito come Großhammer, espirò delicatamente. Il suo respiro tremò appena."
+        },
+        {
+            "id": 7,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Großhammer della N Corp.",
+            "content": "Potete fare ritorno, adesso."
+        },
+        {
+            "id": 8,
+            "content": "La voce del fanciullo era sempre bassa e distaccata."
+        },
+        {
+            "id": 9,
+            "content": "Le sue parole, rimbombando contro la maschera che gli copriva costantemente il volto, acquisivano un'eco sacrale."
+        },
+        {
+            "id": 10,
+            "teller": "Inquisitore Fedele",
+            "title": "Mittelhammer della N Corp.",
+            "content": "E per quanto riguarda voi, Großhammer…"
+        },
+        {
+            "id": 11,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Großhammer della N Corp.",
+            "content": "Ho il dovere di assistere fino alla fine, poiché Colei che Stringe lo ha ordinato."
+        },
+        {
+            "id": 12,
+            "teller": "Inquisitore Fedele",
+            "title": "Mittelhammer della N Corp.",
+            "content": "Se questo è il desiderio di Colei che Stringe."
+        },
+        {
+            "id": 13,
+            "content": "Clank, clank."
+        },
+        {
+            "id": 14,
+            "content": "Tutti gli altri lasciarono l'area, lasciando il fanciullo da solo in quel corridoio disseminato di cadaveri."
+        },
+        {
+            "id": 15,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Großhammer della N Corp.",
+            "content": "Fuu…"
+        },
+        {
+            "id": 16,
+            "content": "Il fanciullo si toglie la maschera."
+        },
+        {
+            "id": 17,
+            "content": "Rivelando il suo lato nascosto."
+        },
+        {
+            "id": 18,
+            "content": "Un piccolo dispositivo meccanico gli copriva la bocca. Dei tubi verdi erano sinistramente conficcati nella sua pelle."
+        },
+        {
+            "id": 19,
+            "content": "Già, quell'aggeggio doveva appartenere alla K Corp."
+        },
+        {
+            "id": 20,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Großhammer della N Corp.",
+            "content": "La mia fede… sta svanendo."
+        },
+        {
+            "id": 21,
+            "content": "La voce del fanciullo ora era molto più tremante. Non era causata da paura o terrore."
+        },
+        {
+            "id": 22,
+            "content": "Era un tumulto interiore, la lotta di qualcosa che cercava di liberarsi."
+        },
+        {
+            "id": 23,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Großhammer della N Corp.",
+            "content": "Ugh!"
+        },
+        {
+            "id": 24,
+            "content": "Tuttavia, il tremore svanì presto."
+        },
+        {
+            "id": 25,
+            "content": "Sembrava che il fanciullo avesse fatto qualcosa al dispositivo sulla bocca. Il liquido nei tubi era defluito al suo interno in un istante."
+        },
+        {
+            "id": 26,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Großhammer della N Corp.",
+            "content": "Io… sono la purezza…"
+        },
+        {
+            "id": 27,
+            "content": "Clank, clank."
+        },
+        {
+            "id": 28,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Großhammer della N Corp.",
+            "content": "Un martello… fedele a Colei che Stringe…"
+        },
+        {
+            "id": 29,
+            "content": "Il fanciullo indossò nuovamente la maschera."
+        },
+        {
+            "id": 30,
+            "content": "E così si allontanò, sussurrando tra sé e sé."
+        }
+    ]
 }

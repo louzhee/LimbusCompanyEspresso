@@ -6,15 +6,15 @@
         {
           "level": 1,
           "name": "Fuoco sulle Retrovie",
-          "desc": "This Skill deals +10% damage on Critical Hit\n[WhenUse] At 10+ [Breath], Base Power +1\n[WhenUse] Gain 2 [Breath]",
+          "desc": "Questa Abilità infligge +10% danni su Colpo Critico\n[WhenUse] A 10+ [Breath], Potere Base +1\n[WhenUse] Ottiene 2 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Sinking]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[CriticalOnSucceedAttack] Infligge 4 [Laceration]"
                 }
               ]
             }
@@ -28,15 +28,15 @@
         {
           "level": 1,
           "name": "Fuoco sulla Prima Linea",
-          "desc": "This Skill deals +10% damage on Critical Hit\n[WhenUse] At 10+ [Breath], Base Power +1\n[WhenUse] Gain +3 [Breath] Count",
+          "desc": "Questa Abilità infligge +10% danni su Colpo Critico\n[WhenUse] A 10+ [Breath], Potere Base +1\n[WhenUse] Ottiene +3 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Sinking]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[CriticalOnSucceedAttack] Infligge +3 Conteggio [Laceration]"
                 }
               ]
             }
@@ -50,7 +50,7 @@
         {
           "level": 1,
           "name": "Trapassare",
-          "desc": "[WhenUse] Gain 2 [Breath]\n[WhenUse] At 10+ [Breath], Base Power +1\n[WhenUse] Coin Power +1 for every 5 [Breath] Count on self (max 2)\n[WinDuel] This Attack Skill deals +50% damage on Critical Hit",
+          "desc": "[WhenUse] Ottiene 2 [Breath]\n[WhenUse] A 10+ [Breath], Potere base +1\n[WhenUse] Potere Moneta +1 per ogni 5 Conteggio [Breath] su di sé (max 2)\n[WinDuel] Questa Abilità infligge +50% danni su Colpo Critico",
           "coinlist": [
             {
               "coindescs": [
@@ -58,10 +58,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Ottiene +2 Conteggio [Breath]"
                 },
                 {
-                  "desc": "This Coin deals damage only against the main target."
+                  "desc": "Questa Moneta danneggia solamente il bersaglio principale."
                 }
               ]
             },
@@ -71,13 +71,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally or if target wasn't Staggered, 1 random sub-target takes damage"
+                  "desc": "Questa Moneta danneggia solamente i bersagli secondari\n- Se la prima Moneta non ha ucciso un alleato, solo 1 bersaglio secondario casuale subisce danni"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Laceration]"
                 }
               ]
             }
@@ -90,13 +90,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Carica, Fuoco",
-          "desc": "This Skill deals +50% damage on Critical Hit\n[WhenUse] Coin Power +1 for every 5 [Breath] Count on self (max 3)\n[WhenUse] Gain 3 [Breath]",
+          "name": "Ricarica, Fuoco",
+          "desc": "Questa Abilità infligge +50% danni su Colpo Critico\n[WhenUse] Potere Moneta +1 per ogni 5 Conteggio [Breath] su di sé (max 3)\n[WhenUse] Ottiene 3 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Reuse Coin once"
+                  "desc": "[CriticalOnSucceedAttack] Riusa questa Moneta una volta"
                 }
               ]
             }
@@ -110,15 +110,15 @@
         {
           "level": 1,
           "name": "Oltrepassare le Difese",
-          "desc": "[DefeatDuel] Halve [Breath] on self\n- Any [Breath] gained during this turn are halved as well\n- Gain 4 [Paralysis] next turn",
+          "desc": "[DefeatDuel] Dimezza l'[Breath] su di sé\n- Dimezza l'[Breath] ottenuto durante questo turno\n- Ottiene 4 [Paralysis] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Laceration]"
                 }
               ]
             }
@@ -132,7 +132,7 @@
         {
           "level": 1,
           "name": "Fuoco al Bersaglio Deciso",
-          "desc": "Attacks the target with [FellBulletMark]\nCoin Power +1 for every 5 [Breath] on self (max 2)\nBase Power +1 for every 3 [Breath] Count on self (max 3)\n[WhenUse] If the main target does not have [FellBulletMark], gain 1 [Paralysis] and 3 [Vulnerable]\n[EndSkill] If the target is defeated, gain 10 [Breath] and lower every enemy's PS by 15",
+          "desc": "Attacca il bersaglio con [FellBulletMark]\nPotere Moneta +1 per ogni 5 [Breath] su di sé (max 2)\nPotere Base +1 per ogni 3 Conteggio [Breath] su di sé (max 3)\n[WhenUse] Se il bersaglio principale non ha [FellBulletMark], ottiene 1 [Paralysis] e 3 [Vulnerable]\n[EndSkill] Se il bersaglio è sconfitto, ottiene 10 [Breath] e infligge 15 danni ai PS di ogni nemico",
           "coinlist": [
             {
               "coindescs": [
@@ -140,13 +140,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "This Coin deals damage only against the main target."
+                  "desc": "Questa Moneta danneggia solamente il bersaglio principale."
                 },
                 {
-                  "desc": "If the target has [FellBulletMark], deal +100% damage"
+                  "desc": "Se il bersaglio ha [FellBulletMark], infligge +100% danni"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [FellBulletMark], gain 10 [Breath] next turn"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha [FellBulletMark], ottiene 10 [Breath] il turno successivo"
                 }
               ]
             },
@@ -156,10 +156,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the target, 2 random sub-targets take damage"
+                  "desc": "Questa Moneta danneggia solamente i bersagli secondari\n- Se la prima Moneta non ha ucciso un alleato, solo 2 bersagli secondari casuali subiscono danni"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Sinking] and 5 [Laceration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 5 [Sinking] e 5 [Laceration]"
                 }
               ]
             }
@@ -173,7 +173,7 @@
         {
           "level": 1,
           "name": "Fuoco al Bersaglio Cambiato",
-          "desc": "[CantIdentify]\n[CantChangeTarget]\nPrioritizes the target with [FellBulletMark]\nIf this unit failed to attack the Stigmatized target, cancel this Skill.\nCoin Power +1 for every 5 [Breath] on self (max 2)\nBase Power +1 for every 3 [Breath] Count on self (max 3)\n[EndSkill] If the target is defeated, gain 10 [Breath] and lower every enemy's PS by 15",
+          "desc": "[CantIdentify]\n[CantChangeTarget]\nDà priorità al bersaglio con [FellBulletMark]\nSe questa Unità non riesce ad attaccare il bersaglio Stigmatizzato, annulla l'Abilità.\nPotere Abilità +1 per ogni 5 [Breath] su di sé (max 2)\nPotere base +1 per ogni 3 Conteggio [Breath] su di sé (max 3)\n[EndSkill] Se il bersaglio è sconfitto, ottiene 10 [Breath] e infligge 15 danni ai PS di ogni nemico",
           "coinlist": [
             {
               "coindescs": [
@@ -181,13 +181,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "This Coin deals damage only against the main target"
+                  "desc": "Questa Moneta danneggia solamente il bersaglio principale."
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] If the target has [FellBulletMark], kill the target"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Se il bersaglio ha [FellBulletMark], uccide il bersaglio"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 10 [Breath] next turn"
+                  "desc": "[OnSucceedAttack] Ottiene 10 [Breath] il turno successivo"
                 }
               ]
             },
@@ -197,10 +197,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the target, 1 random sub-target takes damage"
+                  "desc": "Questa Moneta danneggia solamente i bersagli secondari\n- Se la prima Moneta non ha ucciso un alleato, solo 1 bersaglio secondario casuale subisce danni"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Sinking] and 5 [Laceration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 5 [Sinking] e 5 [Laceration]"
                 }
               ]
             }
@@ -214,15 +214,15 @@
         {
           "level": 1,
           "name": "Sbranare",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Breath] Potency on self (max 5)",
+          "desc": "[WhenUse] Potere Finale +1 per ogni 4 [Breath] su di sé (max 5)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath] Potency"
+                  "desc": "[OnSucceedAttack] Ottiene 3 [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain +3 [Breath] Count"
+                  "desc": "[CriticalOnSucceedAttack] Ottiene +3 Conteggio [Breath]"
                 }
               ]
             }
@@ -236,25 +236,25 @@
         {
           "level": 1,
           "name": "Devastazione",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Breath] Potency on self (max 5)",
+          "desc": "[WhenUse] Potere Finale +1 per ogni 4 [Breath] su di sé (max 5)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath] Potency"
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[CriticalOnSucceedAttack] Ottiene +2 Conteggio [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath] Potency"
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[CriticalOnSucceedAttack] Ottiene +2 Conteggio [Breath]"
                 }
               ]
             }
@@ -267,8 +267,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Respiro Affannoso",
-          "desc": "[WhenUse] Final Power +1 for every 8 [Breath] Potency on self (max 5)\n[WhenUse] Coin Power +1 for every 8 [Breath] Count on self (max 5)\n[DefeatDuel] Halve [Breath] Potency on self\n[EndSkill] Halve [Breath] Potency and Count on self",
+          "name": "Respiro Affannato",
+          "desc": "[WhenUse] Potere Finale +1 per ogni 8 [Breath] su di sé (max 5)\n[WhenUse] Potere Moneta +1 per ogni 8 Conteggio [Breath] su di sé (max 5)\n[DefeatDuel] Dimezza la Potenza [Breath] su di sé\n[EndSkill] Dimezza la Potenza e il Conteggio [Breath] su di sé",
           "coinlist": [
             {},
             {},
@@ -278,7 +278,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Deal ([Breath] Potency)% damage on Critical Hit"
+                  "desc": "Infligge +(Potenza [Breath])% danni su Colpo Critico"
                 }
               ]
             }
@@ -292,7 +292,7 @@
         {
           "level": 1,
           "name": "Prono",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Breath] Potency on self (max 5)\n[WhenUse] Gain 4 [Breath] Potency\n- At 50%- PV, also gain +4 [Breath] Count",
+          "desc": "[WhenUse] Potere Finale +1 per ogni 4 [Breath] su di sé (max 5)\n[WhenUse] Ottiene 4 [Breath]\n- A 50% o meno PV, ottiene +4 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -311,7 +311,7 @@
         {
           "level": 1,
           "name": "È... MIO!",
-          "desc": "[CantChangeTarget]\n[WhenUse] Clash Power +1 for every 4 [Breath] Potency on self (max 3)\n[WhenUse] Clash Power +1 for every 4 [Breath] Count on self (max 3)",
+          "desc": "[CantChangeTarget]\n[WhenUse] Potere Scontro +1 per ogni 4 [Breath] su di sé (max 3)\n[WhenUse] Potere Scontro +1 per ogni 4 Conteggio [Breath] su di sé (max 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -319,10 +319,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Siphons [Breath] Potency and [Breath] Count from the target (max 6 each)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Sottrae la Potenza e il Conteggio [Breath] sul bersaglio (fino a 6 di entrambi)"
                 },
                 {
-                  "desc": "[DefeatDuelAttack] Siphons 1/3 of the [Breath] Potency and [Breath] Count on the target (max 2 each)"
+                  "desc": "[DefeatDuelAttack] Sottrae 1/3 della Potenza e del Conteggio [Breath] sul bersaglio (fino a 2 di entrambi)"
                 }
               ]
             }
@@ -336,7 +336,7 @@
         {
           "level": 1,
           "name": "Condividere il Dolore",
-          "desc": "[WhenUse] Final Power +1 for every 8 [Breath] Potency on self (max 5)\n[WhenUse] Coin Power +1 for every 8 [Breath] Count on self (max 5)\n[DefeatDuel] Deal -75% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] Halve [Breath] Potency and Count on self",
+          "desc": "[WhenUse] Potere Finale +1 per ogni 8 [Breath] su di sé (max 5)\n[WhenUse] Potere Moneta +1 per ogni 8 Coteggio [Breath] su di sé (max 5)\n[DefeatDuel] Infligge -75% danni; i danni inflitti da questa Abilità non possono Stordire i bersagli\n[EndSkill] Dimezza la Potenza e il Conteggio [Breath] su di sé",
           "coinlist": [
             {
               "coindescs": [
@@ -344,7 +344,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[WinDuelAttack] Infligge 2 [Binding] il turno successivo"
                 }
               ]
             },
@@ -354,7 +354,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict 2 [Vulnerable]"
+                  "desc": "[WinDuelAttack] Infligge 2 [Vulnerable]"
                 }
               ]
             },
@@ -364,7 +364,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Deal +([Breath] Potency + [Breath] Count)% damage on Critical Hit"
+                  "desc": "Infligge +(Potenza + Conteggio [Breath])% danni su Colpo Critico"
                 }
               ]
             }
@@ -378,7 +378,7 @@
         {
           "level": 1,
           "name": "Liberazione da una Vita di Dolore",
-          "desc": "[StartBattle] Gain 2 [Vulnerable]",
+          "desc": "[StartBattle] Ottiene 2 [Vulnerable]",
           "coinlist": [
             {
               "coindescs": [
@@ -397,7 +397,7 @@
         {
           "level": 1,
           "name": "Ferire Tenace",
-          "desc": "If the target has 6+ [Laceration] Potency, +1 to [Laceration] Potency and Count inflicted by this Skill",
+          "desc": "Se il bersaglio 6+ [Laceration], +1 Potenza e Conteggio [Laceration] inflitti da questa Abilità",
           "coinlist": [
             {
               "coindescs": [
@@ -405,7 +405,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
@@ -415,7 +415,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 }
               ]
             }
@@ -429,19 +429,19 @@
         {
           "level": 1,
           "name": "Ferire",
-          "desc": "If the target has 6+ [Laceration] Potency, +1 to [Laceration] Potency and Count inflicted by this Skill",
+          "desc": "Se il bersaglio ha 6+ [Laceration], +1 Potenza e Conteggio [Laceration] inflitti da questa Abilità",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Laceration]"
                 }
               ]
             }
@@ -454,8 +454,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rovi che Imprigionano",
-          "desc": "If the target has 6+ [Laceration] Potency, +1 to [Laceration] Potency inflicted by this Skill",
+          "name": "Rovi Imprigionanti",
+          "desc": "Se il bersaglio ha 6+ [Laceration], +1 Potenza e Conteggio [Laceration] inflitti da questa Abilità",
           "coinlist": [
             {
               "coindescs": [
@@ -463,10 +463,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             }
@@ -480,19 +480,19 @@
         {
           "level": 1,
           "name": "Petali Polidipsici",
-          "desc": "Attacks the target with the highest sum of [Laceration] Potency + Count\n[WhenUse] If the target has 6+ [Laceration] Potency, Final Power +2",
+          "desc": "Attacca il bersaglio con la somma più alta di Potenza e Conteggio [Laceration]\n[WhenUse] Se il bersaglio ha 6+ [Laceration], Potere Finale +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [ScarletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [ScarletTakeDamageUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on the target once (reduce [Laceration] Count by 1)"
+                  "desc": "[OnSucceedAttack] Attiva [Laceration] sul bersaglio una volta (il bersaglio perde 1 Conteggio [Laceration])"
                 }
               ]
             }
@@ -506,19 +506,19 @@
         {
           "level": 1,
           "name": "Petali Dirompenti",
-          "desc": "Attacks the target with the highest sum of [Laceration] Potency + Count\n[WhenUse] If the target has 6+ [Laceration] Potency, Final Power +2",
+          "desc": "Attacca il bersaglio con la somma più alta di Potenza e Conteggio [Laceration]\n[WhenUse] Se il bersaglio ha 6+ [Laceration], Potere Finale +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [ScarletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [ScarletTakeDamageUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate all [Laceration] on the target (completely reduce [Laceration] Count)"
+                  "desc": "[OnSucceedAttack] Attiva tutto il [Laceration] sul bersaglio (il bersaglio perde tutto il Conteggio [Laceration])"
                 }
               ]
             }
@@ -532,12 +532,12 @@
         {
           "level": 1,
           "name": "Tempesta di Spine",
-          "desc": "[WhenUse] If the target has 6+ [Laceration] Potency, Final Power +2",
+          "desc": "[WhenUse] Se il bersaglio ha 6+ [Laceration], Potere Finale +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on the target once (reduce [Laceration] Count by 1)"
+                  "desc": "[OnSucceedAttack] Attiva [Laceration] sul bersaglio una volta (il bersaglio perde 1 Conteggio [Laceration])"
                 }
               ]
             }
@@ -551,7 +551,7 @@
         {
           "level": 1,
           "name": "Spina Polidipsica",
-          "desc": "[StartBattle] Gain 3 [AttackDmgUp] and 2 [Vulnerable]",
+          "desc": "[StartBattle] Ottiene 3 [AttackDmgUp] e 2 [Vulnerable]",
           "coinlist": [
             {
               "coindescs": [
@@ -559,10 +559,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
@@ -572,10 +572,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
@@ -585,10 +585,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             }
@@ -602,7 +602,7 @@
         {
           "level": 1,
           "name": "Ruscello Infinito di Sangue",
-          "desc": "[DuelCounter]\n[WhenUse] Targets that clash against this Skill do not lose [Laceration] Count while clashing",
+          "desc": "[DuelCounter]\n[WhenUse] I bersagli che Scontrano questa Abilità non perdono Conteggio [Laceration] durante lo Scontro",
           "coinlist": [
             {
               "coindescs": [
@@ -610,7 +610,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on the target once, and immediately consume [BloodDinner] generated by the [Laceration] damage"
+                  "desc": "[OnSucceedAttack] Attiva [Laceration] sul bersaglio una volta e consuma tutta l'[BloodDinner] generata da questi danni"
                 }
               ]
             },
@@ -620,7 +620,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on the target once, and immediately consume [BloodDinner] generated by the [Laceration] damage"
+                  "desc": "[OnSucceedAttack] Attiva [Laceration] sul bersaglio una volta e consuma tutta l'[BloodDinner] generata da questi danni"
                 }
               ]
             },
@@ -630,7 +630,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on the target once, and immediately consume [BloodDinner] generated by the [Laceration] damage"
+                  "desc": "[OnSucceedAttack] Attiva [Laceration] sul bersaglio una volta e consuma tutta l'[BloodDinner] generata da questi danni"
                 }
               ]
             }
@@ -644,7 +644,7 @@
         {
           "level": 1,
           "name": "Voglia di Nutrienti",
-          "desc": "Activates at 100+ [BloodDinner]\n[EndBattle] Consume up to 100 [BloodDinner] to activate the following effects:\n- Heal the Core and the Body Parts' PV by [BloodDinner] consumed\n- Gain 1 [AttackUp] next turn for every 20 [BloodDinner] consumed",
+          "desc": "Si attiva a 100+ [BloodDinner]\n[EndBattle] Consuma fino a 100 [BloodDinner] per attivare i seguenti effetti:\n- Il Corpo e la Testa recuperano PV in base all'[BloodDinner] consumata\n- Ottiene 1 [AttackUp] nel turno successivo per ogni 20 [BloodDinner] consumata",
           "coinlist": [
             {
               "coindescs": [
@@ -662,8 +662,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Brambles that Yearn",
-          "desc": "[WhenUse] Consume up to 100 [BloodDinner] to activate the following effects:\n- Heal the Core and the Body Parts' PV by [BloodDinner] consumed\n- This Skill gains Final Power +1 for every 20 [BloodDinner] consumed\n[DefeatDuel] Final Power -5\n[EndSkill] If this Skill consumed less than 30 [BloodDinner], gain 2 [Vulnerable] next turn",
+          "name": "Rovi Bramanti",
+          "desc": "[WhenUse] Consuma fino a 100 [BloodDinner] per attivare i seguenti effetti:\n- Il Corpo e la Testa recuperano PV in base all'[BloodDinner] consumata\n- Ottiene Potere Finale +1 per ogni 20 [BloodDinner] consumata\n[DefeatDuel] Potere Finale -5\n[EndSkill] Se questa Abilità ha consumato meno di 30 [BloodDinner], ottiene 2 [Vulnerable] nel turno successivo",
           "coinlist": [
             {
               "coindescs": [

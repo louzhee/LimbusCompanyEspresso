@@ -448,7 +448,7 @@
     {
       "id": "battle_react_10613_701",
       "desc": "Lord Hong Lu - Jia Mu Cradle",
-      "dlg": "Non ho mai permesso di farmi mettere in quella culla spregevole, e di certo non inizierò adesso! Non lo farò mai!!"
+      "dlg": "Non ho mai permesso di farmi mettere in quella culla spregevole... e di certo non inizierò adesso! Non lo farò mai!!"
     },
     {
       "id": "battle_react_10613_901",
@@ -464,6 +464,116 @@
       "id": "battle_react_10613_903",
       "desc": "Lord Hong Lu - Jia Qiu (3 Dialogue)",
       "dlg": "Il male va estirpato alla radice senza pietà [除惡務盡 斬草除根].\nLa Via che ho scelto in quanto Lord è una strada che non ha bisogno dell'approvazione altrui. Dunque, fratello— no, Jia Qiu, questo dialogo ha raggiunto un punto di stallo."
+    },
+    {
+      "id": "battle_eE_10415_1",
+      "desc": "Spidershu - Lucio interaction",
+      "dlg": "Ti farò a pezzi, così non ti azzarderai più a fare tali imitazioni."
+    },
+    {
+      "id": "battle_eE_10415_2",
+      "desc": "Spidershu - Ren interaction",
+      "dlg": "E tu... chi sei? Non ti ho mai visto al Nido dei Ragni."
+    },
+    {
+      "id": "battle_eE_10415_3",
+      "desc": "Spidershu - Albina interaction",
+      "dlg": "... Almeno quell'armatura protegge i miei occhi dal tuo corpo ripugnante."
+    },
+    {
+      "id": "battle_eE_10415_4",
+      "desc": "Spidershu - Sora interaction",
+      "dlg": "Forse quel dannato aggeggio smetterà di suonare non appena ti taglierò in mille pezzi e butterò ciò che ne resta in una fogna abbandonata."
+    },
+    {
+      "id": "battle_eE_10415_5",
+      "desc": "Spidershu - Shiomi Yoru interaction 1",
+      "dlg": "Persino in questo posto... c'è un essere come me?"
+    },
+    {
+      "id": "battle_eE_10415_6",
+      "desc": "Spidershu - Shiomi Yoru interaction 2",
+      "dlg": "Li vedo. Riesco a vedere tutti i fili del tuo tempo che si intrecciano su sé stessi."
+    },
+    {
+      "id": "battle_eE_10415_7",
+      "desc": "Spidershu - Dihui Star Interaction 1",
+      "dlg": "Spero che, cancellandomi, anche tu riesca a fare lo stesso."
+    },
+    {
+      "id": "battle_eE_10415_8",
+      "desc": "Spidershu - Dihui Star interaction 2",
+      "dlg": "È un peccato... hai visto un cielo che non volevi vedere e ti sei abbandonata alla speranza."
+    },
+    {
+      "id": "battle_eE_10415_9",
+      "desc": "Spidershu - Araya, interaction 1",
+      "dlg": "Che senso ha raccontarlo ancora e ancora, se non se lo ricorderà mai?"
+    },
+    {
+      "id": "battle_eE_10415_10",
+      "desc": "Spidershu - Araya interaction 2",
+      "dlg": "Non tornò neanche con l'appassire delle stesse ortensie."
+    },
+    {
+      "id": "battle_eE_10415_11",
+      "desc": "Spidershu - Araya interaction 3",
+      "dlg": "E non è passato un solo giorno in cui non volessi scoppiare in lacrime."
+    },
+    {
+      "id": "battle_eE_10415_12",
+      "desc": "Spidershu - Araya interaction 4",
+      "dlg": "Già. Faresti meglio a spezzare tutti quei fili, dal primo all'ultimo."
+    },
+    {
+      "id": "battle_eE_10415_13",
+      "desc": "Spidershu - Rien interaction",
+      "dlg": "Quel dannato rumore... Sei tu...! Sei la persona che devo fare a pezzi!"
+    },
+    {
+      "id": "battle_eE_10415_14",
+      "desc": "Spidershu - Rien (Furioso-Replica) interaction",
+      "dlg": "Scommetto che hai atteso con ansia. O è stato il tuo dio a dirti di farlo?"
+    },
+    {
+      "id": "battle_eE_10415_15",
+      "desc": "Spidershu - Rien (Furioso-Crescendo) interaction",
+      "dlg": "Quelli che meritano l'inferno siete voi, non io..."
+    },
+    {
+      "id": "battle_eE_10415_16",
+      "desc": "Spidershu - Rien (Furioso Lacrimosa-Crescendo) interaction",
+      "dlg": "E invece è proprio <i>così</i> semplice.\nPrima che questi fili strangolanti mi schiaccino, io... impugnerò la mia spada... e li reciderò tutti!!"
+    },
+    {
+      "id": "battle_eE_10415_17",
+      "desc": "Spidershu - Valencina interaction (MD only)",
+      "dlg": "Non ti devo alcuna spiegazione.\nTi faccio a pezzi perché mi va, come quando mi prendevi a botte tanto per sfogarti un po'."
+    },
+    {
+      "id": "battle_eE_10415_18",
+      "desc": "Spidershu - Rien interaction (MD only)",
+      "dlg": "Spero che la tua morte non sia stata pianificata dal tuo dio. Non vorrei rovinarmi tutto il divertimento."
+    },
+    {
+      "id": "battle_eE_10415_19",
+      "desc": "Spidershu - Matthias interaction (MD only)",
+      "dlg": "La tua Reliquia, le tue catene, la tua stupida collezione di giocattoli, la tua vita... Troverò tutto ciò a cui tieni e lo distruggerò."
+    },
+    {
+      "id": "battle_eE_10415_20",
+      "desc": "Spidershu - Callisto interaction (MD only)",
+      "dlg": "Morirai felice quando ti farò a pezzi? O ti pentirai di non aver mai ultimato la tua opera?"
+    },
+    {
+      "id": "battle_eE_10415_21",
+      "desc": "Spidershu - Sora interaction (MD only)",
+      "dlg": "Quel dannato aggeggio... Non mi sorprende che l'Arayashiki ti abbia fatta a pezzi."
+    },
+    {
+      "id": "battle_eE_10415_22",
+      "desc": "Spidershu - Ren interaction (MD only)",
+      "dlg": "È così familiare... Anche se nostri fili non si sono mai incrociati."
     },
 
 
@@ -584,7 +694,7 @@
     {
       "id": "battle_s4_10512_2",
       "desc": "Lei Sault - Enhanced S3 Start",
-      "dlg": "Ti colpirò con tutta la mia forza."
+      "dlg": "Vi affronterò con tutta la mia forza."
     },
     {
       "id": "battle_s3_10512_1_2-01",
@@ -624,7 +734,7 @@
     {
       "id": "battle_s3_10309_1_3-02",
       "desc": "TCorp Don - S3 Accelerated",
-      "dlg": "... Accelerazione!"
+      "dlg": "Accelerazione!"
     },
     {
       "id": "battle_s3_10810_1_4-01",
@@ -752,6 +862,11 @@
       "dlg": "Ti aiuterò a riposare in eterno."
     },
     {
+      "id": "battle_special_10408_1",
+      "desc": "Maid Ryoshu - Killed by Erlking",
+      "dlg": "Ma che... Brutto bastardo selvaggio che...!"
+    },
+    {
       "id": "battle_s3_10504_1_2",
       "desc": "NCorp Meur - S3",
       "dlg": "Silenzio."
@@ -839,7 +954,7 @@
     {
       "id": "battle_special_10712_2",
       "desc": "Korokumo Heathcliff - S3 Assist",
-      "dlg": "Hah... questi stronzi hanno proprio voglia di morire!"
+      "dlg": "Haah... questi stronzi hanno proprio voglia di morire!"
     },
     {
       "id": "battle_s2_10804_1",
@@ -924,7 +1039,7 @@
     {
       "id": "battle_s3_11008_1-02",
       "desc": "Cinq Sinclair - S3",
-      "dlg": "Io... l'ho raggiunto."
+      "dlg": "Io... l'ho già raggiunto."
     },
     {
       "id": "battle_s3_11012_1_3-02",
@@ -974,7 +1089,7 @@
     {
       "id": "battle_s3_11206_1_1_03_1",
       "desc": "Zwei Gregor - S3",
-      "dlg": "Basta così!"
+      "dlg": "<i>*puff*<i>...\nBasta così!"
     },
     {
       "id": "battle_s3_11207_1_01",
@@ -1064,7 +1179,7 @@
     {
       "id": "battle_s3_11211_1_3-05",
       "desc": "Firefist Gregor - S3 Kill 1",
-      "dlg": "Luridi vermi che non siete altro!"
+      "dlg": "Luridi vermi che non siete altro...!"
     },
     {
       "id": "battle_s3_11211_1_3",
@@ -1084,7 +1199,7 @@
     {
       "id": "battle_s3_11211_1_3-04",
       "desc": "Firefist Gregor - S3 Kill 3",
-      "dlg": "Luridi vermi che non siete altro!"
+      "dlg": "Luridi vermi che non siete altro!!"
     },
     {
       "id": "battle_special_10412_4_A",
@@ -1189,7 +1304,7 @@
     {
       "id": "battle_special_10513_2",
       "desc": "Princesault - S3-2",
-      "dlg": "Overtüre..."
+      "dlg": "Overtüre...!"
     },
     {
       "id": "battle_special_10513_3",
@@ -1252,6 +1367,11 @@
       "dlg": "Il Lord di Hongyuan?\nHeh, ah sì? Se è così...\nAllora, stavolta... di certo..."
     },
     {
+      "id": "battle_special_10413_3",
+      "desc": "Daiyu - Aiding Strike (Lord command)",
+      "dlg": "... non ti lascerò morire."
+    },
+    {
       "id": "battle_s3_10914_1_4",
       "desc": "Reindeer Rodya - S3",
       "dlg": "Ahaha... I botti sono proprio belli, vero?"
@@ -1273,12 +1393,12 @@
     },
     {
       "id": "battle_special_11114_2",
-      "desc": "Udjat - ",
+      "desc": "Udjat - Vanguard gain",
       "dlg": "Visione tattica implementata! Tramite l'Occhio dell'Udjat…"
     },
     {
       "id": "battle_special_11114_1",
-      "desc": "",
+      "desc": "Udjat - Guard",
       "dlg": "Rinforzi effettuati!"
     },
     {
@@ -1378,12 +1498,12 @@
     },
     {
       "id": "battle_s2_11015_1_4-01",
-      "desc": "",
+      "desc": "Ren - S2 start",
       "dlg": "Percorso della lama fissato."
     },
     {
       "id": "battle_s2_11015_1_4-02",
-      "desc": "",
+      "desc": "Ren - S2 start",
       "dlg": "Percorso della lama fissato."
     },
     {
@@ -1393,12 +1513,12 @@
     },
     {
       "id": "battle_s2_11015_1_6-01",
-      "desc": "",
+      "desc": "Ren - S2 (Coin 2)",
       "dlg": "Taglio a Catena [二連]."
     },
     {
       "id": "battle_s2_11015_1_6-02",
-      "desc": "",
+      "desc": "Ren - S2 (Coin 2)",
       "dlg": "Taglio a Catena [二連]."
     },
     {
@@ -1408,12 +1528,12 @@
     },
     {
       "id": "battle_s2_11015_1_7-01",
-      "desc": "",
+      "desc": "Ren - S2 (Coin Reuse)",
       "dlg": "Taglio Triplo [三連], Realizzato."
     },
     {
       "id": "battle_s2_11015_1_7-02",
-      "desc": "",
+      "desc": "Ren - S2 (Coin Reuse)",
       "dlg": "Taglio Triplo [三連], Realizzato."
     },
     {
@@ -1534,7 +1654,7 @@
     {
       "id": "battle_special_10614_5",
       "desc": "Callusto - Faubina dead",
-      "dlg": "Che peccato. Speravo che sareste diventati un capolavoro con sfregi ben più impressionanti..."
+      "dlg": "Che peccato. Speravo che saresti diventata un capolavoro con sfregi ben più impressionanti..."
     },
     {
       "id": "battle_s2_10215_1_1",
@@ -1690,6 +1810,51 @@
       "id": "battle_special_10715_4",
       "desc": "Cuozzocliff - Substitute",
       "dlg": "La punizione per tutte le parti coinvolte nei tuoi crimini... è una condanna a morte!"
+    },
+	{
+      "id": "",
+      "desc": "MIDDLE NURSEFATHER OUTIS START | Matthias - S3 Stamp of CATE",
+      "dlg": "Questi giocattoli..."
+    },
+    {
+      "id": "",
+      "desc": "Matthias - S3 Stamp of CATE",
+      "dlg": "Non vanno bene..."
+    },
+    {
+      "id": "",
+      "desc": "Matthias - S3 Stamp of CATE",
+      "dlg": "Non mi divertono più!"
+    },
+	{
+      "id": "",
+      "desc": "Matthias - Counter",
+      "dlg": "Viè qua!"
+    },
+    {
+      "id": "",
+      "desc": "Matthias - Lævateinn fully unsealed",
+      "dlg": "New line, awaiting translation"
+    },
+    {
+      "id": "",
+      "desc": "Matthias - Ishmael does something and triggers this line",
+      "dlg": "New line, awaiting translation"
+    },
+    {
+      "id": "",
+      "desc": "Matthias - S3 Gut Stab [Lævateinn]",
+      "dlg": "È molto calda..."
+    },
+    {
+      "id": "",
+      "desc": "Matthias - S3 Gut Stab [Lævateinn]",
+      "dlg": "<i><size=140%>CALDA DA MORIRE!!</size></i>"
+    },
+    {
+      "id": "",
+      "desc": "Matthias - S3 CATE [Lævateinn]",
+      "dlg": "<i><size=120%>Ho fatto centro!!</size></i>"
     },
     {
       "id": "",

@@ -2932,6 +2932,492 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1041501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fendente Triplo [三連]",
+          "desc": "[WhenUse] Ottiene +2 Conteggio [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ottiene 1 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge +2 Conteggio [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge +1 Conteggio [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge 2 [PhantomIncisionID]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge [PhantomIncisionID] pari a [SojiRyoshuEchoPast] su di sé (max 4)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge 2 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge danno Tagliente pari al ([SojiRyoshuEchoPast] x 2)% del danno finale di questa Moneta"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Fendente Triplo [三連]",
+          "desc": "<style=\"highlight\">[WhenUse] A 6+ [Breath], Potere Moneta +1</style>\n[WhenUse] Ottiene +<style=\"highlight\">3</style> Conteggio [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ottiene 1 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge +2 Conteggio [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge +1 Conteggio [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge 2 [PhantomIncisionID]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge [PhantomIncisionID] pari a [SojiRyoshuEchoPast] su di sé (max 4)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge danno Tagliente pari al ([SojiRyoshuEchoPast] x 2)% del danno finale di questa Moneta<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fendente Triplo [三連]",
+          "desc": "[WhenUse] A 6+ [Breath], Potere Moneta +1\n<style=\"highlight\">[WhenUse] Potere Finale +1 per ogni 6 ([Combustion] + [Laceration]) sul bersaglio (max 2)</style>\n[WhenUse] Ottiene +3 Conteggio [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ottiene 1 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge +2 Conteggio [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge +1 Conteggio [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge 2 [PhantomIncisionID]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge [PhantomIncisionID] pari a [SojiRyoshuEchoPast] su di sé (max 4)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge danno Tagliente pari al ([SojiRyoshuEchoPast] x 2)% del danno finale di questa Moneta<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fendente Triplo - Echeggiante [三連 - 殘]",
+          "desc": "[WhenUse] Ottiene +2 Conteggio [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 2 [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 2 [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge 2 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge danno Tagliente pari al ([SojiRyoshuEchoPast] x 3)% del danno finale di questa Moneta"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Fendente Triplo - Echeggiante [三連 - 殘]",
+          "desc": "<style=\"highlight\">[WhenUse] A 6+ [Breath], Potere Moneta +1</style>\n[WhenUse] Ottiene +<style=\"highlight\">3</style> Conteggio [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge danno Tagliente pari al ([SojiRyoshuEchoPast] x 3)% del danno finale di questa Moneta<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fendente Triplo - Echeggiante [三連 - 殘]",
+          "desc": "[WhenUse] A 6+ [Breath], Potere Moneta +1\n<style=\"highlight\">[WhenUse] Potere Finale +1 per ogni 6 ([Combustion] + [Laceration]) sul bersaglio (max 2)</style>\n[WhenUse] Ottiene +3 Conteggio [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge danno Tagliente pari al ([SojiRyoshuEchoPast] x 3)% del danno finale di questa Moneta<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Lacera lo Spazio [空間斬]",
+          "desc": "[WhenUse] Potere Finale +1 per ogni 4 [Breath] su di sé (max 5)\n[WhenUse] Infligge +5% danni per ogni [SojiRyoshuEchoPast] su di sé\n[WhenUse] Ottiene 5 [Breath]\n[WhenUse] Ottiene +1 Portata Attacco per ogni 2 [SojiRyoshuEchoPast] su di sé (max 2)\n[WhenUse] Infligge +15% danni per ogni Portata Attacco in eccesso rispetto al numero effettivo dei bersagli (negli Incontri Mirati, le Parti)\n[EndSkill] Infligge casualmente ([SojiRyoshuEchoPast] su di sé + 10) [PhantomIncisionID] tra tutti i bersagli colpiti dall'Abilità",
+          "flavor": "\"La via della spada, eh? Già, A forza di non schiodarsi da un unico sentiero come un deficiente con i paraocchi alla fine si finisce per tagliare persino lo spazio. Oh, ma non montarti la testa—Fa solo tremolare lo spazio squarciato per un po', come l'aria con il caldo. Dagli un po' di tempo e il taglio si richiude come se non fosse mai esistito\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Infligge +30% danni su Colpo Critico"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge 3 [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Attiva [Combustion] sul bersaglio. Il bersaglio perde 1 Conteggio [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Attiva [Laceration] sul bersaglio. Il bersaglio perde 1 Conteggio [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge danno Tagliente pari al ([SojiRyoshuEchoPast] x 3)% del danno finale di questa Moneta"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lacera lo Spazio [空間斬]",
+          "desc": "[WhenUse] Potere Finale +1 per ogni 4 [Breath] su di sé (max 5)\n<style=\"highlight\">[WhenUse] Potere Base +1 per ogni 6 ([Combustion] + [Laceration]) sul bersaglio principale (max 5)</style>\n[WhenUse] Infligge +5% danni per ogni [SojiRyoshuEchoPast] su di sé\n[WhenUse] Ottiene 5 [Breath]\n[WhenUse] Ottiene +1 Portata Attacco per ogni 2 [SojiRyoshuEchoPast] su di sé (max 2)\n[WhenUse] Infligge <style=\"highlight\">+30%</style> danni per ogni Portata Attacco in eccesso rispetto al numero effettivo dei bersagli (negli Incontri Mirati, le Parti)\n[EndSkill] Infligge casualmente ([SojiRyoshuEchoPast] su di sé + 10) [PhantomIncisionID] tra tutti i bersagli colpiti dall'Abilità",
+          "flavor": "\"La via della spada, eh? Già, A forza di non schiodarsi da un unico sentiero come un deficiente con i paraocchi alla fine si finisce per tagliare persino lo spazio. Oh, ma non montarti la testa—Fa solo tremolare lo spazio squarciato per un po', come l'aria con il caldo. Dagli un po' di tempo e il taglio si richiude come se non fosse mai esistito\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Infligge <style=\"highlight\">+50%</style> danni su Colpo Critico"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge 3 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Attiva [Combustion] sul bersaglio. Il bersaglio perde 1 Conteggio [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Attiva [Laceration] sul bersaglio. Il bersaglio perde 1 Conteggio [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge danno Tagliente pari al ([SojiRyoshuEchoPast] x <style=\"highlight\">4</style>)% del danno finale di questa Moneta"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Passo Fantasma [殘像步]",
+          "desc": "[StartBattle] Bersaglia l'ultimo alleato schierato del Nido dei Ragni (2 volte per turno)\n- A 1+ [SojiRyoshuEntangle], bersaglia 1 alleato in più\n- A Fine Abilità di tutte le Abilità equipaggiate dal bersaglio in questo turno, o se il bersaglio è Stordito, o se il bersaglio non ha Abilità rimaste, usa \"Assasinio Dei Cieli - Tiansha\" sul bersaglio come un Attacco Unilaterale (una volta per Identità)\n - Il Nido dei Ragni: Apprendista del Mignolo Sinclair riceve priorità per ultimo\n[StartBattle] Ottiene +3 Conteggio [Breath] (una volta per turno)",
+          "flavor": "\"Ciò che stai inseguendo non è altro che il mio fantasma\"",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Passo Fantasma [殘像步]",
+          "desc": "[StartBattle] Bersaglia l'ultimo alleato schierato del Nido dei Ragni (2 volte per turno)\n- A 1+ [SojiRyoshuEntangle], bersaglia 1 alleato in più\n- A Fine Abilità di tutte le Abilità equipaggiate dal bersaglio in questo turno, o se il bersaglio è Stordito, o se il bersaglio non ha Abilità rimaste, usa \"Assasinio Dei Cieli - Tiansha\" sul bersaglio come un Attacco Unilaterale (una volta per Identità)\n - Il Nido dei Ragni: Apprendista del Mignolo Sinclair riceve priorità per ultimo\n[StartBattle] Ottiene +3 Conteggio [Breath] (una volta per turno)\n<style=\"highlight\">[OnSucceedEvade] Ottiene 1 [Breath] (3 volte per turno)</style>",
+          "flavor": "\"Ciò che stai inseguendo non è altro che il mio fantasma\"",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Assasinio dei Cieli - Tiansha [天殺]",
+          "desc": "[CantDuel]\nQuesta Abilità non attiva le Abilità Difensive ed effetti esterni non possono riattivarla\nDisattiva i \"Fattori di base che diminuiscono la Sanità\" quando si utilizza questa Abilità\n[WhenUse] Per questo Incontro, perde 1 Livello Offensivo e ottiene Potere Base +1 fper gli Attacchi di questa unità (4 volte per Incontro)\n[TargetKill] Recupera 20 PS\n[TargetKill] Ottiene [RyoshuEGOPF] pari al danno inflitto con questa Abilità",
+          "flavor": "\"*sputo* Com'è che faceva quel detto? Che bisogna venerare i genitori come il cielo stesso?\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 20 [PhantomIncisionID]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Se il bersaglio è un alleato del Nido dei Ragni, infligge 120% danni ai PV come danno fisso"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fine Inevitabile [必然殺]",
+          "desc": "[CantDuel]\nQuesta Abilità non attiva le Abilità Difensive ed effetti esterni non possono riattivarla\n[WhenUse] Ottiene +1 Conteggio [Breath]\n[BeforeAttack] Se questa Abilità è stata attivata dall'Abilità 3,\n- Applica Portata Attacco a questa Abilità pari al numero di nemici che hanno [SojiRyoshuEchoFuture] (min 1)\n- Dà priorità ai nemici che hanno [SojiRyoshuEchoFuture]\n[EndSkill] Le Stack di [SojiRyoshuEchoFuture] sul bersaglio scadono",
+          "flavor": "\"Oho... Che modo originale di usare la Spada della Stella Dihui, la lama che lascia sempre alle spalle un non so che di persistente. Gli attacchi impossibili da schivare sembrano un po' da vigliacchi, ma...ah! Devo proprio dirlo, quella spada mi piace\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Infligge +30% danni su Colpo Critico"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge 2 [PhantomIncisionID]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge [PhantomIncisionID] pari a [SojiRyoshuEchoPast] su di sé (max 4)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Attiva [Combustion] sul bersaglio. Il bersaglio perde 1 Conteggio [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge 1 [SlashTakeDamageUp]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041507,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Lacera lo Spazio - Echeggiante [空間斬 - 殘]",
+          "desc": "[WhenUse] Per ogni [SojiRyoshuEntangle] su di sé, questa Abilità perde 1 Potere Base e ottiene un'Abilità 1 extra prima di usare l'Abilità 2\n[WhenUse] La Moneta finale ottiene Potere Moneta +1 per ogni [SojiRyoshuEchoPast] su di sé\n[WhenUse] Infligge +50% danni per ogni Portata Attacco in eccesso rispetto al numero di bersagli effettivi (negli Incontri Mirati, le Parti)\n[EndSkill] Aumenta il limite delle Stack Min & Max di [SojiRyoshuEchoPast] di 1 e resetta [SojiRyoshuEchoPast] su di sé alle Stack minime (max 2 volte per Incontro)\n[EndSkill] Consuma 50 [PhantomIncisionTotalID]",
+          "flavor": "\"Questo Apre sicuramente nuove strade nell' ambito delle tecniche di taglio spaziali\"\n\"Hai sentito? Si potrebbe pensare che squarciare il tessuto stesso dello spazio sia il culmine della Via della Spada,  tuttavia il percorso si estende ben oltre. Continuando ad allenarsi, si sviluppa un proprio stile unico nel farlo. Ciò aggiunge un ulteriore livello di artisticità, lasciando un tocco non convenzionale a una tecnica universale, permettendo allo squarcio di persistere o, a volte, persino di ridursi al lampo di un istante.\"\n\"È motivo di orgoglio per coloro che hanno scelto la via della spada, ciò significa che è spesso oggetto di dibattito nel settore. Fuhu, mi ricorda i giorni in cui ero solito abbandonarmi a dispute di analoga belligeranza con gli altri Maestri.\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Infligge +30% danni su Colpo Critico"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Consuma tutte le Stack di [PhantomIncisionID] sul bersaglio e infligge danno Tagliente pari al ([PhantomIncisionID] consumed / 10)% del danno finale di questa Moneta"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Infligge danno Tagliente pari al ([SojiRyoshuEchoPast] x 4)%  del danno finale di questa Moneta"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Attiva [Combustion] sul bersaglio. Il bersaglio perde 1 Conteggio [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Attiva [Laceration] sul bersaglio. Il bersaglio perde 1 Conteggio [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041508,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Lacera lo Spazio - Echeggiante [空間斬 - 緣]",
+          "desc": "[CantDuel]\nQuesta Abilità non non attiva le Abilità Difensive del bersaglio\n[WhenUse] Ottiene 5 [Breath]\n[WhenUse] Ottiene [SojiRyoshuShin]\n[EndSkill] Rimuove la prima soglia di Stordimento di questa unità (una volta per Incontro)",
+          "flavor": "\"Imbalsamato e immobile giace il nemico nello squarcio che la lama ha aperto nello spazio\"\n\"Tale maestria con la lama è sovente di sì assoluta acutezza, che le sue vittime non sanno d'esser state recise; O, quand'anche ne avessero in modo contezza, restano inchiodate da una traccia di lama che ghermisce lo spazio che abitano, solo per sanguinare una volta trascorso l'istante\"\n\"Eppure... la differenza risiede nel modo in cui taglia\"\n\"La lama ha invero tracciato un unico solco, ma nel rinfoderarla colui che la impugna ha evocato nella propria mente la moltitudine di fendenti che hanno seguito la medesima traiettoria—una tecnica di somma precisione\"\n\"Uhm. Mi sono sovente imbattuto in tecniche simili nei giorni successivi all' incidente; tecniche che paiono contraddire la natura stessa della causalità\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 5 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Attiva [Combustion] sul bersaglio. Il bersaglio perde 1 Conteggio [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

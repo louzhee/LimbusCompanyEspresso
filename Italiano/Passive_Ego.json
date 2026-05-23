@@ -51,6 +51,12 @@
       "desc": "Ogni quarta Abilità usata da questa unità ottiene +4 Potere Finale ed infligge 4 [Combustion] Sul Colpo."
     },
     {
+      "id": 2040212,
+      "name": "Fiamma del Quarto Fiammifero",
+      "desc": "Ogni quarta Abilità usata da questa unità ottiene +4 Potere Finale ed infligge 4 [Combustion] Sul Colpo\n- Se questa Abilità è di Affinità Ira, infligge danni aggiuntivi (max 20%) in base a +(Potenza [Combustion] Su tutti i bersagli / 2)%\n- Se questa abilità è una Abilità, applica i seguenti effetti a Uso Moneta della prima Moneta:\n· Se la Moneta è una Positiva, recupera 10 PS\n· Se la Moneta è una Negativa, perde 15 PS (questo effetto non può ridurre i PS dell'unità al di sotto di -40)",
+      "summary": "Ogni quarta Abilità usata è potenziata"
+    },
+    {
       "id": 2050111,
       "name": "Rifiuto di Giudicare",
       "desc": "A Inizio Combattimento: Ottiene 3 [Protection] se questa unità viene bersagliata da 3 o più Abilità"
@@ -328,7 +334,7 @@
     {
       "id": 2070611,
       "name": "Catene del Vincolo",
-      "desc": "- A Inizio Combattimento: A 4+ Rison. più alta che include le Abilità di questa unità, applica 3 [AttackUp] e 3 [DefenseUp] su di sé e agli alleati che erano parte della Risononanza\n- Se la Rison. era una Rison-A, applica 2 ulteriori [AttackUp] e [DefenseUp]"
+      "desc": "- A Inizio Combattimento: A 4+ Rison. più alta che include le Abilità di questa unità, applica 3 [AttackUp] e 3 [DefenseUp] su di sé e agli alleati che erano parte della Risonanza\n- Se la Rison. era una Rison-A, applica 2 ulteriori [AttackUp] e [DefenseUp]"
     },
     {
       "id": 2110611,

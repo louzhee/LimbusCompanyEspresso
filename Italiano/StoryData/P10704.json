@@ -1,121 +1,121 @@
 {
-  "dataList": [
-    {
-      "id": 0,
-      "content": "This is not what I'd hoped for."
-    },
-    {
-      "id": 1,
-      "content": "I didn't know what I was getting into."
-    },
-    {
-      "id": 2,
-      "content": "I just… I wanted to do better."
-    },
-    {
-      "id": 3,
-      "content": "What Cathy said that day jabbed my heart through and through…"
-    },
-    {
-      "id": 4,
-      "content": "So I ran out, swearing down that I'd never go back."
-    },
-    {
-      "id": 5,
-      "teller": "Leading Inquisitor",
-      "title": "N Corp. Großhammer",
-      "content": "This should be enough. We'll head back."
-    },
-    {
-      "id": 6,
-      "content": "How did I get myself caught up in all this?"
-    },
-    {
-      "id": 7,
-      "teller": "Leading Inquisitor",
-      "title": "N Corp. Großhammer",
-      "content": "You there, Kleinhammer."
-    },
-    {
-      "id": 8,
-      "model": "히스클리프",
-      "teller": "Heathcliff",
-      "title": "N Corp. Kleinhammer",
-      "content": "…Ah! Sir!"
-    },
-    {
-      "id": 9,
-      "teller": "Leading Inquisitor",
-      "title": "N Corp. Großhammer",
-      "content": "Didn't you hear what I just said? We're heading back. Follow me."
-    },
-    {
-      "id": 10,
-      "content": "What's the deal with that odd-looking nail?"
-    },
-    {
-      "id": 11,
-      "content": "There's some kinda transparent needle at the center, and it starts filling with something when it's jabbed into a person."
-    },
-    {
-      "id": 12,
-      "content": "It's like human—"
-    },
-    {
-      "id": 13,
-      "teller": "Leading Inquisitor",
-      "title": "N Corp. Großhammer",
-      "content": "What thought are you occupied with?"
-    },
-    {
-      "id": 14,
-      "model": "히스클리프",
-      "teller": "Heathcliff",
-      "title": "N Corp. Kleinhammer",
-      "content": "I—It's nothing, sir."
-    },
-    {
-      "id": 15,
-      "teller": "Leading Inquisitor",
-      "title": "N Corp. Großhammer",
-      "content": "Today is a day of ritual. You should rid yourself of any distracting thoughts in advance."
-    },
-    {
-      "id": 16,
-      "content": "Tch… Them and their bloody ritual!"
-    },
-    {
-      "id": 17,
-      "content": "They're going to make me memorize phrases from that headache-inducing book."
-    },
-    {
-      "id": 18,
-      "content": "Then, they'll feed me some sort of white porridge out of a crummy can…"
-    },
-    {
-      "id": 19,
-      "content": "Feels like my memories slowly blur and melt together whenever this happens…"
-    },
-    {
-      "id": 20,
-      "teller": "Leading Inquisitor",
-      "title": "N Corp. Großhammer",
-      "content": "Now the chant: “Heretics—”"
-    },
-    {
-      "id": 21,
-      "model": "히스클리프",
-      "teller": "Heathcliff",
-      "title": "N Corp. Kleinhammer",
-      "content": "“—shall be purged.”"
-    },
-    {
-      "id": 22,
-      "content": "Huh?"
-    },
-    {
-      "id": 23,
-      "content": "What did… I just say?"
-    }
-  ]
+    "dataList": [
+        {
+            "id": 0,
+            "content": "Non è quello che speravo."
+        },
+        {
+            "id": 1,
+            "content": "Non sapevo in cosa mi stessi cacciando."
+        },
+        {
+            "id": 2,
+            "content": "Io... volevo solo fare di meglio."
+        },
+        {
+            "id": 3,
+            "content": "Quello che ha detto Cathy quel giorno mi ha trafitto il cuore da parte a parte..."
+        },
+        {
+            "id": 4,
+            "content": "Quindi sono corso via, giurando che non sarei mai più tornato."
+        },
+        {
+            "id": 5,
+            "teller": "Inquisitore Capo",
+            "title": "Großhammer della N Corp.",
+            "content": "Questo dovrebbe bastare. Facciamo ritorno."
+        },
+        {
+            "id": 6,
+            "content": "Come ho fatto a farmi coinvolgere in tutto questo?"
+        },
+        {
+            "id": 7,
+            "teller": "Inquisitore Capo",
+            "title": "Großhammer della N Corp.",
+            "content": "Tu lì, Kleinhammer."
+        },
+        {
+            "id": 8,
+            "model": "히스클리프",
+            "teller": "Heathcliff",
+            "title": "Kleinhammer della N Corp.",
+            "content": "…Ah! Signore!"
+        },
+        {
+            "id": 9,
+            "teller": "Inquisitore Capo",
+            "title": "Großhammer della N Corp.",
+            "content": "Non hai sentito quello che ho appena detto? Stiamo tornando. Seguimi."
+        },
+        {
+            "id": 10,
+            "content": "Che cos'ha di strano quel chiodo dall'aspetto così bizzarro?"
+        },
+        {
+            "id": 11,
+            "content": "C'è una specie di ago trasparente al centro, e inizia a riempirsi di qualcosa quando viene conficcato in una persona."
+        },
+        {
+            "id": 12,
+            "content": "Sembra qualcosa di uma—"
+        },
+        {
+            "id": 13,
+            "teller": "Inquisitore Capo",
+            "title": "Großhammer della N Corp.",
+            "content": "A cosa stai pensando?"
+        },
+        {
+            "id": 14,
+            "model": "히스클리프",
+            "teller": "Heathcliff",
+            "title": "Kleinhammer della N Corp.",
+            "content": "N—Nulla, signore."
+        },
+        {
+            "id": 15,
+            "teller": "Inquisitore Capo",
+            "title": "Großhammer della N Corp.",
+            "content": "Oggi è il giorno del rituale. Dovresti liberare la mente da qualsiasi distrazione fin da ora."
+        },
+        {
+            "id": 16,
+            "content": "Tsk… Loro e il loro maledetto rituale!"
+        },
+        {
+            "id": 17,
+            "content": "Mi costringeranno a ripetere a memoria i passi di quel libro che fa venire il mal di testa."
+        },
+        {
+            "id": 18,
+            "content": "E poi, mi rifileranno una specie di pappa biancastra da una lattina scadente…"
+        },
+        {
+            "id": 19,
+            "content": "Ogni volta che succede, mi sembra che i miei ricordi si sfochino e si fondano lentamente…"
+        },
+        {
+            "id": 20,
+            "teller": "Inquisitore Capo",
+            "title": "Großhammer della N Corp.",
+            "content": "Ora il dogma: “Gli eretici—”"
+        },
+        {
+            "id": 21,
+            "model": "히스클리프",
+            "teller": "Heathcliff",
+            "title": "Kleinhammer della N Corp.",
+            "content": "“—saranno purificati.”"
+        },
+        {
+            "id": 22,
+            "content": "Eh?"
+        },
+        {
+            "id": 23,
+            "content": "Cosa… ho appena detto?"
+        }
+    ]
 }

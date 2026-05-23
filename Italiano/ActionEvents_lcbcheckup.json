@@ -3,27 +3,27 @@
     {
       "id": 971042,
       "name": "",
-      "desc": "We're at the starting point of the Dungeon of the Fathoms.\n\nWe found ourselves in a room that appears to be a workshop of E.G.O gears.\n\n'If you have scored below 100% synchronization rate in the aptitude test, take only a single E.G.O from here.'\n\nAn ominous warning sign greets us all, and the same words repeat ceaselessly from the speaker.\n\nThe Sinners all go to take a look, enticed by the sign telling us that we can pick up E.G.O gears here... but what we find there are E.G.O Gifts.\n\n\"Wha? These ain't E.G.O gears. These are... them gifts or something, right?\"\n\n\"It appears that E.G.O are manifest here in the shape of E.G.O Gifts.\"\n\n\"Hm. Can't we just take them all?\"\n\n\"This is a Dungeon of the Fathoms. As it differs from the usual Mirror Dungeons, it is highly advisable that its rules are followed.\n\nWhat should we do?",
+      "desc": "Siamo all'inizio del Dungeon dei Meandri.\n\nCi ritroviamo in una stanza che sembra essere un'officina di equipaggiamenti E.G.O.\n\n'Se avete segnato meno del 100% del rapporto di sincronia nel test attitudinale, prendete solamente un E.G.O da questa parte.'\n\nUn minaccioso cartello d'avvertimento ci accoglie, e le stesse parole vengono ripetute incessantemente dall'altoparlante.\n\nI Peccatori vanno a dare un'occhiata, attirati dal cartello che ci dice di poter prendere degli equipaggiamenti E.G.O da qui... ma quel che vediamo sono Doni E.G.O.\n\n\"Ma che? Questi non son equipaggiamenti E.G.O. Non sono quei... regali o quel che sono?\"\n\n\"Pare che in questo luogo gli E.G.O si manifestino sotto l'aspetto di Doni E.G.O.\"\n\n\"Mh. Non possiamo semplicemente prenderceli tutti?\"\n\n\"Questo è un Dungeon dei Meandri. Anche se differisce dal solito Dungeon Specchio, è altamente consigliato che vengano seguite le sue regole.\"\n\nCosa dovremmo fare?",
       "options": [
         {
-          "message": "Take the flaming gauntlet.",
-          "messageDesc": "Select to gain a Burn E.G.O Gift",
+          "message": "Prendi i guanti fiammeggianti.",
+          "messageDesc": "Seleziona per ottenere un Dono E.G.O Bruciatura",
           "result": [
-            "This one seems best suited for the situation we're in.\n\nWe take the 'Combustion Gloves' E.G.O Gift."
+            "Questo sembra il più adatto per la situazione in cui ci troviamo.\n\nPrendiamo il Dono E.G.O 'Guanti della Combustione'."
           ]
         },
         {
-          "message": "Take the combat boots with spiky bits on them.",
-          "messageDesc": "Select to gain a Rupture E.G.O Gift",
+          "message": "Prendi gli anfibi con parti spinose.",
+          "messageDesc": "Seleziona per ottenere un Dono E.G.O Lacerazione",
           "result": [
-            "This one seems best suited for the situation we're in.\n\nWe take the 'Spiked Combat Boots' E.G.O Gift."
+            "Questo sembra il più adatto per la situazione in cui ci troviamo.\n\nPrendiamo il Dono E.G.O 'Anfibi Spinati'."
           ]
         },
         {
-          "message": "Take the cleaning solution spray.",
-          "messageDesc": "Select to gain a Keywordless E.G.O Gift",
+          "message": "Prendi la soluzione spray detergente.",
+          "messageDesc": "Seleziona per ottenere un Dono E.G.O Senza Tratti",
           "result": [
-            "This one seems best suited for the situation we're in.\n\nWe take the 'Illusory Hunt' E.G.O Gift."
+            "Questo sembra il più adatto per la situazione in cui ci troviamo.\n\nPrendiamo il Dono E.G.O 'Caccia Illusoria'."
           ]
         }
       ]
@@ -31,18 +31,18 @@
     {
       "id": 971043,
       "name": "",
-      "desc": "We came across a group of researchers passionately poring over various documents.\n\nThey're having a debate about two subjects: emotions and flame.\n\n\"Regular flames don't seem to hurt the Abnormalities very much. So why does this work, I wonder...?\"\n\n\"Perhaps a greater degree of wrathful emotions opens up the room for the fire's heat to touch Abnormalities and Distortions, both entities of the unknown.\"\n\nThey must've noticed us listening in to their conversation intently—one of them approaches us with a glint in their eyes.\n\n\"Are you the 'sample' who's agreed to this experiment?\"\n\n\"If so, try this on.\"\n\nIn the researcher's hands was what looked like an ignition plug... or a testing machine of sorts.",
+      "desc": "Ci siamo imbattuti in un gruppo di ricercatori che stavano studiando minuziosamente vari documenti.\n\nStanno avendo un dibattito su 2 argomenti: le emozioni e le fiamme.\n\n\"Fiamme comuni non sembrano danneggiare molto le Anormalità. Quindi come mai questa sembra funzionare...?\"\n\n\"Forse un alto grado di emozioni furibonde permettono al calore della fiamma di toccare le Anormalità e le Distorsioni, essendo entrambe entità dell'ignoto.\"\n\nDevono averci notato origliare la loro conversazione—uno di loro si avvicina con gli occhi speranzosi.\n\n\"Siete voi i 'campioni' che hanno accettato questo esperimento?\"\n\n\"Se è così, provate ad usare questo.\"\n\nNelle mani del ricercatore c'era quel che dava l'aria di essere una spina di accensione... o una qualche sorta di macchina per delle prove.",
       "options": [
         {
-          "message": "You have the wrong person.",
+          "message": "Avete preso la persona sbagliata.",
           "messageDesc": "",
           "result": [
-            "\"Wha? You're not the sample?\"\n\n\"Then what the hell are you doing in here? Get out, now!\"\n\nWe were kicked out."
+            "\"Che? Non siete i campioni?\"\n\n\"Ma allora che ci fate qui? Andatevene, adesso!\"\n\nSiamo stati cacciati."
           ]
         },
         {
-          "message": "We're the 'samples'.",
-          "messageDesc": "Run a Wrath & Lust Advantage check to gain a Burn E.G.O Gift.",
+          "message": "Siamo i 'campioni'.",
+          "messageDesc": "Esegui una prova con Vantaggio per Ira e Lussuria per ottenere un Dono E.G.O Bruciatura.",
           "result": [
             ""
           ]
@@ -52,20 +52,20 @@
     {
       "id": 971044,
       "name": "",
-      "desc": "Several researchers are moving about busily in a hectic-looking laboratory.\n\nDid something escape, or something?\n\nAs we stood there gawking at the mess, someone walked up to the Sinners.\n\n\"Get outta my way!\"\n\n\"A-actually, you know what? Perfect timing.\"\n\n\"Eat this. C'mon, we don't have much time 'till the clinical trial report deadline!\"",
+      "desc": "Parecchi ricercatori girano frettolosamente in un laboratorio dall'aria frenetica.\n\nMa sarà scappato qualcosa, o che?\n\nMentre eravamo imbambolati davanti al casino, qualcuno cammina verso i Peccatori.\n\n\"Toglietevi di mezzo!\"\n\n\"N-no, anzi sapete che c'è? Siete capitati nel momento giusto.\"\n\n\"Ingerite questo. Eddai, non abbiamo molto tempo prima della scadenza del resoconto sulla prova clinica!\"",
       "options": [
         {
-          "message": "Eat it.",
-          "messageDesc": "Run a Gluttony & Gloom Advantage check to gain a Rupture E.G.O Gift.",
+          "message": "Ingeritelo.",
+          "messageDesc": "Esegui una prova con Vantaggio per Gola e Tristezza per ottenere un Dono E.G.O Lacerazione.",
           "result": [
             ""
           ]
         },
         {
-          "message": "We're not eating that. We don't even know what that is.",
+          "message": "Non lo prendiamo. Non sappiamo nemmeno cosa sia.",
           "messageDesc": "",
           "result": [
-            "\"Well, then get the hell outta my way!\"\n\nThe researcher pushed us aside."
+            "\"E ma allora levatevi dalle scatole!\"\n\nIl ricercatore ci spinge via."
           ]
         }
       ]
@@ -73,20 +73,20 @@
     {
       "id": 971045,
       "name": "",
-      "desc": "We see the Ardor Blossom Moth within the containment unit.\n\nSmall, crimson particles of flame surround it like an aura.\n\nThe flaming wings die out one moment, only to roar vigorously in the next.\n\nAn incessant attempt to set fire to everything around it.\n\n\"What a beautiful specimen, this Ardor Blossom Moth. Have you finished your observations?\"\n\n\"We've been learning a lot about the Abnormality recently.\"\n\n\"There's still a lot of unknowns, but still.\"\n\n\"Speaking of which, here's a pop quiz. What E.G.O Gift can you get from the Ardor Blossom Moth?\"",
+      "desc": "Vediamo la Falena del Fiore Ardente all'interno dell'unità di contenimento.\n\nPiccole particelle di fiamme cremisi la circondano come un'aura.\n\nLe ali fiameggianti si spengono brevemente, per poi rivampare vigorosamente poco dopo.\n\nUn tentativo incessante di incendiare tutto ciò che la circonda.\n\n\"Che meraviglioso esemplare, questa Falena del Fiore Ardente. Non hai ancora terminato con le tue osservazioni?\"\n\n\"Stiamo imparando molto su questa Anormalità recentemente.\"\n\n\"Eppure c'è ancora molto che non sappiamo su di lei.\"\n\n\"A proposito di sapere, ecco un'interrogazione a sorpresa. Quale Dono E.G.O puoi ottenere dalla Falena del Fiore Ardente?\"",
       "options": [
         {
-          "message": "Subaquatic Blossom",
-          "messageDesc": "Select the right answer to gain a Burn E.G.O Gift",
+          "message": "Fioritura Subacquea",
+          "messageDesc": "Seleziona la risposta giusta per ottenere un Dono E.G.O Bruciatura",
           "result": [
-            "\"…….\"\n\n\"Pay more attention next time.\"\n\nThe researcher brushed past us."
+            "\"…….\"\n\n\"Presta più attenzione per la prossima volta.\"\n\nIl ricercatore passa accanto a noi."
           ]
         },
         {
-          "message": "Hellterfly's Dream",
-          "messageDesc": "Select the right answer to gain a Burn E.G.O Gift",
+          "message": "Sogno della Falena Infernale",
+          "messageDesc": "Seleziona la risposta giusta per ottenere un Dono E.G.O Bruciatura",
           "result": [
-            "\"Right on the money. You know your Ardor Blossom Moth.\"\n\n\"But that's not all. Recently, it's been giving out these things, too.\"\n\n\"Take this with you. I'm just glad to have run into a kindred soul.\"\n\nYou receive a burning, flickering flame. It seems to have come directly from the Ardor Blossom Moth itself."
+            "\"Esatto. Te ne sai molto sulla Falena del Fiore Ardente.\"\n\n\"Ma non è tutto. Di recente sta producendo anche questi oggetti.\"\n\n\"Prendi questo con te. Sono alquanto grato di aver incontrato un'anima gemella quest'oggi.\"\n\nHai ricevuto una sfavillante fiamma ardente. Sembra sia venuta direttamente dalla stessa Falena del Fiore Ardente."
           ]
         }
       ]
@@ -94,20 +94,20 @@
     {
       "id": 971046,
       "name": "",
-      "desc": "We see the Lanterna Fatata within the containment unit.\n\nA cyan-hued fairy flutters toward the wiry, ancient branches of the tree and softly lands on one of them.\n\nThe branch seating the fairy sways, as though to entice us to get closer to them...\n\nBright, countless yellow eyes glimmer from the shadows beneath its roots.\n\n\"What a beautiful specimen, this Lanterna Fatata. Have you finished your observations?\"\n\n\"We've been learning a lot about the Abnormality recently.\"\n\n\"There's still a lot of unknowns, but still.\"\n\n\"Speaking of which, here's a pop quiz. What E.G.O Gift can you get from the Lanterna Fatata?\"",
+      "desc": "Vediamo la Lanterna Fatata all'interno dell'unità di contenimento.\n\nUna fatina di una sfumatura di ciano volteggia verso gli antichi e ispidi rami dell'albero, per poi lentamente appoggiarsi ad uno di essi.\n\nIl ramo che fa da appoggio alla fatina oscilla, come se ci stesse invitando ad avvicinarci a loro...\n\nInnumerevoli occhi gialli brillanti si illuminano dalle ombre sottostanti alle sue radici.\n\n\"Che meraviglioso esemplare, questa Lanterna Fatata. Non hai ancora terminato con le tue osservazioni?\"\n\n\"Stiamo imparando molto su questa Anormalità recentemente.\"\n\n\"Eppure c'è ancora molto che non sappiamo su di lei.\"\n\n\"A proposito di sapere, ecco un'interrogazione a sorpresa. Quale Dono E.G.O puoi ottenere dalla  Lanterna Fatata?\"",
       "options": [
         {
-          "message": "Midwinter Nightmare",
-          "messageDesc": "Select the right answer to gain a Rupture E.G.O Gift",
+          "message": "Incubo di Mezzo Inverno",
+          "messageDesc": "Seleziona la risposta giusta per ottenere un Dono E.G.O Lacerazione",
           "result": [
-            "\"Right on the money. You know your Lanterna Fatata.\"\n\n\"But that's not all. Recently, it's been giving out these things, too.\"\n\n\"Take this with you. I'm just glad to have run into a kindred soul.\"\n\nYou receive a bony twig. It seems to have come directly from the Lanterna Fatata itself."
+            "\"Esatto. Te ne sai molto sulla Lanterna Fatata.\"\n\n\"Ma non è tutto. Di recente sta producendo anche questi oggetti.\"\n\n\"Prendi questo con te. Sono alquanto grato di aver incontrato un'anima gemella quest'oggi.\"\n\nHai ricevuto un ramoscello secco. Sembra sia venuto direttamente dalla stessa Lanterna Fatata."
           ]
         },
         {
-          "message": "Concavity",
-          "messageDesc": "Select the right answer to gain a Rupture E.G.O Gift",
+          "message": "Concavità",
+          "messageDesc": "Seleziona la risposta giusta per ottenere un Dono E.G.O Lacerazione",
           "result": [
-            "\"…….\"\n\n\"Pay more attention next time.\"\n\nThe researcher brushed past us."
+            "\"…….\"\n\n\"Presta più attenzione per la prossima volta.\"\n\nIl ricercatore passa accanto a noi."
           ]
         }
       ]
@@ -115,20 +115,20 @@
     {
       "id": 971047,
       "name": "",
-      "desc": "At the end of this hallway, a group of researchers is having a discussion in front of an unnaturally dark place.\n\nNoticing our presence, their faces brighten up as they approach us.\n\n\"Please, will you investigate this area ahead for us?\"\n\n\"We will help with the best of our abilities should you accept.\"",
+      "desc": "Alla fine di questo corridoio, un gruppo di ricercatori sta avendo una discussione di fronte ad un luogo stranamente oscuro.\n\nNotando la nostra presenza, le loro espressioni si risollevano mentre si avvicinano a noi.\n\n\"Per favore, potreste perlustrare questa zona davanti a noi?\"\n\n\"Vi aiuteremo come meglio possiamo se accettate.\"",
       "options": [
         {
-          "message": "Accept and investigate.",
-          "messageDesc": "Heal all allies\nRun a Pride & Envy Advantage check to gain a Keywordless E.G.O Gift.",
+          "message": "Accetta e perlustrate.",
+          "messageDesc": "Cura tutti gli alleati\nEsegui una prova con Vantaggio per Superbia e Invidia per ottenere un Dono E.G.O Senza Tratti.",
           "result": [
             ""
           ]
         },
         {
-          "message": "Refuse.",
+          "message": "Rifiuta.",
           "messageDesc": "",
           "result": [
-            "\"Fine, walk away.\"\n\n\"We're not the ones losing out on a good deal.\"\n\nThe researchers all turned around without a moment's hesitation."
+            "\"Va bene, andatevene.\"\n\n\"Non siamo noi a perdere un'occasione d'oro.\"\n\nI ricercatori si voltano tutti con un attimo di esitazione."
           ]
         }
       ]
@@ -136,18 +136,18 @@
     {
       "id": 971048,
       "name": "",
-      "desc": "Several messy, frantic letters are carved into the wall with knives.\n\nI can practically feel the sheer horror and desperation of their writers from the wild letters.\n\nUpon close inspection, the deep marks tell a tale written in terror.\n\n'They're swarming us the monsters I hear them their breathing they're going to kill us all'\n\n'Save me please someone anyone save me I dont want to die please'\n\n'Fear is what drives men to madness. The monsters are near, I can feel the rumble of their feet. They are coming…'\n\nThere are unfinished sentences written on the wall.\n\nDeath has carved deep marks between them.",
+      "desc": "Parecchie lettere grossolane e disordinate sono incise sulle mura da dei coltelli.\n\nPosso praticamente sentire il puro orrore e la disperazione degli autori dalle violenti scritte.\n\nIspezionandole più da vicino, i segni raccontano di una storia scritta nel terrore.\n\n'Ci stanno circondando i mostri sento il loro fiato ci uccideranno tutti'\n\n'Salvatemi vi prego qualcuno mi salvi non voglio morire vi scongiuro'\n\n'La paura è ciò che manda gli uomini nella pazzia. I mostri sono vicini, posso sentire il tremore dei loro passi. Stanno arrivando…'\n\nCi sono frasi incomplete scritte sul muro.\n\nLa morte ha intagliato delle tracce profonde tra di esse.",
       "options": [
         {
-          "message": "Ignore them and move on.",
+          "message": "Ignorate e muovetevi.",
           "messageDesc": "",
           "result": [
-            "Nothing good can possibly come out of poking around in here. This won't be good for the Sinners.\n\nWe decided to quickly walk away from that place."
+            "Niente di buono ci aspetta dal curiosare qui attorno. Non farà bene ai Peccatori.\n\nAbbiamo deciso di svignarcela velocemente dal posto."
           ]
         },
         {
-          "message": "Look around some more.",
-          "messageDesc": "Run a Wrath & Gloom Advantage check to gain a Keywordless E.G.O Gift.",
+          "message": "Controlla in giro.",
+          "messageDesc": "Esegui una prova con Vantaggio per Ira e Tristezza per ottenere un Dono E.G.O Senza Tratti.",
           "result": [
             ""
           ]

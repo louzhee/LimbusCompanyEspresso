@@ -459,6 +459,34 @@
     {
       "id": "MD7LimitMpAdjuster",
       "desc": "Turn Start: Heal {0} SP\n- If all Skills are Minus Coin Skills, lose {1} SP instead"
+    },
+    {
+      "id": "SpiderHouse10115",
+      "desc": "Il Nido dei Ragni: Il Precettore dell'Indice Yi Sang\n- All'Uso di un'Abilità Attacco Base, converte la Moneta finale in Moneta Infrangibile. Le Monete Infrangibili delle Abilità Attacco Base infliggono +10% danni"
+    },
+    {
+      "id": "SpiderHouse10314",
+      "desc": "Mandataria Dell'Indice - E.G.O Manifestato:: Attuazione Don Quixote\n- All'Uso di un'Abilità Attacco Base, ottiene 2 Equilibrio. Su Colpo Critico usando un'Abilità Attacco Base, infligge 1 Annegamento"
+    },
+    {
+      "id": "SpiderHouse10814",
+      "desc": "Il Nido dei Ragni: Apprendista del Medio Ishmael\n- Infligge +1 Potenza Bruciatura in più usando le Abilità Base"
+    },
+    {
+      "id": "SpiderHouse10614",
+      "desc": "Il Nido dei Ragni: Il Precettore dell'Anulare Hong Lu\n- Ottiene Melodia Ispira Brividi Somatica"
+    },
+    {
+      "id": "SpiderHouse10215",
+      "desc": "Il Nido dei Ragni: Apprendista dell'Anulare Faust\n- Inizio Turno: Ottiene Scudo pari a 10% PV"
+    },
+    {
+      "id": "SpiderHouse11015",
+      "desc": "Il Nido dei Ragni: Apprendista del Mignolo Sinclair\n- Inizio Turno: Ottiene +1 Conteggio Equilibrio e 1 Danno Critico Aumentato"
+    },
+    {
+      "id": "SojiRyoshuEntangle",
+      "desc": "- Max Stack: 4\n- Ottiene 1 Stack per ogni Identità Precettore del Nido dei Ragni sconfitta\n- Ottiene un effetto speciale in base a quale alleato del Nido dei Ragni è stato sconfitto\n- Subisce -7.5% danni per ogni Stack"
     }
   ]
 }

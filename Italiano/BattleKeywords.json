@@ -3042,6 +3042,54 @@
       "summary": "",
       "undefined": "-",
       "flavour": ""
+    },
+    {
+      "id": "SojiRyoshuEchoPast",
+      "name": "Groviglio",
+      "desc": "- Max Stack: 4\n- Abilità ed effetti delle Passive possono aumentare le Stack Min & max di questo effetto rispettivamente a 5 e 9",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "I fili del destino si intrecciano ad ogni incontro, e dalla quantità di tempo dedicata ad altri\nLa miriade di momenti nei quali il tempo di un individuo e un alto si sovrappongono, che siano felici o cattivi, leggeranno i loro fili in un intreccio spietato\nIl tempo che è già stato condiviso non può essere revocato."
+    },
+      {
+      "id": "SojiRyoshuEchoFuture",
+      "name": "Traccia Fantasma",
+      "desc": "- Max Stack: 1\n- Subisce +5% danni dalle Abilità Attacco Base di Lama del Nido dei Ragni Ryōshū",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Una traccia fantasma (殘影) non è semplicemente una debole ombra lasciata durante il passaggio. È il ricordo di tempi passati, disegnata crudelmente tra giorni andati"
+    },
+    {
+      "id": "SojiRyoshuEntangle",
+      "name": "Recisione del Filo [絕緣]",
+      "desc": "- Max Stack: 4\n- Ottiene 1 Stack per ogni Identità Precettore del Nido dei Ragni sconfitta\n- Ottiene un effetto speciale in base a quale alleato del Nido dei Ragni è stato sconfitto\n- Subisce -7.5% danni per ogni Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "E dunque, che venga tagliato e reciso. Anche a costo di deviare dal destino."
+    },
+    {
+      "id": "SojiRyoshuShin",
+      "name": "Shin (心) - Stella Dihui [地慧星]",
+      "desc": "- Velocità Min & Max +2\n- Quando si utilizza un'Abilità Attacco Base, ottiene 2 Potenza Equilibrio e +1 Conteggio Equilibrio\n- Le Abilità Attacco Base di questa unità infliggono +10% danni su Colpo Critico\n- Subisce -20% danni dagli Attacchi Unilaterali e dalle Monete Infrangibili",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "PhantomIncisionID",
+      "name": "Traccia della Lama [Immagine Residua]",
+      "desc": "- Max Stack: 100\n- Subisce +1% danni dalle Abilità Taglienti per ogni 10 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "PhantomIncisionTotalID",
+      "name": "Spada della Stella Dihui",
+      "desc": "- Max Stack: 70\n- Somma totale delle Stack di Traccia della Lama inflitte da questa unità\n- Può ottenere fino a 25 Stack per turno",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Incidere un marchio sulla terra. Questo è lo scopo per cui questa lama è stata creata\nIn questa spada è stata versata la luce di una stella, così che possa rimanere qualcosa su questa terra"
     }
   ]
 }

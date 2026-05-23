@@ -187,29 +187,29 @@
     },
     {
       "id": "ScarBygoneDays_LowMorale",
-      "name": "Affection and Resentment",
-      "desc": "Deal +10% damage to and take +10% damage from Ryōshū",
+      "name": "Affetto e Risentimento",
+      "desc": "Infligge +10% danni e subisce +10% danni da Ryōshū",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ScarBygoneDays_Panic",
-      "name": "Affection and Resentment",
-      "desc": "Deal +20% damage to and take +20% damage from Ryōshū",
+      "name": "Affetto e Risentimento",
+      "desc": "Infligge +20% danni e subisce +20% danni da Ryōshū",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "PhantomIncision",
-      "name": "Bladetrail [Afterimage]",
-      "desc": "- Max Stack: 99\n- Turn Start: Gain 1 Fragile for every 10 Stack (max 5)",
+      "name": "Traccia della Lama [Immagine Residua]",
+      "desc": "- Max Stack: 99\n- Inizio Turno: Ottiene 1 Fragile per ogni 10 Stack (max 5)",
       "summary": " ",
       "undefined": "-"
     },
     {
       "id": "PhantomIncisionTotal",
-      "name": "Dihui Star's Blade",
-      "desc": "- Total sum of Bladetrail [Afterimage] Stack in this Encounter",
+      "name": "Spada della Stella Dihui",
+      "desc": "- Somma totale delle Stack di Traccia della Lama [Immagine Residua] in questo Incontro",
       "summary": " ",
       "undefined": "-"
     },
@@ -222,8 +222,8 @@
     },
     {
       "id": "TimeGapAb",
-      "name": "Disjunction",
-      "desc": "- Turn Start: The Part gains Shield equal to Stack\n- Reduction in the Shield reduces the Stack as well",
+      "name": "Disgiunzione",
+      "desc": "- Inizio Turno: la Parte ottiene Scudo pari alle Stack\n- Ridurre lo Scudo riduce anche le Stack",
       "summary": " ",
       "undefined": "-"
     },
@@ -286,7 +286,7 @@
     {
       "id": "Malkuth_Imperfect",
       "name": "Dominio di Malkuth - Manifestazione Imperfetta",
-      "desc": "<i><color=#d3a562>Uno sguardo imperfetto del potere che impererà sul Regno</color></i>",
+      "desc": "<i><color=#d3a562>Uno sguardo imperfetto del potere che impererà sul Regno.</color></i>",
       "summary": " ",
       "undefined": "-"
     },

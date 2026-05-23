@@ -2043,6 +2043,18 @@
     {
       "id": "mainui_cont_mine_invalid_text",
       "content": "Completa la Sezione una volta per sbloccare la Battaglia Consecutiva"
+    },
+    {
+      "id": "mainui_ego_sync_level_up_select_item",
+      "content": "Seleziona Materiali"
+    },
+    {
+      "id": "mainui_passive_skill_upgrade",
+      "content": "Passive Migliorate"
+    },
+    {
+      "id": "mainui_new_passive_skill_upgrade",
+      "content": "Passiva Migliorate: [{0}]"
     }
   ]
 }

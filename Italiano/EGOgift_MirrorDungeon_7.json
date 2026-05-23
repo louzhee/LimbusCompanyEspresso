@@ -525,6 +525,29 @@
       "simpleDesc": [
         {}
       ]
+    },
+    {
+      "id": 9273,
+      "name": "Ragnatela Intrecciata in Rosso",
+      "desc": "Tutti gli alleati ottengono 1 Livello Offensivo e 1 Livello Difensivo per ogni alleato sconfitto (max 10)\n\nSe Lama del Nido dei Ragni Ryōshū è nella configurazione della Squadra, tutte le Identità sconfitte eccetto Lama del Nido dei Ragni Ryōshū non torneranno in vita dopo aver terminato un Incontro (nodi boss finale del Piano e nodi Nascosti inclusi)\n\n[Gli effetti si applicano solo alla 1° Identità Schierata]\n\nInizio Turno: Se non ci sono degli alleati sopravvissuti oltre a questa unità, ottiene [RedButterfly]\n\n[Gli effetti si applicano solo a Lama del Nido dei Ragni Ryōshū]\n\nQuando entra nell'Incontro per la prima volta, per ogni Identità del Nido dei Ragni alleata sconfitta, ottiene 5 [PhantomIncisionTotalID]\nPer ogni 2 alleati del Nido dei Ragni sconfitti, Potere Finale +1, Potere Moneta +1, e infligge +10% di danni (max 3 e 30%, rispettivamente)\nSe non ci sono alleati sopravvissuti oltre a Lama del Nido dei Ragni Ryōshū, ottiene +12 nel modificatore per tutte le prove Abilità negli Eventi a Scelta",
+      "simpleDesc": [
+        {
+          "abilityID": 9273,
+          "simpleDesc": "Ottieni Livello Offensivo e Livello Difensivo"
+        },
+        {
+          "abilityID": 92731,
+          "simpleDesc": "Ottieni [RedButterfly]"
+        },
+        {
+          "abilityID": 92732,
+          "simpleDesc": "Ottieni [PhantomIncisionTotalID]"
+        },
+        {
+          "abilityID": 92733,
+          "simpleDesc": "Ottieni Potere Finale, Potere Moneta, infliggi più danni"
+        }
+      ]
     }
   ]
 }

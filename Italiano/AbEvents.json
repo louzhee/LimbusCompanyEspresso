@@ -194,7 +194,7 @@
     {
       "id": 1030201,
       "title": "Before a Sealed Door",
-      "eventDesc": "L'acciaio è spesso, ma potrebbe non essere impossibile per un Peccatore spostarlo.\nChi è la persona migliore per questo?",
+      "eventDesc": "L'acciaio è spesso, ma potrebbe non essere impossibile per un Peccatore spostarlo.\nChi è la persona giusta per questo?",
       "prevDesc": "",
       "behaveDesc": "Chi può aprire la porta?",
       "successDesc": [
@@ -248,10 +248,10 @@
       "title": "Who Judges the Judge",
       "eventDesc": "“Eretici! Gli Eretici sono qui!”\n\nMentre i Peccatori si avvicinavano, gli Inquisitori hanno gettato le loro vittime per caricarci.\n\n“Bastardi!”\n\nSinclair gli si è parato contro in prima linea.\nMa, quel martello potrebbe essere troppo grande perché la sua arma lo fermi.",
       "prevDesc": "",
-      "behaveDesc": "Dovrebbe proprio pensarci Sinclair?\nO, dovresti ordinare ad un altro Peccatore di respingere l'attacco?",
+      "behaveDesc": "Dovrebbe proprio pensarci Sinclair?\nO dovresti ordinare ad un altro Peccatore di respingere l'attacco?",
       "successDesc": [
         "Hai deciso fosse meglio chiedere di farlo a {0}.\nIl martello viene respinto, e gli Inquisitori erano sconvolti dalla rivalsa.\n\nRiusciremo a mantenere il vantaggio in combattimento prendendo l'iniziativa.",
-        "In fondo, questa è prima di tutto la sua battaglia.\n\n“Raaaah!!”\n\nSinclair ha spinto la sua alabarda verso il manico del martello e l'ha deviato di lato.\n\nCon l'attacco del capo impedito, gli Inquisitori sono stati mandati nello scompiglio.\nRiusciremo a mantenere il vantaggio in combattimento prendendo l'iniziativa."
+        "In fondo, questa è prima di tutto la sua battaglia.\n\n“Raaaah!!”\n\nSinclair ha spinto la sua alabarda verso il manico del martello e l'ha deviato di lato.\n\nPrevenendo l'attacco del capo, gli Inquisitori sono stati mandati nello scompiglio.\nRiusciremo a mantenere il vantaggio in combattimento prendendo l'iniziativa."
       ],
       "failureDesc": [
         "Hai chiesto a {0} di deviare l'attacco, ma…\nIl movimento del martello gigante non poteva essere fermato.\n\nGli Inquisitori hanno circondato {0}, che adesso è in difficoltà.\nDobbiamo combattere con questo svantaggio."
@@ -267,8 +267,8 @@
         "{0} ha trovato un sigillo piegato della N Corp. nella criniera.\n\nNon ne sarà valsa la pena di frugare in un cadavere, ma si è rivelato in qualche modo utile.\n\nHai preso il sigillo e ve ne siete andati dalla stanza, confortando i Peccatori a cui la vista stava facendo venire la nausea."
       ],
       "failureDesc": [
-        "{0} scava e rovista nella criniera, ma alla fine non ha trovato niente.\n\n“Hrk… Geh…”\n\nPiù frugava il cadavere, più aumentava la voglia di vomitare di {0}.\n…Non vale la pena di continuare.\n\nDicendo a {0} che ha fatto sel suo meglio, abbiamo lasciato la stanza.\nAbbiamo perso qualcosa e guagnato nulla.",
-        "{0} scava e rovista nella criniera, ma alla fine non ha trovato niente.\n\n“Hrk… Geh…”\n\nPiù frugava il cadavere, più aumentava la voglia di vomitare di {0}.\n…Non vale la pena di continuare.\n\nDicendo a {0} che ha fatto sel suo meglio, abbiamo lasciato la stanza.\nAbbiamo perso qualcosa e guagnato nulla."
+        "{0} scava e rovista nella criniera, ma alla fine non ha trovato niente.\n\n“Hrk… Geh…”\n\nPiù frugava il cadavere, più aumentava la voglia di vomitare di {0}.\n…Non vale la pena di continuare.\n\nDicendo a {0} che ha fatto del suo meglio, abbiamo lasciato la stanza.\nAbbiamo perso qualcosa e guadagnato nulla.",
+        "{0} scava e rovista nella criniera, ma alla fine non ha trovato niente.\n\n“Hrk… Geh…”\n\nPiù frugava il cadavere, più aumentava la voglia di vomitare di {0}.\n…Non vale la pena di continuare.\n\nDicendo a {0} che ha fatto del suo meglio, abbiamo lasciato la stanza.\nAbbiamo perso qualcosa e guadagnato nulla."
       ]
     },
     {
@@ -282,7 +282,7 @@
       ],
       "failureDesc": [
         "{0} ha corso sul sentiero a piedi scalzi.\nGli altri si sono accigliati sentendo il rancido fetore della carne umana che brucia.\n\n{0} c'era quasi vicino…\n\nMa non poteva sopportarlo più e ha deciso di ritirarsi subito.\nSembra che non prenderemo questa strada.\nDovremo seguire l'altra via e scontrarci con tutti gli Inquisitori lì presenti.",
-        "Don Quixote esclama:\n\n'Io non marcerò a piedi spogli!'"
+        "Don Quixote esclama:\n\n'Io giammai marcerò a piedi spogli!'"
       ]
     },
     {
@@ -292,10 +292,10 @@
       "prevDesc": "",
       "behaveDesc":  "Quale Peccatore si siederà?",
       "successDesc": [
-        "{0} si siede sulla sedia.\n…Terrificanti urla riecheggiano nella stanza.\nUn flusso costante di lacrime sgorga lungo il volto di {0}.\n\nBen presto, la ciotola diventa piena di lacrime.\nQuando viene messa sull'altare vicino alla porta, l'altare è scivolato in basso, aprendoci la strada.\n\n“Gasp, huff… Hic.”\n\nGli occhi di {0} stanno tremando.\nMeglio non chiedere cosa abbiano visto.\n\n“…C'è un sigillo oltre la porta.”\n\nPrendendo il sigillo blu, abbiamo lasciato la stanza."
+        "{0} si siede sulla sedia.\n…Terrificanti urla riecheggiano nella stanza.\nUn flusso costante di lacrime sgorga lungo il volto di {0}.\n\nBen presto, la ciotola diventa piena di lacrime.\nQuando viene messa sull'altare vicino alla porta, l'altare scivola in giù, aprendoci la strada.\n\n“Gasp, huff… Hic.”\n\nGli occhi di {0} stanno tremando.\nMeglio non chiedere cosa abbiano visto.\n\n“…C'è un sigillo oltre la porta.”\n\nPrendendo il sigillo blu, abbiamo lasciato la stanza."
       ],
       "failureDesc": [
-        "{0} si siede sulla sedia.\n…Terrificanti urla riecheggiano nella stanza.\nUn flusso costante di lacrime sgorga lungo il volto di {0}.\n\nMa non era abbastanza per riempire la ciotola.\nSembra che il Peccatore sia così sconvolto da non riuscire nemmeno a lacrimare.\nAbbiamo lasciato la stanza, aiutando {0}, scosso dalla tristezza, in piedi."
+        "{0} si siede sulla sedia.\n…Terrificanti urla riecheggiano nella stanza.\nUn flusso costante di lacrime sgorga lungo il volto di {0}.\n\nMa non era abbastanza per riempire la ciotola.\nSembra che il Peccatore sia così sconvolto da non riuscire più a lacrimare.\nAbbiamo lasciato la stanza, aiutando {0}, scosso dalla tristezza, in piedi."
       ]
     },
     {
@@ -461,7 +461,7 @@
       "eventDesc": "La rana ha preso un respiro profondo, gonfiando la sua pancia.\nUn paio di lacrime blu sgorgano dai suoi enormi occhi tondi.\nQuesta cava verrà riempita con un aria di tristezza una volta che aprirà bocca.\nSarebbe meglio farle togliere il fiato.",
       "behaveDesc": "Chi fermerà il suo pianto sul nascere?",
       "successDesc": [
-        "“Temo che questo sia un po' troppo crudele…”\n\n{0} da un colpo ben assestato alle gonfie sacche vocali.\n\n“Pfarhk!”\n\nUn suono sgonfio risuona nella cava.\n\n“Croough…”\n\nTornata ad una forma più snella, la rana tira su col naso. Deve essere frustrata dal non poter urlare quanto voleva.\n\n“Che tristezza.”\n\nAnche se ha lasciato l'amaro in bocca… un'opportunità è pur sempre un'opportunità."
+        "“Temo che questo sia un po' troppo crudele…”\n\n{0} dà un colpo ben assestato alle gonfie sacche vocali.\n\n“Pfarhk!”\n\nUn suono sgonfio risuona nella cava.\n\n“Croough…”\n\nTornata ad una forma più snella, la rana tira su col naso. Deve essere frustrata dal non poter urlare quanto voleva.\n\n“Che tristezza.”\n\nAnche se ha lasciato l'amaro in bocca… un'opportunità è pur sempre un'opportunità."
       ],
       "failureDesc": [
         "{0} si avvicina alla rana.\n\n“Croak!”\n\nForse era meglio non essere così cauti.\n\nQuando {0} riesce ad arrivare alla rana, la sua bocca si stava già aprendo, esalando un suono sorprendentemente malinconico.\n\n“Croohoo… Croohic… Croohoo…”\n\n{0} perde coscienza dall'immensurabile tristezza.\nOra non può far altro che piangere, proprio come la rana."
@@ -547,7 +547,7 @@
     {
       "id": 804801,
       "title": "Fairy Gentleman",
-      "prevDesc": "Un odore inebriante riempe l'aria, potrebbe benissimo ubriacarti.",
+      "prevDesc": "Un odore inebriante riempe l'aria, potrebbe facilmente ubriacarti.",
       "eventDesc": "La Fata Gentiluomo parla con una grossa risata.\n\"Huhu... Non pensavo che potessi bere così tanto.\"\nSi poteva sentire un leggero singhiozzo.\n\"Ammetto, mi avete preso un pochino alla sprovvista... giusto un pochino.\"\nLa fata avvicina il calice alla sua bocca.\n\"Ehi! Quella cosa sta cercando di smaltire la sbornia?\"\n\"Dobbiamo tenere quel mascalzone disorientato!\"\n…Pare che dobbiamo fermare la fata dal bere dal suo calice.",
       "behaveDesc": "Chi prenderà il calice dal gentiluomo?",
       "successDesc": [
@@ -562,12 +562,12 @@
       "title": "Looking for a Drone",
       "prevDesc": "",
       "eventDesc": "Un Peccatore bravo a perquisire dovrebbe fare al caso nostro.",
-      "behaveDesc": "Chi sarà il più efficiente per questo compito?",
+      "behaveDesc": "Chi sarà il più efficiente?",
       "successDesc": [
-        "[{0}] si ritrova con diverse ferite alle mani per frugare dentro al rottame.\nPer fortuna, siamo riusciti a trovare una piccola ampolla all'interno.\n\"Dopo tutto quel lavoraccio...\"\nSospirano gli altri Peccatori per il misero bottino.\n...Siamo usciti dalla stanza con la promessa di riavvolgere il tempo per loro la prossima volta."
+        "[{0}] si ritrova con diverse ferite alle mani dopo aver frugato dentro al rottame.\nPer fortuna, siamo riusciti a trovare una piccola fiala all'interno.\n\"Dopo tutto quel lavoraccio...\"\nSospirano gli altri Peccatori per il misero bottino.\n...Siamo usciti dalla stanza con la promessa di riavvolgere il tempo per loro la prossima volta."
       ],
       "failureDesc": [
-        "I detriti erano più affilati del previsto.\n\"…!\"\n[{0}] si ritrova con diverse ferite alle mani per frugare dentro al rottame.\n\"Immagino non ci sia niente.\"\nDopo aver passato parecchi minuti a cerca, non si è trovato niente di utile.\n\"…….\"\nSento lo sguardo rancoroso dei Peccatori dietro di me."
+        "I detriti erano più affilati del previsto.\n\"…!\"\n[{0}] si ritrova con diverse ferite alle mani dopo aver frugato dentro al rottame.\n\"Immagino non ci sia niente.\"\nDopo aver passato parecchio tempo a cercare, non abbiamo trovato niente di utile.\n\"…….\"\nSento lo sguardo rancoroso dei Peccatori sulle mie spalle."
       ]
     },
     {
@@ -580,7 +580,7 @@
         "\"Whoa!\"\n[{0}] tocca l'uovo. L'uovo inizia ad illuminarsi.\nPoco dopo, si è indurito per poi dare forma ad una gemma unica nel suo genere.\n\"Potrebbe valerne la pena prendercela.\"\n[{0}] mostra segni di stanchezza, ma non c'era niente di strano col suo corpo per quel che potevamo vedere.\nAbbiamo lasciato il posto con la gemma in nostro possesso."
       ],
       "failureDesc": [
-        "\"Whoa!\"\n[{0}] tocca l'uovo. L'uovo inizia ad illuminarsi.\nPerò, l'uovo presto si è ridotto in un mucchio di polvere.\n\"Ugh...\"\nNella mano di [{0}] era rimasta una misteriosa ferita.\nSente persino dell'affaticamento.\n...Abbiamo lasciato la stanza, consolando [{0}]."
+        "\"Whoa!\"\n[{0}] tocca l'uovo. L'uovo inizia ad illuminarsi.\nPerò, presto si è ridotto in un mucchio di polvere.\n\"Ugh...\"\nNella mano di [{0}] era rimasta una misteriosa ferita.\nInoltre notavamo un'improvvisa stanchezza da parte sua.\n...Abbiamo lasciato la stanza, consolando [{0}]."
       ]
     },
     {
@@ -588,9 +588,9 @@
       "title": "PickingRowAndColumn",
       "prevDesc": "",
       "eventDesc": "Vedendo più da vicino, riesci quasi a notare qualcos'altro all'interno.\nUn Peccatore con la vista aguzza potrebbe ottenere qualcosa di buono.",
-      "behaveDesc": "Chi darà un occhiata?",
+      "behaveDesc": "Chi darà un'occhiata?",
       "successDesc": [
-        "[{0}] guarda l'armadio.\nRiesce a scoprire un cassetto nascosto. Il cassetto conteneva un mucchio di oggetti utili.\nPresto, l'area inizia a disperdersi, e l'armadio scompare"
+        "[{0}] guarda l'armadio.\nRiesce a scoprire un cassetto nascosto. Il cassetto conteneva un mucchio di oggetti utili.\nSenti l'area continuare a distorcersi, forse non rimane molto tempo."
       ],
       "failureDesc": [
         "[{0}] guarda l'armadio.\nForse ha sprecato troppo tempo a riflettere; Presto, l'area inizia a disperdersi, e l'armadio scompare."
@@ -603,8 +603,8 @@
       "eventDesc": "Tutti i Peccatori guardano la finestra.",
       "behaveDesc": "Chi parlerà con le figure?",
       "successDesc": [
-        "<i>Piansisenzascelta.\nOh ▽ ! Eccomiinpena.\nContemplotalepensiero:\nComedebbapiangerIo.\n\nQuando [{0}] inizia a parlare con le figure nella finestra, loro si contorcono per poi sparire.\nDopodiché un frammento cade dalla finestra.\nLo abbiamo preso per poi lasciare la stanza.</i>",
-        "<i>Piansisenzascelta.\nOh ▽ ! Eccomiinpena.\nContemplotalepensiero:\nComedebbapiangerIo.\n\nQuando [{0}] inizia a parlare con le figure nella finestra, loro si contorcono per poi sparire.\nDopodiché un frammento cade dalla finestra.\nLo abbiamo preso per poi lasciare la stanza.</i>"
+        "<i>Piansisenzascelta.\nOh ▽ ! Eccomiinpena.\nContemplotalepensiero:\nComedebbapiangerIo.</i>\n\nQuando [{0}] inizia a parlare con le figure nella finestra, loro si contorcono per poi sparire.\nDopodiché un frammento cade dalla finestra.\nLo abbiamo preso per poi lasciare la stanza.",
+        "<i>Piansisenzascelta.\nOh ▽ ! Eccomiinpena.\nContemplotalepensiero:\nComedebbapiangerIo.</i>\n\nQuando [{0}] inizia a parlare con le figure nella finestra, loro si contorcono per poi sparire.\nDopodiché un frammento cade dalla finestra.\nLo abbiamo preso per poi lasciare la stanza."
       ],
       "failureDesc": [
         "…………..\n[{0}] ha provato a parlare, ma non c'è stata risposta.\nPresto, le figure si contorcono per poi sparire.\n\"Cosa, volevano che noi cantassimo o che?\"\nAbbiamo lasciato la stanza con i Peccatori che si lamentavano."
@@ -630,10 +630,10 @@
       "eventDesc": "",
       "behaveDesc": "Fermerai di nuovo Dongrang?",
       "successDesc": [
-        "[{0}] mira con la sua arma a Dongrang mentre la sua concentrazione è altrove.\n\n\"Kgh...\"\n\nPare che l'attacco sia stato un successo.\nLa mossa di Dongrang che stava preparando non è stata portata a termine.\n\n\"Ho capito da che parte state...\"\n\n\"Allora mi sbarazzerò di tutti voi assieme a Yi Sang e il suo ideale.\""
+        "[{0}] mira con la sua arma verso Dongrang mentre la sua concentrazione è altrove.\n\n\"Kgh...\"\n\nSembra che l'attacco sia stato un successo.\nLa mossa che stava preparando Dongrang non è stata portata a termine.\n\n\"Ho capito da che parte state...\"\n\n\"Allora mi sbarazzerò di tutti voi assieme a Yi Sang e il suo ideale.\""
       ],
       "failureDesc": [
-        "[{0}] mira con la sua arma a Dongrang mentre la sua concentrazione è altrove.\n\n\"Che incompetenza.\"\n\nPerò, ciò che sembrava un varco nelle sue difese si rivela una trappola.\nL'attaccante viene respinto dal contrattacco.\n\n\"Hah, ho capito da che parte state...\"\n\n\"Non mi lasciate altra scelta. mi sbarazzerò di tutti voi assieme a Yi Sang e il suo ideale..\""
+        "[{0}] mira con la sua arma verso Dongrang mentre la sua concentrazione è altrove.\n\n\"Che incompetenza.\"\n\nPerò, ciò che sembrava un varco nelle sue difese si rivela una trappola.\nL'attaccante viene respinto dal contrattacco.\n\n\"Hah, ho capito da che parte state...\"\n\n\"Non mi lasciate altra scelta. mi sbarazzerò di tutti voi assieme a Yi Sang e il suo ideale..\""
       ]
     },
     {

@@ -824,7 +824,7 @@
           "level": 1,
           "name": "Fiamma del Quarto Fiammifero",
           "abName": "Piccola Fiammiferaia",
-          "desc": "+2 Potere Finale contro i bersagli con [Combustion]\n[EnemyKill] Ottiene 1 [Enhancement] il turno successivo",
+          "desc": "Potere Finale +2 contro i bersagli con [Combustion]\n[EnemyKill] Ottiene 1 [Enhancement] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
@@ -839,7 +839,7 @@
           "level": 3,
           "name": "Fiamma del Quarto Fiammifero",
           "abName": "Piccola Fiammiferaia",
-          "desc": "+2 Potere Finale contro i bersagli con [Combustion]\n[EnemyKill] Ottiene 2 [Enhancement] il turno successivo",
+          "desc": "Potere Finale +2 contro i bersagli con [Combustion]\n[EnemyKill] Ottiene 2 [Enhancement] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
@@ -854,12 +854,30 @@
           "level": 4,
           "name": "Fiamma del Quarto Fiammifero",
           "abName": "Piccola Fiammiferaia",
-          "desc": "+2 Potere Finale contro i bersagli con [Combustion]\nInfligge +5% danni per ogni [Combustion] sul bersaglio (Max 100%)\n[EnemyKill] Ottiene +2 [Enhancement] il turno successivo",
+          "desc": "Potere Finale +2 contro i bersagli con [Combustion]\nInfligge +5% danni per ogni [Combustion] sul bersaglio (Max 100%)\n[EnemyKill] Ottiene +2 [Enhancement] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Infligge 4 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Fiamma del Quarto Fiammifero",
+          "abName": "Piccola Fiammiferaia",
+          "desc": "Potere Finale +2 contro i bersagli con [Combustion]\n<style=\"highlight\">[BeforeAttack]</style> nInfligge +5% danni per ogni <style=\"highlight\">1 somma totale di [Combustion] su tutti i bersagli</style> (max 100%)\n[EnemyKill] Ottiene 2 [Enhancement] il turno successivo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Infligge  (([Combustion] sul bersaglio x 2)% del danno finale di questa Moneta) danno Ira (max 20%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge 4 [Combustion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -874,7 +892,7 @@
           "level": 1,
           "name": "Fiamma del Quarto Fiammifero",
           "abName": "Piccola Fiammiferaia",
-          "desc": "[CantIdentify]\nBersaglia casualmente\n+2 Potere Finale contro i bersagli con [Combustion]\n[EnemyKill] Ottiene 2 [Enhancement] il turno successivo\n[EnemyKillFail] Ottiene 10 [Combustion] il turno successivo",
+          "desc": "[CantIdentify]\nBersaglia casualmente\nPotere Finale +2 contro i bersagli con [Combustion]\n[EnemyKill] Ottiene 2 [Enhancement] il turno successivo\n[EnemyKillFail] Ottiene 10 [Combustion] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
@@ -889,7 +907,7 @@
           "level": 3,
           "name": "Fiamma del Quarto Fiammifero",
           "abName": "Piccola Fiammiferaia",
-          "desc": "[CantIdentify]\nBersaglia casualmente\n+4 Potere Finale contro i bersagli con [Combustion]\n[EnemyKill] Ottiene 3 [Enhancement] il turno successivo\n[EnemyKillFail] Ottiene 3 [Enhancement] e 10 [Combustion] il turno successivo",
+          "desc": "[CantIdentify]\nBersaglia casualmente\nPotere Finale +4 contro i bersagli con [Combustion]\n[EnemyKill] Ottiene 3 [Enhancement] il turno successivo\n[EnemyKillFail] Ottiene 3 [Enhancement] e 10 [Combustion] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
@@ -904,12 +922,33 @@
           "level": 4,
           "name": "Fiamma del Quarto Fiammifero",
           "abName": "Piccola Fiammiferaia",
-          "desc": "[CantIdentify]\nBersaglia casualmente\n+4 Potere Finale contro i bersagli con [Combustion]\n Infligge +5% danni per ogni [Combustion] sul bersaglio (Max 100%)\n[EnemyKill] Ottiene 3 [Enhancement] il turno successivo\n[EnemyKillFail] Ottiene 3 [Enhancement] e 10 [Combustion] il turno successivo",
+          "desc": "[CantIdentify]\nBersaglia casualmente\nPotere Finale +4 contro i bersagli con [Combustion]\n Infligge +5% danni per ogni [Combustion] sul bersaglio (Max 100%)\n[EnemyKill] Ottiene 3 [Enhancement] il turno successivo\n[EnemyKillFail] Ottiene 3 [Enhancement] e 10 [Combustion] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Infligge 4 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Fiamma del Quarto Fiammifero",
+          "abName": "Piccola Fiammiferaia",
+          "desc": "[CantIdentify]\nBersaglia casualmente\nPotere Finale +4 contro i bersagli con [Combustion]\n<style=\"highlight\">[BeforeAttack]</style> Infligge +5% danni per ogni <style=\"highlight\">1 somma totlae di [Combustion] su tutti i bersagli</style> (max 100%)\n<style=\"highlight\">[DefeatDuel] Potere Base -16</style>\n[EnemyKill] Ottiene 3 [Enhancement] il turno successivo\n[EnemyKillFail] Ottiene 3 [Enhancement] e 10 [Combustion] il turno successivo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Infligge (([Combustion] sul bersaglio x 3)% del danno finale di questa Moneta) danno Ira (max 30%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge 4 [Combustion]<style=\"highlight\"></style>"
                 }
               ]
             }

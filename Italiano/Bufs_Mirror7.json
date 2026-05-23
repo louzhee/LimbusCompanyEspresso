@@ -146,6 +146,11 @@
       "id": "PlayingWithWaterTogetherMirror",
       "name": "Splish Splash",
       "desc": "- Max Stack: 10\n- In a Clash against Headless Ichthys, gain the following effects (once per Skill):\n  · Gain and inflict Sinking equal to Stack\n  · Heal SP equal to Stack\n- At max Stack, Skills targeting Headless Ichthys deal +50% damage"
+    },
+    {
+      "id": "RedButterfly",
+      "name": "Farfalla Strappata",
+      "desc": "- Potere Finale +2 su tutte le Abilità\n- Quando l'unità viene Stordita a causa del danno, si riprende subito dallo Stordimento e ottiene uno Scudo pari al 100% dei PV (una volta per turno, esclusi gli Stordimenti forzati)"
     }
   ]
 }

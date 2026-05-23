@@ -5,23 +5,23 @@
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "Come richiesto, ho preparato il tè. Qualche spiffero gelido riesce ad entrare nella magione; per favore beva il té prima che si freddi."
+            "content": "Ho preparato il tè come da lei richiesto. C'è un'aria gelida nel maniero; La prego di consumarlo prima che si raffreddi."
         },
         {
             "id": 1,
-            "content": "La ragazza piazzò la tazza di tè sul tavolo con una grazia tale che quasi non fece rumore. La tazzina rimase in perfetto equilibirio sul piattino, come non si fosse mai mossa."
+            "content": "La fanciulla poggiò la tazza sul tavolo con tale grazia e destrezza che quasi non fece rumore. Non si avvertì nemmeno il minimo, infinitesimale tintinnio della tazzina contro il piattino."
         },
         {
             "id": 2,
-            "content": "Le sue mani e la sua schiena si muovevano secondo un protocollo prestabilito, ogni movimento era calcolato al millimetro."
+            "content": "Le sue mani educatamente conserte e la schiena leggermente curva non accennarono al minimo movimento dalla loro posizione fissa."
         },
         {
             "id": 3,
-            "content": "Dettagli simili non significano molto per qualcuno abituato a ricevere un trattamento così regale, ma chiunque altro si sarebbe immediatamente reso conto delle qualità della ragazza con una breve occhiata."
+            "content": "Tutto questo potrebbe non significare molto per chi è abituato a ricevere un servizio così impeccabile, ma chiunque altro, dando un rapido sguardo al lavoro della fanciulla, balzerebbe a una chiara conclusione."
         },
         {
             "id": 4,
-            "content": "La ragazza era un Maggiordomo altamente formato."
+            "content": "Che quella fanciulla fosse un maggiordomo altamente qualificato."
         },
         {
             "id": 5,
@@ -34,26 +34,26 @@
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "È ora che io vada a preparare il ricevimento per gli ospiti previsti di oggi. Per favore perdoni la mia assenza."
+            "content": "Ora devo congedarmi per organizzare il ricevimento degli ospiti previsti per oggi. Vi prego di scusare la mia assenza."
         },
         {
             "id": 7,
-            "content": "La ragazza si chinò formalmente verso l'uomo silenzioso, in quel momento totalmente assorbito dalla lettura del giornale che teneva in mano. La ragazza camminò all'indietro verso la porta ed uscì sul corridoio."
+            "content": "La fanciulla fece un inchino cortese all'uomo silenzioso, completamente assorto nella lettura dei fogli che aveva tra le mani. Camminò all'indietro verso la porta e uscì nel corridoio."
         },
         {
             "id": 8,
-            "content": "I suoi movimento erano fluidi e costanti; chiudendosi la porta alle spalle non si permise nemmeno il più debole scricchiolio."
+            "content": "I suoi movimenti furono fluidi e continui, senza lasciare che la porta producesse il minimo cigolio mentre la richiudeva alle sue spalle."
         },
         {
             "id": 9,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Cime Tempestose",
-            "content": "Capo Maggiordomo Lady Outis."
+            "content": "Capo Maggiordomo Outis."
         },
         {
             "id": 10,
-            "content": "Vi era un'altra ragazza in attesa nel corridoio."
+            "content": "C'era un'altra fanciulla ad aspettarla nel corridoio."
         },
         {
             "id": 11,
@@ -71,25 +71,25 @@
         },
         {
             "id": 13,
-            "content": "Annuì come se si stesse già aspettando di vedere la ragazza in attesa dall'altro lato della porta, quindi cominciò a percorrere il corridoio."
+            "content": "Annuì, come se si aspettasse già di trovare l'altra fanciulla ad attenderla fuori dalla porta, e si incamminò lungo il corridoio."
         },
         {
             "id": 14,
-            "content": "Sembra che le due lavorassero assieme da molto tempo. L'altra ragazza la seguì con un'andatura naturale e spedita."
+            "content": "Sembrava che le due lavorassero insieme da tempo. L'altra fanciulla la raggiunse con un'andatura fluida ed estremamente naturale."
         },
         {
             "id": 15,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Cime Tempestose",
-            "content": "Ogni ordine proveniente dal Capo Maggiordomo Lady Outis è stato eseguito con cura."
+            "content": "Tutto ciò che il Capo Maggiordomo Outis ha ordinato di fare è stato eseguito."
         },
         {
             "id": 16,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Cime Tempestose",
-            "content": "Ogni oggetto affidato ai Devyat è stato consegnato senza ritardi. Sono tutti pronti per essere usati nel banchetto di stasera."
+            "content": "Anche ogni articolo affidato all'Associazione Devyat' è stato consegnato senza ritardi. È tutto pronto per il banchetto di questa sera."
         },
         {
             "id": 17,
@@ -103,109 +103,109 @@
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "Ma non aspettarti delle lodi, Faust. Il perché lo sai già, o mi sbaglio?"
+            "content": "Ma non ti farò alcun complimento, Faust. Ne comprendi il motivo, vero?"
         },
         {
             "id": 19,
-            "content": "Da un certo punto di vista, le parole della ragazza suonavano piuttosto scortesi. Ma l'espressione neutra dell'altra ragazza non cambiò."
+            "content": "Da un certo punto di vista, le parole e l'espressione della fanciulla potevano sembrare piuttosto severe. Tuttavia, il volto impassibile dell'altra non mutò affatto."
         },
         {
             "id": 20,
-            "content": "Forse per lei era solo un'altra giornata di routine."
+            "content": "Forse per lei si trattava di una semplice routine."
         },
         {
             "id": 21,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Cime Tempestose",
-            "content": "Sì. Ci si aspetta una... tale perfezione dai Maggiordomi di Cime Tempestose, poiché siamo legati a questa terra."
+            "content": "Sì. Una simile perfezione è... ciò che ci si aspetta dai maggiordomi di Cime Tempestose, vincolati a questa terra."
         },
         {
             "id": 22,
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "Certamente. Inoltre..."
+            "content": "Esatto. Inoltre..."
         },
         {
             "id": 23,
-            "content": "La ragazza si aggiustò il monocolo e proseguì."
+            "content": "La fanciulla continuò, sistemandosi il monocolo."
         },
         {
             "id": 24,
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "... in quanto uno dei Maggiordomi al servizio della nostra Padrona, sarebbe una vergogna non prestare il miglior servizio possibile."
+            "content": "... in quanto maggiordomi al servizio della nostra Padrona, sarebbe vergognoso offrire qualcosa che non sia l'eccellenza assoluta."
         },
         {
             "id": 25,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Cime Tempestose",
-            "content": "... Ciò è compreso chiaramente."
+            "content": "... È perfettamente comprensibile."
         },
         {
             "id": 26,
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "Eccellente. Mi assicurerò che la Signora sia informata della tua devozione."
+            "content": "Molto bene. Farò in modo che la Padrona venga a conoscenza della tua devozione."
         },
         {
             "id": 27,
-            "content": "... La 'Signora' di cui stava parlando la ragazza era morta da molto, moltissimo tempo. Ma lei continuava a comportarsi come se potesse ancora udirne la voce."
+            "content": "... Quella 'Padrona' di cui parlava la fanciulla era morta da moltissimo tempo. Eppure, lei si comportava come se la sua voce le risuonasse ancora nelle orecchie."
         },
         {
             "id": 28,
-            "content": "Il suo comportamento era... troppo anomalo per trattarsi di semplice rispetto per i morti, troppo genuino per essere solo un tentativo di mantenere la memoria di chi è trapassato. Piuttosto, dava l'impressione di qualcuno che intratteneva dialoghi regolari con la Signora da lungo tempo defunta."
+            "content": "Il suo atteggiamento era fin troppo... bizzaro per essere semplice devozione verso i defunti, e troppo zelante per essere un mero tentativo di preservare la memoria della scomparsa. Era come se intrattenesse regolari conversazioni con la Padrona, morta ormai da tempo."
         },
         {
             "id": 29,
-            "content": "Ogni Maggiordomo al suo servizio sapeva che c'era qualcosa di strano sotto, ma nessuna osava mettere in dubbio le sue intenzioni."
+            "content": "Ogni maggiordomo ai suoi ordini sapeva che c'era qualcosa di strano in tutta quella faccenda, ma nessuno osava metterla in discussione."
         },
         {
             "id": 30,
-            "content": "Dopotutto, questo era il rispetto dovuto ad un Capo Maggiordomo."
+            "content": "Perché questo era il tipo di rispetto che incuteva un Capo Maggiordomo."
         },
         {
             "id": 31,
-            "content": "L'altra ragazza rimuginò sulla questione mentra la seguiva."
+            "content": "Anche l'altra fanciulla rifletteva sulla stessa cosa mentre la seguiva da dietro."
         },
         {
             "id": 32,
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "Ho sentito che è stata il loro Capo Maggiordomo a contattarci."
+            "content": "Sento che il loro Capo Maggiordomo si è messo in contatto con noi."
         },
         {
             "id": 33,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Cime Tempestose",
-            "content": "Credo lei si riferisca al Capo Maggiordomo Lady Ryōshū, che se ne è andata per servire la Famiglia Edgar?"
+            "content": "Si riferisce sicuramente al Capo Maggiordomo Lady Ryōshū, colei che se n'è andata per servire la Famiglia Edgar."
         },
         {
             "id": 34,
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "Hmph, è passato molto tempo da quando ha lasciato la magione. Non ha senso menzionarla usando i suoi titoli onorifici."
+            "content": "Umpf, è passato un bel pezzo da quando ha lasciato questo maniero. Non c'è bisogno di usare gli onorifici."
         },
         {
             "id": 35,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Cime Tempestose",
-            "content": "... Il Capo Maggiordomo Ryōshū ci ha informati che la caccia al lupo è vicina."
+            "content": "... Il Capo Maggiordomo Ryōshū riferisce che la caccia al lupo è imminente."
         },
         {
             "id": 36,
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "Quindi il cane randagio è tornato in forma di lupo... è tornato ancora una volta per infangare il buon nome di Cime Tempestose e della sua rispettabilissima Signora. Molto bene, mi risparmia la fatica di uscire da qui per braccare quella bestia."
+            "content": "Quindi, il cane randagio ritorna sotto forma di lupo... tornando a sfigurare Cime Tempestose e il venerabile nome della sua Padrona ancora una volta. Bene, questo mi risparmierà la fatica di avventurarmi fuori da questo posto alla ricerca della bestia."
         },
         {
             "id": 37,
@@ -216,126 +216,126 @@
         },
         {
             "id": 38,
-            "content": "Gli occhi della ragazza si fecero due fessure."
+            "content": "Gli occhi della fanciulla si assottigliarono."
         },
         {
             "id": 39,
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "... Per te la cosa è problematica?"
+            "content": "... C'è qualche problema?"
         },
         {
             "id": 40,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Cime Tempestose",
-            "content": "... è risaputo che il lupo un tempo fosse... un caro conoscente della mente dietro la caccia, Ryōshū della Famiglia Edgar."
+            "content": "... Ci è noto che un tempo il lupo fosse... un conoscente molto intimo della mente dietro questa caccia, Ryōshū della Famiglia Edgar."
         },
         {
             "id": 41,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Cime Tempestose",
-            "content": "Faust è preoccupata che emozioni del genere possano annebbiare le sue strategie. Nemmeno Faust è stata testimone di circostanze simili in passato."
+            "content": "Faust teme che tali emozioni possano offuscare le sue strategie. Nemmeno Faust si è mai trovata prima d'ora in una simile circostanza."
         },
         {
             "id": 42,
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "Hmph, è semplice."
+            "content": "Umpf, è semplice."
         },
         {
             "id": 43,
-            "content": "L'altra ragazza parlava con un tono piuttosto ansioso, ma la ragazza sminuì le sue preoccupazioni con un'alzata di spalle."
+            "content": "L'altra fanciulla parlava con una certa ansia, ma lei liquidò le sue preoccupazioni con un leggero grugnito di scherno."
         },
         {
             "id": 44,
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "Non provo nessun rispetto per qualcuno che ha abbandonato la sua terra a favore del suo Padrone, ma un Capo Maggiordomo rimane pur sempre un Capo Maggiordomo."
+            "content": "Non provo alcuna simpatia per chi ha abbandonato questa terra a favore del proprio Padrone, ma un Capo Maggiordomo resta pur sempre un Capo Maggiordomo."
         },
         {
             "id": 45,
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "Non è il genere di persona da aggrapparsi a vecchie amicizie in questioni di così elevata importanza, no. Rimarrà leale alla caccia perché è qualcosa di cui vuole conoscere la conclusione. Chissà, forse le ispirerà una dedizione ancora più grande."
+            "content": "Non è il tipo di persona da farsi condizionare da vecchi legami in questioni di tale importanza, no. Rimarrà pienamente fedele alla caccia, poiché si tratta di qualcosa che deve portare a termine. Forse questo le ispirerà una dedizione persino maggiore."
         },
         {
             "id": 46,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Cime Tempestose",
-            "content": "... Ho compreso."
+            "content": "... Capisco."
         },
         {
             "id": 47,
-            "content": "La loro conversazione si concluse alla fine delle scale, davanti la grande sala d'ingresso della magione."
+            "content": "Mentre la loro conversazione volgeva al termine, le scale finirono aprendosi sul grandioso ingresso del maniero."
         },
         {
             "id": 48,
-            "content": "La sala era riempita da file di Maggiordomi in attesa dei suoi ordini."
+            "content": "Era gremito di file su file di maggiordomi in attesa dei suoi ordini."
         },
         {
             "id": 49,
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "Intrigante. Qual è il senso di tutto ciò?"
+            "content": "Interessante. A cosa si deve tutto ciò?"
         },
         {
             "id": 50,
             "model": "파우스트",
             "teller": "Faust",
             "title": "Cime Tempestose",
-            "content": "... Sono giunti degli ospiti inattesi prima dell'ora stabilita per il banchetto. I maggiordomi sono pronti ad accogliere gli intrusi."
+            "content": "... Sono arrivati degli ospiti non invitati prima del banchetto. I maggiordomi sono pronti ad affrontare gli intrusi."
         },
         {
             "id": 51,
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "Molto bene... in tal caso coglieremo l'occasione per un breve riscaldamento prima della caccia."
+            "content": "Molto bene... usiamo allora questa opportunità come riscaldamento prima della caccia."
         },
         {
             "id": 52,
-            "content": "La ragazza si erse alta davanti i ranghi di Maggiordomi."
+            "content": "La fanciulla si stagliò fiera davanti alle file dei maggiordomi."
         },
         {
             "id": 53,
-            "content": "Fuori dalla magione si trovavano degli stranieri, le loro vesti indicavano chiaramente che non appartenevano a quel luogo. Non che la cosa interessasse alla ragazza."
+            "content": "All'esterno del maniero si trovava un gruppo di forestieri; i loro abiti indicavano chiaramente che non appartenevano a quel luogo. Non che la cosa importasse minimamente alla fanciulla."
         },
         {
             "id": 54,
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "Ah, le mie scuse per l'accoglienza in ritardo, carissimi estranei."
+            "content": "Ah, vi chiedo scusa per il ritardo nel ricevervi, cari forestieri."
         },
         {
             "id": 55,
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "Per quanto sia scortese da parte mia informarvi di ciò, temo che in questo momento la magione non sia disposta ad accogliere ospiti non invitati."
+            "content": "Sebbene possa risultare alquanto scortese da parte mia farvelo presente, devo informarvi che questo maniero al momento non accetta ospiti non invitati."
         },
         {
             "id": 56,
-            "content": "I Maggiordomi si prepararono al combattimento nel momento in cui la ragazza smise di parlare."
+            "content": "I maggiordomi iniziarono a prepararsi al combattimento nell'istante esatto in cui la fanciulla terminò la frase."
         },
         {
             "id": 57,
-            "content": "La ragazza piegò il tovagliolo che portava sul braccio... e pronunciò queste parole."
+            "content": "La fanciulla si avvolse attorno al pugno il tovagliolo di servizio che portava con sé... e sussurrò."
         },
         {
             "id": 58,
             "model": "오티스",
             "teller": "Outis",
             "title": "Cime Tempestose",
-            "content": "Carissimi ospiti indesiderati, se non vi dà cruccio... vi invito cortesemente a sgombrare la zona."
+            "content": "E ora, cari intrusi... sgomberate la proprietà, se non vi dispiace."
         }
     ]
 }
