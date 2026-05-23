@@ -11,7 +11,7 @@
     {
       "id": 9261,
       "name": "Opera: Ferocia",
-      "desc": "Infliggi +20% di danni con le Abilità Contundenti contro i nemici che hanno 35+ Potenza [Sinking] oppure che sono a 15 o meno PS (Potenza [Sinking] viene calcolata per Parte)\n- Se tali Abilità Contundenti sono delle Abilità Tristezza o Sbilità che infliggono Potenza o Conteggio [Laceration], o '<noparse>Sanguinamento</noparse> Speciale', e colpiscono il bersaglio, ottieni 1 [Enhancement] nel turno successivo (una volta per turno per Identità)",
+      "desc": "Infliggi +20% di danni con le Abilità Contundenti contro i nemici che hanno 35+ Potenza [Sinking] oppure che sono a 15 o meno PS (Potenza [Sinking] viene calcolata per Parte)\n- Se tali Abilità Contundenti sono delle Abilità Tristezza o Abilità che infliggono Potenza o Conteggio [Laceration], o '<noparse>Sanguinamento</noparse> Speciale', e colpiscono il bersaglio, ottieni 1 [Enhancement] nel turno successivo (una volta per turno per Identità)",
       "simpleDesc": [
         {}
       ]
@@ -19,7 +19,7 @@
     {
       "id": 9262,
       "name": "Scheletro Universale",
-      "desc": "Le Identità della fazione Anulare: A Fine Attacco, infliggi 1 Stack di Resistenza Diminuita per un Tipo di Attacco casualesul bersaglio (2 volte per turno)\n\nLe Identità della fazione Anulare infliggono +10% di danni",
+      "desc": "Le Identità della fazione Anulare: A Fine Attacco, infliggi 1 Stack di Resistenza Diminuita per un Tipo di Attacco casuale sul bersaglio (2 volte per turno)\n\nLe Identità della fazione Anulare infliggono +10% di danni",
       "simpleDesc": [
         {}
       ]
