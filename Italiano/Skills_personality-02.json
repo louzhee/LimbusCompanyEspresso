@@ -56,7 +56,7 @@
         {
           "level": 1,
           "name": "Protezione Clienti",
-          "desc": "[WhenUse] Applica 2 [DefenseUp] all'alleato con la minore percentuale di PV (3 volte per turno)",
+          "desc": "[WhenUse] Applica 2 [DefenseUp] all'alleato che ha la percentuale di PV attuale più bassa (3 volte per turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -84,7 +84,7 @@
         {
           "level": 2,
           "name": "Protezione Clienti",
-          "desc": "[WhenUse] Applica 3 [DefenseUp] all'alleato con la minore percentuale di PV (3 volte per turno)\nA 5+ [DefenseUp], Potere Scontro +1",
+          "desc": "[WhenUse] Applica 3 [DefenseUp]  all'alleato che ha la percentuale di PV attuale più bassa (3 volte per turno)\nA 5+ [DefenseUp], Potere Scontro +1",
           "coinlist": [
             {
               "coindescs": [
@@ -112,7 +112,7 @@
         {
           "level": 4,
           "name": "Protezione Clienti",
-          "desc": "[WhenUse] Applica 4 [DefenseUp] all'alleato con la minore percentuale di PV (3 volte per turno)\nA 5+ [DefenseUp], Potere Scontro +2",
+          "desc": "[WhenUse] Applica 4 [DefenseUp]  all'alleato che ha la percentuale di PV attuale più bassa (3 volte per turno)\nA 5+ [DefenseUp], Potere Scontro +2",
           "coinlist": [
             {
               "coindescs": [
@@ -144,7 +144,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Mantenere l'Ordine",
+          "name": "Ordine e Legge",
           "desc": "A 5+ [DefenseUp], Potere Moneta +1\n[WinDuel] Recupera 2 PV",
           "coinlist": [
             {},
@@ -159,7 +159,7 @@
         },
         {
           "level": 4,
-          "name": "Mantenere l'Ordine",
+          "name": "Ordine e Legge",
           "desc": "A 5+ [DefenseUp], Potere Moneta +1\n[WinDuel] Recupera 4 PV",
           "coinlist": [
             {},
@@ -282,7 +282,7 @@
         {
           "level": 2,
           "name": "Rimbombo Metallico",
-          "desc": "[StartBattle] Spende 5 Conteggio [Vibration] e ottiene +1 Portata Attacco per questa Abilità\n[WhenUse] Ottiene +4 Conteggio [Vibration]",
+          "desc": "[StartBattle] Consuma 5 Conteggio [Vibration] su di sé e ottiene +1 Portata Attacco per questa Abilità\n[WhenUse] Ottiene +4 Conteggio [Vibration]",
           "coinlist": [
             {
               "coindescs": [
@@ -310,7 +310,7 @@
         {
           "level": 4,
           "name": "Rimbombo Metallico",
-          "desc": "[StartBattle] Spende 5 Conteggio [Vibration] e ottiene +1 Portata Attacco per questa Abilità\n[WhenUse] Ottiene +4 Conteggio [Vibration]",
+          "desc": "[StartBattle] Consuma 5 Conteggio [Vibration] su di sé e ottiene +1 Portata Attacco per questa Abilità\n[WhenUse] Ottiene +4 Conteggio [Vibration]",
           "coinlist": [
             {
               "coindescs": [
@@ -343,26 +343,26 @@
         {
           "level": 3,
           "name": "Violenza Scatenata",
-          "desc": "[StartBattle] Spende 5 Conteggio [Vibration] e ottiene +1 Portata Attacco per questa Abilità (Max +2)\n[DefeatDuel] Perde 20 PS\nInfligge +3% Danni per ogni tipo di effetto negativo sul bersaglio (Max 15%)\n[EnemyKill] Ottiene +2 Conteggio [Vibration]",
+          "desc": "[StartBattle] Consuma 5 Conteggio [Vibration] su di sé e ottiene +1 Portata Attacco per questa Abilità (max +2)\n[DefeatDuel] Perde 20 PS\nInfligge +3% danno per ogni tipo di effetto negativo sul bersaglio (max 15%)\n[EnemyKill] Ottiene +2 Conteggio [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Causa [VibrationExplosion],\nPoi infligge Danni da Ira del 20% dell'incremento della Soglia di Stordimento causato dallo [VibrationExplosion]. (Max 13)"
+                  "desc": "[OnSucceedAttack] Innesca [VibrationExplosion],\npoi infligge danno Ira pari al 20% dell'incremento della Soglia di Stordimento causato da [VibrationExplosion] (max 13)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Causa [VibrationExplosion],\nPoi infligge Danni da Ira del 20% dell'incremento della Soglia di Stordimento causato dallo [VibrationExplosion]. (Max 13)"
+                  "desc": "[OnSucceedAttack] Innesca [VibrationExplosion],\npoi infligge danno Ira pari al 20% dell'incremento della Soglia di Stordimento causato da [VibrationExplosion] (max 13)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Causa [VibrationExplosion],\nPoi infligge Danni da Ira del 20% dell'incremento della Soglia di Stordimento causato dallo [VibrationExplosion]. (Max 13)\nRiduce il Conteggio [Vibration] di 3"
+                  "desc": "[OnSucceedAttack] Innesca [VibrationExplosion],\npoi infligge danno Ira pari al 20% dell'incremento della Soglia di Stordimento causato da [VibrationExplosion] (max 13)\nRiduce il Conteggio [Vibration] di 3"
                 }
               ]
             }
@@ -371,26 +371,26 @@
         {
           "level": 4,
           "name": "Violenza Scatenata",
-          "desc": "[StartBattle] Spende 5 Conteggio [Vibration] e ottiene +1 Portata Attacco per questa Abilità (Max +2)\n[DefeatDuel] Perde 20 PS\nInfligge +6% Danni per ogni tipo di effetto negativo sul bersaglio (Max 30%)\n[EnemyKill] Ottiene +2 Conteggio [Vibration]",
+          "desc": "[StartBattle] Consuma 5 Conteggio [Vibration] su di sé e ottiene +1 Portata Attacco per questa Abilità (max +2)\n[DefeatDuel] Perde 20 PS\nInfligge +6% danno per ogni tipo di effetto negativo sul bersaglio (max 30%)\n[EnemyKill] Ottiene +2 Conteggio [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Causa [VibrationExplosion],\nPoi infligge Danni da Ira del 30% dell'incremento della Soglia di Stordimento causato dallo [VibrationExplosion]. (Max 20)"
+                  "desc": "[OnSucceedAttack] Innesca [VibrationExplosion],\npoi infligge danno Ira pari al 30% dell'incremento della Soglia di Stordimento causato da [VibrationExplosion] (max 20)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Causa [VibrationExplosion],\nPoi infligge Danni da Ira del 30% dell'incremento della Soglia di Stordimento causato dallo [VibrationExplosion]. (Max 20)"
+                  "desc": "[OnSucceedAttack] Innesca [VibrationExplosion],\npoi infligge danno Ira pari al 30% dell'incremento della Soglia di Stordimento causato da [VibrationExplosion] (max 20)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Causa [VibrationExplosion],\nPoi infligge Danni da Ira del 30% dell'incremento della Soglia di Stordimento causato dallo [VibrationExplosion]. (Max 20)\nRiduce il Conteggio [Vibration] di 3"
+                  "desc": "[OnSucceedAttack] Innesca [VibrationExplosion],\npoi infligge danno Ira pari al 30% dell'incremento della Soglia di Stordimento causato da [VibrationExplosion] (max 20)\nRiduce il Conteggio [Vibration] di 3"
                 }
               ]
             }
@@ -519,7 +519,7 @@
                   "desc": "[OnSucceedAttack] Ottiene +2 Conteggio [Breath]"
                 },
                 {
-                  "desc": "+30% Danni sul Colpo Critico"
+                  "desc": "Infligge +30% danno sul Colpo Critico"
                 }
               ]
             },
@@ -546,7 +546,7 @@
                   "desc": "[OnSucceedAttack] Ottiene +2 Conteggio [Breath]"
                 },
                 {
-                  "desc": "+30% Danni sul Colpo Critico"
+                  "desc": "Infligge +30% danno sul Colpo Critico"
                 }
               ]
             },
@@ -570,7 +570,7 @@
         {
           "level": 3,
           "name": "Fiore di Prugno Rosso Sparsi",
-          "desc": "Infligge +3% danni per ogni [RedApricotBlossom] sul bersaglio\n[WinDuel] Consuma metà del Conteggio [Breath] su di sé, poi ottiene [Breath] pari al Conteggio [Breath] consumato. (Max 10)",
+          "desc": "Infligge +3% danni per ogni [RedApricotBlossom] sul bersaglio\n[WinDuel] Consuma metà del Conteggio [Breath] su di sé, poi ottiene [Breath] pari al Conteggio [Breath] consumato (max 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -591,7 +591,7 @@
         {
           "level": 4,
           "name": "Fiore di Prugno Rosso Sparsi",
-          "desc": "Infligge +3% danni per ogni [RedApricotBlossom] sul bersaglio\n<style=\"highlight\">Potere Moneta +1 per ogni 7 [Breath] su di sé (Max 3)</style>\n[WinDuel] Consuma metà del Conteggio [Breath] su di sé, poi ottiene [Breath] pari al Conteggio [Breath] consumato. (Max 10)\n<style=\"highlight\">Questa Abilità non consuma [RedApricotBlossom] Sul Colpo Critico</style>",
+          "desc": "Infligge +3% danni per ogni [RedApricotBlossom] sul bersaglio\n<style=\"highlight\">Potere Moneta +1 per ogni 7 [Breath] su di sé (max 3)</style>\n[WinDuel] Consuma metà del Conteggio [Breath] su di sé, poi ottiene [Breath] pari al Conteggio [Breath] consumato (max 10)\n<style=\"highlight\">Questa Abilità non consuma [RedApricotBlossom] Sul Colpo Critico</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -623,7 +623,7 @@
         {
           "level": 1,
           "name": "Deviazione",
-          "desc": "[WhenUse] Per ogni 4 [Breath] su di sé, ottiene Potere Finale +1 (Max 3)",
+          "desc": "[WhenUse] Per ogni 4 [Breath] su di sé, ottiene Potere Finale +1 (max 3)",
           "coinlist": [
             {}
           ]
@@ -631,7 +631,7 @@
         {
           "level": 4,
           "name": "Deviazione",
-          "desc": "[WhenUse] Per ogni 4 [Breath] su di sé, ottiene Potere Finale +1 (Max 5)",
+          "desc": "[WhenUse] Per ogni 4 [Breath] su di sé, ottiene Potere Finale +1 (max 5)",
           "coinlist": [
             {}
           ]
@@ -1205,7 +1205,7 @@
         {
           "level": 3,
           "name": "Attratta dalle Fiamme",
-          "desc": "[StartBattle] Ottiene 7 [Combustion] e +1 Conteggio [Combustion]\n[BeforeUse] A 30+ [Combustion], attiva al suo posto 'Sintonia Massima S.F.A 【Corrosione Deteriorata】’\nInfligge +7.5% danni per ogni 5 [Combustion] su di sé (max 30%)\n[WhenUse] A 10+ ([Combustion] su di sé + [Combustion] sul bersaglio), Potere Base +1\n[WhenUse] Se a questa unità mancano 30%+ PV, Potere Moneta +1",
+          "desc": "[StartBattle] Ottiene 7 [Combustion] e +1 Conteggio [Combustion]\n[BeforeUse] A 30+ [Combustion], attiva al suo posto \"Sintonia Massima S.F.A 【Corrosione Deteriorata】\"\nInfligge +7.5% danni per ogni 5 [Combustion] su di sé (max 30%)\n[WhenUse] A 10+ ([Combustion] su di sé + [Combustion] sul bersaglio), Potere Base +1\n[WhenUse] Se a questa unità mancano 30%+ PV, Potere Moneta +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1227,7 +1227,7 @@
         {
           "level": 4,
           "name": "Attratta dalle Fiamme",
-          "desc": "[StartBattle] Ottiene 7 [Combustion] e +1 Conteggio [Combustion]\n[BeforeUse] A 30+ [Combustion], attiva al suo posto 'Sintonia Massima S.F.A 【Corrosione Deteriorata】’\nInfligge +12.5% danni per ogni 5 [Combustion] su di sé (max 50%)\n[WhenUse] Potere Base +1 per ogni 10 ([Combustion] su di sé + [Combustion] sul bersaglio) (max 2)\n[WhenUse] Se a questa unità mancano 30%+ PV, Potere Moneta +1 (max 2)",
+          "desc": "[StartBattle] Ottiene 7 [Combustion] e +1 Conteggio [Combustion]\n[BeforeUse] A 30+ [Combustion], attiva al suo posto \"Sintonia Massima S.F.A 【Corrosione Deteriorata】\"\nInfligge +12.5% danni per ogni 5 [Combustion] su di sé (max 50%)\n[WhenUse] Potere Base +1 per ogni 10 ([Combustion] su di sé + [Combustion] sul bersaglio) (max 2)\n[WhenUse] Se a questa unità mancano 30%+ PV, Potere Moneta +1 (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1253,7 +1253,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Risonanza aumentando la Sintonia S.F.A.",
+          "name": "Risonanza Aumentando la Sintonia S.F.A.",
           "desc": "[WhenUse] Perde 5 [Combustion] (1 volta per turno)\n[OnSucceedEvade] Perde 5 [Combustion] (1 volta per turno)",
           "coinlist": [
             {}
@@ -1261,7 +1261,7 @@
         },
         {
           "level": 4,
-          "name": "Risonanza aumentando la Sintonia S.F.A.",
+          "name": "Risonanza Aumentando la Sintonia S.F.A.",
           "desc": "[WhenUse] A 10+ [Combustion], Potere Moneta +3\n[WhenUse] Perde 5 [Combustion] (1 volta per turno)\n[OnSucceedEvade] Perde 5 [Combustion] (1 volta per turno)",
           "coinlist": [
             {}
@@ -1275,7 +1275,7 @@
         {
           "level": 1,
           "name": "Sintonia Massima S.F.A 【Corrosione Deteriorata】",
-          "desc": "Dopo aver usato questa Abilità, muore.\n- Se i PV vanno sotto 1 mentre usa questa Abilità, mantiene i PV a 1 finché non conclude l'Abilità.\n[WhenUse] Infligge +7.5% danni per ogni 5 [Combustion] su di sé (max 30%)\n[WhenUse] A 10+ ([Combustion] su di sé + [Combustion] sul bersaglio), Potere Base +1\n[WhenUse] Potere Moneta +1 per ogni 30% dei propri PV mancanti (max 2)\n[BeforeAttack] Portata Attacco +1 per ogni 20% dei propri PV mancanti (max 2)",
+          "desc": "Questa unità muore dopo aver usato questa Abilità\n- Se i PV vanno sotto 1 mentre usa questa Abilità, mantiene i PV a 1 finché non conclude l'Abilità.\n[WhenUse] Infligge +7.5% danni per ogni 5 [Combustion] su di sé (max 30%)\n[WhenUse] A 10+ ([Combustion] su di sé + [Combustion] sul bersaglio), Potere Base +1\n[WhenUse] Potere Moneta +1 per ogni 30% dei propri PV mancanti (max 2)\n[BeforeAttack] Portata Attacco +1 per ogni 20% dei propri PV mancanti (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1312,7 +1312,7 @@
         {
           "level": 4,
           "name": "Sintonia Massima S.F.A 【Corrosione Deteriorata】",
-          "desc": "Dopo aver usato questa Abilità, muore.\n- Se i PV vanno sotto 1 mentre usa questa Abilità, mantiene i PV a 1 finché non conclude l'Abilità.\n[WhenUse] Infligge +12.5% danni per ogni 5 [Combustion] su di sé (max 50%)\n[WhenUse] Potere Base +1 per ogni 10 ([Combustion] su di sé + [Combustion] sul bersaglio) (max 2)\n[WhenUse] Potere Moneta +1 per ogni 30% dei propri PV mancanti (max 3)\n[BeforeAttack] Portata Attacco +1 per ogni 20% dei propri PV mancanti (max 4)",
+          "desc": "Questa unità muore dopo aver usato questa Abilità\n- Se i PV vanno sotto 1 mentre usa questa Abilità, mantiene i PV a 1 finché non conclude l'Abilità.\n[WhenUse] Infligge +12.5% danni per ogni 5 [Combustion] su di sé (max 50%)\n[WhenUse] Potere Base +1 per ogni 10 ([Combustion] su di sé + [Combustion] sul bersaglio) (max 2)\n[WhenUse] Potere Moneta +1 per ogni 30% dei propri PV mancanti (max 3)\n[BeforeAttack] Portata Attacco +1 per ogni 20% dei propri PV mancanti (max 4)",
           "coinlist": [
             {
               "coindescs": [
@@ -1499,7 +1499,7 @@
         {
           "level": 3,
           "name": "Nessuna Traccia Visiva o Uditiva.",
-          "desc": "Se la Velocità di questa unità è maggiore di quella del bersaglio, infligge +(differenza di Velocità x Potenza di [Burst] sul bersaglio)% danni (max 50%)\nSe la Velocità di questa unità è maggiore del bersaglio di 2 o più, Potere Moneta +1\n[StartBattle] Ottiene 1 [SupportProtect] (1 volta per turno)\n[BeforeUse] A 10+ [EnhanceZilu], attiva al suo posto 'Tecnica Segreta degli Heishou - Mao: Manifestazione Spaccanuvole'\n[WhenUse] Ottiene 3 [LegStrength]\n[WinDuel] Infligge +2 [Burst]",
+          "desc": "Se la Velocità di questa unità è maggiore di quella del bersaglio, infligge +(differenza di Velocità x Potenza di [Burst] sul bersaglio)% danni (max 50%)\nSe la Velocità di questa unità è maggiore del bersaglio di 2 o più, Potere Moneta +1\n[StartBattle] Ottiene 1 [SupportProtect] (1 volta per turno)\n[BeforeUse] A 10+ [EnhanceZilu], attiva al suo posto \"Tecnica Segreta degli Heishou - Mao: Manifestazione Spaccanuvole\"\n[WhenUse] Ottiene 3 [LegStrength]\n[WinDuel] Infligge +2 [Burst]",
           "coinlist": [
             {
               "coindescs": [
@@ -1536,7 +1536,7 @@
         {
           "level": 4,
           "name": "Nessuna Traccia Visiva o Uditiva.",
-          "desc": "Se la Velocità di questa unità è maggiore di quella del bersaglio, infligge +(differenza di Velocità x Potenza di [Burst] sul bersaglio)% danni (max 50%)\n<style=\"highlight\">Se la Velocità di questa unità è maggiore di quella del bersaglio, ottiene Potere Moneta in base alla differenza di Velocità (Potere Moneta +1 per ogni 2 differenza di Velocità; max 2)</style>\n[StartBattle] Ottiene 1 [SupportProtect] (1 volta per turno)\n[BeforeUse] A 10+ [EnhanceZilu], attiva al suo posto 'Tecnica Segreta degli Heishou - Mao: Manifestazione Spaccanuvole'\n<style=\"highlight\">[WhenUse] Se il bersaglio ha 15+ [Burst], Potere Moneta +1</style>\n[WhenUse] Ottiene 3 [LegStrength]\n[WinDuel] Infligge +2 Conteggio [Burst]",
+          "desc": "Se la Velocità di questa unità è maggiore di quella del bersaglio, infligge +(differenza di Velocità x Potenza di [Burst] sul bersaglio)% danni (max 50%)\n<style=\"highlight\">Se la Velocità di questa unità è maggiore di quella del bersaglio, ottiene Potere Moneta in base alla differenza di Velocità (Potere Moneta +1 per ogni 2 differenza di Velocità; max 2)</style>\n[StartBattle] Ottiene 1 [SupportProtect] (1 volta per turno)\n[BeforeUse] A 10+ [EnhanceZilu], attiva al suo posto \"Tecnica Segreta degli Heishou - Mao: Manifestazione Spaccanuvole\"\n<style=\"highlight\">[WhenUse] Se il bersaglio ha 15+ [Burst], Potere Moneta +1</style>\n[WhenUse] Ottiene 3 [LegStrength]\n[WinDuel] Infligge +2 Conteggio [Burst]",
           "coinlist": [
             {
               "coindescs": [
@@ -1722,7 +1722,7 @@
         {
           "level": 1,
           "name": "Protezione Gambeleste",
-          "desc": "[CanDuelGuard]\nAbilità esclusiva a [SupportProtect]\n[BeforeUse] A 10+ [EnhanceZilu], attiva al suo posto 'Tecnica Segreta degli Heishou - Mao: Manifestazione Spaccanuvole'\n[WhenUse] Quest'Abilità ottiene +1 Livello Difensivo per ogni 10% di PV che questa unità ha perso in totale durante questo Incontro (max 6; in base ai PV massimi al momento dell'attivazione)\n[WhenUse] Non può essere Stordito dai danni finché questa Abilità non è conclusa\n[WhenUse] Ottiene 2 [Protection] (1 volta per turno)",
+          "desc": "[CanDuelGuard]\nAbilità esclusiva a [SupportProtect]\n[BeforeUse] A 10+ [EnhanceZilu], attiva al suo posto \"Tecnica Segreta degli Heishou - Mao: Manifestazione Spaccanuvole\"\n[WhenUse] Quest'Abilità ottiene +1 Livello Difensivo per ogni 10% di PV che questa unità ha perso in totale durante questo Incontro (max 6; in base ai PV massimi al momento dell'attivazione)\n[WhenUse] Non può essere Stordito dai danni finché questa Abilità non è conclusa\n[WhenUse] Ottiene 2 [Protection] (1 volta per turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -1736,7 +1736,7 @@
         {
           "level": 4,
           "name": "Protezione Gambeleste",
-          "desc": "[CanDuelGuard]\nAbilità esclusiva a [SupportProtect]\n[BeforeUse] A 10+ [EnhanceZilu], attiva al suo posto 'Tecnica Segreta degli Heishou - Mao: Manifestazione Spaccanuvole'\n[WhenUse] Quest'Abilità ottiene +1 Livello Difensivo per ogni 10% di PV che questa unità ha perso in totale durante questo Incontro (max 6; in base ai PV massimi al momento dell'attivazione)\n[WhenUse] Non può essere Stordito dai danni finché questa Abilità non è conclusa\n[WhenUse] Ottiene 2 [Protection] (1 volta per turno)<style=\"highlight\"></style>",
+          "desc": "[CanDuelGuard]\nAbilità esclusiva a [SupportProtect]\n[BeforeUse] A 10+ [EnhanceZilu], attiva al suo posto \"Tecnica Segreta degli Heishou - Mao: Manifestazione Spaccanuvole\"\n[WhenUse] Quest'Abilità ottiene +1 Livello Difensivo per ogni 10% di PV che questa unità ha perso in totale durante questo Incontro (max 6; in base ai PV massimi al momento dell'attivazione)\n[WhenUse] Non può essere Stordito dai danni finché questa Abilità non è conclusa\n[WhenUse] Ottiene 2 [Protection] (1 volta per turno)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2120,7 +2120,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Infallibilmente, Come Esige Il Prescritto",
+          "name": "Infallibilmente, come Esige Il Prescritto",
           "desc": "Se quest'Abilità è marchiata con [IndexPrescriptTargetMarkToEnemy], infligge +10% danni\n[WhenUse] Ottiene +2 Conteggio [Breath]",
           "coinlist": [
             {
@@ -2141,7 +2141,7 @@
         },
         {
           "level": 2,
-          "name": "Infallibilmente, Come Esige Il Prescritto",
+          "name": "Infallibilmente, come Esige Il Prescritto",
           "desc": "Se quest'Abilità è marchiata con [IndexPrescriptTargetMarkToEnemy], infligge +10% danni\n<style=\"highlight\">A 6+ ([Breath] su di sé + [Sinking] sul bersaglio), Potere Moneta +1</style>\n[WhenUse] Ottiene +2 Conteggio [Breath]",
           "coinlist": [
             {
@@ -2162,7 +2162,7 @@
         },
         {
           "level": 4,
-          "name": "Infallibilmente, Come Esige Il Prescritto",
+          "name": "Infallibilmente, come Esige Il Prescritto",
           "desc": "Se quest'Abilità è marchiata con [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Potere Scontro +1</style> e infligge <style=\"highlight\">+20%</style> danni\n<style=\"highlight\">Potere Moneta +1 per ogni 6 ([Breath] su di sé + [Sinking] sul bersaglio) (max 2)</style>\n[WhenUse] Ottiene +2 Conteggio [Breath]",
           "coinlist": [
             {
@@ -2277,7 +2277,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Come Richiesto Dal Prescritto, Sarai Eliminato.",
+          "name": "Come Richiesto dal Prescritto, sarai Eliminato.",
           "desc": "Se quest'Abilità è marchiata con [IndexPrescriptTargetMarkToEnemy], infligge +20% danni sul Colpo Critico\nA 6+ ([Breath] su di sé + [Sinking] sul bersaglio), Potere Moneta +1\n[StartBattle] A 6+ [BlessingOfIndexPrescriptAlly], trasforma tutte le monete di quest'Abilità in [SuperCoin](i)\n[WhenUse] Ottiene +3 [Breath] Count",
           "coinlist": [
             {
@@ -2311,7 +2311,7 @@
         },
         {
           "level": 4,
-          "name": "Come Richiesto Dal Prescritto, Sarai Eliminato.",
+          "name": "Come Richiesto dal Prescritto, sarai Eliminato.",
           "desc": "Se quest'Abilità è marchiata con [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Potere Finale +1</style> e infligge <style=\"highlight\">+30%</style> danni su Colpo Critico\n<style=\"highlight\">Potere Moneta +1 per ogni 6 ([Breath] su di sé + [Sinking] sul bersaglio) (max 2)</style>\n[StartBattle] A 6+ [BlessingOfIndexPrescriptAlly], trasforma tutte le Monete di quest'Abilità in [SuperCoin](i) e <style=\"highlight\">infligge +30% danni</style>\n[WhenUse] Ottiene +3 Conteggio [Breath]\n<style=\"highlight\">- Ottiene [Breath] pari al ([BlessingOfIndexPrescriptAlly]/3) (arrotondato per difetto)</style>",
           "coinlist": [
             {

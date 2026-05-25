@@ -3,12 +3,12 @@
     {
       "id": 1010311,
       "name": "Equilibrio",
-      "desc": "A Scontro Vinto, ottiene +1 Conteggio [Breath].\nPotere Moneta +1 per ogni 5 Conteggio [Breath]. (Max 3)"
+      "desc": "A Scontro Vinto, ottiene +1 Conteggio [Breath].\nPotere Moneta +1 per ogni 5 Conteggio [Breath] (max 3)"
     },
     {
       "id": 1020211,
       "name": "Autosufficiente",
-      "desc": "Ottiene +1 Conteggio [Charge] dopo un attacco.\nUn alleato casuale ottiene +1 Conteggio [Charge] dopo un attacco."
+      "desc": "Ottiene +1 Conteggio [Charge] a Fine Attacco.\nUn alleato casuale ottiene +1 Conteggio [Charge] a Fine Attacco"
     },
     {
       "id": 1050311,
@@ -29,12 +29,12 @@
     {
       "id": 1020411,
       "name": "Fischi",
-      "desc": "All'inizio della fase di combattimento, cura 2 alleati con meno PS di 15 PS.\nSe l'alleato è un 'Fanatico della N Corp.', applica anche 2 [AssemblePersonality]."
+      "desc": "Inizio Combattimento: Cura 15 PS a 2 alleati con i PS più bassi.\nSe l'alleato è un \"Fanatico della N Corp\", applica anche 2 [AssemblePersonality]."
     },
     {
       "id": 1020431,
       "name": "Sussurri",
-      "desc": "All'inizio della fase di combattimento, cura 1 alleato con meno PS di 15 PS.\nSe l'alleato è un 'Fanatico della N Corp.', applica anche 2 [AssemblePersonality]."
+      "desc": "Inizio Combattimento: Cura 15 PS a 1 alleato con i PS più bassi.\nSe l'alleato è un \"Fanatico della N Corp\", applica anche 2 [AssemblePersonality]."
     },
     {
       "id": 1100511,

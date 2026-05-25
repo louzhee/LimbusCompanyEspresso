@@ -3962,7 +3962,7 @@
         {
           "level": 1,
           "name": "Fragranza Culminante",
-          "desc": "Se il bersaglio è in [DongbaekFullBloom], infligge +100% danni",
+          "desc": "[CantDuel]\nSe il bersaglio è in [DongbaekFullBloom], infligge +100% danni",
           "coinlist": [
             {
               "coindescs": [

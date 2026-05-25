@@ -99,6 +99,10 @@
     {
       "id": "railway_dungeon_advice_5_level_desc",
       "content": "- Identità : Grado Legame 4, Livello 50\n- E.G.O : Grado Intreccio 4"
+    },
+    {
+      "id":"railway_dungeon_end_date_until",
+      "content": "~ <font=\"ExcelsiorSans SDF\">{0}</font>"
     }
   ]
 }

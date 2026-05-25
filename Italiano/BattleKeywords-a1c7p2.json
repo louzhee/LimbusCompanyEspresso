@@ -122,7 +122,7 @@
     {
       "id": "UnstoppableFunny",
       "name": "Gioia Inarrestabile",
-      "desc": "Alla Morte:\n- Si ottiene 1 risorsa E.G.O di ognuna delle 3 risorse E.G.O più scarse\n- Infligge +3 Conteggio Sanguinamento ad un nemico (dà priorità all'unità che ha ucciso questa unità)\n- Tutti gli alleati con 5+ Febbre Festiva ottengono 1 Rapidità il turno successivo\n- Tutti gli alleati senza Febbre Festiva ottengono 1 Potere Scontro Aumentato",
+      "desc": "Alla Morte:\n- Si ottiene 1 risorsa E.G.O di ognuna delle 3 Affinità meno possedute\n- Infligge +3 Conteggio Sanguinamento ad un nemico (dà priorità all'unità che ha ucciso questa unità)\n- Tutti gli alleati con 5+ Febbre Festiva ottengono 1 Rapidità il turno successivo\n- Tutti gli alleati senza Febbre Festiva ottengono 1 Potere Scontro Aumentato",
       "summary": "Si ottiene 1 di ogni 3 diverse risorse E.G.O\nInfligge +3 Conteggio Sanguinamento",
       "undefined": "-"
     }

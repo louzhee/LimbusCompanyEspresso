@@ -785,7 +785,7 @@
     {
       "id": 1010521,
       "name": "Ripulire il Disastro",
-      "desc": "Quando 1 alleato con i PV Max più bassi innesca [VibrationExplosion] su un nemico, infligge 1 [DefenseDown] il turno successivo per ogni aumento della Soglia di Stordimento di 4 (Max 3 per 1 nemico ogni turno)"
+      "desc": "1 alleato con i PV Max più bassi: Per ogni 4 Soglie di Stordimento aumentate innescando [VibrationExplosion] su un nemico, infligge 1 [DefenseDown] il turno successivo (max 3 [DefenseDown] per nemico per turno)"
     },
     {
       "id": 1110501,
@@ -820,32 +820,32 @@
     {
       "id": 1020701,
       "name": "Rimpianto Forzato",
-      "desc": "- In uno Scontro, il bersaglio ha -1 Potere Scontro se ha 3+ tipi di effetti negativi\n- Quando questa unità è in vita, i nemici affetti da [VibrationExplosion] ottengono 2 [DefenseDown]. (Una volta per nemico per turno)\n- Corruzione Mentale: Se a meno di -25 PS A Fine Turno, ottiene 2 [Binding] e 1 [HitResultUp] il turno successivo"
+      "desc": "- In uno Scontro, se il bersaglio ha 3+ tipi di effetti negativi, Potere Scontro -1\n- Quando questa unità è in vita, i nemici affetti da [VibrationExplosion] ottengono 2 [DefenseDown] (una volta per nemico per turno)\n- Corruzione Mentale: Se a meno di -25 PS A Fine Turno, ottiene 2 [Binding] e 1 [HitResultUp] il turno successivo"
     },
     {
       "id": 1020711,
       "name": "Rimpianto Forzato",
-      "desc": "- In uno Scontro, il bersaglio ha -1 Potere Scontro per ogni 3 tipi di effetti negativi che ha (Max -2 Potere Scontro)\n- Quando questa unità è in vita, i nemici affetti da [VibrationExplosion] ottengono 2 [DefenseDown]. (3 volte per nemico per turno)\n- Corruzione Mentale: Se a meno di -25 PS A Fine Turno, ottiene 2 [Binding] e 1 [HitResultUp] il turno successivo"
+      "desc": "- In uno Scontro, il bersaglio ha -1 Potere Scontro per ogni 3 tipi di effetti negativi su di sé (max -2 Potere Scontro)\n- Quando questa unità è in vita, i nemici affetti da [VibrationExplosion] ottengono 2 [DefenseDown] (3 volte per nemico per turno)\n- Corruzione Mentale: Se a meno di -25 PS a Fine Turno, ottiene 2 [Binding] e 1 [HitResultUp] il turno successivo"
     },
     {
       "id": 1020721,
       "name": "Lavoro di Repressione",
-      "desc": "In uno Scontro, il bersaglio dell'alleato più lento ha -1 Potere Scontro se ha 3+ tipi di effetti negativi"
+      "desc": "In uno Scontro, se il bersaglio dell'alleato più lento ha 3+ tipi di effetti negativi, -1 Potere Scontro sul bersaglio"
     },
     {
       "id": 1010601,
       "name": "Mente Vuota",
-      "desc": "- A Fine Turno, ottiene 1 [Agility] per 5 Conteggio [Charge] su se stesso il turno successivo. (Max 2)\n- Se l'Abilità di questa unità ha consumato Conteggio [Charge], applica 3 [ChargeForceField] a 1 alleato con la minore percentuale di PV"
+      "desc": "- Fine Turno: Ottiene 1 [Agility] per ogni 5 Conteggio [Charge] su sé il turno successivo. (Max 2)\n- Se l'Abilità di questa unità ha consumato Conteggio [Charge], applica 3 [ChargeForceField] a 1 alleato con la minore percentuale di PV"
     },
     {
       "id": 1010611,
       "name": "Mente Vuota",
-      "desc": "- A Fine Turno, ottiene 1 [Agility] per 5 Conteggio [Charge] su se stesso il turno successivo. (Max 3)\n- Se l'Abilità di questa unità ha consumato Conteggio [Charge], applica 3 [ChargeForceField] a 1 alleato con la minore percentuale di PV"
+      "desc": "- Fine Turno: Ottiene 1 [Agility] per ogni 5 Conteggio [Charge] su sé il turno successivo. (Max 3)\n- Se l'Abilità di questa unità ha consumato Conteggio [Charge], applica 3 [ChargeForceField] a 1 alleato con la minore percentuale di PV"
     },
     {
       "id": 1010621,
       "name": "Dimostrazione di Pulizia",
-      "desc": "1 alleato con il Conteggio più alto dalla [Charge] infligge più danni contro i bersagli con [Burst] del bersaglio in base alla [Burst] sul bersaglio (+1.5% per [Burst]. Max +15% danni)"
+      "desc": "1 alleato con il Conteggio [Charge] più alto infligge più danni contro i bersagli con [Burst] del bersaglio in base alla [Burst] sul bersaglio (+1.5% per [Burst], max +15% danni)"
     },
     {
       "id": 1120701,
@@ -944,12 +944,12 @@
     {
       "id": 1010701,
       "name": "Arpione del Primo Ufficiale",
-      "desc": "Sul Colpo Critico, infligge 2 Potenza [Laceration] in più con un'Abilità (6 volte per turno)"
+      "desc": "Sul Colpo Critico, questa unità infligge 2 Potenza [Laceration] in più usando le sue Abilità (6 volte per turno)"
     },
     {
       "id": 1010721,
       "name": "Acume del Primo Ufficiale",
-      "desc": "Sul Colpo Critico, 1 alleato con più [Breath] infligge 2 Potenza [Laceration] in più con un'Abilità (6 volte per turno)"
+      "desc": "Sul Colpo Critico, 1 alleato con la quantità maggiore di [Breath] infligge +2 Potenza [Laceration] in più usando le sue Abilità (6 volte per turno)"
     },
     {
       "id": 1110601,
@@ -1044,22 +1044,22 @@
     {
       "id": 1010801,
       "name": "Conoscenza Strappalacrime",
-      "desc": "Quando viene attaccato, infligge 1 [Sinking] all'attaccante (4 volte max)"
+      "desc": "Quando colpita, l'unità infligge 1 [Sinking] sull'attaccante (max 4 volte)"
     },
     {
       "id": 1010811,
       "name": "Conoscenza Strappalacrime",
-      "desc": "Quando viene attaccato, infligge 1 [Sinking] all'attaccante. Quando viene attaccato mentre ha uno Scudo, infligge 1 [Sinking] in più all'attaccante. (4 volte max)"
+      "desc": "Quando colpita, l'unità infligge 1 [Sinking] sull'attaccante. Quando colpita mentre ha uno Scudo, infligge 1 [Sinking] in più sull'attaccante (4 volte max)"
     },
     {
       "id": 1010821,
       "name": "Conoscenza Ripetuta",
-      "desc": "Quando 1 alleato con la Velocità più alta Scarta un'Abilità, ottiene (3 x grado dell'Abilità Scartata)% dei suoi PV Max come Scudo (Una volta per turno)"
+      "desc": "Quando 1 alleato con la Velocità più alta Scarta un'Abilità, ottiene (3 x grado dell'Abilità Scartata)% dei suoi PV max come Scudo (una volta per turno)"
     },
     {
       "id": 1010831,
       "name": "Conoscenza Ripetuta",
-      "desc": "Quando 1 alleato con la Velocità più alta Scarta un'Abilità, ottiene (5 x grado dell'Abilità Scartata)% dei suoi PV Max come Scudo (2 volte per turno)"
+      "desc": "Quando 1 alleato con la Velocità più alta Scarta un'Abilità, ottiene (5 x grado dell'Abilità Scartata)% dei suoi PV max come Scudo (2 volte per turno)"
     },
     {
       "id": 1080801,
@@ -1104,17 +1104,17 @@
     {
       "id": 1020801,
       "name": "Fiori di Prugno Sanguinei",
-      "desc": "Sul Colpo Critico: Infligge 1 [RedApricotBlossom]. (3 volte max)"
+      "desc": "Sul Colpo Critico, infligge 1 [RedApricotBlossom] (max 3 volte)"
     },
     {
       "id": 1020811,
       "name": "Fiori di Prugno Sanguinei",
-      "desc": "Sul Colpo Critico: Infligge 1 [RedApricotBlossom]. Se il bersaglio ha 10 [RedApricotBlossom], invece infligge 1 [DefenseDown] (6 volte max)"
+      "desc": "Sul Colpo Critico, infligge 1 [RedApricotBlossom]\nSe il bersaglio ha 10 [RedApricotBlossom], invece infligge 1 [DefenseDown] (max 6 volte)"
     },
     {
       "id": 1020821,
       "name": "Punta di Spada Incisiva",
-      "desc": "Quando l'alleato schierato per primo nella selezione della squadra prima del combattimento infligge un Colpo Critico con un'Abilità di tipo Tagliente, infligge 1 [DefenseDown] (3 volte max per 1 nemico per turno)"
+      "desc": "Quando l'alleato con l'ordine di Schieramento più alto infligge un Colpo Critico usando un'Abilità Tagliente, infligge 1 [DefenseDown] (max 3 volte per 1 nemico per turno)"
     },
     {
       "id": 1030801,
@@ -1266,26 +1266,26 @@
     {
       "id": 1020901,
       "name": "Risposta da Maggiordomo",
-      "desc": "- A Scontro Vinto: infligge 1 [Sinking] sul bersaglio (3 volte per turno)",
-      "summary": "A Scontro Vinto: infligge 1 [Sinking]"
+      "desc": "- A Scontro Vinto: Infligge 1 [Sinking] sul bersaglio (3 volte per turno)",
+      "summary": "A Scontro Vinto: Infligge 1 [Sinking]"
     },
     {
       "id": 1020911,
       "name": "Risposta da Maggiordomo",
-      "desc": "- A Scontro Vinto: infligge 1 [Sinking] sul bersaglio (3 volte per turno)\n- Se il bersaglio ha [EchoOfMansion], invece infligge 3 [Sinking]",
-      "summary": "A Scontro Vinto: infligge 1 [Sinking]"
+      "desc": "- A Scontro Vinto: Infligge 1 [Sinking] sul bersaglio (3 volte per turno)\n- Se il bersaglio ha [EchoOfMansion], invece infligge 3 [Sinking]",
+      "summary": "A Scontro Vinto: Infligge 1 [Sinking]"
     },
     {
       "id": 1020921,
-      "name": "Addestramento in Anticipazione",
+      "name": "Addestramento Preventivo",
       "desc": "Quando 1 alleato con i PS più bassi colpisce un nemico con 5+ [Sinking], l'alleato cura 2 PS Sul Colpo (4 volte per turno)",
-      "summary": "Cura dei PS condizionale"
+      "summary": "Recupera PS con condizionale"
     },
     {
       "id": 1020931,
-      "name": "Addestramento in Anticipazione",
+      "name": "Addestramento Preventivo",
       "desc": "Quando 1 alleato con i PS più bassi colpisce un nemico con 5+ [Sinking], l'alleato cura 3 PS Sul Colpo (4 volte per turno)",
-      "summary": "Cura dei PS condizionale"
+      "summary": "Recupera PS con condizionale"
     },
     {
       "id": 1120901,
@@ -1422,26 +1422,26 @@
     {
       "id": 1010901,
       "name": "Valutazione dei Compiti",
-      "desc": "Sul Colpo, se il bersaglio ha 6+ [Laceration], cura 2 PS.\nCura di 1 PS in più per ogni tipo di effetti negativi sul bersaglio. (max 3)\nSe i PS di di questa unità sono al massimo, ottiene 1 [AttackUp] il turno successivo quando questa unità cura PS con questo effetto.\n(Questa passiva si attiva al massimo 4 volte per turno)",
-      "summary": "Cura dei PS Condizionale Sul Colpo. A PS massimi, ottiene 1 [AttackUp] il turno successivo"
+      "desc": "Sul Colpo, se il bersaglio ha 6+ [Laceration], recupera 2 PS\nRecupera 1 PS in più per ogni tipo di effetti negativi sul bersaglio (max 3)\nSe i PS di di questa unità sono al massimo, ottiene 1 [AttackUp] il turno successivo quando questa unità recupera PS con questo effetto\n(Questa passiva si attiva al massimo 4 volte per turno)",
+      "summary": "Recupera PS con Condizionale Sul Colpo. A PS massimi, ottiene 1 [AttackUp] il turno successivo"
     },
     {
       "id": 1010911,
       "name": "Valutazione dei Compiti",
-      "desc": "Sul Colpo, se il bersaglio ha <style=\"highlight\">4</style>+ [Laceration], cura 2 PS.\nCura di 1 PS in più per ogni tipo di effetti negativi sul bersaglio. (max 3)\nSe i PS di di questa unità sono al massimo, ottiene <style=\"highlight\">2</style> [AttackUp] il turno successivo quando questa unità cura PS con questo effetto.\n(Questa passiva si attiva al massimo 4 volte per turno)",
-      "summary": "Cura dei PS Condizionale Sul Colpo. A PS massimi, ottiene 2 [AttackUp] il turno successivo"
+      "desc": "Sul Colpo, se il bersaglio ha <style=\"highlight\">4</style>+ [Laceration], recupera 2 PS\nRecupera di 1 PS in più per ogni tipo di effetti negativi sul bersaglio (max 3)\nSe i PS di di questa unità sono al massimo, ottiene <style=\"highlight\">2</style> [AttackUp] il turno successivo quando questa unità recupera PS con questo effetto\n(Questa passiva si attiva al massimo 4 volte per turno)",
+      "summary": "Recupera PS con Condizionale Sul Colpo. A PS massimi, ottiene 2 [AttackUp] il turno successivo"
     },
     {
       "id": 1010921,
       "name": "Metodi per l'Estetica",
-      "desc": "1 alleato con i PS più bassi cura 2 PS Sul Colpo per ogni tipo di effetti negativi sul bersaglio. (max 6)\n(Questa passiva si attiva al massimo 2 volte per turno)",
-      "summary": "Sul Colpo, cura PS in base al numero di effetti negativi sul bersaglio"
+      "desc": "1 alleato con i PS più bassi recupera 2 PS Sul Colpo per ogni tipo di effetti negativi sul bersaglio. (max 6)\n(Questa passiva si attiva al massimo 2 volte per turno)",
+      "summary": "Sul Colpo, recupera PS in base al numero di effetti negativi sul bersaglio"
     },
     {
       "id": 1010931,
       "name": "Metodi per l'Estetica",
-      "desc": "1 alleato con i PS più bassi cura 2 PS Sul Colpo per ogni tipo di effetti negativi sul bersaglio. (max 6)\n<style=\"highlight\">Se il bersaglio ha [Laceration], cura 3 PS in più.</style>\n(Questa passiva si attiva al massimo 2 volte per turno)",
-      "summary": "Sul Colpo, cura PS in base al numero di effetti negativi sul bersaglio"
+      "desc": "1 alleato con i PS più bassi recupera 2 PS Sul Colpo per ogni tipo di effetti negativi sul bersaglio. (max 6)\n<style=\"highlight\">Se il bersaglio ha [Laceration], recupera 3 PS in più.</style>\n(Questa passiva si attiva al massimo 2 volte per turno)",
+      "summary": "Sul Colpo, recupera PS in base al numero di effetti negativi sul bersaglio"
     },
     {
       "id": 1110901,
@@ -1470,12 +1470,12 @@
     {
       "id": 1010902,
       "name": "Puntinista Sanguinoso",
-      "desc": "Questa Identità Conta solo come un' 'Identità che infligge [Laceration]'. Le Abilità di questa Identità che infliggono casualmente [Combustion], [Laceration], [Vibration], [Burst], e [Sinking] non Contano come Abilità che infliggono quei rispettivi Tratti."
+      "desc": "Questa Identità Conta solo come un' 'Identità che infligge [Laceration]'. Le Abilità di questa Identità che infliggono casualmente [Combustion], [Laceration], [Vibration], [Burst], e [Sinking] non Contano come Abilità che infliggono quei rispettivi Tratti"
     },
     {
       "id": 1110902,
       "name": "Puntinista Sanguinoso",
-      "desc": "Questa Identità Conta solo come un' 'Identità che infligge [Laceration]'. Le Abilità di questa Identità che infliggono casualmente [Combustion], [Laceration], [Vibration], [Burst], e [Sinking] non Contano come Abilità che infliggono quei rispettivi Tratti."
+      "desc": "Questa Identità Conta solo come un' 'Identità che infligge [Laceration]'. Le Abilità di questa Identità che infliggono casualmente [Combustion], [Laceration], [Vibration], [Burst], e [Sinking] non Contano come Abilità che infliggono quei rispettivi Tratti"
     },
     {
       "id": 1040901,
@@ -1540,13 +1540,13 @@
     {
       "id": 1021001,
       "name": "Smontaggio a Corrente Elettrica",
-      "desc": "Ottiene 1 [Charge] ogni volta che questa unità consuma 10 Conteggio [Charge] Totale in questo Incontro\nA 2+ [Charge], infligge +([Charge] x 3)% danni (max 15%)\n\nSe Uccide, questa unità e 1 alleato con il Conteggio [Charge] più basso ottiene Conteggio [Charge] quanto la [Charge] (max 3, dà priorità agli alleati che consumano o ottengono [Charge])",
+      "desc": "Ottiene 1 [Charge] ogni volta che questa unità consuma 10 Conteggio [Charge] Totale in questo Incontro\nA 2+ [Charge], infligge +([Charge] x 3)% danni (max 15%)\n\nSe Uccide, questa unità e 1 alleato con il Conteggio [Charge] più basso ottengono Conteggio [Charge] pari alla [Charge] (max 3, dà priorità agli alleati che consumano o ottengono [Charge])",
       "summary": "Ottiene [Charge] per ogni 10 Conteggio [Charge] consumato\nA 2+ [Charge], infligge più danni\nSe Uccide, questa unità e 1 alleato ottiene Conteggio [Charge]"
     },
     {
       "id": 1021011,
       "name": "Smontaggio a Corrente Elettrica",
-      "desc": "Ottiene 1 [Charge] ogni volta che questa unità consuma 10 Conteggio [Charge] Totale in questo Incontro\nA 2+ [Charge], infligge +([Charge] x 3)% danni (max 15%)\n<style=\"highlight\">- Se il bersaglio è a meno di 50% PV, infligge +([Charge] x 5)% danni aggiuntivi in più (max 25%)</style>\n\nSe Uccide, questa unità e <style=\"highlight\">2 alleati</style> con meno Conteggio [Charge] ottengono Conteggio [Charge] quanto la <style=\"highlight\">([Charge] + 2)</style> (max <style=\"highlight\">5</style>, dà priorità agli alleati che consumano o ottengono [Charge])",
+      "desc": "Ottiene 1 [Charge] ogni volta che questa unità consuma 10 Conteggio [Charge] Totale in questo Incontro\nA 2+ [Charge], infligge +([Charge] x 3)% danni (max 15%)\n<style=\"highlight\">- Se il bersaglio è a meno di 50% PV, infligge +([Charge] x 5)% danni in più (max 25%)</style>\n\nSe Uccide, questa unità e <style=\"highlight\">2 alleati</style> con meno Conteggio [Charge] ottengono Conteggio [Charge] pari alla <style=\"highlight\">([Charge] + 2)</style> (max <style=\"highlight\">5</style>, dà priorità agli alleati che consumano o ottengono [Charge])",
       "summary": "Ottiene [Charge] per ogni 10 Conteggio [Charge] consumato\nA 2+ [Charge], infligge più danni\nSe Uccide, questa unità e 2 alleati ottiene Conteggio [Charge]"
     },
     {
@@ -1638,14 +1638,14 @@
     {
       "id": 1011002,
       "name": "VedoLaFarfallaMorente.",
-      "desc": "Inizia un'Incontro con 10 di ogni [BulletLament]\n\nQuando consuma [BulletLament], sceglie casualmente tra I Vivi(Potenza) e I Defunti(Conteggio) per ogni [BulletLament] consumata.\n\nQuando infligge [SinkingWhite], infligge la stessa quantità di I Vivi e I Defunti che è stata consumata. Per esempio:\n- Se questa unità ha consumato X Vivi, infligge X Vivi\n- Se questa unità ha consumato Y Defunti, infligge Y Defunti\n\nSe questa unità finisce le [BulletLament] mentre stava usando un'Abilità, perde tutte le prossime Monete e [ReloadLament]\n\nQuando [ReloadLament], o quando ottiene [BulletLament], ottiene alternativamente I Vivi o I Defunti in base ai propri PS attuali\n- A 0 o sopra PS: 30% di ottenere I Vivi; 70% di ottenere I Defunti.\n- A meno di 0 PS: 70% di ottenere I Vivi; 30% di ottenere I Defunti.\n- Le probabilità sono calcolate separatamente per ogni munizione usata.",
+      "desc": "Inizia un'Incontro con 10 di ogni [BulletLament]\n\nQuando spende [BulletLament], sceglie casualmente tra I Vivi(Potenza) e I Defunti(Conteggio) per ogni [BulletLament] spesi.\n\nQuando infligge [SinkingWhite], infligge la stessa quantità di I Vivi e I Defunti che è stata usata. Esempio:\n- Se questa unità ha consumato X Vivi, infligge X Vivi\n- Se questa unità ha usato Y Defunti, infligge Y Defunti\n\nSe questa unità termina [BulletLament] mentre stava usando un'Abilità, perde tutte le prossime Monete e [ReloadLament]\n\nQuando [ReloadLament], o quando ottiene [BulletLament], ottiene alternativamente I Vivi o I Defunti in base ai propri PS attuali\n- A 0 o più PS: 30% di chance di ottenere I Vivi; 70% di chance di ottenere I Defunti\n- A meno di 0 PS: 70% di chance di ottenere I Vivi; 30% di chance di ottenere I Defunti\n- Le probabilità sono calcolate separatamente per ogni munizione usata",
       "summary": "Se questa unità finisce [BulletLament] mentre stava usando un' Abilità, [ReloadLament]"
     },
     {
       "id": 1011011,
       "name": "Fuoco.FaròFuoco",
       "desc": "Fine Attacco: Se questa unità ha ucciso il bersaglio con la sua Abilità, [ReloadLament]\nQuando questa unità ottiene [BulletLament], ottiene 2 [Agility] il turno successivo (1 volta per turno)",
-      "summary": "Quando questa unità ottiene [Bullet], ottiene [Agility] il turno successivo. [ReloadLament] Se Uccide."
+      "summary": "Quando questa unità ottiene [Bullet], ottiene [Agility] il turno successivo. Se Uccide, [ReloadLament]."
     },
     {
       "id": 1011021,
@@ -1913,32 +1913,32 @@
     {
       "id": 1011101,
       "name": "Questo si riflette nel loro aspetto, che assomiglia di più all'Anormalità originante rispetto all'E.G.O della vecchia L Corp.",
-      "desc": "Quando muore, infligge 4 [Burst] e +2 Conteggio [Burst] al bersaglio che ha attaccato questa unità per ultima; infine, fornisce 2 risorse E.G.O delle 4 risorse E.G.O più scarse.\n- Se nessuno ha attaccato questa unità, o se un alleato ha ucciso questa unità, infligge 4 [Burst] e +2 Conteggio [Burst] al nemico con meno Conteggio [Burst]"
+      "desc": "Quando muore, infligge 4 [Burst] e +2 Conteggio [Burst] al bersaglio che ha attaccato questa unità per ultima; infine, fornisce 2 risorse E.G.O delle Affinità meno possedute\n- Se nessuno ha attaccato questa unità, o se un alleato ha ucciso questa unità, infligge 4 [Burst] e +2 Conteggio [Burst] al nemico con meno Conteggio [Burst]"
     },
     {
       "id": 1011111,
       "name": "Questo si riflette nel loro aspetto, che assomiglia di più all'Anormalità originante rispetto all'E.G.O della vecchia L Corp.",
-      "desc": "Quando muore, infligge <style=\"highlight\">5</style> [Burst] e +<style=\"highlight\">3</style> Conteggio [Burst] al bersaglio che ha attaccato questa unità per ultima; infine, fornisce 2 risorse E.G.O delle 4 risorse E.G.O più scarse.\n- Se nessuno ha attaccato questa unità, o se un alleato ha ucciso questa unità, infligge 5 [Burst] e +3 Conteggio [Burst] al nemico con meno Conteggio [Burst]\n- Se questa unità è in stato di [GlowingLantern], infligge il doppio di Potenza [Burst] con questo effetto"
+      "desc": "Quando muore, infligge <style=\"highlight\">5</style> [Burst] e +<style=\"highlight\">3</style> Conteggio [Burst] al bersaglio che ha attaccato questa unità per ultima; infine, fornisce 2 risorse E.G.O delle Affinità meno possedute\n- Se nessuno ha attaccato questa unità, o se un alleato ha ucciso questa unità, infligge 5 [Burst] e +3 Conteggio [Burst] al nemico con meno Conteggio [Burst]\n- Se questa unità è in stato di [GlowingLantern], infligge il doppio di Potenza [Burst] con questo effetto"
     },
     {
       "id": 1011121,
-      "name": "la disintegrazione dell'E.G.O nonn è dissimile alla decomposizione del compost",
-      "desc": "Quando 1 alleato con i PV più bassi viene ucciso, fornisce 2 risorse E.G.O delle 2 risorse E.G.O più scarse."
+      "name": "La disintegrazione dell'E.G.O non è dissimile alla decomposizione del compost",
+      "desc": "Quando 1 alleato con i PV attuali più bassi viene ucciso, ornisce 2 risorse E.G.O delle Affinità meno possedute"
     },
     {
       "id": 1021101,
       "name": "Ignifuga",
-      "desc": "Non può essere Stordito o finire sotto 1 PV a causa dei danni da [Combustion]."
+      "desc": "L'unità non può essere Stordita o scendere sotto 1 PV per i danni da [Combustion]"
     },
     {
       "id": 1021111,
-      "name": "Falena di Fiamme",
-      "desc": "Inizio Combattimento: con 80%+ di PV mancanti, e con meno di 30 [Combustion], ottiene fino a 30 [Combustion] (Una volta per Incontro)\n\nA Fine Turno: ottiene 1 [AttackUp] il turno successivo per ogni 6 [Combustion] su se stessa (max 5)\n\nQuando muore, attiva la seguente:\n- Infligge 2 [Combustion] a tutti i nemici; infligge [Combustion] su se stessa divisa  tra i nemici (max 3 per nemico)\n- Ottiene 2 risorse E.G.O delle 2 risorse E.G.O più scarse\n\nSe questa unità è morta a causa dell'Abilità Sintonia Massima S.F.A 【Corrosione Deteriorata】, migliora questo effetto:\n- Infligge 3 [Combustion] a tutti i nemici; infligge [Combustion] su se stessa divisa tra i nemici (max 5 per nemico)\n- Ottiene 2 risorse E.G.O delle 2 risorse E.G.O più scarse\n- Se questa unità aveva 30+ [Combustion], applica 3 [AttackUp] a 1 alleato che entra dalle Riserve"
+      "name": "Falena Fiammeggiante",
+      "desc": "Inizio Combattimento: Con 80%+ di PV mancanti e con meno di 30 [Combustion], ottiene fino a 30 [Combustion] (Una volta per Incontro)\n\nA Fine Turno: ottiene 1 [AttackUp] il turno successivo per ogni 6 [Combustion] su se stessa (max 5)\n\nQuando muore, attiva la seguente:\n- Infligge 2 [Combustion] a tutti i nemici e infligge la [Combustion] di questa unità tra tutti i nemici (max 3 per nemico)\n- Ottiene 2 risorse E.G.O delle 2 Affinità meno possedute\n\nSe questa unità è morta a causa dell'Abilità Sintonia Massima S.F.A 【Corrosione Deteriorata】, migliora questo effetto:\n- Infligge 3 [Combustion] a tutti i nemici; infligge [Combustion] su se stessa divisa tra i nemici (max 5 per nemico)\n- Ottiene 2 risorse E.G.O delle 2 Affinità meno possedute\n- Se questa unità aveva 30+ [Combustion], applica 3 [AttackUp] a 1 Riserva che entra in campo"
     },
     {
       "id": 1021121,
       "name": "Calore Residuo",
-      "desc": "Quando 1 alleato con i PS più bassi infligge [Combustion] con l'effetto Sul Colpo di un'Abilità Attacco Base, infligge 2 [Combustion] in più (3 volte max)\n- Se il bersaglio che sta attaccando l'alleato has 30+ [Combustion], invece infligge +1 Conteggio [Combustion] (3 volte max)"
+      "desc": "Quando 1 alleato con i PS più bassi infligge [Combustion] con l'effetto Sul Colpo di un'Abilità Attacco Base, infligge 2 [Combustion] in più (max 3 volte)\n- Se il bersaglio che sta attaccando l'alleato has 30+ [Combustion], infligge invece +1 Conteggio [Combustion] (3 volte max)"
     },
     {
       "id": 1071201,
@@ -1987,12 +1987,12 @@
     {
       "id": 1011201,
       "name": "Ardore Interiore",
-      "desc": "A Fine Turno: cura 1 alleato con i PS più bassi per (5 + Rison. più alta) (max 10) (excludes: se stesso e gli alleati che sono nel Panico o Corrosi)\n- Se quell'alleato ha delle Abilità Base che infliggono Potenza [Combustion] o Conteggio, recupera 5 PS in più"
+      "desc": "A Fine Turno: Cura 1 alleato con i PS più bassi di (5 + Rison. più alta) (max 10) (esclusi: questa unità e gli alleati che sono nel Panico o Corrosi)\n- Se quell'alleato ha delle Abilità Base che infliggono Potenza [Combustion] o Conteggio, recupera 5 PS in più"
     },
     {
       "id": 1011211,
       "name": "Ardore Interiore",
-      "desc": "A Fine Turno: cura 1 alleato con i PS più bassi per (5 + Rison. più alta) (max 10) (excludes: se stesso e gli alleati che sono nel Panico o Corrosi)\n- Se quell'alleato ha delle Abilità Base che infliggono Potenza [Combustion] o Conteggio, recupera 5 PS in più\n- A 4+ Rison. Ira, cura 1 alleato in più"
+      "desc": "A Fine Turno: Cura 1 alleato con i PS più bassi di (5 + Rison. più alta) (max 10) (esclusi: questa unità e gli alleati che sono nel Panico o Corrosi)\n- Se quell'alleato ha delle Abilità Base che infliggono Potenza [Combustion] o Conteggio, recupera 5 PS in più\n- A 4+ Rison. Ira, cura 1 alleato in più"
     },
     {
       "id": 1011221,
