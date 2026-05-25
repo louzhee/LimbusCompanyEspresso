@@ -899,7 +899,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stomping",
+          "name": "Schiacciare",
           "desc": "If target has 4+ [Laceration], Coin Power +1",
           "coinlist": [
             {
@@ -931,7 +931,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Punting",
+          "name": "Calciare",
           "desc": "If target has 4+ [Laceration], Coin Power +1",
           "coinlist": [
             {
@@ -957,7 +957,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stamp of Vengeance",
+          "name": "Impronta della Vendetta",
           "desc": "Base Power +1 for every 3 [Laceration] on target (max 3)\n[EndSkill] Consume all [ResentmentSpider] on self and gain 1 [DaughterEducationSpider]",
           "coinlist": [
             {
@@ -1012,7 +1012,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don't Let Somethin' Like This Break Ya!",
+          "name": "Non Lasciarti Distruggere Da Una Cosetta Come Questa!",
           "desc": "[WhenUse] If this unit has [ReinforcedTattooSpider], deal 5 Blunt bonus damage On Coin Hit",
           "coinlist": [
             {
@@ -1054,7 +1054,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rule Violation",
+          "name": "Violazione del Regolamento",
           "desc": "When hit, Reuse this Skill once for every [ReinforcedTattooSpider] on self (1 time max)\n[WhenUse] If this unit has [ReinforcedTattooSpider], On Coin Hit, inflict +1 [Laceration] Count",
           "coinlist": [
             {
@@ -1080,7 +1080,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gonna Unbox a Layer of Packaging!",
+          "name": "Mi Tocca Togliere Uno Strato!",
           "desc": "[CantChangeTarget]\n[WhenUse] If this unit has [ReinforcedTattooSpider], deal 10 Blunt bonus damage on Coin Hit\n[EndSkill] [MiddleFatherSwordOne] becomes [MiddleFatherSwordTwo]",
           "coinlist": [
             {
@@ -1122,7 +1122,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stomping",
+          "name": "Schiacciare",
           "desc": "If target has 4+ [Laceration], Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], inflict 1 [Laceration] On Coin Hit\n[DefeatDuel] Gain 1 [ParryingResultUp] next turn (2 times per turn)",
           "coinlist": [
             {
@@ -1154,7 +1154,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Punting",
+          "name": "Calciare",
           "desc": "If target has 4+ [Laceration], Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], inflict 1 [Laceration] On Coin Hit\n[DefeatDuel] Gain 1 [VioletDamageUp] next turn (2 times per turn)",
           "coinlist": [
             {
@@ -1180,7 +1180,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stamp of Vengeance",
+          "name": "Impronta della Vendetta",
           "desc": "Base Power +1 for every 3 [Laceration] on target (max 3)\n[WhenUse] If this unit has [ReinforcedTattooSpider], inflict 1 [Laceration] On Coin Hit\n[EndSkill] Consume all [ResentmentSpider] on self and gain 1 [DaughterEducationSpider]",
           "coinlist": [
             {
@@ -1235,7 +1235,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Are Ya Feelin' the Heat?!",
+          "name": "Senti Un Po' Che Caldo!",
           "desc": "[WhenUse] If this unit has [ReinforcedTattooSpider], deal 10 Blunt bonus damage On Coin Hit\n[BeforeAttack] At 50% or less HP, deal +40% damage",
           "coinlist": [
             {
@@ -1286,7 +1286,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rule Violation",
+          "name": "Violazione del Regolamento",
           "desc": "When hit, <color=#ff6000><mark=#ff000040><b><u>Reuse this Skill once for every [ReinforcedTattooSpider] on self</u></b></mark></color> (1 time max)\n[WhenUse] If this unit has [ReinforcedTattooSpider], On Coin Hit, inflict +1 [Laceration] Count\n[BeforeAttack] At 50% or less HP, deal +40% damage",
           "coinlist": [
             {
@@ -1312,7 +1312,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Looks Like I Gotta Unbox the Second Layer, too.",
+          "name": "Pare Che Debba Togliere Pure Il Secondo Strato.",
           "desc": "[CantChangeTarget]\n[WhenUse] If this unit has [ReinforcedTattooSpider], deal 10 Blunt bonus damage on Coin Hit\n[EndSkill] [MiddleFatherSwordTwo] becomes [MiddleFatherSwordThree]",
           "coinlist": [
             {
@@ -1613,7 +1613,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stomping!",
+          "name": "Schiacciare!",
           "desc": "If target has 4+ [Laceration], Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], inflict 1 [Laceration] On Coin Hit\n[DefeatDuel] Gain 1 [SkillPowerUp] next turn (2 times per turn)",
           "coinlist": [
             {
@@ -1645,7 +1645,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Punting!",
+          "name": "Calciare!",
           "desc": "If target has 4+ [Laceration], Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], inflict 1 [Laceration] On Coin Hit\n[DefeatDuel] Gain 1 [VioletDamageUp] next turn (2 times per turn)",
           "coinlist": [
             {
@@ -1671,7 +1671,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stamp of Complete and Total Extermination!",
+          "name": "Impronta Della Condanna a Morte!",
           "desc": "Base Power +1 for every 3 [Laceration] on target (max 3)\n[WhenUse] If this unit has [ReinforcedTattooSpider], inflict 1 [Laceration] On Coin Hit\n[EndSkill] Consume all [ResentmentSpider] on self and gain 1 [DaughterEducationSpider]",
           "coinlist": [
             {
@@ -1726,7 +1726,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Time to Melt Away and Die",
+          "name": "È Ora Di Sciogliersi E Morire!",
           "desc": "[WhenUse] If this unit has [ReinforcedTattooSpider], deal 10 Slash bonus damage On Coin Hit\n[BeforeAttack] At 50% or less HP, deal +40% damage",
           "coinlist": [
             {
@@ -1777,7 +1777,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rule Violation!",
+          "name": "Violazione del Regolamento!",
           "desc": "When hit, <color=#ff6000><mark=#ff000040><b><u>Reuse this Skill once for every [ReinforcedTattooSpider] on self</u></b></mark></color> (1 time max)\n[WhenUse] If this unit has [ReinforcedTattooSpider], On Coin Hit, inflict +1 [Laceration] Count\n[BeforeAttack] At 50% or less HP, deal +40% damage",
           "coinlist": [
             {
@@ -1803,7 +1803,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lævateinn - Been a While Since I Had to Unbox the Whole Thing!",
+          "name": "Lævateinn - Ne È Passato Di Tempo Dall'Ultimo Unboxing!",
           "desc": "[CantChangeTarget]\n[WhenUse] If this unit has [ReinforcedTattooSpider], deal 10 Slash bonus damage on Coin Hit\n[EndSkill] [MiddleFatherSwordThree] becomes [MiddleFatherSwordFour]",
           "coinlist": [
             {
@@ -1855,7 +1855,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Gut Ya Like a Fish",
+          "name": "Ti Sviscero Come Un Pesce!",
           "desc": "[BeforeUse] Lose 10 SP\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[DefeatDuel] Gain 1 [SkillPowerUp] next turn (2 times per turn)\n[BeforeAttack] Gain (# of Coins in this Skill x 2) [Combustion]",
           "coinlist": [
             {
@@ -1890,7 +1890,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gut Stab [Lævateinn]",
+          "name": "Pugnalate Allo Stomaco [Lævateinn]",
           "desc": "[BeforeUse] Lose 10 SP\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[BeforeAttack] At 50%- HP, deal +40% damage\n[BeforeAttack] Gain (# of Coins in this Skill x 2) [Combustion]",
           "coinlist": [
             {
@@ -1952,7 +1952,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "... Complete and Total Extermination [Lævateinn]",
+          "name": "... Vi Condanno a Morte [Lævateinn]",
           "desc": "[BeforeUse] Lose 10 SP\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[BeforeAttack] At 50%- HP, deal +60% damage\n[BeforeAttack] Gain (# of Coins in this Skill x 2) [Combustion]",
           "coinlist": [
             {
@@ -2026,7 +2026,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rule Violation!!",
+          "name": "Violazione Del Regolamento!!",
           "desc": "When Hit, Reuse this Skill once for every [ReinforcedTattooSpider] on self (1 time max)\n[BeforeUse] Lose 10 SP\n[BeforeAttack] At 50% or less HP, deal +40% damage\n[BeforeAttack] Gain (# of Coins in this Skill x 2) [Combustion]",
           "coinlist": [
             {
