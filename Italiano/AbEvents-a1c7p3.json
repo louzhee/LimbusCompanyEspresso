@@ -10,23 +10,23 @@
             "eventDesc": "",
             "behaveDesc": "Cosa farai?",
             "successDesc": [
-                "{0} da un abbraccio al pupazzo.\n\nAnche con i chiodi che s'inficcano nella pelle...\n\n... il gioioso orsacchiotto saltellante sembra aver alleviato i sentimenti di {0}."
+                "{0} dà un abbraccio al pupazzo.\n\nAnche con i chiodi che s'inficcano nella pelle...\n\n... il gioioso orsacchiotto saltellante sembra aver alleviato i sentimenti di {0}."
             ],
           "failureDesc": [
-            "{0} da un abbraccio al pupazzo.\n\nUn chiodo alquanto smussato si inficca nella pelle...\n\n... il gioioso orsacchiotto saltellante sembra aver alleviato i sentimenti di {0}."
+            "{0} dà un abbraccio al pupazzo.\n\nUn chiodo alquanto smussato s'inficca nella pelle...\n\n... il gioioso orsacchiotto saltellante sembra aver alleviato i sentimenti di {0}."
           ]
         },
         {
             "id": 837601,
             "title": "Rose Hunter",
-            "prevDesc": "Il Cacciatore rotea con maestria il Lasso Spinato sopra la sua testa.",
-            "eventDesc": "Il lasso sta mirando a noi...\n\nIl lasso, potenziato dai movimenti del cacciatore, vola verso di noi.",
+            "prevDesc": "Il Cacciatore rotea con maestria il Lazo Spinato sopra la sua testa.",
+            "eventDesc": "Il lazo sta mirando a noi...\n\nIl lazo, potenziato dai movimenti del cacciatore, vola verso di noi.",
             "behaveDesc": "Chi si farà avanti?",
             "successDesc": [
-                "Con riflessi lesti, {0} devia il lasso spinato da un lato.\n\nIl lasso deviato vola nella direzione opposta.\n\nIl Cacciatore di Rose esita, sorpreso dalla svolta improvvisa."
+                "Con riflessi lesti, {0} devia il lazo spinato da un lato.\n\nIl lasso deviato vola nella direzione opposta.\n\nIl Cacciatore di Rose esita, sorpreso dalla svolta improvvisa."
             ],
             "failureDesc": [
-                "Il lasso spinato colpisce con forza {0}.\n\nGuardare il bersaglio contorcersi dal dolore sembra rinvigorire il Cacciatore di Rose."
+                "Il lazo spinato colpisce spietatamente {0}.\n\nGuardare il bersaglio contorcersi dal dolore sembra rinvigorire il Cacciatore di Rose."
             ]
         },
         {
