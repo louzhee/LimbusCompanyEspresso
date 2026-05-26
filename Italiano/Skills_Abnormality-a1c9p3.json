@@ -1012,7 +1012,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Non Lasciarti Distruggere Da Una Cosetta Come Questa!",
+          "name": "Non Farti Distruggere Da Una Cosetta Come Questa!",
           "desc": "[WhenUse] If this unit has [ReinforcedTattooSpider], deal 5 Blunt bonus damage On Coin Hit",
           "coinlist": [
             {
@@ -1054,7 +1054,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Violazione del Regolamento",
+          "name": "Infrazione Del Regolamento",
           "desc": "When hit, Reuse this Skill once for every [ReinforcedTattooSpider] on self (1 time max)\n[WhenUse] If this unit has [ReinforcedTattooSpider], On Coin Hit, inflict +1 [Laceration] Count",
           "coinlist": [
             {
@@ -1286,7 +1286,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Violazione del Regolamento",
+          "name": "Infrazione Del Regolamento",
           "desc": "When hit, <color=#ff6000><mark=#ff000040><b><u>Reuse this Skill once for every [ReinforcedTattooSpider] on self</u></b></mark></color> (1 time max)\n[WhenUse] If this unit has [ReinforcedTattooSpider], On Coin Hit, inflict +1 [Laceration] Count\n[BeforeAttack] At 50% or less HP, deal +40% damage",
           "coinlist": [
             {
@@ -1777,7 +1777,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Violazione del Regolamento!",
+          "name": "Infrazione Del Regolamento!",
           "desc": "When hit, <color=#ff6000><mark=#ff000040><b><u>Reuse this Skill once for every [ReinforcedTattooSpider] on self</u></b></mark></color> (1 time max)\n[WhenUse] If this unit has [ReinforcedTattooSpider], On Coin Hit, inflict +1 [Laceration] Count\n[BeforeAttack] At 50% or less HP, deal +40% damage",
           "coinlist": [
             {
@@ -1855,7 +1855,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ti Sviscero Come Un Pesce!",
+          "name": "Ti Sgozzo Come Un Maiale!",
           "desc": "[BeforeUse] Lose 10 SP\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[DefeatDuel] Gain 1 [SkillPowerUp] next turn (2 times per turn)\n[BeforeAttack] Gain (# of Coins in this Skill x 2) [Combustion]",
           "coinlist": [
             {
@@ -2026,7 +2026,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Violazione Del Regolamento!!",
+          "name": "Infrazione Del Regolamento!!",
           "desc": "When Hit, Reuse this Skill once for every [ReinforcedTattooSpider] on self (1 time max)\n[BeforeUse] Lose 10 SP\n[BeforeAttack] At 50% or less HP, deal +40% damage\n[BeforeAttack] Gain (# of Coins in this Skill x 2) [Combustion]",
           "coinlist": [
             {
