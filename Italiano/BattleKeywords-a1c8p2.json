@@ -3,37 +3,37 @@
     {
       "id": "ExaminationOfQiu",
       "name": "Un Soffio di Aspettativa",
-      "desc": "Non stà dando il massimo.\n- Perde 35 Livello Offensivo di Base, Perde 35 Livello Difensivo di Base\n- Infligge +30% danni con gli Attacchi Incontrastati",
+      "desc": "Non sta dando il massimo.\n- Perde 35 Livello Offensivo Base, Perde 35 Livello Difensivo Base\n- Infligge +30% danni con gli Attacchi Incontrastati",
       "summary": ""
     },
     {
       "id": "BurstStop",
       "name": "Anatema 【Ferma】",
-      "desc": "Stack di Base: 4\n- Anatema\n- Quando la Lacerazione di questa unità viene attivata e ha 3+ Rallentamento, perde 1 Stack\n- Quando perde delle Stack, aumenta la Soglia di Stordimento di questa unità di 10\n- A 0 Stack, aumenta la Soglia di Stordimento di questa unità quanto la Potenza Lacerazione su di sé, poi si esaurisce\n- ※ Non può ottenere altre Stack di questo effetto quando è già attivo",
+      "desc": "Stack Base: 4\n- Anatema\n- Quando la Lacerazione di questa unità viene attivata e ha 3+ Rallentamento, perde 1 Stack\n- Quando perde Stack, aumenta la Soglia di Stordimento di questa unità di 10\n- A 0 Stack, aumenta la Soglia di Stordimento di questa unità pari alla Potenza Lacerazione su di sé, poi si esaurisce\n- ※ Non può ottenere altre Stack quando questo effetto è già attivo",
       "summary": ""
     },
     {
       "id": "BurstSuppress",
       "name": "Anatema 【Intralcia】",
-      "desc": "Stack di Base: 10\n- Anatema\n- Quando questa unità perde delle Stack di Anatema per le loro condizioni, perde 1 Stack (max 4 per turno)\n- A 0 Stack, ottiene 6 Livello Offensivo Diminuito il turno successivo, poi si esaurisce\n- ※ Non può ottenere altre Stack di questo effetto quando è già attivo",
+      "desc": "Stack Base: 10\n- Anatema\n- Quando questa unità perde delle Stack di Anatema per le loro condizioni, perde 1 Stack (max 4 per turno)\n- A 0 Stack, ottiene 6 Livello Offensivo Diminuito il turno successivo, poi si esaurisce\n- ※ Non può ottenere altre Stack quando questo effetto è già attivo",
       "summary": ""
     },
     {
       "id": "BurstWave",
       "name": "Anatema 【Declino】",
-      "desc": "Stack di Base: 10\n- Anatema\nQuando l'unità che ha inflitto questo effetto attiva Lacerazione, perde 1 Stack\n- Inoltre perde 1 Stack di Anatema su di sé di tipo casuale escluso questo\n- A 0 Stack, si esaurisce\n- ※ Non può ottenere altre Stack di questo effetto quando è già attivo",
+      "desc": "Stack Base: 10\n- Anatema\nQuando l'unità che ha inflitto questo effetto attiva Lacerazione, perde 1 Stack\n- Perde inoltre 1 Stack casuale di Anatema su di sé (esclusa questa)\n- A 0 Stack, si esaurisce\n- ※ Non può ottenere altre Stack quando questo effetto è già attivo",
       "summary": ""
     },
     {
       "id": "Teaching",
       "name": "Dialoghi",
-      "desc": "Max Stack: 3\n- A Fine Turno: recupera 5 PS\n- Quando i PV finiscono a 0 durante l'Incontro, si cura fino ai PV max (si attiva tante volte quante le Stack possedute)",
+      "desc": "Max Stack: 3\n- A Fine Turno: recupera 5 PS\n-  Quando i PV arrivano a 0 durante l'Incontro, recupera tutti i PV max (si attiva tante volte quante le Stack possedute)",
       "summary": ""
     },
     {
       "id": "BurstWeakness",
       "name": "Anatema 【Indebolisci】",
-      "desc": "Stack di Base: 5\n- Anatema\n- Se la Velocità del bersaglio è maggiore di questa unità, e se la differenza di Velocità è di 5 o maggiore: quando la sua Lacerazione si attiva, perde 1 Stack\n- Quando perde delle Stack, ottiene 1 Livello Difensivo Diminuito il turno successivo (1 volta per turno)\n- A 0 Stack, ottiene 3 Livello Difensivo Diminuito e 1 Rallentamento il turno successivo, poi si esaurisce\n- ※ Non può ottenere altre Stack di questo effetto quando è già attivo",
+      "desc": "Stack Base: 5\n- Anatema\n- Se la Velocità del bersaglio è maggiore di quella di questa unità, e se la differenza di Velocità è di 5 o maggiore: quando Lacerazione si attiva, perde 1 Stack\n- Quando perde Stack, ottiene 1 Livello Difensivo Diminuito il turno successivo (1 volta per turno)\n- A 0 Stack, ottiene 3 Livello Difensivo Diminuito e 1 Rallentamento il turno successivo, poi si esaurisce\n- ※ Non può ottenere altre Stack di questo effetto quando è già attivo",
       "summary": ""
     },
     {
@@ -51,13 +51,13 @@
     {
       "id": "QiuAndHonglu",
       "name": "Nel Mio Cuore...",
-      "desc": "- Le Abilità di Hong Lu ottengono +1 Potere Finale\n- A Scontro Vinto, 1 alleato(inclusa questa unità) con meno PS recupera 5 PS\n- Alla morte di un alleato, gli alleati rimasti A Fine Turno ottengono 1 Potere Attacco Aumentato il turno successivo (1 volta per turno)",
+      "desc": "- Le Abilità di Hong Lu ottengono +1 Potere Finale\n- A Scontro Vinto, 1 alleato (inclusa questa unità) con meno PS recupera 5 PS\n- Alla morte di un alleato, gli alleati rimasti A Fine Turno ottengono 1 Potere Attacco Aumentato il turno successivo (1 volta per turno)",
       "summary": ""
     },
     {
       "id": "ProtectStance",
       "name": "Postura Protettiva",
-      "desc": "Max Stack: 2\nQuesto effetto non sale di potenza; le Stack estendono solo la durata\nSi riduce di 1 A Fine Turno\nQuando un'unità ottiene questo effetto, ottiene i seguenti effetti il turno successivo:\n- Ottiene 2 Protezione\n- Ottiene 5 Provocazione su ognuno degli Slot di questa unità",
+      "desc": "Max Stack: 2\nQuesto effetto aumenta la sua Potenza, le Stack estendono solo la durata dell'effetto\nSi riduce di 1 A Fine Turno\nQuando un'unità ottiene questo effetto, ottiene i seguenti effetti il turno successivo:\n- Ottiene 2 Protezione\n- Ottiene 5 Provocazione su ognuno degli Slot di questa unità",
       "summary": ""
     },
     {
