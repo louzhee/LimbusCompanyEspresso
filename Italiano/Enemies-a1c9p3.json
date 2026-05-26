@@ -2,93 +2,93 @@
   "dataList": [
     {
       "id": 1314,
-      "name": "The Thumb Nursefather - Valencina",
-      "desc": "The Thumb Nursefather"
+      "name": "La Precettrice Del Pollice - Valentina",
+      "desc": "La Precettrice Del Pollice"
     },
     {
       "id": 131401,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Corpo",
+      "desc": "Parte"
     },
     {
       "id": 1327,
-      "name": "The Middle Nursefather - Matthias",
-      "desc": "The Middle Nursefather"
+      "name": "Il Precettore Del Medio - Matthias",
+      "desc": "Il Precettore Del Medio"
     },
     {
       "id": 132701,
-      "name": "Body",
-      "desc": "The Middle Nursefather Part"
+      "name": "Corpo",
+      "desc": "Parte del Precettore Del Medio"
     },
     {
       "id": 1328,
-      "name": "The Middle Apprentice - Kira",
-      "desc": "The Middle Apprentice"
+      "name": "L'Apprendista Del Medio - Kira",
+      "desc": "L'Apprendista Del Medio"
     },
     {
       "id": 132801,
-      "name": "Body",
-      "desc": "The Middle Apprentice Part"
+      "name": "Corpo",
+      "desc": "Parte dell'Apprendista Del Medio"
     },
     {
       "id": 1347,
-      "name": "The Index Nursefather - Rien",
-      "desc": "The Index Nursefather"
+      "name": "Il Precettore Dell'Indice - Rien",
+      "desc": "Il Precettore Dell'Indice"
     },
     {
       "id": 134701,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Corpo",
+      "desc": "Parte"
     },
     {
       "id": 1348,
-      "name": "The Index Nursefather - Rien",
-      "desc": "The Index Nursefather"
+      "name": "Il Precettore Dell'Indice - Rien",
+      "desc": "Il Precettore Dell'Indice"
     },
     {
       "id": 134801,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Corpo",
+      "desc": "Parte"
     },
     {
       "id": 1331,
-      "name": "The Ring Nursefather - Callisto",
-      "desc": "The Ring Nursefather"
+      "name": "Il Precettore Dell'Anulare - Callisto",
+      "desc": "Il Precettore Dell'Anulare"
     },
     {
       "id": 133101,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Corpo",
+      "desc": "Parte"
     },
     {
       "id": 1332,
-      "name": "Corpus Theater",
-      "desc": "Unit spawned by The Ring Nursefather's Skill"
+      "name": "Teatro Del Corpus",
+      "desc": "Unità evocata dalle Abilità del Precettore Dell'Anulare - Callisto"
     },
     {
       "id": 133201,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Corpo",
+      "desc": "Parte"
     },
     {
       "id": 1339,
-      "name": "The Roach Emperor",
+      "name": "L'Imperatore Degli Scarafaggi",
       "desc": "G Corp. Weapon"
     },
     {
       "id": 133901,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Corpo",
+      "desc": "Parte"
     },
     {
       "id": 1323,
-      "name": "The Pinky Nursefather - Shiomi Yoru",
-      "desc": "The Pinky Nursefather"
+      "name": "La Precettrice Del Mignolo - Shiomi Yoru",
+      "desc": "La Precettrice Del Mignolo"
     },
     {
       "id": 1324,
-      "name": "The Pinky Nursefather - ???",
-      "desc": "The Pinky Nursefather"
+      "name": "La Precettrice Del Mignolo - ???",
+      "desc": "La Precettrice Del Mignolo"
     },
     {
       "id": 1343,
@@ -97,28 +97,28 @@
     },
     {
       "id": 134301,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Corpo",
+      "desc": "Parte"
     },
     {
       "id": 1337,
-      "name": "The Index Apprentice - Sora",
+      "name": "L'Apprendista Dell'Indice - Sora",
       "desc": "Ryōshū"
     },
     {
       "id": 133701,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Corpo",
+      "desc": "Parte"
     },
     {
       "id": 1338,
-      "name": "The Pinky Apprentice - Ren",
+      "name": "L'Apprendista Del Mignolo - Ren",
       "desc": "Ryōshū"
     },
     {
       "id": 133801,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Corpo",
+      "desc": "Parte"
     },
     {
       "id": 1378,
@@ -127,8 +127,8 @@
     },
     {
       "id": 137801,
-      "name": "Body",
-      "desc": "Part"
+      "name": "Corpo",
+      "desc": "Parte"
     }
   ]
 }
