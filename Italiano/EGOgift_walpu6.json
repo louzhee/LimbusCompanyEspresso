@@ -44,15 +44,15 @@
     {
       "id": 9808,
       "name": "Dono D'Amore della Maghetta",
-      "desc": "Quando un alleato colpisce con un'Abilità che fa ottenere o consumare Conteggio [Charge] o '<noparse>Carica</noparse> Speciale', i PV o PS di un alleato casuale si curano di 3 (una volta per Moneta; alleati con PV o PS a Max sono esclusi)\n\nQuando un alleato recupera dal Panico o 'Corrosione E.G.O', cura 20 PS",
+      "desc": "Quando un alleato colpisce con un'Abilità che fa ottenere o consumare Conteggio [Charge] o '<noparse>Carica</noparse> Speciale', i PV o PS di un alleato casuale vengono recuperati di 3 (una volta per Moneta; alleati con PV o PS a Max sono esclusi)\n\nQuando un alleato si riprende dal Panico o 'Corrosione E.G.O', recupera 20 PS",
       "simpleDesc": [
         {
           "abilityID": 9808,
-          "simpleDesc": "Cura casualmente PV o PS"
+          "simpleDesc": "Recupera casualmente PV o PS"
         },
         {
           "abilityID": 98081,
-          "simpleDesc": "Cura PS"
+          "simpleDesc": "Recupera PS"
         }
       ]
     },
@@ -85,7 +85,7 @@
     {
       "id": 9811,
       "name": "Valore Dismesso",
-      "desc": "Quando un alleato muore durante l'Incontro, ottieni 2 Risorse 2 E.G.O per tutte le Affinità\n\nInizio Combattimento: se sono entrati degli alleati dalle Riserve in questo turno, cura 10 PS per 2 alleati con meno PS (una volta per turno; tranne se sono in Panico o in 'Corrosione E.G.O')",
+      "desc": "Quando un alleato muore durante l'Incontro, ottieni 2 Risorse 2 E.G.O per tutte le Affinità\n\nInizio Combattimento: se sono entrati degli alleati dalle Riserve in questo turno, recupera 10 PS per 2 alleati con meno PS (una volta per turno; tranne se sono in Panico o in 'Corrosione E.G.O')",
       "simpleDesc": [
         {
           "abilityID": 9811,
@@ -93,7 +93,7 @@
         },
         {
           "abilityID": 98111,
-          "simpleDesc": "Cura PS"
+          "simpleDesc": "Recupera PS"
         }
       ]
     }

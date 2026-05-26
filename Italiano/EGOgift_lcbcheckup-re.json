@@ -78,7 +78,7 @@
     {
       "id": 9249,
       "name": "Un Piccolo, Adorabile Violino",
-      "desc": "[Gli effetti si applicano solo per la 5°, 6° Identità Schierate]\n\nCura del 10% dei danni ai PV inflitti con un'Abilità (max 20 per Abilità)\n\nPer Scontro Vinto: Ottieni 1 [AttackUp] e 1 [TakeHpHealIncrease] (2 volte per turno per Identità)\n\nPer Uso di Abilità: Ottieni 1 [AttackUp] e 1 [TakeHpHealIncrease] (2 volte per turno per Identità)\n\nInfliggi +10% di danno con Abilità Contundenti\n\nInfliggi +(n° di Scontri x 6)% di danno con l'Abilità che ha vinto lo Scontro (max 30%)",
+      "desc": "[Gli effetti si applicano solo per la 5°, 6° Identità Schierate]\n\nRecupera come PV il 10% dei danni inflitti ai PV con un'Abilità (max 20 per Abilità)\n\nPer Scontro Vinto: Ottieni 1 [AttackUp] e 1 [TakeHpHealIncrease] (2 volte per turno per Identità)\n\nPer Uso di Abilità: Ottieni 1 [AttackUp] e 1 [TakeHpHealIncrease] (2 volte per turno per Identità)\n\nInfliggi +10% di danno con Abilità Contundenti\n\nInfliggi +(n° di Scontri x 6)% di danno con l'Abilità che ha vinto lo Scontro (max 30%)",
       "simpleDesc": [
         {
           "abilityID": 9249,

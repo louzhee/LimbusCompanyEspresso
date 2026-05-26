@@ -3,15 +3,15 @@
     {
       "id": 9819,
       "name": "Spada Sanguifiamma",
-      "desc": "Primo Inizio Turno di un Incontro: Le Identità con Abilità Attacco Base che fanno ottenere [Combustion], ottengono 5 [Combustion] e si curano di 8 PS\n\nPer le Identità del Branco Heishou - Ramo You: I PV vengono limitati al 49% dei PV Max. In cambio, subiscono il 50% in meno di danno e ricevono 50% di cure ridotte (escluse le cure dai Doni E.G.O)",
+      "desc": "Primo Inizio Turno di un Incontro: Le Identità con Abilità Attacco Base che fanno ottenere [Combustion], ottengono 5 [Combustion] e recuperano 8 PS\n\nPer le Identità del Branco Heishou - Ramo You: I PV vengono limitati al 49% dei PV Max. In cambio, subiscono il 50% in meno di danno e ricevono 50% di cure ridotte (escluse le cure dai Doni E.G.O)",
       "simpleDesc": [
         {
           "abilityID": 9819,
-          "simpleDesc": "Ottieni [Combustion], Livelli Offensivi, e cura PS"
+          "simpleDesc": "Ottieni [Combustion], Livelli Offensivi, e recupera PS"
         },
         {
           "abilityID": 98191,
-          "simpleDesc": "PV vengono limitati. Subisci meno danni e cura meno PV."
+          "simpleDesc": "PV vengono limitati. Subisci meno danni e recupera meno PV."
         }
       ]
     },
@@ -74,22 +74,22 @@
     {
       "id": 9824,
       "name": "Virtù - Ren (仁)",
-      "desc": "[Gli effetti si applicano solo alla 6° Identità Schierata]\n\nQuando viene usata un'Abilità Attacco (incluse le Abilità E.G.O) che infligge Potenza [Burst] o Conteggio [Burst] per vincere uno Scontro, cura 15 PV (una volta per turno)\n- Se questa unità è un Candidato a Gerarca della Famiglia: ottieni anche 1 [Protection] nel turno successivo",
+      "desc": "[Gli effetti si applicano solo alla 6° Identità Schierata]\n\nQuando viene usata un'Abilità Attacco (incluse le Abilità E.G.O) che infligge Potenza [Burst] o Conteggio [Burst] per vincere uno Scontro, recupera 15 PV (una volta per turno)\n- Se questa unità è un Candidato a Gerarca della Famiglia: ottieni anche 1 [Protection] nel turno successivo",
       "simpleDesc": [
         {
           "abilityID": 9824,
-          "simpleDesc": "Cura PV. Fazione Candidati a Gerarca della Famiglia ottengono anche [Protection] nel turno"
+          "simpleDesc": "Recupera PV. Fazione Candidati a Gerarca della Famiglia ottengono anche [Protection] nel turno"
         }
       ]
     },
     {
       "id": 9825,
       "name": "Cultura: Taglia, Leviga, Modella, Ridefinisci",
-      "desc": "[Gli effetti si applicano solo alla 6° Identità Schierata]\n\nQuando viene usata un'Abilità Attacco (incluse le Abilità E.G.O) che infligge Potenza [Burst] o Conteggio [Burst] per vincere uno Scontro, cura 20 PV, ottieni 3 [AttackUp], e ottieni 3 [DefenseUp] nel turno successivo (una volta per turno)\n- Se questa unità è un Candidato a Gerarca della Famiglia: applica 1 [Agility], 1 [Protection], e 3 [AttackUp] a tutti gli alleati, inclusa questa unità",
+      "desc": "[Gli effetti si applicano solo alla 6° Identità Schierata]\n\nQuando viene usata un'Abilità Attacco (incluse le Abilità E.G.O) che infligge Potenza [Burst] o Conteggio [Burst] per vincere uno Scontro, recupera 20 PV, ottieni 3 [AttackUp], e ottieni 3 [DefenseUp] nel turno successivo (una volta per turno)\n- Se questa unità è un Candidato a Gerarca della Famiglia: applica 1 [Agility], 1 [Protection], e 3 [AttackUp] a tutti gli alleati, inclusa questa unità",
       "simpleDesc": [
         {
           "abilityID": 9825,
-          "simpleDesc": "Ottieni [AttackUp], [DefenseUp], e cura PV. Se questa unità è un Candidato a Gerarca della Famiglia, applica anche [Agility], [Protection], e [AttackUp] a tutti gli alleati nel turno dopo"
+          "simpleDesc": "Ottieni [AttackUp], [DefenseUp], e recupera PV. Se questa unità è un Candidato a Gerarca della Famiglia, applica anche [Agility], [Protection], e [AttackUp] a tutti gli alleati nel turno dopo"
         }
       ]
     },
@@ -129,7 +129,7 @@
     {
       "id": 9827,
       "name": "Risentimento Della Famiglia",
-      "desc": "Raddoppia la quantità di [BloodDinner] generata in Campo\nLe Abilità che infliggono Potenza [Laceration], Conteggio [Laceration], o '<noparse>Sanguinamento</noparse> Speciale': Dopo l'Attacco, cura del 30% dei danni PV inflitti. (max 20)\n* Se un'unità ha recuperato PV grazie a questo effetto, ottiene 1 [Enhancement] all'Inizio del prossimo Turno (max 2)\n\nPer ogni 50 [BloodDinner_Common_Accumulation], tutti gli alleati ottengono 1 [AttackUp] all'Inizio del prossimo Turno (max 5)\nCiascuna unità di La Manchaland ottiene anche 1 [AttackUp] per ogni 30 [BloodDinner_Accumulation] consumata da ciascuna unità (max 3)",
+      "desc": "Raddoppia la quantità di [BloodDinner] generata in Campo\nLe Abilità che infliggono Potenza [Laceration], Conteggio [Laceration], o '<noparse>Sanguinamento</noparse> Speciale': Dopo l'Attacco, recupera il 30% dei danni PV inflitti. (max 20)\n* Se un'unità ha recuperato PV grazie a questo effetto, ottiene 1 [Enhancement] all'Inizio del prossimo Turno (max 2)\n\nPer ogni 50 [BloodDinner_Common_Accumulation], tutti gli alleati ottengono 1 [AttackUp] all'Inizio del prossimo Turno (max 5)\nCiascuna unità di La Manchaland ottiene anche 1 [AttackUp] per ogni 30 [BloodDinner_Accumulation] consumata da ciascuna unità (max 3)",
       "simpleDesc": [
         {
           "abilityID": 9827,
@@ -137,7 +137,7 @@
         },
         {
           "abilityID": 98271,
-          "simpleDesc": "Cura PV"
+          "simpleDesc": "Recupera PV"
         },
         {
           "abilityID": 98272,

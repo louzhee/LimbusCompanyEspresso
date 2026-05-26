@@ -102,11 +102,11 @@
     {
       "id": 9206,
       "name": "Discesa della Fraganza Sanguigna",
-      "desc": "L'alleato con meno PV prima dell'Inizio del Combattimento si cura del 3% di PV Per Colpo con Abilità Attacco che applicano [Laceration] o '<noparse>Sanguinamento</noparse> Speciale' (2 volte per turno)\n\nIn uno Scontro usando Abilità che applicano [Laceration] o '<noparse>Sanguinamento</noparse> Speciale' contro nemici con [Laceration] o '<noparse>Sanguinamento</noparse> Speciale', Potere Scontro +1\n- Se 5 o più Identità hanno Abilità Attacco che applicano [Laceration] o '<noparse>Sanguinamento</noparse> Speciale', Potere Scontro +1 e infliggono +10% di danno (contano tutte le unità in Squadra)\n- Se ci sono 10 o più Identità che soddisfanno la condizione precedente, Potere Scontro +2 e infliggono +15% di danno",
+      "desc": "L'alleato con meno PV prima dell'Inizio del Combattimento recupera il 3% di PV Per Colpo con Abilità Attacco che applicano [Laceration] o '<noparse>Sanguinamento</noparse> Speciale' (2 volte per turno)\n\nIn uno Scontro usando Abilità che applicano [Laceration] o '<noparse>Sanguinamento</noparse> Speciale' contro nemici con [Laceration] o '<noparse>Sanguinamento</noparse> Speciale', Potere Scontro +1\n- Se 5 o più Identità hanno Abilità Attacco che applicano [Laceration] o '<noparse>Sanguinamento</noparse> Speciale', Potere Scontro +1 e infliggono +10% di danno (contano tutte le unità in Squadra)\n- Se ci sono 10 o più Identità che soddisfanno la condizione precedente, Potere Scontro +2 e infliggono +15% di danno",
       "simpleDesc": [
         {
           "abilityID": 9206,
-          "simpleDesc": "Cura PV"
+          "simpleDesc": "Recupera PV"
         },
         {
           "abilityID": 92061,

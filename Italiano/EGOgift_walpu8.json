@@ -207,11 +207,11 @@
     {
       "id": 9241,
       "name": "Caffè Ancora Fumante",
-      "desc": "[Gli effetti si applicano solo alla 1° Identità Schierata]\n\nFine Turno dopo aver usato un'Abilità Attacco: Cura 5 PS\n- Dopo, se l'unità affetta è a PV Max ed è un'Identità della Lobotomy Corp., ottiene 1 [PlusCoinValueUp] nel turno successivo",
+      "desc": "[Gli effetti si applicano solo alla 1° Identità Schierata]\n\nFine Turno dopo aver usato un'Abilità Attacco: Recupera 5 PS\n- Dopo, se l'unità affetta è a PV Max ed è un'Identità della Lobotomy Corp., ottiene 1 [PlusCoinValueUp] nel turno successivo",
       "simpleDesc": [
         {
           "abilityID": 9241,
-          "simpleDesc": "Cura PS; ottieni [PlusCoinValueUp] nel turno dopo se le condizioni sono soddisfatte"
+          "simpleDesc": "Recupera PS; ottieni [PlusCoinValueUp] nel turno dopo se le condizioni sono soddisfatte"
         }
       ]
     }

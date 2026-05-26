@@ -47,22 +47,22 @@
     {
       "id": 9748,
       "name": "Avversità",
-      "desc": "A Scontro Vinto: Cura PS uguale al numero degli Scontri fatti (max 3)\nSe l'unità affetta è già a 45+ PS, ottiene (n° di Scontri/2) [AttackUp] nel turno successivo (max 3)",
+      "desc": "A Scontro Vinto: Recupera PS uguale al numero degli Scontri fatti (max 3)\nSe l'unità affetta è già a 45+ PS, ottiene (n° di Scontri/2) [AttackUp] nel turno successivo (max 3)",
       "simpleDesc": [
         {
           "abilityID": 9748,
-          "simpleDesc": "Per Scontro Vinto, cura PS uguale al numero di Scontri"
+          "simpleDesc": "Per Scontro Vinto, recupera PS uguale al numero di Scontri"
         }
       ]
     },
     {
       "id": 9749,
       "name": "Corona di Spine",
-      "desc": "Inizio Turno: 1 alleato con meno PS si cura di 8 PS (se non sono in Panico o in Corrosione E.G.O)\nSe questo alleato era già a PS Max, Potere Scontro +1 per questo turno\nPer questo turno: [MentalSystemResultIncrease_Typo] +1, [MentalSystemResultDecrease_Typo] -1",
+      "desc": "Inizio Turno: 1 alleato con meno PS recupera 8 PS (se non sono in Panico o in Corrosione E.G.O)\nSe questo alleato era già a PS Max, Potere Scontro +1 per questo turno\nPer questo turno: [MentalSystemResultIncrease_Typo] +1, [MentalSystemResultDecrease_Typo] -1",
       "simpleDesc": [
         {
           "abilityID": 9749,
-          "simpleDesc": "Inizio Turno: cura 8 PS ad 1 alleato con meno PS"
+          "simpleDesc": "Inizio Turno: recupera 8 PS ad 1 alleato con meno PS"
         }
       ]
     },

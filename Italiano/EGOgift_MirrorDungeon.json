@@ -96,15 +96,15 @@
     {
       "id": 9004,
       "name": "Pacco di Flebotomia",
-      "desc": "Quando un alleato colpisce un nemico con un'Abilità, si cura del 12.5% dei PV mancanti. (Una volta per alleato per turno.)\n\nSe l'Affinità dell'Abilità era Ira, si cura invece del 25% dei PV mancanti.",
+      "desc": "Quando un alleato colpisce un nemico con un'Abilità, recupera il 12.5% dei PV mancanti. (Una volta per alleato per turno.)\n\nSe l'Affinità dell'Abilità era Ira, recupera invece il 25% dei PV mancanti.",
       "simpleDesc": [
         {
           "abilityID": 9004,
-          "simpleDesc": "Cura il 12.5% dei PV mancanti"
+          "simpleDesc": "Recupera il 12.5% dei PV mancanti"
         },
         {
           "abilityID": 90041,
-          "simpleDesc": "Cura il 25% dei PV mancanti"
+          "simpleDesc": "Recupera il 25% dei PV mancanti"
         }
       ]
     },
@@ -439,15 +439,15 @@
     {
       "id": 9017,
       "name": "Litografia",
-      "desc": "Quando un nemico viene Stordito, l'alleato con meno PV si cura del 5% dei propri PV Max.\n\nSe tale alleato ha delle Abilità Attacco con Affinità Gola, si cura invece del 10% dei propri PV Max.",
+      "desc": "Quando un nemico viene Stordito, l'alleato con meno PV recupera il 5% dei propri PV Max.\n\nSe tale alleato ha delle Abilità Attacco con Affinità Gola, recupera invece il 10% dei propri PV Max.",
       "simpleDesc": [
         {
           "abilityID": 9017,
-          "simpleDesc": "Cura del 5% dei PV Max"
+          "simpleDesc": "Recupera il 5% dei PV Max"
         },
         {
           "abilityID": 90171,
-          "simpleDesc": "Cura del 10% dei PV Max"
+          "simpleDesc": "Recupera il 10% dei PV Max"
         }
       ]
     },
@@ -617,7 +617,7 @@
     {
       "id": 9025,
       "name": "Cappotto Grigio",
-      "desc": "Quando viene usata un'Abilità con Portata Attacco di 2+, incrementa il danno del 20%.\n\nQuando si colpisce un nemico un'Abilità con Portata Attacco di 2+ o un'Abilità con Affinità Tristezza, cura del 20% del danno inflitto.",
+      "desc": "Quando viene usata un'Abilità con Portata Attacco di 2+, incrementa il danno del 20%.\n\nQuando si colpisce un nemico un'Abilità con Portata Attacco di 2+ o un'Abilità con Affinità Tristezza, recupera come PV il 20% del danno inflitto.",
       "simpleDesc": [
         {
           "abilityID": 9025,
@@ -625,7 +625,7 @@
         },
         {
           "abilityID": 90251,
-          "simpleDesc": "Cura del 20% dei danni inflitti"
+          "simpleDesc": "Recupera come PV il 20% dei danni inflitti"
         }
       ]
     },
@@ -688,15 +688,15 @@
     {
       "id": 9028,
       "name": "Pregiudizio",
-      "desc": "Primo Inizio Turno di un Incontro: l'alleato con meno PV si cura del 15% dei propri PV Max.\n\nSe viene attivata Risonanza Assoluta Superbia, l'alleato con meno PV si cura del 12.5% dei propri PV mancanti all'Inizio del Combattimento.",
+      "desc": "Primo Inizio Turno di un Incontro: l'alleato con meno PV recupera il 15% dei propri PV Max.\n\nSe viene attivata Risonanza Assoluta Superbia, l'alleato con meno PV recupera il 12.5% dei propri PV mancanti all'Inizio del Combattimento.",
       "simpleDesc": [
         {
           "abilityID": 9028,
-          "simpleDesc": "Cura 15% dei PV Max"
+          "simpleDesc": "Recupera il 15% dei PV Max"
         },
         {
           "abilityID": 90281,
-          "simpleDesc": "Cura 12.5% dei PV mancanti"
+          "simpleDesc": "Recupera il 12.5% dei PV mancanti"
         }
       ]
     },
@@ -923,11 +923,11 @@
     {
       "id": 9039,
       "name": "Ritorno a Casa",
-      "desc": "Inizio Incontro: tutti alleati partecipanti si curano del 12% dei loro PV Max.",
+      "desc": "Inizio Incontro: tutti gli alleati partecipanti recuperano il 12% dei loro PV Max.",
       "simpleDesc": [
         {
           "abilityID": 9039,
-          "simpleDesc": "Cura del 12% dei PV Max"
+          "simpleDesc": "Recupera il 12% dei PV Max"
         }
       ]
     },
@@ -2170,22 +2170,22 @@
     {
       "id": 9076,
       "name": "Kit di Primo-Soccorso",
-      "desc": "Inizio Turno: un alleato con meno del 50% di PV si cura del 25% dei suoi PV Max. (Una volta per Incontro; non si attiva se l'alleato è morto)",
+      "desc": "Inizio Turno: un alleato con meno del 50% di PV recupera il 25% dei suoi PV Max. (Una volta per Incontro; non si attiva se l'alleato è morto)",
       "simpleDesc": [
         {
           "abilityID": 9076,
-          "simpleDesc": "Cura del 25% dei PV Max"
+          "simpleDesc": "Recupera il 25% dei PV Max"
         }
       ]
     },
     {
       "id": 9077,
       "name": "Antidolorifico",
-      "desc": "Inizio Turno: gli alleati Storditi si curano del 12.5% dei loro PV Max e ottengono 3 [Protection] per questo turno.",
+      "desc": "Inizio Turno: gli alleati Storditi recuperano il 12.5% dei loro PV Max e ottengono 3 [Protection] per questo turno.",
       "simpleDesc": [
         {
           "abilityID": 9077,
-          "simpleDesc": "Cura del 12.5% dei loro PV Max; Ottieni 3 [Protection]"
+          "simpleDesc": "Recupera il 12.5% dei loro PV Max; Ottieni 3 [Protection]"
         }
       ]
     },
@@ -2225,11 +2225,11 @@
     {
       "id": 9081,
       "name": "Fede",
-      "desc": "Dopo aver usato un'Abilità a Moneta Positiva, cura completamente i PS di un alleato all'Inizio del prossimo Turno. (Se non è corroso)",
+      "desc": "Dopo aver usato un'Abilità a Moneta Positiva, recupera tutti i PS di un alleato all'Inizio del prossimo Turno. (Se non è corroso)",
       "simpleDesc": [
         {
           "abilityID": 9036,
-          "simpleDesc": "Cura PS completa"
+          "simpleDesc": "Recupera tutti i PS"
         }
       ]
     },
@@ -3297,7 +3297,7 @@
     {
       "id": 9123,
       "name": "Stracci",
-      "desc": "Gli alleati con Abilità Attacco che infliggono Potenza o Conteggio [Sinking] o '<noparse>Annegamento</noparse> Speciale' si curano di altri 5 PS (una volta per turno) a Scontro Vinto; se i PS sono al massimo, infliggi +7.5% di danno.\n\nQuando questi alleati usano un'Abilità a Moneta Negativa (escluse le Abilità E.G.O): a -15 o più PS, riduci i PS a -15 e infliggi +(quantità di PS persi)% di danno; se è già a meno di -15 PS, infliggi +15% di danno.",
+      "desc": "Gli alleati con Abilità Attacco che infliggono Potenza o Conteggio [Sinking] o '<noparse>Annegamento</noparse> Speciale' recuperano altri 5 PS (una volta per turno) a Scontro Vinto; se i PS sono al massimo, infliggi +7.5% di danno.\n\nQuando questi alleati usano un'Abilità a Moneta Negativa (escluse le Abilità E.G.O): a -15 o più PS, riduci i PS a -15 e infliggi +(quantità di PS persi)% di danno; se è già a meno di -15 PS, infliggi +15% di danno.",
       "simpleDesc": [
         {
           "abilityID": 9123,
@@ -3305,14 +3305,14 @@
         },
         {
           "abilityID": 91231,
-          "simpleDesc": "A -15 o più PS, riduci PS to -15 e infliggi +(quantità di PS persi)% di danno; se è già a meno di -15 PS, infliggi +15% di danno"
+          "simpleDesc": "A -15 o più PS, riduci PS a -15 e infliggi +(quantità di PS persi)% di danno; se è già a meno di -15 PS, infliggi +15% di danno"
         }
       ]
     },
     {
       "id": 19123,
       "name": "Stracci+",
-      "desc": "Gli alleati con Abilità Attacco che infliggono Potenza o Conteggio [Sinking] o '<noparse>Annegamento</noparse> Speciale' si curano di altri <style=\"upgradeHighlight\">6</style> ulteriori PS (una volta per turno) a Scontro Vinto; se i PS sono al massimo, infliggi +<style=\"upgradeHighlight\">10</style>% di danno.\n\nQuando questi alleati usano un'Abilità a Moneta Negativa (escluse le Abilità E.G.O): A -15 o più PS, riduci i PS a -15 e infliggi +(quantità di PS persi <style=\"upgradeHighlight\">+ 5</style>)% di danno; se è già a meno di -15 PS, infliggi +<style=\"upgradeHighlight\">20</style>% di danno.",
+      "desc": "Gli alleati con Abilità Attacco che infliggono Potenza o Conteggio [Sinking] o '<noparse>Annegamento</noparse> Speciale' recuperano altri <style=\"upgradeHighlight\">6</style> ulteriori PS (una volta per turno) a Scontro Vinto; se i PS sono al massimo, infliggi +<style=\"upgradeHighlight\">10</style>% di danno.\n\nQuando questi alleati usano un'Abilità a Moneta Negativa (escluse le Abilità E.G.O): A -15 o più PS, riduci i PS a -15 e infliggi +(quantità di PS persi <style=\"upgradeHighlight\">+ 5</style>)% di danno; se è già a meno di -15 PS, infliggi +<style=\"upgradeHighlight\">20</style>% di danno.",
       "simpleDesc": [
         {
           "abilityID": 19123,
@@ -3320,14 +3320,14 @@
         },
         {
           "abilityID": 191231,
-          "simpleDesc": "A -15 o più PS, riduci PS to -15 e infliggi +(quantità di PS persi + 5)% di danno; se è già a meno di -15 PS, infliggi +20% di danno"
+          "simpleDesc": "A -15 o più PS, riduci PS a -15 e infliggi +(quantità di PS persi + 5)% di danno; se è già a meno di -15 PS, infliggi +20% di danno"
         }
       ]
     },
     {
       "id": 29123,
       "name": "Stracci++",
-      "desc": "Gli alleati con Abilità Attacco che infliggono Potenza o Conteggio [Sinking] o '<noparse>Annegamento</noparse> Speciale' si curano di altri <style=\"upgradeHighlight\">7</style> ulteriori PS (una volta per turno) a Scontro Vinto; se i PS sono al massimo, infliggi +<style=\"upgradeHighlight\">12.5</style>% di danno.\n\nQuando questi alleati usano un'Abilità a Moneta Negativa (escluse le Abilità E.G.O): A -15 o più PS, riduci i PS a -15 e infliggi +(quantità di PS persi <style=\"upgradeHighlight\">+ 10</style>)% di danno; se è già a meno di -15 PS, infliggi +<style=\"upgradeHighlight\">25</style>% di danno.",
+      "desc": "Gli alleati con Abilità Attacco che infliggono Potenza o Conteggio [Sinking] o '<noparse>Annegamento</noparse> Speciale' recuperano altri <style=\"upgradeHighlight\">7</style> ulteriori PS (una volta per turno) a Scontro Vinto; se i PS sono al massimo, infliggi +<style=\"upgradeHighlight\">12.5</style>% di danno.\n\nQuando questi alleati usano un'Abilità a Moneta Negativa (escluse le Abilità E.G.O): A -15 o più PS, riduci i PS a -15 e infliggi +(quantità di PS persi <style=\"upgradeHighlight\">+ 10</style>)% di danno; se è già a meno di -15 PS, infliggi +<style=\"upgradeHighlight\">25</style>% di danno.",
       "simpleDesc": [
         {
           "abilityID": 29123,
@@ -3335,7 +3335,7 @@
         },
         {
           "abilityID": 291231,
-          "simpleDesc": "A -15 o più PS, riduci PS to -15 e infliggi +(quantità di PS persi + 10)% di danno; se è già a meno di -15 PS, infliggi +25% di danno"
+          "simpleDesc": "A -15 o più PS, riduci PS a -15 e infliggi +(quantità di PS persi + 10)% di danno; se è già a meno di -15 PS, infliggi +25% di danno"
         }
       ]
     },
@@ -3375,7 +3375,7 @@
     {
       "id": 9125,
       "name": "Stella Distante",
-      "desc": "Quando viene attivato l'effetto [Sinking] (incluso '<noparse>Annegamento</noparse> Speciale') sul bersaglio con un effetto attivato Per Colpo da un'Abilità Attacco Base che infligge o fa ottenere Potenza [Sinking], Conteggio [Sinking], o '<noparse>Annegamento</noparse> Speciale', cura di 3 PS a Fine Turno (2 volte per turno per Identità)\n\nSe questa unità era a 45 PS ad Inizio Turno, l'effetto cambia con il seguente: Quando viene attivato l'effetto [Sinking] (incluso '<noparse>Annegamento</noparse> Speciale') sul bersaglio con un effetto attivato Per Colpo da un'Abilità Attacco Base, infliggi +2 Conteggio [Sinking] sul bersaglio (2 volte per turno per Identità)",
+      "desc": "Quando viene attivato l'effetto [Sinking] (incluso '<noparse>Annegamento</noparse> Speciale') sul bersaglio con un effetto attivato Per Colpo da un'Abilità Attacco Base che infligge o fa ottenere Potenza [Sinking], Conteggio [Sinking], o '<noparse>Annegamento</noparse> Speciale', recupera 3 PS a Fine Turno (2 volte per turno per Identità)\n\nSe questa unità era a 45 PS ad Inizio Turno, l'effetto cambia con il seguente: Quando viene attivato l'effetto [Sinking] (incluso '<noparse>Annegamento</noparse> Speciale') sul bersaglio con un effetto attivato Per Colpo da un'Abilità Attacco Base, infliggi +2 Conteggio [Sinking] sul bersaglio (2 volte per turno per Identità)",
       "simpleDesc": [
         {
           "abilityID": 9124,
@@ -3579,33 +3579,33 @@
     {
       "id": 9133,
       "name": "Defibrillatore Illimitato",
-      "desc": "Fine Turno: cura i PV e PS per la somma del Conteggio [Charge] e '<noparse>Carica</noparse> Speciale' consumati dalle Abilità Attacco in questo turno.\n\nSe questa unità ha meno del 50% dei PV Max, aumenta la quantità curata di x1.5.",
+      "desc": "Fine Turno: recupera PV e PS per la somma del Conteggio [Charge] e '<noparse>Carica</noparse> Speciale' consumati dalle Abilità Attacco in questo turno.\n\nSe questa unità ha meno del 50% dei PV Max, aumenta la quantità recuperata di x1.5.",
       "simpleDesc": [
         {
           "abilityID": 9133,
-          "simpleDesc": "Cura i PV e PS per la somma del Conteggio [Charge] consumata"
+          "simpleDesc": "Recupera PV e PS per la somma del Conteggio [Charge] consumata"
         }
       ]
     },
     {
       "id": 19133,
       "name": "Defibrillatore Illimitato+",
-      "desc": "Fine Turno: cura i PV e PS per <style=\"upgradeHighlight\">(la somma del Conteggio [Charge] e '<noparse>Carica</noparse> Speciale' consumati dalle Abilità Attacco in questo turno + 1)</style>.\n\nSe questa unità ha meno del 50% dei PV Max, aumenta la quantità curata di <style=\"upgradeHighlight\">x2</style>.",
+      "desc": "Fine Turno: recupera i PV e PS per <style=\"upgradeHighlight\">(la somma del Conteggio [Charge] e '<noparse>Carica</noparse> Speciale' consumati dalle Abilità Attacco in questo turno + 1)</style>.\n\nSe questa unità ha meno del 50% dei PV Max, aumenta la quantità recuperata di <style=\"upgradeHighlight\">x2</style>.",
       "simpleDesc": [
         {
           "abilityID": 19133,
-          "simpleDesc": "Cura i PV e PS per (la somma del Conteggio [Charge] consumata + 1)"
+          "simpleDesc": "Recupera i PV e PS per (la somma del Conteggio [Charge] consumata + 1)"
         }
       ]
     },
     {
       "id": 29133,
       "name": "Defibrillatore Illimitato++",
-      "desc": "Fine Turno: cura i PV e PS per (la somma del Conteggio [Charge] e '<noparse>Carica</noparse> Speciale' consumati dalle Abilità Attacco in questo turno <style=\"upgradeHighlight\">+ 2</style>).\n\nSe questa unità ha meno del <style=\"upgradeHighlight\">75</style>% dei PV Max, aumenta la quantità curata di x2.",
+      "desc": "Fine Turno: recupera i PV e PS per (la somma del Conteggio [Charge] e '<noparse>Carica</noparse> Speciale' consumati dalle Abilità Attacco in questo turno <style=\"upgradeHighlight\">+ 2</style>).\n\nSe questa unità ha meno del <style=\"upgradeHighlight\">75</style>% dei PV Max, aumenta la quantità recuperata di x2.",
       "simpleDesc": [
         {
           "abilityID": 29133,
-          "simpleDesc": "cura i PV e PS per (la somma del Conteggio [Charge] consumata + 2)"
+          "simpleDesc": "Recupera i PV e PS per (la somma del Conteggio [Charge] consumata + 2)"
         }
       ]
     },
@@ -3798,7 +3798,7 @@
     {
       "id": 9140,
       "name": "Risoluzione",
-      "desc": "Tutti gli alleati con 2+ Abilità Taglienti: per questo Incontro, ottieni Potere Scontro +1 al primo turno, e ottieni 1 [Agility] e Potere Scontro +1 dal secondo turno in poi.\n\nLe Identità dell'Associazione Shi avranno i PV limitati al 75% dei PV Max. In cambio, subiscono il 50% di danno in meno e ricevono una riduzione del 50% nelle cure. (si attiva appena viene iniziato un Incontro; eccetto le cure da Doni E.G.O)\n\nLe Identità dell'Associazione Shi ottengono 1 [SlashResultUp] e 1 [SlashDamageUp] all'Inizio di ogni Turno. ",
+      "desc": "Per tutti gli alleati con 2+ Abilità Taglienti: per questo Incontro, ottieni Potere Scontro +1 al primo turno, e ottieni 1 [Agility] e Potere Scontro +1 dal secondo turno in poi.\n\nLe Identità dell'Associazione Shi avranno i PV limitati al 75% dei PV Max. In cambio, subiscono il 50% di danno in meno e ricevono una riduzione del 50% nelle cure. (si attiva appena viene iniziato un Incontro; eccetto le cure da Doni E.G.O)\n\nLe Identità dell'Associazione Shi ottengono 1 [SlashResultUp] e 1 [SlashDamageUp] all'Inizio di ogni Turno. ",
       "simpleDesc": [
         {
           "abilityID": 9140,
@@ -3813,7 +3813,7 @@
     {
       "id": 19140,
       "name": "Risoluzione+",
-      "desc": "Tutti gli alleati con 2+ Abilità Taglienti: per questo Incontro, ottieni Potere Scontro +1 al primo turno, e ottieni <style=\"upgradeHighlight\">2</style> [Agility] e Potere Scontro +1 dal secondo turno in poi.\n\nLe Identità dell'Associazione Shi avranno i PV limitati al <style=\"upgradeHighlight\">50</style>% dei PV Max. In cambio, subiscono il <style=\"upgradeHighlight\">75</style>% di danno in meno e ricevono una riduzione del <style=\"upgradeHighlight\">75</style>% nelle cure. (si attiva appena viene iniziato un Incontro; eccetto le cure da Doni E.G.O)\n\nLe Identità dell'Associazione Shi ottengono 1 [SlashResultUp] e <style=\"upgradeHighlight\">2</style> [SlashDamageUp] all'Inizio di ogni Turno. ",
+      "desc": "Per tutti gli alleati con 2+ Abilità Taglienti: per questo Incontro, ottieni Potere Scontro +1 al primo turno, e ottieni <style=\"upgradeHighlight\">2</style> [Agility] e Potere Scontro +1 dal secondo turno in poi.\n\nLe Identità dell'Associazione Shi avranno i PV limitati al <style=\"upgradeHighlight\">50</style>% dei PV Max. In cambio, subiscono il <style=\"upgradeHighlight\">75</style>% di danno in meno e ricevono una riduzione del <style=\"upgradeHighlight\">75</style>% nelle cure. (si attiva appena viene iniziato un Incontro; eccetto le cure da Doni E.G.O)\n\nLe Identità dell'Associazione Shi ottengono 1 [SlashResultUp] e <style=\"upgradeHighlight\">2</style> [SlashDamageUp] all'Inizio di ogni Turno. ",
       "simpleDesc": [
         {
           "abilityID": 19140,
@@ -3828,7 +3828,7 @@
     {
       "id": 29140,
       "name": "Risoluzione++",
-      "desc": "Tutti gli alleati con 2+ Abilità Taglienti: per questo Incontro, ottieni Potere Scontro +1 al primo turno, e ottieni 2 [Agility] <style=\"upgradeHighlight\">e Potere Finale +1</style> dal secondo turno in poi.\n\nLe Identità dell'Associazione Shi avranno i PV limitati al <style=\"upgradeHighlight\">49</style>% dei PV Max. In cambio, subiscono il <style=\"upgradeHighlight\">75</style>% di danno in meno e ricevono una riduzione del <style=\"upgradeHighlight\">75</style>% nelle cure. (si attiva appena viene iniziato un Incontro; eccetto le cure da Doni E.G.O)\n\nLe Identità dell'Associazione Shi ottengono 1 [SlashResultUp] e <style=\"upgradeHighlight\">3</style> [SlashDamageUp] all'Inizio di ogni Turno. ",
+      "desc": "Per tutti gli alleati con 2+ Abilità Taglienti: per questo Incontro, ottieni Potere Scontro +1 al primo turno, e ottieni 2 [Agility] <style=\"upgradeHighlight\">e Potere Finale +1</style> dal secondo turno in poi.\n\nLe Identità dell'Associazione Shi avranno i PV limitati al <style=\"upgradeHighlight\">49</style>% dei PV Max. In cambio, subiscono il <style=\"upgradeHighlight\">75</style>% di danno in meno e ricevono una riduzione del <style=\"upgradeHighlight\">75</style>% nelle cure. (si attiva appena viene iniziato un Incontro; eccetto le cure da Doni E.G.O)\n\nLe Identità dell'Associazione Shi ottengono 1 [SlashResultUp] e <style=\"upgradeHighlight\">3</style> [SlashDamageUp] all'Inizio di ogni Turno. ",
       "simpleDesc": [
         {
           "abilityID": 29140,
@@ -4131,7 +4131,7 @@
     {
       "id": 9149,
       "name": "Bende Compressive",
-      "desc": "[Gli effetti si applicano solo alla 5° Identità Schierata]\n\nQuando si colpisce un nemico con un'Abilità Contundente, infliggi 3 danni Contundenti bonus.\n\nPer le Abilità Attacco con Affinità Tristezza: cura anche di 3 PV.",
+      "desc": "[Gli effetti si applicano solo alla 5° Identità Schierata]\n\nQuando si colpisce un nemico con un'Abilità Contundente, infliggi 3 danni Contundenti bonus.\n\nPer le Abilità Attacco con Affinità Tristezza: recupera anche 3 PV.",
       "simpleDesc": [
         {
           "abilityID": 9149,
@@ -4139,14 +4139,14 @@
         },
         {
           "abilityID": 91491,
-          "simpleDesc": "Cura anche di 3 PV"
+          "simpleDesc": "Recupera anche 3 PV"
         }
       ]
     },
     {
       "id": 19149,
       "name": "Bende Compressive+",
-      "desc": "[Gli effetti si applicano solo alla 5° <style=\"upgradeHighlight\">e 6°</style> Identità Schierate]\n\nQuando si colpisce un nemico con un'Abilità Contundente, infliggi <style=\"upgradeHighlight\">3~5</style> danni Contundenti bonus.\n\nPer le Abilità Attacco con Affinità Tristezza: cura anche di <style=\"upgradeHighlight\">4</style> PV.",
+      "desc": "[Gli effetti si applicano solo alla 5° <style=\"upgradeHighlight\">e 6°</style> Identità Schierate]\n\nQuando si colpisce un nemico con un'Abilità Contundente, infliggi <style=\"upgradeHighlight\">3~5</style> danni Contundenti bonus.\n\nPer le Abilità Attacco con Affinità Tristezza: recupera anche di <style=\"upgradeHighlight\">4</style> PV.",
       "simpleDesc": [
         {
           "abilityID": 19149,
@@ -4154,7 +4154,7 @@
         },
         {
           "abilityID": 191491,
-          "simpleDesc": "Cura anche di 4 PV"
+          "simpleDesc": "Recupera anche di 4 PV"
         }
       ]
     },
@@ -4637,22 +4637,22 @@
     {
       "id": 9192,
       "name": "Cerotti Stratificati",
-      "desc": "Fine Turno: tra gli alleati con [Laceration], l'identità con meno PV si cura del 5% dei PV Max.",
+      "desc": "Fine Turno: tra gli alleati con [Laceration], l'identità con meno PV recupera il 5% dei PV Max.",
       "simpleDesc": [
         {
           "abilityID": 9192,
-          "simpleDesc": "Heal 1 alleato with Bleed"
+          "simpleDesc": "1 alleato con [Laceration] recupera PV"
         }
       ]
     },
     {
       "id": 19192,
       "name": "Cerotti Stratificati+",
-      "desc": "Fine Turno: tra gli alleati con [Laceration], le <style=\"upgradeHighlight\">due</style> Identità con meno PV si curano del 5% dei propri PV Max.",
+      "desc": "Fine Turno: tra gli alleati con [Laceration], le <style=\"upgradeHighlight\">due</style> Identità con meno PV recuperano il 5% dei propri PV Max.",
       "simpleDesc": [
         {
           "abilityID": 19192,
-          "simpleDesc": "Heal 2 alleati with Bleed"
+          "simpleDesc": "2 alleati con [Laceration] recuperano PV"
         }
       ]
     },

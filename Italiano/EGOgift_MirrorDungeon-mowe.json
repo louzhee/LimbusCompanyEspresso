@@ -14,15 +14,15 @@
     {
       "id": 9733,
       "name": "Gelato in Scatola",
-      "desc": "Quando un alleato perde dei PV a causa di un effetto di una sua stessa Abilità, cura metà dei PV persi a causa dell'effetto dell'Abilità all'Inizio del prossimo Turno. (arrotondato per difetto)\n\nQuando un alleato si cura i PV grazie all'effetto di un'Abilità E.G.O, si cura +12.5% di PV in più. (arrotondato per difetto)",
+      "desc": "Quando un alleato perde dei PV a causa di un effetto di una sua stessa Abilità, recupera metà dei PV persi a causa dell'effetto dell'Abilità all'Inizio del prossimo Turno. (arrotondato per difetto)\n\nQuando un alleato recupera dei PV grazie all'effetto di un'Abilità E.G.O, recupera il +12.5% di PV in più. (arrotondato per difetto)",
       "simpleDesc": [
         {
           "abilityID": 9733,
-          "simpleDesc": "Cura PV all'Inizio del prossimo Turno"
+          "simpleDesc": "Recupera PV all'Inizio del prossimo Turno"
         },
         {
           "abilityID": 97331,
-          "simpleDesc": "Potenzia effetti E.G.O da cura PV"
+          "simpleDesc": "Potenzia gli effetti E.G.O che fanno recuperare PV"
         }
       ]
     },
@@ -82,7 +82,7 @@
     {
       "id": 9737,
       "name": "Modulo Cardiovascolare Reattivo",
-      "desc": "Quando un alleato con Conteggio [Charge] o '<noparse>Carica</noparse> Speciale' perde uno Scontro, ottiene Scudo uguale a (Conteggio [Charge] + '<noparse>Carica</noparse> Speciale'). (una volta per turno)\n\nQuando a 50%- PV, ottiene invece ((Conteggio [Charge] + '<noparse>Carica</noparse> Speciale') x 2) in Scudo. (una volta per turno)\n\nSe un'Identità dell'Ufficio Multicrack ha ricevuto danni ai PV in questo Incontro: nel turno successivo, riceve una cura del 33% dei PV persi nel turno precedente. (arrotondato per difetto)",
+      "desc": "Quando un alleato con Conteggio [Charge] o '<noparse>Carica</noparse> Speciale' perde uno Scontro, ottiene Scudo uguale a (Conteggio [Charge] + '<noparse>Carica</noparse> Speciale'). (una volta per turno)\n\nQuando a 50%- PV, ottiene invece ((Conteggio [Charge] + '<noparse>Carica</noparse> Speciale') x 2) in Scudo. (una volta per turno)\n\nSe un'Identità dell'Ufficio Multicrack ha ricevuto danni ai PV in questo Incontro: nel turno successivo, recupera il 33% dei PV persi nel turno precedente. (arrotondato per difetto)",
       "simpleDesc": [
         {
           "abilityID": 9737,
@@ -90,7 +90,7 @@
         },
         {
           "abilityID": 97371,
-          "simpleDesc": "Cura PV in base ai PV persi lo scorso turno"
+          "simpleDesc": "Recupera PV in base ai PV persi lo scorso turno"
         }
       ]
     },
@@ -112,11 +112,11 @@
     {
       "id": 9739,
       "name": "Sangue Cristalizzato",
-      "desc": "Fine Turno: Se questa unità ha [Laceration], dimezza la Potenza [Laceration] su di sé e cura (Potenza [Laceration] rimossa x Conteggio [Laceration] su sé stessi) PV. (arrotondato per difetto. Curabile fino al 10% dei PV Max per volta)",
+      "desc": "Fine Turno: Se questa unità ha [Laceration], dimezza la Potenza [Laceration] su di sé e recupera (Potenza [Laceration] rimossa x Conteggio [Laceration] su sé stessi) PV. (arrotondato per difetto. Curabile fino al 10% dei PV Max per volta)",
       "simpleDesc": [
         {
           "abilityID": 9739,
-          "simpleDesc": "Dimezza Potenza [Laceration] su di sé, cura PV"
+          "simpleDesc": "Dimezza Potenza [Laceration] su di sé, recupera PV"
         }
       ]
     },
@@ -161,7 +161,7 @@
     {
       "id": 9742,
       "name": "Motori Servo del Generatore Perpetuo",
-      "desc": "Inizio Turno: Questo Dono si attiva per tutto l'Incontro quando 5 o più Identità hanno Abilità Attacco per ottenere Conteggio [Charge] o '<noparse>Carica</noparse> Speciale'. (escluse le Abilità E.G.O; escluse le Riserve)\n\nAbilità Attacco a Moneta Positiva Base che consumano Conteggio [Charge] o '<noparse>Carica</noparse> Speciale'(Potenza Fissa): ottieni Potere Moneta +1 e infliggi +(somma del Conteggio [Charge] e '<noparse>Carica</noparse> Speciale'(Potenza Fissa) consumate da quell'Abilità x 4)% di danno (max 40%)\n- Abilità Attacco a Moneta Negativa Base: Invece di ottenere Potere Moneta, ottieni Potere Base +(4 / n° di Monete) (min 1; arrotondato per difetto)\n\nQuando gli alleati con Conteggio [Charge] o '<noparse>Carica</noparse> Speciale' si Scontrano con delle Abilità Attacco base: Potere Scontro +1; ottengono 2 [AttackUp] ad Inizio Turno per ogni istanza di Scontro Vinto durante quello Scontro per questo Incontro. (max 6)\n\nIn questo Incontro, quando un alleato subisce un attacco letale, consuma tutto il Conteggio [Charge] e la '<noparse>Carica</noparse> Speciale'(Potenza Fissa) su di sé; dopo, si cura immediatamente (10 + somma del Conteggio [Charge] e '<noparse>Carica</noparse> Speciale'(Potenza Fissa) consumate)% PV (una volta per Incontro); poi, ottiene 3 [Protection] finché l'alleato non viene sconfitto.\n\n※ Per '<noparse>Carica</noparse> Speciale' che ha sia Potenza che Conteggio, solo il suo Conteggio sarà usato per il calcolo",
+      "desc": "Inizio Turno: Questo Dono si attiva per tutto l'Incontro quando 5 o più Identità hanno Abilità Attacco per ottenere Conteggio [Charge] o '<noparse>Carica</noparse> Speciale'. (escluse le Abilità E.G.O; escluse le Riserve)\n\nAbilità Attacco a Moneta Positiva Base che consumano Conteggio [Charge] o '<noparse>Carica</noparse> Speciale'(Potenza Fissa): ottieni Potere Moneta +1 e infliggi +(somma del Conteggio [Charge] e '<noparse>Carica</noparse> Speciale'(Potenza Fissa) consumate da quell'Abilità x 4)% di danno (max 40%)\n- Abilità Attacco a Moneta Negativa Base: Invece di ottenere Potere Moneta, ottieni Potere Base +(4 / n° di Monete) (min 1; arrotondato per difetto)\n\nQuando gli alleati con Conteggio [Charge] o '<noparse>Carica</noparse> Speciale' si Scontrano con delle Abilità Attacco base: Potere Scontro +1; ottengono 2 [AttackUp] ad Inizio Turno per ogni istanza di Scontro Vinto durante quello Scontro per questo Incontro. (max 6)\n\nIn questo Incontro, quando un alleato subisce un attacco letale, consuma tutto il Conteggio [Charge] e la '<noparse>Carica</noparse> Speciale'(Potenza Fissa) su di sé; dopo, recupera immediatamente (10 + somma del Conteggio [Charge] e '<noparse>Carica</noparse> Speciale'(Potenza Fissa) consumate)% PV (una volta per Incontro); poi, ottiene 3 [Protection] finché l'alleato non viene sconfitto.\n\n※ Per '<noparse>Carica</noparse> Speciale' che ha sia Potenza che Conteggio, solo il suo Conteggio sarà usato per il calcolo",
       "simpleDesc": [
         {
           "abilityID": 9742,

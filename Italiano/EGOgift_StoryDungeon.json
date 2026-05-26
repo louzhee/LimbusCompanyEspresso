@@ -25,11 +25,11 @@
     {
       "id": 1003,
       "name": "Resti Germinati",
-      "desc": "All'inizio del turno, gli alleati con 50% o meno PV si curano di 5 PV.",
+      "desc": "All'inizio del turno, gli alleati con 50% o meno PV recuperano 5 PV.",
       "simpleDesc": [
         {
           "abilityID": 1003,
-          "simpleDesc": "Alleati con <50% PV curano 5 PV"
+          "simpleDesc": "Alleati con <50% PV recuperano 5 PV"
         }
       ]
     },
@@ -125,7 +125,7 @@
     {
       "id": 1016,
       "name": "Kit Chirurgico d'Emergenza",
-      "desc": "Durante la battaglia, se un alleato riceve un colpo letale, i suoi PV non scendono sotto l'1.\nNel turno successivo, viene curato completamente ed ottiene 3 [Operation].\nAl termine della battaglia, muore\n(Attivabile una volta per dungeon, dopodiché il Dono scade.)",
+      "desc": "Durante la battaglia, se un alleato riceve un colpo letale, i suoi PV non scendono sotto l'1.\nNel turno successivo, recupera tutti i PV e ottiene 3 [Operation].\nAl termine della battaglia, muore\n(Attivabile una volta per dungeon, dopodiché il Dono scade.)",
       "simpleDesc": [
         {
           "abilityID": 1016,
@@ -269,11 +269,11 @@
     {
       "id": 1040,
       "name": "Teschio Luccicante",
-      "desc": "All'inizio del turno, se l'unità ha ricevuto 10+ danni lo scorso turno, si cura di 5~15 PV.",
+      "desc": "All'inizio del turno, se l'unità ha ricevuto 10+ danni lo scorso turno, recupera 5~15 PV.",
       "simpleDesc": [
         {
           "abilityID": 1040,
-          "simpleDesc": "Cura di 5~15 PV"
+          "simpleDesc": "Recupera 5~15 PV"
         }
       ]
     },
@@ -324,11 +324,11 @@
     {
       "id": 1046,
       "name": "Esuvia Verde",
-      "desc": "Se un alleato riceve un attacco letale, si cura del 50% dei PV Max.\n(Una volta per dungeon, scade dopo l'attivazione.)",
+      "desc": "Se un alleato riceve un attacco letale, recupera il 50% dei PV Max.\n(Una volta per dungeon, scade dopo l'attivazione.)",
       "simpleDesc": [
         {
           "abilityID": 1046,
-          "simpleDesc": "Cura il 50% dei PV Max"
+          "simpleDesc": "Recupera il 50% dei PV Max"
         }
       ]
     },
