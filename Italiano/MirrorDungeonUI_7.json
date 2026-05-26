@@ -130,15 +130,15 @@
     },
     {
       "id": "mirror_dungeon_ego_gift_sort_by_tier",
-      "content": "Tier"
+      "content": "Grado"
     },
     {
       "id": "mirror_dungeon_ego_gift_keyword_filter",
-      "content": "Filtro - Parola Chiave"
+      "content": "Parola Chiave"
     },
     {
       "id": "mirror_dungeon_ego_gift_acquire_status_filter",
-      "content": "Filtro - Acquisizione"
+      "content": "Acquisizione"
     },
     {
       "id": "mirror_dungeon_ego_gift_acquire_status_filter_content_0",

@@ -3272,7 +3272,7 @@
         {
           "level": 1,
           "name": "Passo Fantasma [殘像步]",
-          "desc": "[StartBattle] Bersaglia l'ultimo alleato schierato del Nido dei Ragni (2 volte per turno)\n- A 1+ [SojiRyoshuEntangle], bersaglia 1 alleato in più\n- A Fine Abilità di tutte le Abilità equipaggiate dal bersaglio in questo turno, o se il bersaglio è Stordito, o se il bersaglio non ha Abilità rimaste, usa \"Assasinio Dei Cieli - Tiansha\" sul bersaglio come un Attacco Unilaterale (una volta per Identità)\n - Il Nido dei Ragni: Apprendista del Mignolo Sinclair riceve priorità per ultimo\n[StartBattle] Ottiene +3 Conteggio [Breath] (una volta per turno)",
+          "desc": "[StartBattle] Bersaglia l'ultimo alleato schierato del Nido dei Ragni (2 volte per turno)\n- A 1+ [SojiRyoshuEntangle], bersaglia 1 alleato in più\n- A Fine Abilità di tutte le Abilità equipaggiate dal bersaglio in questo turno, o se il bersaglio è Stordito, o se il bersaglio non ha Abilità rimaste, usa \"Assasinio Dei Cieli - Tiansha\" sul bersaglio come un Attacco Incontrastato (una volta per Identità)\n - Il Nido dei Ragni: Apprendista del Mignolo Sinclair riceve priorità per ultimo\n[StartBattle] Ottiene +3 Conteggio [Breath] (una volta per turno)",
           "flavor": "\"Ciò che stai inseguendo non è altro che il mio fantasma\"",
           "coinlist": [
             {}
@@ -3281,7 +3281,7 @@
         {
           "level": 4,
           "name": "Passo Fantasma [殘像步]",
-          "desc": "[StartBattle] Bersaglia l'ultimo alleato schierato del Nido dei Ragni (2 volte per turno)\n- A 1+ [SojiRyoshuEntangle], bersaglia 1 alleato in più\n- A Fine Abilità di tutte le Abilità equipaggiate dal bersaglio in questo turno, o se il bersaglio è Stordito, o se il bersaglio non ha Abilità rimaste, usa \"Assasinio Dei Cieli - Tiansha\" sul bersaglio come un Attacco Unilaterale (una volta per Identità)\n - Il Nido dei Ragni: Apprendista del Mignolo Sinclair riceve priorità per ultimo\n[StartBattle] Ottiene +3 Conteggio [Breath] (una volta per turno)\n<style=\"highlight\">[OnSucceedEvade] Ottiene 1 [Breath] (3 volte per turno)</style>",
+          "desc": "[StartBattle] Bersaglia l'ultimo alleato schierato del Nido dei Ragni (2 volte per turno)\n- A 1+ [SojiRyoshuEntangle], bersaglia 1 alleato in più\n- A Fine Abilità di tutte le Abilità equipaggiate dal bersaglio in questo turno, o se il bersaglio è Stordito, o se il bersaglio non ha Abilità rimaste, usa \"Assasinio Dei Cieli - Tiansha\" sul bersaglio come un Attacco Incontrastato (una volta per Identità)\n - Il Nido dei Ragni: Apprendista del Mignolo Sinclair riceve priorità per ultimo\n[StartBattle] Ottiene +3 Conteggio [Breath] (una volta per turno)\n<style=\"highlight\">[OnSucceedEvade] Ottiene 1 [Breath] (3 volte per turno)</style>",
           "flavor": "\"Ciò che stai inseguendo non è altro che il mio fantasma\"",
           "coinlist": [
             {}
