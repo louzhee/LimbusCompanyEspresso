@@ -221,7 +221,7 @@
       "desc": "When this unit enters the Encounter, gain 30 [FutureEyeOn]\nAt 0 [FutureEyeOn] Stack, convert [FutureEyeOn] to [FutureEyeOff]",
       "summary": "",
       "undefined": "-",
-      "flavor": "This Relic, known as the Eye of Odin, is but a third of a whole Relic that was broken into three parts."
+      "flavor": "Quella Reliquia, l'Occhio di Odino, è soltanto un pezzo della Reliquia ormai divisa in tre parti."
     },
     {
       "id": 131402,
@@ -229,7 +229,7 @@
       "desc": "In a Clash, <color=#ff6000><mark=#ff000040><b><u>gain 1 [LookingFuture] with every Clash</u></b></mark></color>\nCan gain up to ([FutureEyeOn] Stack at Turn Start / 3) [LookingFuture] per turn\nWhile this unit has [FutureEyeOn], <color=#ff6000><mark=#ff000040><b><u>getting attacked by Unopposed Attacks or losing a Clash activates the \"Precognition\" Skill</u></b></mark></color>",
       "summary": "",
       "undefined": "-",
-      "flavor": "\"The more we clash, the hotter my sword will become... and accelerate to bring us to the future I foresaw.\""
+      "flavor": "\"Più a lungo ci scontriamo, più calda diventa la mia lama... e più in fretta arriviamo al futuro previsto.\""
     },
     {
       "id": 131408,
@@ -237,7 +237,7 @@
       "desc": "The following causes this unit to lose [FutureEyeOn] Stack:\n- If this unit fails to gain [LookingFuture], lose 1 [FutureEyeOn] with every Clash\n- When this unit is attacked by an Unopposed Attack, lose 1 [FutureEyeOn]\n- On Clash Lose, lose 3 [FutureEyeOn]",
       "summary": "",
       "undefined": "-",
-      "flavor": "'The eye's heating up, its socket is starting to ache, and my vision is turning red.'"
+      "flavor": "'L'occhio si sta surriscaldando, la cavità inizia a bruciare, e la mia vista sta diventando sempre più rossa.'"
     },
     {
       "id": 131405,
@@ -252,7 +252,7 @@
       "desc": "Take -30% HP, SP damage from [Combustion], [Laceration], [Burst], [Sinking]; -30% to Stagger Threshold raised by [Vibration]\nAt 1+ [AccelBullet], Skills that spend [AccelBullet] deal +30% damage and deal +150% damage against Shields\nGain 4 [Breath] for every [AccelBullet] spent\nWhen flipping a Coin that spends [AccelBullet], does not cancel the attack even if this unit does not have Acceleration Round",
       "summary": "",
       "undefined": "-",
-      "flavor": "\"You were an inheritor of the Palermitan style and a wielder of our family heirloom—you had every privilege one could ever hope for. How dare you embarrass yourself like this?\"\n\"We'll let you keep the Relic and the sword, for they have been defiled by your dishonorable stench.\"\n\"To be promoted to the station of a Sottocapo, an Underboss... only to be ousted in a mere 3 days. No one else has suffered such pathetic humiliation apart from you, Valencina.\"\n\"You are the shame of our family. La Famiglia Bognatelli withdraws its love from you.\""
+      "flavor": "\"Eri l'erede del cimelio di famiglia e dello stile Palermitano—avevi tutto ciò che potessi mai desiderare. Quindi perché ti sei ridotta in questo stato?\"\n\"Lasciamo la Reliquia e la spada nelle tue mani, poiché quelle stesse mani ne hanno contaminato l'onore.\"\n\"Sei riuscita a guadagnarti il titolo di Sottocapo, sotto solo al Capo dei Capi... solo per farti cacciare in soli 3 giorni. Nessuno ha mai sofferto una tale vergogna, Valentina.\"\n\"Sei la vergogna di questa famiglia. La Famiglia Bognatelli revoca tutto il suo amore nei tuoi confronti.\""
     },
     {
       "id": 131409,
@@ -260,7 +260,7 @@
       "desc": "When hit, or when \"The Thumb Apprentice - Lucio\" is defeated, gain [ObsessionAndGreed] next turn",
       "summary": "",
       "undefined": "-",
-      "flavor": "\"*sigh* Okay. So, you're saying we can get Ticket back by going in and wrecking the place according to that fanatic's plan... Is this really going to bring Ticket back to us?\""
+      "flavor": "\"*sigh* Fammi capire. Stai dicendo che possiamo riprenderci Bigliettina se stiamo al piano del fanatico e facciamo un casino in quel posto... Siamo sicuri che ci riporterà Bigliettina?\""
     },
     {
       "id": 131406,
@@ -275,7 +275,7 @@
       "desc": "Turn Start: If this unit is Staggered, recover from Stagger\n\nSelect a random Sinner and inflict [TeachersPrey]\n- Activates every 4 turns after the initial activation\n- If this unit kills the target with the Skill \"Disposal,\" activate it again next turn",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Palermitan Style has much in common with the originator of the sword technique—La Famiglia Bognatelli.\nBoth the Famiglia and the sword style are renowned for relentlessly focusing on a single prey during a hunt, which is concluded with a Coup de Grâce that may as well be called a dissection. These executions are not carried out in the shadows, but instead, proudly put on display for all to behold.\nThe spectacular and formidable sword style has granted the Famiglia much honor and prestige, eventually securing them a place among the Sette Famiglie of the Backstreets.\nValencina, a master of the Palermitan Style, used it to hunt and execute many officers and so-called battle-hardened soldiers during the Smoke War, becoming a veritable \"War Hero.\"\nIronically, no one could have imagined her fall would sink as low as her fame once soared."
+      "flavor": "Lo Stile Palermitano ha molto in comune con la sua origine: La Famiglia Bognatelli.\nLa Famiglia e la sua tecnica sono note per la loro abilità nell'attaccare una preda senza sosta, concludendo la \"caccia\" con un Coup de Grâce comparabile a una sezionatura. Queste esecuzioni non vengono nascoste, ma bensì messe in mostra con orgoglio dalla Famiglia da cui origina.\nQuesto stile straordinario e formidabile ha portato grande onore alla Famiglia Bognatelli, che si assicurò un posto tra le Sette Famiglie dei Vicoli.\nValentina, esperta dello Stile Palermitano, lo usò per cacciare e sterminare molti soldati durante la Guerra del Fumo, diventando una vera e propria \"Eroina di guerra.\"\nMa nessuno poteva immaginare che sarebbe caduta alla stessa velocità della sua ascesa alla fama."
     },
     {
       "id": 134501,

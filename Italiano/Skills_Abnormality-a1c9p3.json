@@ -280,7 +280,7 @@
         {
           "level": 1,
           "name": "Liquidare",
-          "desc": "[CantChangeTarget]\nNon può essere Stordita prima di usare quest'Abilità\n<color=#ff6000><mark color=#ff000040><b><u>Potere Base +1 e +10% danni per ogni [FutureEyeOn]</color></mark></b></u>\n[WhenUse] Se il bersaglio ha 50% o meno HP, infligge +100% danni\n[WhenUse] A 0+ PS, genera 1 Mang (望)\n- Potere Base +4\n[WhenUse] Ottiene +3 Conteggio [Breath]\n[WinDuel] Ottiene 5 [Breath]\n[DefeatDuel] Infligge -50% danni finali e non infligge Colpi Critici.\nI danni inflitti da quest'Abilità non possono Stordire il bersaglio\n[EnemyKill] Infligge [TeachersPrey] su un Peccatore casuale il turno successivo\n[EndSkill] [FullReload] (una volta per turno)\n[EndSkill] Se quset'Abilità ha generato Mang, perde 10 PS",
+          "desc": "[CantChangeTarget]\nNon può essere Stordita fino all'uso di questa Abilità\n<color=#ff6000><mark color=#ff000040><b><u>Potere Base +1 e +10% danni per ogni [FutureEyeOn]</color></mark></b></u>\n[WhenUse] Se il bersaglio ha 50% o meno HP, infligge +100% danni\n[WhenUse] A 0+ PS, genera 1 Mang (望)\n- Potere Base +4\n[WhenUse] Ottiene +3 Conteggio [Breath]\n[WinDuel] Ottiene 5 [Breath]\n[DefeatDuel] Infligge -50% danni finali e non infligge Colpi Critici.\nI danni inflitti da quest'Abilità non possono Stordire il bersaglio\n[EnemyKill] Infligge [TeachersPrey] su un Peccatore casuale il turno successivo\n[EndSkill] [FullReload] (una volta per turno)\n[EndSkill] Se quset'Abilità ha generato Mang, perde 10 PS",
           "coinlist": [
             {
               "coindescs": [
@@ -496,7 +496,7 @@
         {
           "level": 1,
           "name": "Melodia Di Tibia: Dissezione del Non Dissezionato Dal Dissezionato",
-          "desc": "Per il turno in cui quest'Abilità è stata equipaggiata, questa unità ottiene 1 [PlusCoinValueDown] e 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>quando viene colpita da un'Abilità Attacco</u></b></mark></color> (una volta per Abilità; max 3 volte per turno)\nNon può essere Stordito prima di usare quest'Abilità\nSe Uccide, recupera 15 PS per ogni bersaglio ucciso\n[StartBattle] Ottiene 4 [Protection]\n[WhenUse] Infligge +3% danni per ogni 6 ([Laceration] sul bersaglio principale + [Laceration] sui bersagli secondari) (max 30%)\n[DefeatDuel] Infligge -60% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio\n[EndSkill] [MineTheRings] scade",
+          "desc": "Per il turno in cui quest'Abilità è stata equipaggiata, questa unità ottiene 1 [PlusCoinValueDown] e 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>quando viene colpita da un'Abilità Attacco</u></b></mark></color> (una volta per Abilità; max 3 volte per turno)\nNon può essere Stordito fino all'uso di questa Abilità\nSe Uccide, recupera 15 PS per ogni bersaglio ucciso\n[StartBattle] Ottiene 4 [Protection]\n[WhenUse] Infligge +3% danni per ogni 6 ([Laceration] sul bersaglio principale + [Laceration] sui bersagli secondari) (max 30%)\n[DefeatDuel] Infligge -60% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio\n[EndSkill] [MineTheRings] scade",
           "coinlist": [
             {
               "coindescs": [
@@ -598,7 +598,7 @@
         {
           "level": 1,
           "name": "Per Cortesia. Il Vandalismo è Proibito.",
-          "desc": "[DuelCounter]\n[SupportProtect] Abilità esclusiva\nNon può essere Stordito prima di usare quest'Abilità\n[WhenUse] Ottiene 1 [Protection]\n[WhenUse] Se il bersaglio ha ha 6+ [Laceration], Potere Moneta +1",
+          "desc": "[DuelCounter]\n[SupportProtect] Abilità esclusiva\nNon può essere Stordito fino all'uso di questa Abilità\n[WhenUse] Ottiene 1 [Protection]\n[WhenUse] Se il bersaglio ha ha 6+ [Laceration], Potere Moneta +1",
           "coinlist": [
             {
               "coindescs": [
@@ -652,7 +652,7 @@
         {
           "level": 1,
           "name": "Macellare - Costole",
-          "desc": "[WhenUse] If target has 6+ [Laceration], Potere Moneta +1",
+          "desc": "[WhenUse] Se il bersaglio ha 6+ [Laceration], Potere Moneta +1",
           "coinlist": [
             {
               "coindescs": [
@@ -664,10 +664,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Infligge 1 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Vulnerable] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ottiene 1 [Protection] next turn"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [Protection] il turno successivo"
                 }
               ]
             }
@@ -867,7 +867,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ehi, Tu. il vandalismo È Proibito.",
+          "name": "Ehi, Tu. Il vandalismo È Proibito.",
           "desc": "[DuelCounter]\n[SupportProtect] exclusive Skill\nCannot be Staggered before using this Skill\n[WhenUse] Ottiene 1 [Protection]\n[WhenUse] If target has 6+ [Laceration], Potere Moneta +1",
           "coinlist": [
             {
@@ -2489,7 +2489,7 @@
         {
           "level": 1,
           "name": "Melodia Di Tibia: Dissezione del Non Dissezionato Dal Dissezionato",
-          "desc": "Per il turno in cui quest'Abilità è stata equipaggiata, questa unità ottiene 1 [PlusCoinValueDown] e 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>quando viene colpita da un'Abilità Attacco</u></b></mark></color> (una volta per Abilità; max 3 volte per turno)\nNon può essere Stordito prima di usare quest'Abilità\nSe Uccide, recupera 15 PS per ogni bersaglio ucciso\n[StartBattle] Ottiene 4 [Protection]\n[WhenUse] Infligge +3% danni per ogni 6 ([Laceration] sul bersaglio principale + [Laceration] sui bersagli secondari) (max 30%)\n[DefeatDuel] Infligge -60% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio\n[EndSkill] [MineTheRings] scade",
+          "desc": "Per il turno in cui quest'Abilità è stata equipaggiata, questa unità ottiene 1 [PlusCoinValueDown] e 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>quando viene colpita da un'Abilità Attacco</u></b></mark></color> (una volta per Abilità; max 3 volte per turno)\nNon può essere Stordito fino all'uso di questa Abilità\nSe Uccide, recupera 15 PS per ogni bersaglio ucciso\n[StartBattle] Ottiene 4 [Protection]\n[WhenUse] Infligge +3% danni per ogni 6 ([Laceration] sul bersaglio principale + [Laceration] sui bersagli secondari) (max 30%)\n[DefeatDuel] Infligge -60% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio\n[EndSkill] [MineTheRings] scade",
           "coinlist": [
             {
               "coindescs": [
@@ -3897,7 +3897,7 @@
         {
           "level": 1,
           "name": "Ricordi Questa Mossa, Tesoro? Solo Tu Puoi Affrontare Questo Scontro.",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>Only Ryōshū can Clash against this Skill</u></b></mark></color>\n- Ryōshū can Clash with this Skill regardless of Speed\nOn Unopposed Attack, Potere Moneta +2 and deal +50% damage\n\n[DefeatDuel]\n- Potere Moneta -2 and deal -50% damage\n- Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n\n[EndBattle] <color=#ff6000><mark=#ff000040><b><u>If this unit lost the Clash, ottiene 1 [BurningWoundRien]</u></b></mark></color>\n- If all 3 Skills with [BlackNightmare]-related unique effects lost the Clash this turn, ottiene 2 [BurningWoundRien] instead",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Solo Ryōshū può Scontrare questa Abilità</u></b></mark></color>\n- Ryōshū può Scontrare questa Abilità a prescindere dalla Velocità\nOn Unopposed Attack, Potere Moneta +2 and deal +50% damage\n\n[DefeatDuel]\n- Potere Moneta -2 and deal -50% damage\n- Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n\n[EndBattle] <color=#ff6000><mark=#ff000040><b><u>If this unit lost the Clash, ottiene 1 [BurningWoundRien]</u></b></mark></color>\n- If all 3 Skills with [BlackNightmare]-related unique effects lost the Clash this turn, ottiene 2 [BurningWoundRien] instead",
           "coinlist": [
             {
               "coindescs": [
