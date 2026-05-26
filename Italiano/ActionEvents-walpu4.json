@@ -123,17 +123,17 @@
         {
             "id": 971036,
             "name": "Miracle in District 20 Hard Event 1",
-            "desc": "The factory is brightly lit with red and green light fixtures.\n\nAmidst the chaotic din of machines and clanking tools...\n\n... are tiny gnomes, scurrying about busily between the assembly lines.\n\n'Let's g-ome! Hurry up-ome!!'\n\n'Put 'em on the conveyor belt-ome!!'\n\n'Let's get packin'-ome!!'",
+            "desc": "La fabbrica è illuminata dalle verdi e rosse luci.\n\nNel mezzo di tutto quel baccano di macchinari e metallici arnesi...\n\n... vi stanno dei minuscoli gnomi, andando qua e là indaffarati tra una catena di montaggio e un'altra.\n\n'Eddai-omo! Sbrighiamoci-omo!!'\n\n'Buttateli sul nastro di trasporto-omo!!'\n\n'Impacchettiamoli-omo!!'",
             "options": [
                 {
-                    "message": "Approach.",
-                    "messageDesc": "Run a Sloth & Gluttony Advantage check to gain a Keywordless E.G.O Gift.",
+                    "message": "Avvicinatevi.",
+                    "messageDesc": "Esegui una Prova con Vantaggio per Accidia e Gole per ottenere un Dono E.G.O Senza Tratti.",
                     "result": [
-                        "All kinds of fascinating gifts are piled up here.\n\nMaybe we can rummage through it to find something that might be of help to us."
+                        "Ci sono diversi tipi di regali favolosi su questa pila.\n\nForse possiamo frugare e trovare qualcosa che possa tornarci utile."
                     ]
                 },
                 {
-                    "message": "Walk past it.",
+                    "message": "Passate altrove.",
                     "messageDesc": "",
                     "result": [
                         ""
@@ -144,17 +144,17 @@
         {
             "id": 971037,
             "name": "Miracle in District 20 Hard Event 2",
-            "desc": "An old, creaky bed sits solemnly in the middle of the room.\n\nIt is surrounded by numerous lanterns and candlesticks.\n\nSome are burnt out, their remains ashen and cold, leaving only dark singes as testament of their old flames...\n\nBut the others were still lit, their warm flames diligently traveling down the wicks.\n\nYet, the chillingly dark shadows lurking at the bed's legs, next to the sheets half-sliding off the bed, are shrouded still.\n\nAn odd tremor vibrates the floor.\n\nAnd soon, I hear a sound of something dragging across the floor accompanied by a sensation of a cold, clammy gaze peering intently in my direction...\n\nWhat could possibly lie beneath that bed?",
+            "desc": "Un vecchio e scricchiolante letto risiede solennemente nel mezzo della stanza.\n\nÈ circondato da diverse lanterne e candelieri.\n\nAlcune sono spente, ormai fredde e incenerite, lasciando solamente della fuliggine come testimonianza delle loro vecchie fiamme...\n\nMa altre sono tuttora accese, le loro calde fiamme percorrono diligentemente il proprio lucignolo.\n\nEppure, le scure e agghiaccianti ombre nascoste dietro le gambe del letto, vicine alle coperte in procinto di cadere dal letto, sono ancora in agguato.\n\nUna strana scossa fa tremare il suolo.\n\nPoco dopo, inizio a sentire il suono di qualcosa che viene trascinato per terra insieme ad una sensazione di un gelido sguardo appiccicoso intento a scrutare nella mia direzione...\n\nCosa mai può celarsi sotto quel letto?",
             "options": [
                 {
-                    "message": "Approach the bed.",
-                    "messageDesc": "Run a Sloth & Gluttony Advantage check to gain a Tremor E.G.O Gift.",
+                    "message": "Avvicinati al letto.",
+                    "messageDesc": "Prova con Vantaggio per Accidia e Gola.\nPassa per ottenere un Dono E.G.O Vibrazione.",
                     "result": [
                         ""
                     ]
                 },
                 {
-                    "message": "Do not approach the bed.",
+                    "message": "Non avvicinarti al letto.",
                     "messageDesc": "",
                     "result": [
                         ""

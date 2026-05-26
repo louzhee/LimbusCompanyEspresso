@@ -70,13 +70,13 @@
       "title": "",
       "prevDesc": "",
       "eventDesc": "",
-      "behaveDesc": "Who will retrieve the gifts?",
+      "behaveDesc": "Chi ritirerà i regali?",
       "successDesc": [
-        "{0} approached the gnomes who were busily packing away at the gifts.\n\nThey stared at {0} with blank expressions for a moment, before raising their tools sky-high in unison.\n\n'Human-ome!!'\n\n'We were runnin' pretty low on human supply-ome! How timely-ome!!'\n\n'Let's take 'em-ome!'\n\nThe gnomes surrounded {0} and quickly began packing the Sinner into a gift box before we had the chance to do anything.\n\nWe quickly grabbed the box {0} was presently getting stuffed into and escaped the scene.\n\n{0} seems pretty shaken up, which seems like a reasonable response given that they were almost turned into a gift.",
-        "{0} approached the gnomes who were busily packing away at the gifts.\n\nThey stared at {0} with blank expressions for a moment, before raising their tools sky-high in unison.\n\n'Human-ome!!'\n\n'We were runnin' pretty low on human supply-ome! How timely-ome!!'\n\n'Let's take 'em-ome!'\n\nThe gnomes surrounded {0} and quickly began packing the Sinner into a gift box before we had the chance to do anything.\n\nWe quickly grabbed the box {0} was presently getting stuffed into and escaped the scene.\n\n{0} seems pretty shaken up, which seems like a reasonable response given that they were almost turned into a gift."
+        "{0} si avvicina agli gnomi che erano impegnati a riporre i regali.\n\nFissano {0} con espressione assente per un attimo, prima di alzare al cielo i loro strumenti all'unisono.\n\n'Umano-omo!!'\n\n'Stavamo già per finire le nostre scorte di umani-omo! Che tempismo-omo!!'\n\n'Andiamo-omo!'\n\nGli gnomi circondano e velocemente incartano {0} in un pacco regalo prima che potessimo fare qualcosa.\n\nAbbiamo preso di corsa il pacco che conteneva {0} e siamo scappati da lì il prima possibile.\n\nL'esperienza ha scosso {0}, il che era alquanto una reazione normale per quanto poco mancava per diventare un regalo.",
+        "{0} si avvicina agli gnomi che erano impegnati a riporre i regali.\n\nFissano {0} con espressione assente per un attimo, prima di alzare al cielo i loro strumenti all'unisono.\n\n'Umano-omo!!'\n\n'Stavamo già per finire le nostre scorte di umani-omo! Che tempismo-omo!!'\n\n'Andiamo-omo!'\n\nGli gnomi circondano e velocemente incartano {0} in un pacco regalo prima che potessimo fare qualcosa.\n\nAbbiamo preso di corsa il pacco che conteneva {0} e siamo scappati da lì il prima possibile.\n\nL'esperienza ha scosso {0}, il che era alquanto una reazione normale per quanto poco mancava per diventare un regalo."
       ],
       "failureDesc": [
-        "{0} approached the gnomes who were busily packing away at the gifts.\n\nThey stared at {0} with blank expressions for a moment, before raising their tools sky-high in unison.\n\n'Human-ome!!'\n\n'We were runnin' pretty low on human supply-ome! How timely-ome!!'\n\n'Let's take 'em-ome!'\n\nThe gnomes surrounded {0} and quickly began packing the Sinner into a gift box before we had the chance to do anything.\n\nWe immediately rushed toward the gnomes, trying to rescue {0}, but...\n\n{0} was already turned into a gift..."
+        "{0} si avvicina agli gnomi che erano impegnati a riporre i regali.\n\nFissano {0} con espressione assente per un attimo, prima di alzare al cielo i lo strumenti all'unisono.\n\n'Umano-omo!!'\n\n'Stavamo già per finire le nostre scorte di umani-omo! Che tempismo-omo!!'\n\n'Andiamo-omo!'\n\nGli gnomi circondano e velocemente incartano {0} in un pacco regalo prima che potessimo fare qualcosa.\n\nSiamo corsi subito verso gli gnomi, cercando di salvare {0}, ma...\n\nOrmai avevano finito di \"impacchettare\" per bene {0}..."
       ]
     },
     {
@@ -84,13 +84,13 @@
       "title": "",
       "prevDesc": "",
       "eventDesc": "",
-      "behaveDesc": "Who will approach?",
+      "behaveDesc": "Chi si avvicinerà?",
       "successDesc": [
-        "The wooden floorboards creak with {0}'s every step.\n\nLights surrounding the bed dance ominously, as though to warn us to not approach it.\n\n{0} carefully leans down to take a look under the bed.\n\nThere's a snuffed lantern and a candlestick, both toppled over.\n\nOur worst fears are nowhere to be seen.\n\nNothing lives under the bed.",
-        "The wooden floorboards creak with {0}'s every step.\n\nLights surrounding the bed dance ominously, as though to warn us to not approach it.\n\n{0} carefully leans down to take a look under the bed.\n\nThere's a snuffed lantern and a candlestick, both toppled over.\n\nOur worst fears are nowhere to be seen.\n\nNothing lives under the bed."
+        "Al passaggio di {0}, gli assi in legno del pavimento scricchiolano ad ogni suo passo.\n\nLe luci attorno al letto danzano in un modo sinistro, come se stiano avvertendo di non avvicinarsi ad esso.\n\n{0} si china attentamente per guardare sotto il letto.\n\nVi sono una candela e una lanterna spenta, entrambi rovesciati.\n\nLe nostre peggiori paure erano completamente assenti.\n\nNiente vive sotto il letto.",
+        "Al passaggio di {0}, gli assi in legno del pavimento scricchiolano ad ogni suo passo.\n\nLe luci attorno al letto danzano in un modo sinistro, come se stiano avvertendo di non avvicinarsi ad esso.\n\n{0} si china attentamente per guardare sotto il letto.\n\nVi sono una candela e una lanterna spenta, entrambi rovesciati.\n\nLe nostre peggiori paure erano completamente assenti.\n\nNiente vive sotto il letto"
       ],
       "failureDesc": [
-        "The wooden floorboards creak with {0}'s every step.\n\nLights surrounding the bed dance ominously, as though to warn us to not approach it.\n\n{0} carefully leans down to take a look under the bed.\n\nThe darkness there, which we were convinced by our curiosity to peer into, is a suffocating quiet.\n\n{0} sits there, complefely frozen in their hunched posture, before slowly stepping away from the bed.\n\nSomething scratches the floorboards. As if on cue, we immediately turn around and scramble out of that room.\n\nA monster lives under the bed."
+        "Al passaggio di {0}, gli assi in legno del pavimento scricchiolano ad ogni suo passo.\n\nLe luci attorno al letto danzano in un modo sinistro, come se stiano avvertendo di non avvicinarsi ad esso.\n\n{0} si china attentamente per guardare sotto il letto.\n\nQuell'oscurità, di cui siamo stati persuasi nel darle uno sguardo dalla curiosità, è un silenzio assordante.\n\n{0} rimane lì, completamente immobile in quella gobba postura, poco prima di allontanarsi lentamente dal letto.\n\nQualcosa graffia gli assi. Come a un segnale, immediatamente siamo scappati via da quella stanza.\n\nUn mostro vive sotto il letto."
       ]
     }
   ]
