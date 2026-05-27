@@ -3394,7 +3394,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Lacera lo Spazio - Echeggiante [空間斬 - 緣]",
+          "name": "Lacera lo Spazio - Legame [空間斬 - 緣]",
           "desc": "[CantDuel]\nQuesta Abilità non non attiva le Abilità Difensive del bersaglio\n[WhenUse] Ottiene 5 [Breath]\n[WhenUse] Ottiene [SojiRyoshuShin]\n[EndSkill] Rimuove la prima soglia di Stordimento di questa unità (una volta per Incontro)",
           "flavor": "\"Imbalsamato e immobile giace il nemico nello squarcio che la lama ha aperto nello spazio\"\n\"Tale maestria con la lama è sovente di sì assoluta acutezza, che le sue vittime non sanno d'esser state recise; O, quand'anche ne avessero in modo contezza, restano inchiodate da una traccia di lama che ghermisce lo spazio che abitano, solo per sanguinare una volta trascorso l'istante\"\n\"Eppure... la differenza risiede nel modo in cui taglia\"\n\"La lama ha invero tracciato un unico solco, ma nel rinfoderarla colui che la impugna ha evocato nella propria mente la moltitudine di fendenti che hanno seguito la medesima traiettoria—una tecnica di somma precisione\"\n\"Uhm. Mi sono sovente imbattuto in tecniche simili nei giorni successivi all' incidente; tecniche che paiono contraddire la natura stessa della causalità\"",
           "coinlist": [
