@@ -2,96 +2,96 @@
   "dataList": [
     {
       "id": 133303,
-      "name": "Iron Maiden - Defibrillation",
-      "desc": "When Staggered, recover from Stagger and end this turn (once per Encounter)"
+      "name": "Vergine Di Ferro - Defibrillazione",
+      "desc": "Se è Stordita, si riprende dallo Stordimento e termina il turno (una volta per Incontro)"
     },
     {
       "id": 133101,
-      "name": "All of My Corpus has been Given to Tibia",
-      "desc": "Take -30% HP, SP damage from [Combustion], [Burst], and [Sinking]; -30% to Stagger Threshold raised by [Vibration]\nTake -50% damage from [Laceration]\n\nTurn Start: If this unit is Staggered, recover from Stagger. Afterward, gain 2 [CrimsonTakeDamageUp] and becomes unable to use 'Installation Art no. 3: Improvised Ribcage' until next turn (once per Encounter)\n\nTurn End: Gain 1 [DefenseDown] next turn for every 4 [Combustion] on self (max 15)"
+      "name": "Tutto Il Mio Corpus È Stato Donato A Tibia",
+      "desc": "Subisce -30% danno ai PV e ai PS da [Combustion], [Burst], e [Sinking]; La Soglia di Stordimento viene alzata del 30% in meno dagli effetti di [Vibration]\nSubisce -50% danni da [Laceration]\n\nA inizio turno, se è Stordito, si riprende dallo Stordimento. Poi, ottiene 2 [CrimsonTakeDamageUp] e non può usare 'Installation Art no. 3: Improvised Ribcage' fino al turno successivo (una volta per Incontro)\n\nA fine turno, ottiene 1 [DefenseDown] il turno successivo per ogni 4 [Combustion] su di sé (max 15)"
     },
     {
       "id": 133102,
-      "name": "Corpus-centric Art",
-      "desc": "When this unit enters the Encounter, heal 30 SP\n\nOn Hit with Attack Skill: If this unit inflicts negative effect and gains beneficial effect simultaneously, heal 4 SP at Attack End\n- If this unit is at max SP when healing SP with the above effect, gain 1 [ResultEnhancement] next turn (once per turn)",
-      "flavor": "A form of art that sculpts and exhibits artworks using bones and muscles as the material. Each act of creation incorporates even the tiniest of bone shards into the artist's intricately-crafted weapon."
+      "name": "Arte Centrata Sul Corpus",
+      "desc": "Quando entra nell'Incontro, recupera 30 SP\n\nSul Colpo, se ha ottenuto effetti positivi mentre infliggeva effetti negativi, recupera 4 PS a fine attacco\n- Se ha già il massimo dei PS, ottiene invece 1 [ResultEnhancement] il turno successivo (max 1 per turno)",
+      "flavor": "Un movimento artistico che esibisce opere e sculture usando ossa e muscoli come materiale. Ogni creazione incorpora tutti i tipi di ossa nell'arma intricata dell'artista."
     },
     {
       "id": 133103,
-      "name": "The Aesthetics of Harvesting and Trimming the Ingredient On-site",
-      "desc": "After using a Skill, gain 30 [HumanBoneTheRings] and 1 [HumanBloodTheRings] for every target damaged by this unit's Skill"
+      "name": "L'Estetica Della Raccolta E Della Lavorazione Degli Ingredienti Sul Campo",
+      "desc": "Dopo aver usato un'Abilità, ottiene 30 [HumanBoneTheRings] e 1 [HumanBloodTheRings] per ogni bersaglio colpito"
     },
     {
       "id": 133104,
       "name": "Magnum Opus: Tibia",
-      "desc": "Turn End: At 206 [HumanBoneTheRings] and 5 [HumanBloodTheRings], reduce the Stack of each effect equal to those numbers respectively and gain 1 [MineTheRings]\n\nTurn Start: If this unit has [MineTheRings], use a powerful attack this turn\n\n<color=#ff6000><mark=#ff000040><b><u>When hit by an Attack Skill before using the powerful attack, gain 1 [PlusCoinValueDown] and 1 [ResultReduction]</u></b></mark></color> (once per Skill; max 3 times per turn)",
-      "flavor": "Tibia, the work of the artist's life, completed by breaking his own corpus and pouring his blood to the last drop—in the most literal sense."
+      "desc": "A Fine Turno, se ha 206 [HumanBoneTheRings] e 5 [HumanBloodTheRings], riduce lo stack di entrambi di rispettivamente 206 e 5 e ottiene 1 [MineTheRings]\n\nA Inizio Turno, Se questa Unità ha [MineTheRings], usa un attacco potente\n\n<color=#ff6000><mark=#ff000040><b><u>Quando viene colpito prima di usare questo attacco, ottiene 1 [PlusCoinValueDown] e 1 [ResultReduction]</u></b></mark></color> (una volta per Abilità; max 3 volte per turno)",
+      "flavor": "Tibia, il lavoro della vita dell'artista, completata dissezionando il suo corpus e versandoci il suo sangue fino all'ultima goccia... letteralmente."
     },
     {
       "id": 133105,
-      "name": "Artwork Pleasing to the Senses",
-      "desc": "When [MineTheRings] expires, the following units heal 30 SP and gain 2 [AttackUp] and 2 [DefenseUp] next turn:\n- The Ring Nursefather - Callisto\n- The Ring Apprentice - Albina\n- Corpus Theater[TabExplain]"
+      "name": "Un'Opera Piacevole Per I Sensi",
+      "desc": "Quando [MineTheRings] scade, le seguenti Unità recuperano 30 PS e ottengono 2 [AttackUp] e 2 [DefenseUp] nel turno successivo:\n- Il Precettore Dell'Anulare - Callisto\n- L'Apprendista Dell'Anulare - Albina\n- Teatro Del Corpus[TabExplain]"
     },
     {
       "id": 133106,
-      "name": "Allow Me to Briefly Enjoy My Pupil's Exhibition",
-      "desc": "If this unit has [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>lose 1 [SupportProtect] on Clash Start</u></b></mark></color> (once per Skill)"
+      "name": "Permettetemi di Godermi L'Esibizione Della Mia Allieva",
+      "desc": "Se questa Unità ha [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>perde 1 [SupportProtect] a Inizio Scontro</u></b></mark></color> (una volta per Abilità)"
     },
     {
       "id": 133107,
-      "name": "Transcend the Corpus",
-      "desc": "At less than 50% HP, recover from Stagger and end this turn\n- Following the activation of this effect, equip 'Closing Time - Installation Art no. 1: Your Flesh and Bones as the Gallery's Seats' on this unit's last Skill Slot at the start of the next turn"
+      "name": "Trascendi il Corpus",
+      "desc": "A meno di 50% PV, si riprende dallo Stordimento e termina il turno\n- Nel turno successivo, usa 'Chiusura - Installazione D'Arte n.1: La tua Carne E Le Tue Ossa Come Sedie Per La Mia Mostra' nell'ultimo Slot Abilità"
     },
     {
       "id": 133109,
-      "name": "Please, Do Stop Running and Be Seated",
-      "desc": "Turn End: Inflict [RedemptionTheRings] next turn to the Sinner and Assist Unit with the fastest Speed"
+      "name": "Prego, Smetti di Correre e Prendi Posto",
+      "desc": "Infligge [RedemptionTheRings] al Peccatore e all'Unità di Supporto con la Velocità più alta"
     },
     {
       "id": 133201,
-      "name": "Bondage",
-      "desc": "Apply the following effects to the unit tethered to Corpus Theater:\n- Become 'immobilized'\n- This unit's buffs, HP, and SP cannot be changed"
+      "name": "Legamento",
+      "desc": "Applica i seguenti effetti al <noparse>Teatro del Corpus</noparse>:\n- Diventa 'immobile'\n- I buff, i PV, e i PS di questa Unità non possono essere cambiati"
     },
     {
       "id": 133202,
-      "name": "Ingredient Harvest",
-      "desc": "If Corpus Theater is destroyed by the Ring Nursefather, the tethered unit becomes unavailable for the Encounter"
+      "name": "Raccolta di Ingredienti",
+      "desc": "Se il Teatro Del Corpus Corpus è distrutto dal Precettore dell'Anulare, l'Unità legata è di nuovo disponibile per l'Incontro"
     },
     {
       "id": 133203,
-      "name": "Escape from the Art",
-      "desc": "If Corpus Theater is destroyed by units other than the Ring Nursefather, activate the following effects:\n- The tethered unit returns to battle next turn; if the unit is at less than 10 SP, heal SP to 10\n- The Ring Nursefather and The Ring Apprentice lose 10 SP\n- Gain 2 E.G.O Resource for all Affinities"
+      "name": "Fuga Dall'Arte",
+      "desc": "Se il Teatro Del Corpus è stata distrutta da un'Unità diversa dal Precettore Dell'Anulare, attiva i seguenti effetti:\n- L'Unità legata torna disponibile per l'Incontro dal turno successivo; se quest'Unità ha meno di 10 PS, riporta i PS a 10\n- Il Precettore e L'Apprendista dell'Anulare perdono 10 PS\n- Ottieni 2 Risorse E.G.O di ogni Affinità"
     },
     {
       "id": 133204,
-      "name": "Flammable Material",
-      "desc": "Take x2 damage from [Combustion]"
+      "name": "Materiale Infiammabile",
+      "desc": "Prende x2 danni da [Combustion]"
     },
     {
       "id": 133601,
-      "name": "The Pulse and Beat of Corpus-turned-Ingredient",
-      "desc": "Take -30% HP, SP damage from [Combustion], [Burst], and [Sinking]; -30% to Stagger Threshold raised by [Vibration]\nTake -50% damage from [Laceration]\n\nTurn End: Gain 1 [DefenseDown] next turn for every 4 [Combustion] on self (max 15)",
-      "flavor": "Fascia is made of Albina's flesh and blood.\nNow, Albina has only the brain, while Fascia lacks only the brain.\nFood for thought: Which of them possesses the true corpus?"
+      "name": "I Battiti Degli Ingredienti-Divenuti-Corpus",
+      "desc": "Subisce -30% danno ai PV e ai PS da [Combustion], [Burst], e [Sinking]; La Soglia di Stordimento viene alzata del 30% in meno dagli effetti di [Vibration]\nSubisce -50% danni da [Laceration]\n\nA fine turno, ottiene 1 [DefenseDown] il turno successivo per ogni 4 [Combustion] su di sé (max 15)",
+      "flavor": "Fascia è l'opera di Albina, fatta con carne e sangue.\nOra, Albina ha solo il cervello, mentre a Fascia manca solo quello.\nSapendo questo, chi delle due possiede davvero un corpus?"
     },
     {
       "id": 133602,
-      "name": "Corporism",
-      "desc": "On Hit with Attack Skills: If this unit inflicts negative effect and gains beneficial effect simultaneously, heal 4 SP\n- If this unit is at max SP when healing SP with the above effect, gain 1 [Agility] next turn (2 times per turn)"
+      "name": "Corporismo",
+      "desc": "Sul Colpo, se ha ottenuto effetti positivi mentre infliggeva effetti negativi, recupera 4 PS\n- Se ha già il massimo dei PS, ottiene invece 1 [ResultEnhancement] il turno successivo (max 2 per turno)"
     },
     {
       "id": 133603,
-      "name": "Fascia, My Precious Artwork",
-      "desc": "Turn End: At 2 [HumanFleshTheRings], remove [HumanFleshTheRings] and gain [BoneBladeTheRings] next turn\n\nTurn Start: If this unit has [BoneBladeTheRings], use a powerful attack this turn\n\n<color=#ff6000><mark=#ff000040><b><u>When hit by an Attack Skill before using the powerful attack, gain 1 [PlusCoinValueDown] and 1 [ResultReduction]</u></b></mark></color> (once per Skill; max 3 times per turn)"
+      "name": "Fascia, Mia Opera Adorata",
+      "desc": "A fine turno, se ha 2 [HumanFleshTheRings], perde [HumanFleshTheRings] e ottiene [BoneBladeTheRings] il turno successivo\n\nA inizio turno, se ha [BoneBladeTheRings], usa un attacco potente\n\n<color=#ff6000><mark=#ff000040><b><u>Quando viene colpito prima di usare questo attacco, ottiene 1 [PlusCoinValueDown] e 1 [ResultReduction]</u></b></mark></color> (una volta per Abilità; max 3 volte per turno)"
     },
     {
       "id": 133604,
-      "name": "Visitors Must Respect the Rules of the Gallery",
-      "desc": "If this unit has [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>lose 1 [SupportProtect] on Clash Start</u></b></mark></color> (once per Skill)"
+      "name": "I Visitatori Devono Rispettare Le Regole Della Galleria",
+      "desc": "Se questa Unità ha [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>perde 1 [SupportProtect] a Inizio Scontro</u></b></mark></color> (una volta per Abilità)"
     },
     {
       "id": 133606,
-      "name": "With this Artwork, I will Prove Myself before the Maestro",
-      "desc": "At less than 20 SP when the Ring Nursefather enters the Encounter, heal SP to 20"
+      "name": "Con Questa Opera, Dimostrerò Le Mie Capacità Al Maestro",
+      "desc": "All'arrivo del Precettore dell'Anulare, se ha meno di 20 PS, porta i PS a 20"
     },
     {
       "id": 132701,

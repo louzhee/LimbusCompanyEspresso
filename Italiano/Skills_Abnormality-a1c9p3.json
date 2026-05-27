@@ -2632,8 +2632,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Uttermost Rend Space - String Severance [空間斬 - 絕緣]",
-          "desc": "Can Clash with this Skill regardless of Speed; this unit cannot be Staggered until this Skill ends\n[WhenUse] At 20+ PS, generate 3 Mang. Potere Finale +10\n[EndSkill] If this Skill generated Mang, lose 20 PS\n[WinDuel] Ottiene 2 [SlashDamageUp]\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "name": "Massima Lacerazione Allo Spazio - Legame [空間斬 - 絕緣]",
+          "desc": "Ci si può Scontrare con quest'Abilità a prescindere dalla Velocità; Non può essere Stordita fino alla fine di quest'Abilità\n[WhenUse] A 20+ PS, genera 3 Mang. Potere Finale +10\n[EndSkill] Se questa Abilità ha generato il Mang, perde 20 PS\n[WinDuel] Ottiene 2 [SlashDamageUp]\n[DefeatDuel] Infligge -80% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio",
           "coinlist": [
             {
               "coindescs": [
@@ -2641,10 +2641,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Deal +100% Damage on Critical Hit"
+                  "desc": "+100% danni sul Colpo Critico"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Consume all [PhantomIncision] on target</u></b></mark></color> and deal ([PhantomIncision] consumed)% HP damage against each target hit, respectively"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Consuma ogni [PhantomIncision] sul bersaglio</u></b></mark></color> e infligge ([PhantomIncision] consumata)% danni ai PV di ogni rispettivo bersaglio"
                 }
               ]
             }
@@ -2657,8 +2657,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Destinated Opponent",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>Only targets with the corresponding buff</u></b></mark></color> among [SojiAbiBuffOne], [SojiAbiBuffTwo], or [SojiAbiBuffThree] can Clash with this Skill\nThis Skill does not trigger the target's Defense Skill\n\n[DefeatDuel] Ottiene 1 [Vulnerable]\n[DefeatDuel] Remove [SojiAbiBuffOne], [SojiAbiBuffTwo], [SojiAbiBuffThree] from target\n\n[OnDirectAttack] Potere Finale +10",
+          "name": "Avversaria Destinata",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Solo i nemici</u></b></mark></color> con uno tra [SojiAbiBuffOne], [SojiAbiBuffTwo], o [SojiAbiBuffThree] possono Scontrarsi con questa Abilità\nNon attiva le Abilità difensive\n\n[DefeatDuel] Ottiene 1 [Vulnerable]\n[DefeatDuel] Rimuove [SojiAbiBuffOne], [SojiAbiBuffTwo], [SojiAbiBuffThree] dal bersaglio\n\n[OnDirectAttack] Potere Finale +10",
           "coinlist": [
             {
               "coindescs": [
@@ -2676,13 +2676,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You Have Failed to Stop the Future - Scartrail Slash [殘痕斬]",
-          "desc": "Can Clash with this Skill regardless of Speed; cannot be Staggered until this Skill ends\n[StartBattle] Ottiene 1 [AttackDmgDown] per ogni enemy that has equipped Defense Skill this turn (max 5)\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "name": "Non Hai Cambiato Il Futuro - Taglio ((Scartrail)) [殘痕斬]",
+          "desc": "Ci si può Scontrare con quest'Abilità a prescindere dalla Velocità; Non può essere Stordita fino alla fine di quest'Abilità\n[StartBattle] Ottiene 1 [AttackDmgDown] per ogni nemico che ha equipaggiato le Abilità Difensive questo turno (max 5)\n[DefeatDuel] Infligge -80% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has <color=#ff6000><mark=#ff000040><b><u>[SojiAbiBuffOne], [SojiAbiBuffTwo], or [SojiAbiBuffThree],</u></b></mark></color> deal (this Coin's Potere Finale x 5) Pride damage to target"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha <color=#ff6000><mark=#ff000040><b><u>[SojiAbiBuffOne], [SojiAbiBuffTwo], o [SojiAbiBuffThree],</u></b></mark></color> infligge (Potere Finale di questa Moneta x 5) danni da Superbia sul bersaglio"
                 }
               ]
             }
@@ -2695,8 +2695,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Twinslash - Echoshear [二連 - 殘]",
-          "desc": "[DefeatDuel] Deal -80% final damage and damage dealt by this Skill cannot Stagger the target",
+          "name": "Taglio Gemello - Echeggiante [二連 - 殘]",
+          "desc": "[DefeatDuel] Infligge -80% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio",
           "coinlist": [
             {
               "coindescs": [
@@ -2704,7 +2704,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttackHead] Reuse this Coin (once per Skill)"
+                  "desc": "[CriticalOnSucceedAttackHead] Riusa questa Moneta (una volta per Skill)"
                 }
               ]
             }
@@ -2717,8 +2717,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Inevitable Termination [必然殺]",
-          "desc": "[EndSkill] Reuse this Skill if target is defeated or Staggered (3 times per turn)",
+          "name": "Fine Inevitabile [必然殺]",
+          "desc": "[EndSkill] Se il bersaglio è sconfitto, Riusa questa Abilità (3 volte per turno)",
           "coinlist": [
             {
               "coindescs": [
