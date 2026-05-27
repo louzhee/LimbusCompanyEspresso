@@ -2,463 +2,463 @@
   "dataList": [
     {
       "id": 0,
-      "content": "Clack, clack."
+      "content": "Tap, tap."
     },
     {
       "id": 1,
-      "content": "The child's footsteps alone exude a crushing sense of melancholy."
+      "content": "I passi della fanciulla trasudano un senso di opprimente malinconia."
     },
     {
       "id": 2,
-      "content": "Every step insidiously seems to convey these distracting thoughts and palpable dissatisfaction to the very hallways of the Welfare Team."
+      "content": "Ogni passo sembra trasmettere insidiosamente pensieri distruttivi e una palpabile insoddisfazione lungo i corridoi del Team di Welfare."
     },
     {
       "id": 3,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
+      "title": "Agente del Team di Welfare",
       "content": "……."
     },
     {
       "id": 4,
-      "content": "This sensation becomes even more blatant, more invasive, when she passes the once-familiar and frequented Containment Unit."
+      "content": "Questa sensazione si fa ancora più palese, più invasiva, quando passa davanti all'Unità di Contenimento un tempo familiare e frequentata."
     },
     {
       "id": 5,
-      "content": "'Why wasn't I chosen? Why didn't you choose me?' the resentful heart seems to convey."
+      "content": "'Perché non sono stata scelta? Perché non hai scelto me?', sembra comunicare il suo cuore pieno di risentimento."
     },
     {
       "id": 6,
-      "teller": "Tactless Employee",
-      "title": "Welfare Team Agent",
-      "content": "Heya, Miss Rodion. Another busy day, huh?"
+      "teller": "Impiegato senza tatto",
+      "title": "Agente del Team di Welfare",
+      "content": "Ehilà, signorina Rodion. Un'altra giornata piena, eh?"
     },
     {
       "id": 7,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
+      "title": "Agente del Team di Welfare",
       "content": "……."
     },
     {
       "id": 8,
-      "teller": "Tactless Employee",
-      "title": "Welfare Team Agent",
-      "content": "Miss Rodion?"
+      "teller": "Impiegato senza tatto",
+      "title": "Agente del Team di Welfare",
+      "content": "Signorina Rodion?"
     },
     {
       "id": 9,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "Eh? Ah! H-heya. Sorry, I was uh... thinking about something. Ha ha."
+      "title": "Agente del Team di Welfare",
+      "content": "Eh? Ah! E-ehilà. Scusa, stavo... pensando a una cosa. Ah ah."
     },
     {
       "id": 10,
-      "teller": "Tactless Employee",
-      "title": "Welfare Team Agent",
-      "content": "Are you sure you're okay? I heard you've been pulling a lot of all-nighters lately."
+      "teller": "Impiegato senza tatto",
+      "title": "Agente del Team di Welfare",
+      "content": "Sicura di stare bene? Ho sentito che ultimamente ha fatto molti straordinari notturni."
     },
     {
       "id": 11,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "I guess I really do look that tired, huh... yeah, the manager's been assigning me to so many Containment Units recently."
+      "title": "Agente del Team di Welfare",
+      "content": "Si vede così tanto che sono stanca, eh... Già, ultimamente il manager mi sta assegnando a un sacco di Unità di Contenimento diverse."
     },
     {
       "id": 12,
-      "teller": "Tactless Employee",
-      "title": "Welfare Team Agent",
-      "content": "Oh man... Maybe you should talk to Mister Chesed about this? I mean, it kinda doesn't make sense for them to be so neglectful of a <i>Welfare</i> Team employee's welfare, right?"
+      "teller": "Impiegato senza tatto",
+      "title": "Agente del Team di Welfare",
+      "content": "Caspita... Forse dovrebbe parlarne con il signor Chesed? Voglio dire, non ha molto senso trascurare così tanto il benessere di un dipendente del Team di <i>Welfare</i>, no?"
     },
     {
       "id": 13,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "Even the Sephirot have to answer to someone, you know. It's entirely up to the manager to decide which Abnormality we get to work on."
+      "title": "Agente del Team di Welfare",
+      "content": "Anche le Sephirot devono rispondere a qualcuno, sai. Spetta interamente al manager decidere con quale Anormalità dobbiamo lavorare."
     },
     {
       "id": 14,
-      "teller": "Tactless Employee",
-      "title": "Welfare Team Agent",
-      "content": "That's... true."
+      "teller": "Impiegato senza tatto",
+      "title": "Agente del Team di Welfare",
+      "content": "Questo è... vero."
     },
     {
       "id": 15,
-      "teller": "Tactless Employee",
-      "title": "Welfare Team Agent",
-      "content": "I've got the opposite problem. I kept getting assigned to the same Abnormality over and over again... and it wasn't even that interesting. Most of the time, she just doesn't say anything or just whines and moans, so I'm usually the one who has to talk."
+      "teller": "Impiegato senza tatto",
+      "title": "Agente del Team di Welfare",
+      "content": "Io ho il problema opposto. Continuo a essere assegnato sempre alla stessa Anormalità... e non è nemmeno così interessante. Per la maggior parte del tempo se ne sta in silenzio o si limita a lamentarsi e piangere, quindi di solito sono io quello che deve parlare."
     },
     {
       "id": 16,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
+      "title": "Agente del Team di Welfare",
       "content": "……."
     },
     {
       "id": 17,
-      "teller": "Tactless Employee",
-      "title": "Welfare Team Agent",
-      "content": "And whenever she did say something, it just never made any sense, you know? Saying stuff like she used to be a... a..."
+      "teller": "Impiegato senza tatto",
+      "title": "Agente del Team di Welfare",
+      "content": "E ogni volta che dice qualcosa, non ha mai alcun senso, sa? Dice cose come... che un tempo era un... un..."
     },
     {
       "id": 18,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "A Knight."
+      "title": "Agente del Team di Welfare",
+      "content": "Un Cavaliere."
     },
     {
       "id": 19,
-      "teller": "Tactless Employee",
-      "title": "Welfare Team Agent",
-      "content": "Ooh, yeah, right!"
+      "teller": "Impiegato senza tatto",
+      "title": "Agente del Team di Welfare",
+      "content": "Oh, sì, esatto!"
     },
     {
       "id": 20,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "Are you headed to... manage O-01-73 again?"
+      "title": "Agente del Team di Welfare",
+      "content": "Stai andando a... gestire di nuovo O-01-73?"
     },
     {
       "id": 21,
-      "teller": "Tactless Employee",
-      "title": "Welfare Team Agent",
-      "content": "No... ever since the Abnormality gave me... something, I don't know, the manager's not been assigning me any management tasks."
+      "teller": "Impiegato senza tatto",
+      "title": "Agente del Team di Welfare",
+      "content": "No... da quando quell'Anormalità mi ha dato... qualcosa, non saprei, il manager non mi ha più assegnato compiti di gestione."
     },
     {
       "id": 22,
-      "teller": "Tactless Employee",
-      "title": "Welfare Team Agent",
-      "content": "I'm not complaining, since I've been really tired as of late, but... I just hope I'm not getting intentionally excluded from work."
+      "teller": "Impiegato senza tatto",
+      "title": "Agente del Team di Welfare",
+      "content": "Non mi sto lamentando, visto che ultimamente sono davvero esausto, ma... spero solo di non essere stato escluso intenzionalmente dal lavoro."
     },
     {
       "id": 23,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "... Ha ha. Wanna swap schedules with me, then?"
+      "title": "Agente del Team di Welfare",
+      "content": "... Ah ah. Ti va di scambiarci i turni, allora?"
     },
     {
       "id": 24,
-      "teller": "Tactless Employee",
-      "title": "Welfare Team Agent",
-      "content": "Oh, I can't possibly. You're the team's model employee, Miss Rodion. I couldn't even dream of surviving your packed schedule. I'm just not good enough for that..."
+      "teller": "Impiegato senza tatto",
+      "title": "Agente del Team di Welfare",
+      "content": "Oh, non potrei mai. Lei è l'impiegata modello del reparto, signorina Rodion. Non potrei mai sognare di sopravvivere ai suoi ritmi serrati. Non sono all'altezza..."
     },
     {
       "id": 25,
-      "teller": "Tactless Employee",
-      "title": "Welfare Team Agent",
-      "content": "Oh, sorry. I'd love to sit here and talk, but I really gotta get going now. So..."
+      "teller": "Impiegato senza tatto",
+      "title": "Agente del Team di Welfare",
+      "content": "Oh, mi scusi. Mi piacerebbe restare a chiacchierare, ma ora devo proprio andare. Quindi..."
     },
     {
       "id": 26,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "Yeah... then go."
+      "title": "Agente del Team di Welfare",
+      "content": "Sì... vai pure."
     },
     {
       "id": 27,
-      "teller": "Tactless Employee",
-      "title": "Welfare Team Agent",
-      "content": "Good luck with your day, too!"
+      "teller": "Impiegato senza tatto",
+      "title": "Agente del Team di Welfare",
+      "content": "Buona giornata anche a lei!"
     },
     {
       "id": 28,
-      "content": "... The child stares blankly in the employee's general direction as he slowly walks away."
+      "content": "... La fanciulla fissa il vuoto nella direzione dell'impiegato mentre si allontana lentamente."
     },
     {
       "id": 29,
-      "content": "She wasn't looking at the employee."
+      "content": "Non stava guardando l'impiegato."
     },
     {
       "id": 30,
-      "content": "It's that floating thing above his head..."
+      "content": "Ma quella cosa che gli fluttua sopra la testa..."
     },
     {
       "id": 31,
-      "content": "... a sigil, a gift from an Abnormality."
+      "content": "... un sigillo, il dono di un'Anormalità."
     },
     {
       "id": 32,
-      "content": "It's the Blessing."
+      "content": "È la Benedizione."
     },
     {
       "id": 33,
-      "content": "The Blessing of a proud knight, bestowed upon those she promises to protect."
+      "content": "La Benedizione di un fiero cavaliere, concessa a coloro che promette di proteggere."
     },
     {
       "id": 34,
-      "content": "The Blessing can provide highly effective protection for the employee in battles against Abnormalities or Ordeals, but..."
+      "content": "La Benedizione può fornire una protezione estremamente efficace all'impiegato negli scontri con le Anormalità o durante le Ordalie, ma..."
     },
     {
       "id": 35,
-      "content": "... those are insignificant details for the child."
+      "content": "... questi sono dettagli insignificanti per la fanciulla."
     },
     {
       "id": 36,
-      "content": "All that matters is that she wasn't <i>chosen</i>. 'What's so better about him than her, anyway? What'd he do better than her to deserve this?' Her mind, captured by a sense of inferiority, spirals endlessly with question after question of this nature."
+      "content": "Tutto ciò che conta è che non sia stata <i>scelta</i>. 'Cos'ha lui più di lei, dopotutto? Cosa ha fatto meglio di lei per meritarselo?' La sua mente, prigioniera di un senso di inferiorità, si avvita in una spirale infinita di domande di questo tipo."
     },
     {
       "id": 37,
-      "content": "So, she glares at him like she's trying to bore a hole into him."
+      "content": "Così, lo fissa intensamente, come se volesse trafiggerlo con lo sguardo."
     },
     {
       "id": 38,
-      "content": "... This child was transferred from a different team to the Welfare Team when it first opened."
+      "content": "... Questa fanciulla era stata trasferita da un altro reparto al Team di Welfare non appena questo era stato inaugurato."
     },
     {
       "id": 39,
-      "content": "The reasoning behind the manager's decision was clear."
+      "content": "Il motivo dietro la decisione del manager era evidente."
     },
     {
       "id": 40,
-      "content": "A new WAW Risk Level Abnormality had appeared—The Knight of Despair."
+      "content": "Era apparsa una nuova Anormalità con livello di rischio WAW: Il Cavaliere della Disperazione."
     },
     {
       "id": 41,
-      "content": "To manage O-01-73, an employee of sufficient competency was needed."
+      "content": "Per gestire O-01-73, era necessario un dipendente con una competenza adeguata."
     },
     {
       "id": 42,
-      "content": "And she was indeed quite competent. It has been a while since her employment began, and the sheer fact that she was still alive was proof enough of her value."
+      "content": "E lei era in effetti estremamente competente. Era passato molto tempo dal suo arrivo, e il solo fatto che fosse ancora viva era una prova sufficiente del suo valore."
     },
     {
       "id": 43,
-      "content": "Thus, she became the first employee to manage O-01-73."
+      "content": "Così, divenne la prima dipendente a gestire O-01-73."
     },
     {
       "id": 44,
-      "content": "There were positives to this decision to pair them together; the Abnormality's E.G.O gear was quite good, and it was a rather easy Abnormality for the child to handle."
+      "content": "C'erano dei lati positivi nella decisione di abbinarle; l'equipaggiamento E.G.O dell'Anormalità era eccellente, ed era un'Anormalità piuttosto facile da gestire per la fanciulla."
     },
     {
       "id": 45,
-      "content": "However, the downside was that... the reason this child found it easy to handle this particularly reticent humanoid Abnormality O-01-73 was that she felt free to share all of her thoughts with it."
+      "content": "Tuttavia, il lato negativo era che... il motivo per cui la fanciulla trovava facile gestire questa Anormalità umanoide particolarmente reticente era che si sentiva libera di confidarle tutti i suoi pensieri."
     },
     {
       "id": 46,
-      "content": "And that led to her developing this idea that they were... kindred souls, that they were friends."
+      "content": "E questo l'aveva portata a sviluppare l'idea che fossero... anime affini, che fossero amiche."
     },
     {
       "id": 47,
-      "content": "Imagine being her, deprived of the Blessing, the very token of that friendship; imagine watching that very token being given to someone else entirely."
+      "content": "Immaginate di essere al suo posto, privati della Benedizione, il simbolo stesso di quell'amicizia; immaginate di vedere quello stesso simbolo venire donato a un perfetto sconosciuto."
     },
     {
       "id": 48,
-      "content": "Maybe she's simply spent too much time in that E.G.O gear, enough to have her senses corroded by that cold, depressing sensation."
+      "content": "Forse ha semplicemente trascorso troppo tempo con addosso quell'equipaggiamento E.G.O, abbastanza da farsi corrodere i sensi da quella gelida, deprimente sensazione."
     },
     {
       "id": 49,
-      "content": "That would've been better than whatever this was."
+      "content": "Sarebbe stato un destino più tollerabile."
     },
     {
       "id": 50,
-      "content": "Because the child would never have had to feel this sense of betrayal toward that Abnormality."
+      "content": "Perché così la fanciulla non avrebbe mai dovuto provare questo senso di tradimento verso quell'Anormalità."
     },
     {
       "id": 51,
-      "content": "... The manager's decision, however, was quite precisely made."
+      "content": "... La decisione del manager, tuttavia, era stata presa con estrema precisione."
     },
     {
       "id": 52,
-      "content": "The child, who was quite exceptional, did not need the Blessing. It was better given to a still fledgling employee to improve his chance of survival early on in his career."
+      "content": "La fanciulla, che era a dir poco eccezionale, non aveva bisogno della Benedizione. Era meglio assegnarla a un impiegato ancora alle prime armi, per aumentare le sue possibilità di sopravvivenza all'inizio della carriera."
     },
     {
       "id": 53,
-      "content": "Which is why he constantly assigned the child to different Abnormalities, to prevent her from gaining the Blessing."
+      "content": "Ecco perché assegnava costantemente la fanciulla a diverse Anormalità, per impedirle di ottenere la Benedizione."
     },
     {
       "id": 54,
-      "content": "He knows. He already knows everything there is to know about this Abnormality even before he assigns it to a Containment Unit."
+      "content": "Lui sa. Sa già tutto quello che c'è da sapere su questa Anormalità ancor prima di assegnarla a un'Unità di Contenimento."
     },
     {
       "id": 55,
-      "content": "... Well, let's continue on. That detail is not of much importance anyway."
+      "content": "... Beh, proseguiamo. Questo dettaglio non ha molta importanza in ogni caso."
     },
     {
       "id": 56,
-      "content": "What matters is that there was no way for the manager to explain his thought process to the child."
+      "content": "Ciò che conta è che il manager non aveva modo di spiegare il suo ragionamento logico alla fanciulla."
     },
     {
       "id": 57,
-      "content": "The other employee, much less competent than the child, ended up a cold, dead corpse in the merciless conditions of this company..."
+      "content": "L'altro impiegato, molto meno competente della fanciulla, è finito per diventare un freddo cadavere tra le mura spietate di questa compagnia..."
     },
     {
       "id": 58,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "... Been a while."
+      "title": "Agente del Team di Welfare",
+      "content": "... Ne è passato di tempo."
     },
     {
       "id": 59,
-      "content": "And when the Abnormality escaped, the hollow pride that she still sought to protect someone broken, it encountered an employee with an icy glare—no, her old friend."
+      "content": "E quando l'Anormalità è fuggita, spinta dall'insensata pretesa di fare da scudo a un animo ormai in frantumi, si è imbattuta in un'impiegata dallo sguardo di ghiaccio... o meglio, nella sua vecchia amica."
     },
     {
       "id": 60,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "You've become so twisted that you can't even return my greeting."
+      "title": "Agente del Team di Welfare",
+      "content": "Ti sei ridotta così male da non riuscire nemmeno a ricambiare un saluto."
     },
     {
       "id": 61,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "More of that boring, old, useless self-loathing over failing to protect that kid, isn't it? That's just what you are, what you do, after all."
+      "title": "Agente del Team di Welfare",
+      "content": "Sei ancora lì a piangerti addosso per non essere riuscita a proteggere quel moccioso? Tipico. Dopotutto, sei fatta così, non sai fare altro."
     },
     {
       "id": 62,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "... So why didn't you just choose me?"
+      "title": "Agente del Team di Welfare",
+      "content": "... E allora perché non hai scelto me?"
     },
     {
       "id": 63,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "I wouldn't have gone out like that kid did. Not that pointlessly, anyway."
+      "title": "Agente del Team di Welfare",
+      "content": "Non avrei fatto la sua stessa fine. Non in modo così insignificante, perlomeno."
     },
     {
       "id": 64,
-      "content": "A wailing cry tears across the very space itself; a reply, or an expression of wrath, stung by her words?"
+      "content": "Un urlo straziante lacera lo spazio circostante; una risposta, o un'espressione di collera provocata dalle sue parole?"
     },
     {
       "id": 65,
-      "content": "The floating blades soon gather around her."
+      "content": "Le lame fluttuanti si radunano presto intorno a lei."
     },
     {
       "id": 66,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "Gonna skewer me with your sharpened swords, huh?"
+      "title": "Agente del Team di Welfare",
+      "content": "Vuoi trafiggermi con le tue spade, eh?"
     },
     {
       "id": 67,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "... Fine."
+      "title": "Agente del Team di Welfare",
+      "content": "... E sia."
     },
     {
       "id": 68,
-      "content": "The child raises her own blade in preparation."
+      "content": "La fanciulla solleva la propria lama, preparandosi."
     },
     {
       "id": 69,
-      "content": "The same blade as the ones floating about the Abnormality."
+      "content": "Una lama identica a quelle che fluttuano attorno all'Anormalità."
     },
     {
       "id": 70,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "Still... It still hurts me deep inside that you did not choose me."
+      "title": "Agente del Team di Welfare",
+      "content": "Eppure... Mi fa ancora male il fatto che tu non abbia scelto me."
     },
     {
       "id": 71,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "But I realized that I can't mope around forever."
+      "title": "Agente del Team di Welfare",
+      "content": "Ma ho capito che non posso restare a piangermi addosso per sempre."
     },
     {
       "id": 72,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "I'm busy as hell... got plenty of employees I've got to protect. A whole bunch of rookies just got hired, you know."
+      "title": "Agente del Team di Welfare",
+      "content": "Sono un sacco impegnata... ho un mucchio di dipendenti da proteggere. Hanno appena assunto una marea di novellini, sai."
     },
     {
       "id": 73,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "The upper layer's doing even worse. Miss Malkuth's finally about to snap from the crushing workload, apparently. They say that she's been acting stranger and stranger as of late."
+      "title": "Agente del Team di Welfare",
+      "content": "Ai livelli superiori va persino peggio. A quanto pare, la signorina Malkuth sta per cedere sotto il peso di un carico di lavoro massacrante. Dicono che ultimamente si comporti in modo sempre più strano."
     },
     {
       "id": 74,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "So I've gotta get up there and help 'em out."
+      "title": "Agente del Team di Welfare",
+      "content": "Quindi devo salire lassù a dare una mano."
     },
     {
       "id": 75,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "I don't have any more time to waste messing around with you."
+      "title": "Agente del Team di Welfare",
+      "content": "Non ho altro tempo da perdere a discutere con te."
     },
     {
       "id": 76,
-      "content": "The child bites her lower lip, determined, and assumes a fighting stance."
+      "content": "La fanciulla si morde il labbro inferiore, determinata, e assume una posizione di guardia."
     },
     {
       "id": 77,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "Sure, I don't even have a smidge of pride left. But that doesn't stop the burden on my shoulders from growing, does it?"
+      "title": "Agente del Team di Welfare",
+      "content": "Certo, non mi è rimasto un briciolo di orgoglio. Ma questo non impedisce al fardello sulle mie spalle di farsi sempre più pesante, no?"
     },
     {
       "id": 78,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "So... I'm gonna live up to that responsibility, at least."
+      "title": "Agente del Team di Welfare",
+      "content": "Quindi... farò del mio meglio per essere all'altezza di questa responsabilità."
     },
     {
       "id": 79,
       "model": "로쟈",
       "teller": "Rodion",
-      "title": "Welfare Team Agent",
-      "content": "Let's go home, O-01-73."
+      "title": "Agente del Team di Welfare",
+      "content": "Torniamo a casa, O-01-73."
     },
     {
       "id": 80,
-      "content": "... The child will probably survive this suppression effort. She'll succeed at it, too."
+      "content": "... La fanciulla probabilmente sopravviverà a questo tentativo di soppressione. E ci riuscirà anche."
     },
     {
       "id": 81,
-      "content": "But her suffering will continue, and this sense of gloom will eat her alive."
+      "content": "Ma la sua sofferenza continuerà, e questo senso di oscurità la divorerà viva."
     },
     {
       "id": 82,
-      "content": "Her unusually high level of attunement with the E.G.O gear makes her stronger, but allows for deeper corrosion..."
+      "content": "Il suo livello insolitamente alto di sintonia con l'equipaggiamento E.G.O la rende più forte, ma apre la strada a una corrosione più profonda..."
     },
     {
       "id": 83,
-      "content": "... and the longer she wears it, the more resonant the Abnormality's voice shall become in her head, torturing her."
+      "content": "... e più a lungo lo indosserà, più la voce dell'Anormalità risuonerà nella sua testa, tormentandola."
     },
     {
       "id": 84,
-      "content": "It is inevitable. Even still..."
+      "content": "È inevitabile. Eppure..."
     },
     {
       "id": 85,
-      "content": "... She will work herself to the bone and fight on to take responsibility for the tasks that are given to her."
+      "content": "... Si spaccherà la schiena e continuerà a combattere per farsi carico dei compiti che le vengono affidati."
     },
     {
       "id": 86,
-      "content": "Because that, in her mind... is the only way for her to be <i>chosen</i>, if such a thing even happens."
+      "content": "Perché quello, nella sua mente... è l'unico modo per essere <i>scelta</i>, ammesso che una cosa del genere possa mai accadere."
     },
     {
       "id": 87,
-      "content": "... Fitting, isn't she?"
+      "content": "... Le si addice, non trovi?"
     },
     {
       "id": 88,
-      "content": "Her twisted thoughts... they fit this cold, cold corporation so well."
+      "content": "I suoi pensieri contorti... si adattano così bene a questa gelida corporazione."
     }
   ]
 }
