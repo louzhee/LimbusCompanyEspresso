@@ -256,7 +256,7 @@
     },
     {
       "id": 131409,
-      "name": "Shin (心) - Valencina",
+      "name": "Shin (心) - Valentina",
       "desc": "When hit, or when \"The Thumb Apprentice - Lucio\" is defeated, gain [ObsessionAndGreed] next turn",
       "summary": "",
       "undefined": "-",
@@ -324,8 +324,8 @@
     },
     {
       "id": 132214,
-      "name": "Afterimage of the Future",
-      "desc": "Every few turns, use the \"Destinated Opponent\" Skill\n<color=#ff6000><mark=#ff000040><b><u>Only the target of this unit's attack can Clash with the said Skill Slot</u></b></mark></color>\n\nIf this unit's \"Destinated Opponent\" Skill loses a Clash, take 36 ~ 60 fixed damage\n\nCombat End: <color=#ff6000><mark=#ff000040><b><u>If every \"Destinated Opponent\" Skill this unit used in this turn lost a Clash</u></b></mark></color>, gain 1 [Vulnerable] next turn"
+      "name": "Immagine Residua Del Futuro",
+      "desc": "Usa l'Abilità \"Avversaria Destinata\" dopo qualche turno\n<color=#ff6000><mark=#ff000040><b><u>Questa Abilità può essere Scontrata solo dal bersaglio del suo Slot Abilità</u></b></mark></color>\n\nSe \"Avversaria Destinata\" perde uno Scontro, subisce 36~60 danni fissi\n\nA Fine Combattimento, <color=#ff6000><mark=#ff000040><b><u>Se tutte le Abilità \"Avversaria Destinata\" usate in questo turno hanno perso lo Scontro</u></b></mark></color>, ottiene 1 [Vulnerable] il turno successivo"
     },
     {
       "id": 132217,
