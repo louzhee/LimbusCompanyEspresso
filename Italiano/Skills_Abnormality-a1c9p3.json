@@ -899,7 +899,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Schiacciare",
+          "name": "Pestare",
           "desc": "If target has 4+ [Laceration], Potere Moneta +1",
           "coinlist": [
             {
@@ -931,7 +931,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pestare",
+          "name": "Calciare",
           "desc": "If target has 4+ [Laceration], Potere Moneta +1",
           "coinlist": [
             {
@@ -1122,7 +1122,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Schiacciare",
+          "name": "Pestare",
           "desc": "If target has 4+ [Laceration], Potere Moneta +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], infligge 1 [Laceration] On Coin Hit\n[DefeatDuel] Ottiene 1 [ParryingResultUp] next turn (2 times per turn)",
           "coinlist": [
             {
@@ -1154,7 +1154,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pestare",
+          "name": "Calciare",
           "desc": "If target has 4+ [Laceration], Potere Moneta +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], infligge 1 [Laceration] On Coin Hit\n[DefeatDuel] Ottiene 1 [VioletDamageUp] next turn (2 times per turn)",
           "coinlist": [
             {
@@ -1364,7 +1364,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "È L'Ora Del Riscaldamento!",
+          "name": "È Il Momento Di Riscaldarsi!",
           "desc": "If target has 5+ [Laceration], Potere Base +2\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target",
           "coinlist": [
             {
@@ -1613,7 +1613,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Schiacciare!",
+          "name": "Pestare!",
           "desc": "If target has 4+ [Laceration], Potere Moneta +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], infligge 1 [Laceration] On Coin Hit\n[DefeatDuel] Ottiene 1 [SkillPowerUp] next turn (2 times per turn)",
           "coinlist": [
             {
@@ -1645,7 +1645,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pestare!",
+          "name": "Calciare!",
           "desc": "If target has 4+ [Laceration], Potere Moneta +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], infligge 1 [Laceration] On Coin Hit\n[DefeatDuel] Ottiene 1 [VioletDamageUp] next turn (2 times per turn)",
           "coinlist": [
             {

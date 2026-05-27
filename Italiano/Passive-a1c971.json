@@ -87,58 +87,58 @@
     },
     {
       "id": 108201,
-      "name": "Observation",
-      "desc": "Encounter Start: Apply 1 [ObservedPerson] on all enemies; then, gain [Breath] Potency and Count equal to the number of units with [ObservedPerson]\n\nTurn Start: Apply 1 [ObservedPerson] against targets without [ObservedPerson]\n\nFor every 10 [ObservedPerson] on the target, inflict +1 more [Vibration] Potency and Count with this unit's Skills (max 3)"
+      "name": "Osservazione",
+      "desc": "A Inizio Incontro, Applica 1 [ObservedPerson] su tutti i nemici. Poi, ottiene Potenza e Conteggio [Breath] pari al numero di unità con [ObservedPerson]\n\nA Inizio Turno. Applica 1 [ObservedPerson] su tutti i nemici senza [ObservedPerson]\n\nGli effetti delle Abilità Attacco infliggono +1 Potenza e Conteggio [Vibration] in più per ogni 10 [ObservedPerson] sul bersaglio (max 3)"
     },
     {
       "id": 108202,
-      "name": "Adaptation",
-      "desc": "Gain 1 [Breath] Potency every time this unit inflicts damage with Attack Skill effects (15 per turn)\n- If the target has 15+ [ObservedPerson], gain 1 additional [Breath] Potency with every hit\n\nGain +1 [Breath] Count every time this unit takes damage from enemies' Attack Skill effects (15 per turn)\n- If the target has 15+ [ObservedPerson], gain +1 additional [Breath] Count with every hit taken"
+      "name": "Adattamento",
+      "desc": "Ottiene 1 [Breath] ogni volta che infligge danno con le Abilità Attacco (max 15 per turno)\n- Sul Colpo, se il bersaglio ha 15+ [ObservedPerson], ottiene 1 [Breath] in più\n\nOttiene +1 Conteggio [Breath] ogni volta che subisce danni dalle Abilità Attacco nemiche (max 15 per turno)\n- Quando colpito, se il bersaglio ha 15+ [ObservedPerson], ottiene 1 Conteggio [Breath] in più"
     },
     {
       "id": 108203,
-      "name": "Defense Mechanism",
-      "desc": "Turn Start: Gain Shield equal to 30% of missing HP (Shield HP cannot exceed 15% of the max HP)\n- If this unit has [Combustion], lose ([Combustion] Count x 1.5)% Shield HP\n- Shield takes +100% damage from [Burst] effects\n\nTurn End: If the Shield gained due to this effect is destroyed, for the rest of this Encounter, gain 1 [DefenseDown] for every instance the Shield has been destroyed (max 5)"
+      "name": "Meccanismo di Difesa",
+      "desc": "A Inizio Turno, ottiene il 30% dei PV mancanti come Scudo (max 15% dei PV massimi)\n- Se quest'unità ha [Combustion], perde (Conteggio [Combustion] x 1.5)% Scudo\n- Lo Scudo subisce +100% danni dagli effetti di [Burst]\n\nA Fine Turno, se lo Scudo ottenuto tramite questo effetto è distrutto, ottiene 1 [DefenseDown] per tutta la durata dell'Incontro pari al numero di volte che lo Scudo è stato distrutto (max 5)"
     },
     {
       "id": 108204,
-      "name": "Confirmation Bias",
-      "desc": "Turn End: Siphon 10 SP from targets with higher SP than this unit (max 3 targets in descending order of SP; does not apply cumulatively on the same target)\n(Does not activate if Hohenheim is Panicked)"
+      "name": "Bias di Conferma",
+      "desc": "A Fine Turno, sottrae 10 PS da ogni nemico con più PS di quest'Unità (max 3 bersagli; 1 volta per nemico per turno)\n(Non si attiva se Hohenheim è in Panico)"
     },
     {
       "id": 108205,
-      "name": "Establish Hypothesis",
-      "desc": "On Turn 3: Gains a new pattern and prepares to use a powerful Skill.\nAfter Turn 3 is over: The above effect activates when this unit has 30+ [Breath] Count at Turn End\n\nIf this unit did not take any HP damage during the preparation period before using the powerful Skill, greatly enhance the Skill (does not count damages taken by Shield HP)"
+      "name": "Ipotesi Fondata",
+      "desc": "Al Terzo Turno, ottiene un nuovo pattern e prepara un'Abilità Potente.\nDopo il Terzo Turno, questo effetto si riattiva ogni volta che Hohenheim ha 30+ Conteggio [Breath] a Fine Turno\n\nL'Abilità viene potenziata se Hohenheim non subisce danni ai PV durante la preparazione (non considera i danni allo Scudo)"
     },
     {
       "id": 108206,
-      "name": "Maladaptation",
-      "desc": "When weakened due to a Choice Event, this Passive replaces 「Adaptation」\n\nGain 1 [Breath] Potency every time this unit inflicts damage with Attack Skill effects (15 per turn)\n- If the target has 15+ [ObservedPerson], gain 1 additional [Breath] Potency with every hit; however, reduce the target's [ObservedPerson] by 3\n\nGain +1 [Breath] Count every time this unit takes damage from enemies' Attack Skill effects (15 per turn)\n- If the target has 15+ [ObservedPerson], gain +1 additional [Breath] Count with every hit taken; however, reduce the target's [ObservedPerson] by 3\n\nCritical Hit damage does not increase or decrease"
+      "name": "Disadattamento",
+      "desc": "Rimpiazza la passiva 「Adattamento」 quando questa viene indebolita da un Evento a Scelta.\n\nOttiene 1 [Breath] ogni volta che infligge danno con le Abilità Attacco (max 15 per turno)\n- Se il bersaglio ha 15+ [ObservedPerson], riduce il [ObservedPerson] sul bersaglio di 3 per ottenere 1 [Breath] in più\n\nOttiene +1 Conteggio [Breath] ogni volta che subisce danni dalle Abilità Attacco nemiche (max 15 per turno)\n- Se il bersaglio ha 15+ [ObservedPerson], riduce il [ObservedPerson] sul bersaglio di 3 per ottenere 1 Conteggio [Breath] in più\n\nI danni sul Colpo Critico non possono essere aumentati o diminuiti"
     },
     {
       "id": 108207,
-      "name": "Inadequate Defense Mechanism",
-      "desc": "When weakened due to a Choice Event, this Passive replaces 「Defense Mechanism」\n\nTurn Start: Gain Shield equal to 15% of missing HP (Shield HP cannot exceed 5% of the max HP)\n- If this unit has [Combustion], lose ([Combustion] Count x 2)% Shield HP\n- Shield takes +150% damage from [Burst] effects\n\nTurn End: If the Shield gained due to this effect is destroyed, for the rest of this Encounter, gain 2 [DefenseDown] at Turn Start for every instance the Shield has been destroyed (max 10)"
+      "name": "Meccanismo di Difesa Inadeguato",
+      "desc": "Rimpiazza la passiva 「Meccanismo di Difesa」 quando questa viene indebolita da un Evento a Scelta.\n\nA Inizio Turno, ottiene il 15% dei PV mancanti come Scudo (max 5% dei PV massimi)\n- Se quest'unità ha [Combustion], perde (Conteggio [Combustion] x 2)% Scudo\n- lo Scudo subisce +150% danni dagli effetti di [Burst]\n\nA Fine Turno, se lo Scudo ottenuto tramite questo effetto è distrutto, ottiene 2 [DefenseDown] per tutta la durata dell'Incontro pari al numero di volte che lo Scudo è stato distrutto (max 10)"
     },
     {
       "id": 108208,
-      "name": "Self-doubt",
-      "desc": "When weakened due to a Choice Event, this Passive replaces 「Confirmation Bias」\n\nTurn Start: Lose 15 SP\nTurn End: Siphon 5 SP from targets with higher SP than this unit (max 3 targets; in descending order of SP; cannot stack on the same target)\n(Does not activate if Hohenheim is Panicked)"
+      "name": "Incertezza",
+      "desc": "Rimpiazza la passiva 「Bias di Conferma」 quando questa viene indebolita da un Evento a Scelta.\n\nA Inizio Turno, perde 15 PS\nA Fine Turno, sottrae 5 PS da ogni nemico con più PS di quest'Unità (max 3 bersagli; 1 volta per nemico per turno)\n(Non si attiva se Hohenheim è in Panico)"
     },
     {
       "id": 108209,
-      "name": "Adaptation",
-      "desc": "Gain 1 [Breath] Potency every time this unit inflicts damage with Attack Skill effects (15 per turn)\n- If the target has 15+ [ObservedPerson], gain 1 additional [Breath] Potency with every hit\n\nGain +1 [Breath] Count every time this unit takes damage from enemies' Attack Skill effects (15 per turn)\n- If the target has 15+ [ObservedPerson], gain +1 additional [Breath] Count with every hit taken"
+      "name": "Adattamento",
+      "desc": "Ottiene 1 [Breath] ogni volta che infligge danno con le Abilità Attacco (max 15 per turno)\n- Sul Colpo, se il bersaglio ha 15+ [ObservedPerson], ottiene 1 [Breath] in più\n\nOttiene +1 Conteggio [Breath] ogni volta che subisce danni dalle Abilità Attacco nemiche (max 15 per turno)\n- Quando colpito, se il bersaglio ha 15+ [ObservedPerson], ottiene 1 Conteggio [Breath] in più"
     },
     {
       "id": 108210,
-      "name": "Defense Mechanism",
-      "desc": "Turn Start: Gain Shield equal to 30% of missing HP (Shield HP cannot exceed 15% of the max HP)\n- If this unit has [Combustion], lose ([Combustion] Count x 1.5)% Shield HP\n- Shield takes +100% damage from [Burst] effects\n\nTurn End: If the Shield gained due to this effect is destroyed, for the rest of this Encounter, gain 1 [DefenseDown] at Turn Start for every instance the Shield has been destroyed (max 5)"
+      "name": "Meccanismo di Difesa",
+      "desc": "A Inizio Turno, ottiene il 30% dei PV mancanti come Scudo (max 15% dei PV massimi)\n- Se quest'unità ha [Combustion], perde (Conteggio [Combustion] x 1.5)% Scudo\n- Lo Scudo subisce +100% danni dagli effetti di [Burst]\n\nA Fine Turno, se lo Scudo ottenuto tramite questo effetto è distrutto, ottiene 1 [DefenseDown] per tutta la durata dell'Incontro pari al numero di volte che lo Scudo è stato distrutto (max 5)"
     },
     {
       "id": 108211,
-      "name": "Maladaptation",
-      "desc": "When weakened due to a Choice Event, this Passive replaces 「Adaptation」\n\nGain 1 [Breath] Potency every time this unit inflicts damage with Attack Skill effects (15 per turn)\n- If the target has 15+ [ObservedPerson], gain 1 additional [Breath] Potency with every hit; however, reduce the target's [ObservedPerson] by 3\n\nGain +1 [Breath] Count every time this unit takes damage from enemies' Attack Skill effects (15 per turn)\n- If the target has 15+ [ObservedPerson], gain +1 additional [Breath] Count with every hit taken; however, reduce the target's [ObservedPerson] by 3\n\nCritical Hit damage does not increase or decrease"
+      "name": "Disadattamento",
+      "desc": "Rimpiazza la passiva 「Adattamento」 quando questa viene indebolita da un Evento a Scelta.\n\nOttiene 1 [Breath] ogni volta che infligge danno con le Abilità Attacco (max 15 per turno)\n- Se il bersaglio ha 15+ [ObservedPerson], riduce il [ObservedPerson] sul bersaglio di 3 per ottenere 1 [Breath] in più\n\nOttiene +1 Conteggio [Breath] ogni volta che subisce danni dalle Abilità Attacco nemiche (max 15 per turno)\n- Se il bersaglio ha 15+ [ObservedPerson], riduce il [ObservedPerson] sul bersaglio di 3 per ottenere 1 Conteggio [Breath] in più\n\nI danni sul Colpo Critico non possono essere aumentati o diminuiti"
     },
     {
       "id": 138904,
