@@ -474,7 +474,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Dismantle",
+                    "name": "Decostruire",
                     "desc": "[WhenUse] Potere Finale +1 per ogni 3 [Breath] su di sé (max 5)",
                     "coinlist": [
                         {
