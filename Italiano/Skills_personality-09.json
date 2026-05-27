@@ -746,7 +746,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Ottiene 1 [DevyatDimensionalSack]\n<style=\"highlight\">- Se questa unità ha meno di 15 [DevyatDimensionalSack], ottiene 1 [DevyatDimensionalSack] aggiuntivo</style>"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [DevyatDimensionalSack]\n<style=\"highlight\">- Se questa unità ha meno di 15 [DevyatDimensionalSack], ottiene 1 [DevyatDimensionalSack] in più</style>"
                 }
               ]
             },
@@ -767,7 +767,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Ottiene 1 [DevyatDimensionalSack]\n- Se questa unità ha meno di 15 [DevyatDimensionalSack], ottiene 1 [DevyatDimensionalSack] aggiuntivo<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [DevyatDimensionalSack]\n- Se questa unità ha meno di 15 [DevyatDimensionalSack], ottiene 1 [DevyatDimensionalSack] in più<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -821,7 +821,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Ottiene 1 [DevyatDimensionalSack]\n<style=\"highlight\">- Se questa unità ha meno di 15 [DevyatDimensionalSack], ottiene 1 [DevyatDimensionalSack] aggiuntivo</style>"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [DevyatDimensionalSack]\n<style=\"highlight\">- Se questa unità ha meno di 15 [DevyatDimensionalSack], ottiene 1 [DevyatDimensionalSack] in più</style>"
                 }
               ]
             },
@@ -849,7 +849,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Ottiene 1 [DevyatDimensionalSack]\n- Se questa unità ha meno di 15 [DevyatDimensionalSack], ottiene <style=\"highlight\">2</style> [DevyatDimensionalSack] aggiuntivo"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [DevyatDimensionalSack]\n- Se questa unità ha meno di 15 [DevyatDimensionalSack], ottiene <style=\"highlight\">2</style> [DevyatDimensionalSack] in più"
                 }
               ]
             },
@@ -932,7 +932,7 @@
         {
           "level": 1,
           "name": "Sequenza di Supporto & Controllo Corriere",
-          "desc": "[StartBattle] A 15+ [DevyatDimensionalSack], attiva al suo posto 'È Solo... una Pausa Strategica!' (1 volta per turno)\n[StartBattle] Se questa Abilità sta per venire attivata, ottiene ([DevyatDimensionalSack]/2)% dei PV massimi di questa unità come Scudo (max 15%, 1 volta per turno)\n[WhenUse] Ottiene 2 [DevyatDimensionalSack] (1 volta per turno)\n- A meno di 15 [DevyatDimensionalSack], ottiene 1 [DevyatDimensionalSack] aggiuntivo",
+          "desc": "[StartBattle] A 15+ [DevyatDimensionalSack], attiva al suo posto 'È Solo... una Pausa Strategica!' (1 volta per turno)\n[StartBattle] Se questa Abilità sta per venire attivata, ottiene ([DevyatDimensionalSack]/2)% dei PV massimi di questa unità come Scudo (max 15%, 1 volta per turno)\n[WhenUse] Ottiene 2 [DevyatDimensionalSack] (1 volta per turno)\n- A meno di 15 [DevyatDimensionalSack], ottiene 1 [DevyatDimensionalSack] in più",
           "coinlist": [
             {}
           ]
@@ -940,7 +940,7 @@
         {
           "level": 4,
           "name": "Sequenza di Supporto & Controllo Corriere",
-          "desc": "[StartBattle] A 15+ [DevyatDimensionalSack], attiva al suo posto 'È Solo... una Pausa Strategica!' (1 volta per turno)\n[StartBattle] Se questa Abilità sta per venire attivata, ottiene <style=\"highlight\">([DevyatDimensionalSack])%</style> dei PV massimi di questa unità come Scudo (max <style=\"highlight\">25%</style>, 1 volta per turno)\n[WhenUse] Ottiene 2 [DevyatDimensionalSack] (1 volta per turno)\n- A meno di 15 [DevyatDimensionalSack], ottiene 1 [DevyatDimensionalSack] aggiuntivo",
+          "desc": "[StartBattle] A 15+ [DevyatDimensionalSack], attiva al suo posto 'È Solo... una Pausa Strategica!' (1 volta per turno)\n[StartBattle] Se questa Abilità sta per venire attivata, ottiene <style=\"highlight\">([DevyatDimensionalSack])%</style> dei PV massimi di questa unità come Scudo (max <style=\"highlight\">25%</style>, 1 volta per turno)\n[WhenUse] Ottiene 2 [DevyatDimensionalSack] (1 volta per turno)\n- A meno di 15 [DevyatDimensionalSack], ottiene 1 [DevyatDimensionalSack] in più",
           "coinlist": [
             {}
           ]

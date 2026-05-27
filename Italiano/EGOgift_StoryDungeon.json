@@ -405,7 +405,7 @@
     {
       "id": 1054,
       "name": "Marinatura al Tango",
-      "desc": "Gli alleati ottengono la metà della loro Velocità come Potere Scontro aggiuntivo contro gli avversari con Velocità minore. (Max 3 volte)",
+      "desc": "Gli alleati ottengono la metà della loro Velocità come Potere Scontro in più contro gli avversari con Velocità minore. (Max 3 volte)",
       "simpleDesc": [
         {
           "abilityID": 1054,

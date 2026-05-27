@@ -48,7 +48,7 @@
         {
             "id": 2030,
             "name": "Lama Spezzata",
-            "desc": "Quando un alleato infligge un Colpo Critico ad un nemico, infliggi Danno Superbia aggiuntivo pari a (Potenza [Breath]/3).\n\nQuando le Identità dei Discendenti della Spada infliggono un Colpo Critico, infliggi invece danni da Superbia addizionali pari a (Potenza [Breath]/2).",
+            "desc": "Quando un alleato infligge un Colpo Critico ad un nemico, infliggi Danno Superbia in più pari a (Potenza [Breath]/3).\n\nQuando le Identità dei Discendenti della Spada infliggono un Colpo Critico, infliggi invece danni da Superbia addizionali pari a (Potenza [Breath]/2).",
             "simpleDesc": [
                 {
                     "abilityID": 2030,
@@ -89,7 +89,7 @@
         {
             "id": 2033,
             "name": "Inflessibile",
-            "desc": "Inizio dell'Incontro: Gli effetti si applicano quando sono presenti 3 o più Identità dei Discendenti della Spada (conta solo le Identità sul campo di battaglia).\n\nGli alleati ottengono 2 Potere Tagliente Potenziato ed infliggono il 35% di danni aggiuntivi Taglienti.\n\nInizio Turno: quando un'Identità dei Discendenti della Spada ingligge un Colpo Critico, infligge danno Superbia aggiuntivo pari alla Potenza [Breath] su sé stesso.",
+            "desc": "Inizio dell'Incontro: Gli effetti si applicano quando sono presenti 3 o più Identità dei Discendenti della Spada (conta solo le Identità sul campo di battaglia).\n\nGli alleati ottengono 2 Potere Tagliente Potenziato ed infliggono il 35% di danni aggiuntivi Taglienti.\n\nInizio Turno: quando un'Identità dei Discendenti della Spada ingligge un Colpo Critico, infligge danno Superbia in più pari alla Potenza [Breath] su sé stesso.",
             "simpleDesc": [
                 {
                     "abilityID": 2033,
@@ -104,7 +104,7 @@
         {
             "id": 2034,
             "name": "Cappello di Bambù Logoro",
-            "desc": "Inizio dell'Incontro: Gli effetti si applicano quando sono presenti 3 o più Identità dei Discendenti della Spada (conta solo le Identità sul campo di battaglia).\n\nTutti gli alleati infliggono il 50% di danno Tagliente aggiuntivo.\n\nPer le Identità dei Discendenti della Spada: gli alleati con [Breath] hanno una probabilità di Colpo Critico fissata al 100%\n\nInoltre infliggono 1.5 danni aggiuntivi sul Colpo Critico.",
+            "desc": "Inizio dell'Incontro: Gli effetti si applicano quando sono presenti 3 o più Identità dei Discendenti della Spada (conta solo le Identità sul campo di battaglia).\n\nTutti gli alleati infliggono il 50% di danno Tagliente in più.\n\nPer le Identità dei Discendenti della Spada: gli alleati con [Breath] hanno una probabilità di Colpo Critico fissata al 100%\n\nInoltre infliggono 1.5 danni aggiuntivi sul Colpo Critico.",
             "simpleDesc": [
                 {
                     "abilityID": 2034,
@@ -123,7 +123,7 @@
         {
             "id": 2035,
             "name": "Vecchia Tunica Dopo",
-            "desc": "Inizio dell'Incontro: Gli effetti si applicano quando sono presenti 3 o più Identità dei Discendenti della Spada (conta solo le Identità sul campo di battaglia).\n\nTutti gli alleati infliggono il 50% di danno Tagliente aggiuntivo.\n\nPer le Identità dei Discendenti della Spada: L'Abilità 1 ottiene Potere Moneta Positivo +1. Le Abilità 1 con Moneta Singola ottengono Potere Moneta Positivo +3.\n\n[Esclusivo a Mentore dei Discendenti della Spada Meursault] l'Abilità 'Cedo la Carne' ottiene Potere Scontro Finale -12; 'Per Strappare le Ossa' infligge il 50% in più di danni aggiuntivi",
+            "desc": "Inizio dell'Incontro: Gli effetti si applicano quando sono presenti 3 o più Identità dei Discendenti della Spada (conta solo le Identità sul campo di battaglia).\n\nTutti gli alleati infliggono il 50% di danno Tagliente in più.\n\nPer le Identità dei Discendenti della Spada: L'Abilità 1 ottiene Potere Moneta Positivo +1. Le Abilità 1 con Moneta Singola ottengono Potere Moneta Positivo +3.\n\n[Esclusivo a Mentore dei Discendenti della Spada Meursault] l'Abilità 'Cedo la Carne' ottiene Potere Scontro Finale -12; 'Per Strappare le Ossa' infligge il 50% in più di danni aggiuntivi",
             "simpleDesc": [
                 {
                     "abilityID": 2035,

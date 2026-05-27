@@ -1715,7 +1715,7 @@
         {
           "level": 4,
           "name": "Palmo della Fiamma Virescente",
-          "desc": "<style=\"highlight\">Se la Velocità di questa unità è maggiore del bersaglio, ottiene Potere Moneta in base alla differenza di Velocità (Potere Moneta +1 per ogni 2 differenza di Velocità; max 2)</style>\n[WinDuel] Ottiene 3 [Breath]\n<style=\"highlight\">- Ottiene Conteggio [Breath] aggiuntivo pari a [DianxueDonQuixote] sul bersaglio</style>",
+          "desc": "<style=\"highlight\">Se la Velocità di questa unità è maggiore del bersaglio, ottiene Potere Moneta in base alla differenza di Velocità (Potere Moneta +1 per ogni 2 differenza di Velocità; max 2)</style>\n[WinDuel] Ottiene 3 [Breath]\n<style=\"highlight\">- Ottiene Conteggio [Breath] in più pari a [DianxueDonQuixote] sul bersaglio</style>",
           "coinlist": [
             {
               "coindescs": [

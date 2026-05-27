@@ -167,7 +167,7 @@
           "level": 4,
           "name": "9:2",
           "abName": "Profeta della Pelle",
-          "desc": "[BeforeAttack] A 4+ (Rison. Lussuria), Portata Attacco +1\n[BeforeAttack] A 4+ (Rison-A Lussuria più alta), Portata Attacco aggiuntivo +1",
+          "desc": "[BeforeAttack] A 4+ (Rison. Lussuria), Portata Attacco +1\n[BeforeAttack] A 4+ (Rison-A Lussuria più alta), Portata Attacco +1 in più",
           "coinlist": [
             {
               "coindescs": [
@@ -232,7 +232,7 @@
           "level": 4,
           "name": "9:2",
           "abName": "Profeta della Pelle",
-          "desc": "[CantIdentify]\nBersaglia casualmente\n[BeforeAttack] A 4+ (Rison. Lussuria), Portata Attacco +1\n[BeforeAttack] A 4+ (Rison-A Lussuria più alta), Portata Attacco aggiuntivo +1",
+          "desc": "[CantIdentify]\nBersaglia casualmente\n[BeforeAttack] A 4+ (Rison. Lussuria), Portata Attacco +1\n[BeforeAttack] A 4+ (Rison-A Lussuria più alta), Portata Attacco +1 in più",
           "coinlist": [
             {
               "coindescs": [

@@ -1446,7 +1446,7 @@
         {
           "level": 3,
           "name": "Ti Cucirò un Nuovo Vestito!",
-          "desc": "Sul Colpo con questa Abilità: si cura del 30% dei danni ai PV inflitti (max 20)\n[BeforeAttack] A 10+ [BloodScissorPersonalityFirst], Portata Attacco +1\n[WhenUse] Se il bersaglio ha 5+ [Laceration], Potere Moneta +1\n[WhenUse] Potere Scontro +1 per ogni 6 [Laceration] sul bersaglio (max 2)\n[EndSkill] Consuma 15 [BloodScissorPersonalityFirst] per ogni Portata Attacco aggiuntivo\n[EndSkill] Se il bersaglio viene ucciso, aumenta [BloodDinner] di 10. Recupera metà della [BloodScissorPersonalityFirst] consumata da questa Abilità (1 volta per turno)",
+          "desc": "Sul Colpo con questa Abilità: si cura del 30% dei danni ai PV inflitti (max 20)\n[BeforeAttack] A 10+ [BloodScissorPersonalityFirst], Portata Attacco +1\n[WhenUse] Se il bersaglio ha 5+ [Laceration], Potere Moneta +1\n[WhenUse] Potere Scontro +1 per ogni 6 [Laceration] sul bersaglio (max 2)\n[EndSkill] Consuma 15 [BloodScissorPersonalityFirst] per ogni Portata Attacco in più\n[EndSkill] Se il bersaglio viene ucciso, aumenta [BloodDinner] di 10. Recupera metà della [BloodScissorPersonalityFirst] consumata da questa Abilità (1 volta per turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -1481,7 +1481,7 @@
         {
           "level": 4,
           "name": "Ti Cucirò un Nuovo Vestito!",
-          "desc": "Sul Colpo con questa Abilità: si cura del 30% dei danni ai PV inflitti (max 20)\n[BeforeAttack] A 10+ [BloodScissorPersonalityFirst], Portata Attacco +1\n<style=\"highlight\">- A 20+ [BloodScissorPersonalityFirst], replace the above effect with Portata Attacco +2 instead</style>\n[WhenUse] Se il bersaglio ha 5+ [Laceration], Potere Moneta +1\n[WhenUse] Potere Scontro +1 per ogni 6 [Laceration] sul bersaglio (max 2)\n[EndSkill] Consuma <style=\"highlight\">10</style> [BloodScissorPersonalityFirst] per ogni Portata Attacco aggiuntivo\n[EndSkill] Se il bersaglio viene ucciso, aumenta [BloodDinner] di <style=\"highlight\">20</style>. Recupera metà della [BloodScissorPersonalityFirst] consumata da questa Abilità (1 volta per turno)\n<style=\"highlight\">- Se il bersaglio è un [LineCuttingPersonality], allora aumenta [BloodDinner] di 20, e ottiene 5 [BloodScissorPersonalityFirst] (1 volta per turno)</style>",
+          "desc": "Sul Colpo con questa Abilità: si cura del 30% dei danni ai PV inflitti (max 20)\n[BeforeAttack] A 10+ [BloodScissorPersonalityFirst], Portata Attacco +1\n<style=\"highlight\">- A 20+ [BloodScissorPersonalityFirst], sostituisce invece l'effetto sovracitato con Portata Attacco +2</style>\n[WhenUse] Se il bersaglio ha 5+ [Laceration], Potere Moneta +1\n[WhenUse] Potere Scontro +1 per ogni 6 [Laceration] sul bersaglio (max 2)\n[EndSkill] Consuma <style=\"highlight\">10</style> [BloodScissorPersonalityFirst] per ogni Portata Attacco in più\n[EndSkill] Se il bersaglio viene ucciso, aumenta [BloodDinner] di <style=\"highlight\">20</style>. Recupera metà della [BloodScissorPersonalityFirst] consumata da questa Abilità (1 volta per turno)\n<style=\"highlight\">- Se il bersaglio è un [LineCuttingPersonality], allora aumenta [BloodDinner] di 20, e ottiene 5 [BloodScissorPersonalityFirst] (1 volta per turno)</style>",
           "coinlist": [
             {
               "coindescs": [
