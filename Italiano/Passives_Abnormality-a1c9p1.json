@@ -47,28 +47,28 @@
     },
     {
       "id": 131901,
-      "name": "Armor of Protection & Repression",
-      "desc": "Turn Start: if this unit isn't Staggered, gain 2 [Protection], 10 [DefenseUp], and Shield HP equal to 10% of this unit's current HP\n\nEvery time this unit uses \"Repressed Flesh\" Skill in this Encounter, gain 1 fewer [Protection], 5 fewer [DefenseUp], and reduce the percentage mentioned above by 5%"
+      "name": "Armatura di Protezione e Repressione",
+      "desc": "A inizio turno, se non è Stordita, ottiene 2 [Protection], 10 [DefenseUp], e Scudo pari al 10% dei PV attuali.\n\nOgni volta che usa l'Abilità \"Carne Repressa\", ottiene 1 [Protection] e 5 [DefenseUp] in meno. Inoltre, la percentuale di Scudo ottenuto scende del 5%"
     },
     {
       "id": 131902,
-      "name": "Iron Maiden - Spikes",
-      "desc": "If this unit isn't Staggered, when hit by the last Coin of an attacker, activate the following:\n- Deal Pierce damage by 20% of the said Coin's damage and inflict 2 [Laceration] (max damage per Skill: 100)\n- Damage from this effect cannot Stagger the target"
+      "name": "Vergine Di Ferro - Spine",
+      "desc": "Se non è Stordita, attiva i seguenti effetti quando viene colpita dall'ultima Moneta di un'Abilità nemica:\n- Infligge danni Perforanti pari al 20% dei danni inflitti dalla Moneta in questione e infligge 2 [Laceration] (danni massimi per Abilità: 100)\n- Il danno inflitto da questo effetto non può Stordire il bersaglio"
     },
     {
       "id": 131903,
-      "name": "Iron Maiden - Defibrillation",
-      "desc": "Upon entry, heal 30 SP\n\nAt 60% HP, recover from Stagger and end the turn (once per Encounter)"
+      "name": "Vergine Di Ferro - Defibrillazione",
+      "desc": "Quando entra nell'Incontro, recupera 30 PS\n\nA 60% PV, si riprende dallo Stordimento e termina il turno (una volta per incontro)"
     },
     {
       "id": 131904,
-      "name": "Corpus Spent as Material",
-      "desc": "Take -30% HP, SP damage from [Combustion], [Burst], [Sinking]; -30% to Stagger Threshold raised by [Vibration]\nTake -50% damage from [Laceration]"
+      "name": "Corpus Usato Come Materiale",
+      "desc": "Subisce -30% danno ai PV e ai PS da [Combustion], [Burst], e [Sinking]; La Soglia di Stordimento viene alzata del 30% in meno dagli effetti di [Vibration]\nSubisce -50% danni da [Laceration]"
     },
     {
       "id": 131905,
-      "name": "Fascia, My Precious Artwork",
-      "desc": "Turn End: at 2 [HumanFleshTheRings], [HumanFleshTheRings] expires next turn; then, gain [BoneBladeTheRings]\n\nTurn Start: if this unit has [BoneBladeTheRings], use a powerful attack this turn\n\nIf this unit is hit by an Attack Skill before using the powerful attack, gain 1 [UnsteadyTheRings]"
+      "name": "Fascia, Mia Opera Adorata",
+      "desc": "A fine turno, se ha 2 [HumanFleshTheRings], perde [HumanFleshTheRings] e ottiene [BoneBladeTheRings] il turno successivo\n\nA inizio turno, se ha [BoneBladeTheRings], usa un attacco potente\n\nQuando viene colpito prima di usare questo attacco, ottiene 1 [UnsteadyTheRings]"
     },
     {
       "id": 131801,
