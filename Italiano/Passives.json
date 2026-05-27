@@ -2848,7 +2848,7 @@
     },
     {
       "id": 1061405,
-      "name": "Transcendi il Corpus",
+      "name": "Trascendi il Corpus",
       "desc": "Quando entra in un Incontro per la prima volta, ottiene 21 [GoldenOpportunity]\n\nQuando un alleato con una ID della fazione dell'Anulare usa un'Abilità, perde 1 [GoldenOpportunity] (una volta per turno, per Identità)\n\nFine Turno: Se questa unità non ha [GoldenOpportunity], sostituisce una delle sue Abilità Base \"Chiusura - Installazione D'Arte n.1: La tua Carne e Le Tue Ossa come Sedie Per La Mia Mostra\" al prossimo Inizio Turno (una volta per Incontro; dà priorità all'Abilità nello Slot più in basso a sinistra sul Pannello di Controllo)\n- Se l'Abilità che è stata sostituita non può essere usata perché è stata sostituita da un'altra Abilità, attiva nuovamente l'effetto sovracitato\n\nFine Turno: Se questa unità viene Stordita per la prima volta in questo Incontro, si riprende dallo Stordimento (escluso lo Stordimento forzato)",
       "summary": "Si riprende dallo Stordimento"
     },
