@@ -672,7 +672,7 @@
           "level": 1,
           "name": "Lacera lo Spazio - Legame [空間斬-緣]",
           "desc": "[WhenUse] A 10+ PS, genera 1 Mang. Potere Finale +5\nCi si può Scontrare con quest'Abilità a prescindere dalla Velocità; Non può essere Stordita fino alla fine di quest'Abilità\n[DefeatDuel] Infligge -80% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio\n[EndSkill] Se questa Abilità ha generato 1 Mang, perde 10 PS\n[EndSkill] Termina il turno",
-          "flavor": "A technique that cuts through space itself. Sundering the fabric of space has long been the ambition of those who live by the sword—a hard-won feat reached through divergent disciplines.",
+          "flavor": "Una tecnica che fende lo spazio stesso. Lacerare la sostanza stessa dello spazio è sempre stata la lungimirante ambizione di chi segue la via della spada— un obiettivo raggiunto tramite diverse discipline",
           "coinlist": [
             {
               "coindescs": [
