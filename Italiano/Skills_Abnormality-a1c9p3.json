@@ -680,23 +680,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rotator Crush",
-          "desc": "[WhenUse] If target has 6+ [Laceration], Potere Moneta +1",
+          "name": "Annientamento Roteante",
+          "desc": "[WhenUse] Se i bersaglio ha 6+ [Laceration], Potere Moneta +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Infligge +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Infligge 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Binding] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ottiene 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [Agility] il turno successivo"
                 }
               ]
             }
@@ -709,8 +709,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tendon Tear",
-          "desc": "[WhenUse] Potere Moneta +1 per ogni 4 [Laceration] on target (max 2)",
+          "name": "Strappare i Tendini",
+          "desc": "[WhenUse] Potere Moneta +1 per ogni 4 [Laceration] sul bersaglio (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -722,17 +722,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Infligge +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Infligge 1 [ResultReduction] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [ResultReduction] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ottiene 1 [ResultEnhancement] next turn"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [ResultEnhancement] il turno successivo"
                 }
               ]
             }
@@ -746,7 +746,7 @@
         {
           "level": 1,
           "name": "È Ora di Mangiare, Fascia",
-          "desc": "[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "desc": "[DefeatDuel] Infligge -80% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio",
           "coinlist": [
             {
               "coindescs": [
@@ -764,7 +764,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +2 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             },
@@ -774,10 +774,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 PS damage"
+                  "desc": "[OnSucceedAttack] Infligge 5 danni ai PS"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 10 PS on self"
+                  "desc": "[OnSucceedAttack] Recupera 10 PS"
                 },
                 {
                   "desc": "[OnSucceedAttack] Ottiene 1 [HumanFleshTheRings]"
@@ -794,7 +794,7 @@
         {
           "level": 1,
           "name": "Liberazione Della Carne Repressa",
-          "desc": "During the turn this unit has this Skill equipped, ottiene 1 [PlusCoinValueDown] and 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>when hit by Attack Skills</u></b></mark></color> (once per Skill; max 3 times per turn)\nCannot be Staggered before using this Skill\nOn Kill with this Skill: heal 15 PS per ogni target killed\n[StartBattle] Ottiene 4 [Protection]\n[WhenUse] Deal +3% damage per ogni 6 ([Laceration] on main target + [Laceration] on sub-target) (max 30%)\n[DefeatDuel] Deal -60% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] [BoneBladeTheRings] expires",
+          "desc": "Mentre questa Abilità è equipaggiata, ottiene 1 [PlusCoinValueDown] e 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>quando viene colpita dalle Abilità nemiche</u></b></mark></color> (una volta per Abilità; max 3 volte per turno)\nNon può essere Stordita prima dell'uso di quest'Abilità\nSe quest'Abilità uccide: recupera 15 PS per ogni nemico sconfitto\n[StartBattle] Ottiene 4 [Protection]\n[WhenUse] Infligge +3% danni per ogni 6 ([Laceration] sul bersaglio principale + [Laceration] nei bersagli secondari) (max 30%)\n[DefeatDuel] Infligge -60% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio\n[EndSkill] [BoneBladeTheRings] scade",
           "coinlist": [
             {
               "coindescs": [
@@ -802,10 +802,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Deal 5 PS damage"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 5 danni ai PS"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 5 PS (once per Skill)"
+                  "desc": "[OnSucceedAttack] Recupera 5 PS (una volta per Abilità)"
                 }
               ]
             },
@@ -815,10 +815,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 1 [Vulnerable] next turn"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 1 [Vulnerable] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ottiene 1 [Protection] next turn (once per Skill)"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [Protection] il turno successivo (una volta per Abilità)"
                 }
               ]
             },
@@ -828,10 +828,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 1 [AttackDmgDown] next turn"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 1 [AttackDmgDown] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ottiene 1 [AttackDmgUp] next turn (once per Skill)"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [AttackDmgUp] il turno successivo (una volta per Abilità)"
                 }
               ]
             },
@@ -841,7 +841,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Infligge +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Laceration]"
                 }
               ]
             }
@@ -855,7 +855,7 @@
         {
           "level": 1,
           "name": "La Mostra Ha Inizio",
-          "desc": "[StartBattle] <color=#ff6000><mark=#ff000040><b><u> Ottiene 1 [SupportProtect]</u></b></mark></color>\n[StartBattle] Ottiene 1 [Agility] next turn",
+          "desc": "[StartBattle] <color=#ff6000><mark=#ff000040><b><u> Ottiene 1 [SupportProtect]</u></b></mark></color>\n[StartBattle] Ottiene 1 [Agility] il turno successivo",
           "coinlist": [
             {}
           ]
@@ -868,25 +868,25 @@
         {
           "level": 1,
           "name": "Ehi, Tu. Il vandalismo È Proibito.",
-          "desc": "[DuelCounter]\n[SupportProtect] exclusive Skill\nCannot be Staggered before using this Skill\n[WhenUse] Ottiene 1 [Protection]\n[WhenUse] If target has 6+ [Laceration], Potere Moneta +1",
+          "desc": "[DuelCounter]\n[SupportProtect] Abilità esclusiva\nNon può essere stordita prima dell'uso di quest'Abilità\n[WhenUse] Ottiene 1 [Protection]\n[WhenUse] se il bersaglio ha 6+ [Laceration], Potere Moneta +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Infligge 1 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Vulnerable] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ottiene 1 [Protection] next turn"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [Protection] il turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Infligge 1 [ResultReduction] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [ResultReduction] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ottiene 1 [ResultEnhancement] next turn"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [ResultEnhancement] il turno successivo"
                 }
               ]
             }
@@ -1123,7 +1123,7 @@
         {
           "level": 1,
           "name": "Pestare",
-          "desc": "If target has 4+ [Laceration], Potere Moneta +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], infligge 1 [Laceration] On Coin Hit\n[DefeatDuel] Ottiene 1 [ParryingResultUp] next turn (2 times per turn)",
+          "desc": "If target has 4+ [Laceration], Potere Moneta +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], infligge 1 [Laceration] On Coin Hit\n[DefeatDuel] Ottiene 1 [ParryingResultUp] il turno successivo (2 times per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1155,7 +1155,7 @@
         {
           "level": 1,
           "name": "Calciare",
-          "desc": "If target has 4+ [Laceration], Potere Moneta +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], infligge 1 [Laceration] On Coin Hit\n[DefeatDuel] Ottiene 1 [VioletDamageUp] next turn (2 times per turn)",
+          "desc": "If target has 4+ [Laceration], Potere Moneta +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], infligge 1 [Laceration] On Coin Hit\n[DefeatDuel] Ottiene 1 [VioletDamageUp] il turno successivo (2 times per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1439,7 +1439,7 @@
         {
           "level": 1,
           "name": "Colpo Devasta-Fixer!",
-          "desc": "Thermal Blade Skill. \nWhen in [HeatingWireOnSpider] state, this Skill activates its Thermal Blade effects\nIf target has 4+ [Laceration], Potere Moneta +1\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughter], infligge +1 [Laceration] Count On Coin Hit\n[EndSkill] At 2+ [GotACompliment], ottiene 1 [VioletDamageUp] next turn",
+          "desc": "Thermal Blade Skill. \nWhen in [HeatingWireOnSpider] state, this Skill activates its Thermal Blade effects\nIf target has 4+ [Laceration], Potere Moneta +1\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughter], infligge +1 [Laceration] Count On Coin Hit\n[EndSkill] At 2+ [GotACompliment], ottiene 1 [VioletDamageUp] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
@@ -1614,7 +1614,7 @@
         {
           "level": 1,
           "name": "Pestare!",
-          "desc": "If target has 4+ [Laceration], Potere Moneta +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], infligge 1 [Laceration] On Coin Hit\n[DefeatDuel] Ottiene 1 [SkillPowerUp] next turn (2 times per turn)",
+          "desc": "If target has 4+ [Laceration], Potere Moneta +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], infligge 1 [Laceration] On Coin Hit\n[DefeatDuel] Ottiene 1 [SkillPowerUp] il turno successivo (2 times per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1646,7 +1646,7 @@
         {
           "level": 1,
           "name": "Calciare!",
-          "desc": "If target has 4+ [Laceration], Potere Moneta +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], infligge 1 [Laceration] On Coin Hit\n[DefeatDuel] Ottiene 1 [VioletDamageUp] next turn (2 times per turn)",
+          "desc": "If target has 4+ [Laceration], Potere Moneta +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], infligge 1 [Laceration] On Coin Hit\n[DefeatDuel] Ottiene 1 [VioletDamageUp] il turno successivo (2 times per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -1856,7 +1856,7 @@
         {
           "level": 1,
           "name": "Ti Sgozzo Come Un Maiale!",
-          "desc": "[BeforeUse] Lose 10 PS\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[DefeatDuel] Ottiene 1 [SkillPowerUp] next turn (2 times per turn)\n[BeforeAttack] Ottiene (# of Coins in this Skill x 2) [Combustion]",
+          "desc": "[BeforeUse] Lose 10 PS\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[DefeatDuel] Ottiene 1 [SkillPowerUp] il turno successivo (2 times per turn)\n[BeforeAttack] Ottiene (# of Coins in this Skill x 2) [Combustion]",
           "coinlist": [
             {
               "coindescs": [
@@ -2135,7 +2135,7 @@
                   "desc": "[OnSucceedAttack] <color=#ff6000><mark color=#ff000040><b><u>Halve the [OffenseBug] Stack on target</color></mark></b></u> (rounded down)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Absorb all negative effects from the target\n- After activating the above effect, if this unit does not have [DefenseBug], ottiene 2 [ResultReduction] next turn"
+                  "desc": "[OnSucceedAttack] Absorb all negative effects from the target\n- After activating the above effect, if this unit does not have [DefenseBug], ottiene 2 [ResultReduction] il turno successivo"
                 }
               ]
             }
@@ -2330,7 +2330,7 @@
         {
           "level": 1,
           "name": "'Figliolo, ricordati di puntare al cuore.'",
-          "desc": "[CantChangeTarget]\n[WhenUse] Ottiene 10 [Breath] and +4 [Breath] Count\n[WinDuel] Ottiene 10 [Breath]\n[DefeatDuel] Deal -80% damage and does not hit Critically\nDamage dealt by this Skill cannot Stagger the target\n[DefeatDuel] Ottiene 5 [Vulnerable] next turn",
+          "desc": "[CantChangeTarget]\n[WhenUse] Ottiene 10 [Breath] and +4 [Breath] Count\n[WinDuel] Ottiene 10 [Breath]\n[DefeatDuel] Deal -80% damage and does not hit Critically\nDamage dealt by this Skill cannot Stagger the target\n[DefeatDuel] Ottiene 5 [Vulnerable] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
@@ -2394,7 +2394,7 @@
         {
           "level": 1,
           "name": "Scudo Dell'Imperatore",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>For this turn, take -50% damage from the targeted unit's Attack Skills</u></b></mark></color>\n[WinDuel] Infligge 3 [Binding] next turn\n[DefeatDuel] Target heals 15 PS",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>For this turn, take -50% damage from the targeted unit's Attack Skills</u></b></mark></color>\n[WinDuel] Infligge 3 [Binding] il turno successivo\n[DefeatDuel] Target heals 15 PS",
           "coinlist": [
             {
               "coindescs": [
@@ -2593,10 +2593,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 1 [Vulnerable] next turn"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 1 [Vulnerable] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ottiene 1 [Protection] next turn (once per Skill)"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [Protection] il turno successivo (once per Skill)"
                 }
               ]
             },
@@ -2606,10 +2606,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 1 [AttackDmgDown] next turn"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 1 [AttackDmgDown] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ottiene 1 [AttackDmgUp] next turn (once per Skill)"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [AttackDmgUp] il turno successivo (once per Skill)"
                 }
               ]
             },
@@ -2633,7 +2633,7 @@
         {
           "level": 1,
           "name": "Massima Lacerazione Allo Spazio - Legame [空間斬 - 絕緣]",
-          "desc": "Ci si può Scontrare con quest'Abilità a prescindere dalla Velocità; Non può essere Stordita fino alla fine di quest'Abilità\n[WhenUse] A 20+ PS, genera 3 Mang. Potere Finale +10\n[EndSkill] Se questa Abilità ha generato il Mang, perde 20 PS\n[WinDuel] Ottiene 2 [SlashDamageUp]\n[DefeatDuel] Infligge -80% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio",
+          "desc": "Ci si può Scontrare con quest'Abilità a prescindere dalla Velocità; Non può essere Stordita fino alla fine di quest'Abilità\n[WhenUse] A 20+ PS, genera 3 Mang. Potere Finale +10\n[EndSkill] Se questa Abilità ha generato Mang, perde 20 PS\n[WinDuel] Ottiene 2 [SlashDamageUp]\n[DefeatDuel] Infligge -80% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio",
           "coinlist": [
             {
               "coindescs": [
@@ -2676,7 +2676,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Non Hai Cambiato Il Futuro - Taglio ((Scartrail)) [殘痕斬]",
+          "name": "Non Hai Cambiato Il Futuro - Taglio Sfregiante [殘痕斬]",
           "desc": "Ci si può Scontrare con quest'Abilità a prescindere dalla Velocità; Non può essere Stordita fino alla fine di quest'Abilità\n[StartBattle] Ottiene 1 [AttackDmgDown] per ogni nemico che ha equipaggiato le Abilità Difensive questo turno (max 5)\n[DefeatDuel] Infligge -80% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio",
           "coinlist": [
             {
@@ -3064,7 +3064,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Infligge 1 [SlashTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [SlashTakeDamageUp] il turno successivo"
                 }
               ]
             }
@@ -3209,7 +3209,7 @@
         {
           "level": 1,
           "name": "Spodesta il Corpo, Schiaccia Sotto il Peso",
-          "desc": "Potere Finale +1 per ogni livello di [UnlockBuff_Base] (max 2)\nAttiva i seguenti effetti in base all'arma:\n- Le armi Contundenti infliggono +20% danni\n- Le armi Taglienti e Perforanti infliggono -10% danni\n[WhenUse] Ottiene +1 Conteggio [Breath]",
+          "desc": "Potere Finale +1 per ogni livello di [UnlockBuff_Base] (max 2)\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi Contundenti infliggono +20% danni\n- Le armi Taglienti e Perforanti infliggono -10% danni\n[WhenUse] Ottiene +1 Conteggio [Breath]",
           "coinlist": [
             {},
             {
@@ -3229,7 +3229,7 @@
         {
           "level": 1,
           "name": "Distendi Verticalmente L'Estremità, Infilza Fino allo Stoppino",
-          "desc": "Potere Finale +1 per ogni livello di [UnlockBuff_Base] (max 2)\nAttiva i seguenti effetti in base all'arma:\n- Le armi perforanti infliggono +20% danni\n- Le armi Taglienti e Contundenti infliggono -10% danni\n[WhenUse] Ottiene +1 Conteggio [Breath]",
+          "desc": "Potere Finale +1 per ogni livello di [UnlockBuff_Base] (max 2)\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi perforanti infliggono +20% danni\n- Le armi Taglienti e Contundenti infliggono -10% danni\n[WhenUse] Ottiene +1 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3255,7 +3255,7 @@
         {
           "level": 1,
           "name": "Ruota la Spada Sul Suo Lato, Taglia Come un Respiro Affogato",
-          "desc": "Potere Finale +1 per ogni livello di [UnlockBuff_Base] (max 2)\nAttiva i seguenti effetti in base all'arma:\n- Le armi Taglienti infliggono +20% danni\n- Le armi Contundenti e Perforanti infliggono -10% danni\n[WhenUse] Ottiene +1 Conteggio [Breath]",
+          "desc": "Potere Finale +1 per ogni livello di [UnlockBuff_Base] (max 2)\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi Taglienti infliggono +20% danni\n- Le armi Contundenti e Perforanti infliggono -10% danni\n[WhenUse] Ottiene +1 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3280,8 +3280,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swing to Fell, Have it Meet the Ground",
-          "desc": "Potere Finale +1 per ogni livello di [UnlockBuff_Base] (max 2)\nAttiva i seguenti effetti in base all'arma:\n- Le armi Contundenti infliggono +30% danni\n- Le armi Taglienti e Perforanti infliggono -15% danni\n[StartBattle] Attiva i seguenti effetti in base al livello di [UnlockBuff_Base] (cumulativi):\n- [UnlockBuff_Rien2]: l'ultima Moneta diventa una [SuperCoin]\n- [UnlockBuff_Rien3]: Se quest'Abilità vince lo Scontro, abbassa la propria Soglia di Stordimento di 10\n[WhenUse] Ottiene 2 [Breath]",
+          "name": "Colpisci Il Terreno, Lascia Che L'Arma Tocchi Il Suolo",
+          "desc": "Potere Finale +1 per ogni livello di [UnlockBuff_Base] (max 2)\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi Contundenti infliggono +30% danni\n- Le armi Taglienti e Perforanti infliggono -15% danni\n[StartBattle] Attiva i seguenti effetti in base al livello di [UnlockBuff_Base] (cumulativi):\n- [UnlockBuff_Rien2]: l'ultima Moneta diventa una [SuperCoin]\n- [UnlockBuff_Rien3]: Se quest'Abilità vince lo Scontro, abbassa la propria Soglia di Stordimento di 10\n[WhenUse] Ottiene 2 [Breath]",
           "coinlist": [
             {},
             {
@@ -3310,8 +3310,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Aim Toward a Point, Let it Echo Within",
-          "desc": "Potere Finale +1 per ogni livello di [UnlockBuff_Base] (max 2)\nAttiva i seguenti effetti in base all'arma:\n- Le armi Perforanti infliggono +30% danni\n- Le armi Taglienti e Contundenti infliggono -15% danni\n[StartBattle] Attiva i seguenti effetti in base al livello di [UnlockBuff_Base] (cumulativi):\n- [UnlockBuff_Rien2]: l'ultima Moneta diventa una [SuperCoin]\n- [UnlockBuff_Rien3]: Se quest'Abilità vince lo Scontro, infligge 1 [ResultReduction] il turno successivo\n[WhenUse] Ottiene 2 [Breath]",
+          "name": "Mira Verso un Punto, Lascia Che Echeggi Dall'Interno",
+          "desc": "Potere Finale +1 per ogni livello di [UnlockBuff_Base] (max 2)\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi Perforanti infliggono +30% danni\n- Le armi Taglienti e Contundenti infliggono -15% danni\n[StartBattle] Attiva i seguenti effetti in base al livello di [UnlockBuff_Base] (cumulativi):\n- [UnlockBuff_Rien2]: l'ultima Moneta diventa una [SuperCoin]\n- [UnlockBuff_Rien3]: Se quest'Abilità vince lo Scontro, infligge 1 [ResultReduction] il turno successivo\n[WhenUse] Ottiene 2 [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3346,8 +3346,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Carve at a Low Slant, Peel What Remains",
-          "desc": "Potere Finale +1 per ogni [UnlockBuff_Base] stage (max 2)\nThe following effects activate depending on the weapon's Attack Type\n- Slash weapons deal +30% damage\n- Non-Slash weapons deal -15% damage\n[StartBattle] Ottiene the following effects (effects are cumulative)\n- At [UnlockBuff_Rien2], convert the final Coin to [SuperCoin]\n- At [UnlockBuff_Rien3], on Clash Win with this Skill, ottiene 1 [ResultEnhancement] next turn\n[WhenUse] Ottiene 2 [Breath]",
+          "name": "Affetta Con inclinazione Bassa, Rimuovi Ciò Che Ne Resta",
+          "desc": "Potere Finale +1 per ogni [UnlockBuff_Base] stage (max 2)\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi Taglienti infliggono +30% danni\n- Le armi Contundenti e Perforanti infliggono -15% danni\n[StartBattle] Attiva i seguenti effetti in base al livello di [UnlockBuff_Base] (cumulativi):\n- [UnlockBuff_Rien2]: l'ultima Moneta diventa una [SuperCoin]\n- [UnlockBuff_Rien3]: Se quest'Abilità vince lo Scontro, ottiene 1 [ResultEnhancement] il turno successivo\n[WhenUse] Ottiene 2 [Breath]\n[WhenUse] Ottiene 2 [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3366,10 +3366,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Ottiene +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +1 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +1 Conteggio [Sinking]"
                 }
               ]
             }
@@ -3382,8 +3382,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Destroy the Sound, Crush Flat the Thought",
-          "desc": "Can Clash with this Skill regardless of Speed\nThe following effects activate depending on the weapon's Attack Type\n- Blunt weapons deal +50% damage\n- Non-Blunt weapons deal -25% damage\n[StartBattle] Ottiene the following effects (effects are cumulative)\n- At [UnlockBuff_Rien2], convert the 3rd and 4th Coins to [SuperCoin]s\n- At [UnlockBuff_Rien3], on Clash Win with this Skill, raise target's Stagger Threshold by 15\n[WhenUse] Ottiene 2 [Breath] and +2 [Breath] Count",
+          "name": "Silenzia Il Suono, Annienta Il Pensiero",
+          "desc": "Ci si può Scontrare con quest'Abilità a prescindere dalla velocità\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi Contundenti infliggono +50% danni\n- Le armi Taglienti e Perforanti infliggono -25% danni\n[StartBattle] Attiva i seguenti effetti in base al livello di [UnlockBuff_Base] (cumulativi):\n- [UnlockBuff_Rien2]: converte le Monete 3 e 4 in [SuperCoin]\n- [UnlockBuff_Rien3]: Se quest'Abilità vince lo Scontro, alza la Soglia di Stordimento del bersaglio di 15\n[WhenUse] Ottiene 2 [Breath] e +2 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3395,7 +3395,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +2 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +2 Conteggio [Sinking]"
                 }
               ]
             },
@@ -3409,7 +3409,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Ottiene +2 [Breath] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Ottiene +2 Conteggio [Breath]"
                 }
               ]
             }
@@ -3422,8 +3422,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stab the Silence's Heart, Penetrate the Memory",
-          "desc": "Can Clash with this Skill regardless of Speed\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +50% damage\n- Non-Pierce weapons deal -25% damage\n[StartBattle] Ottiene the following effects (effects are cumulative)\n- At [UnlockBuff_Rien2], convert the 3rd and 4th Coins to [SuperCoin]s\n- At [UnlockBuff_Rien3], on Clash Win with this Skill, ottiene 1 [AttackDmgUp] next turn\n[WhenUse] Ottiene 2 [Breath] and +2 [Breath] Count",
+          "name": "Infilza Il Cuor Del Silenzio, Perforane Ogni Memoria",
+          "desc": "Ci si può Scontrare con quest'Abilità a prescindere dalla velocità\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi Perforanti infliggono +50% danni\n- Le armi Taglienti e Contundenti infliggono -25% danni\n[StartBattle] Attiva i seguenti effetti in base al livello di [UnlockBuff_Base] (cumulativi):\n- [UnlockBuff_Rien2]: converte le Monete 3 e 4 in [SuperCoin]\n- [UnlockBuff_Rien3]: Se quest'Abilità vince lo Scontro, ottiene 1 [AttackDmgUp] il turno successivo\n[WhenUse] Ottiene 2 [Breath] and +2 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3442,14 +3442,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +2 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +2 Conteggio [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Ottiene +2 [Breath] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Ottiene +2 Conteggio [Breath]"
                 }
               ]
             }
@@ -3462,8 +3462,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "With Tempered Secret, Cut the Form",
-          "desc": "Can Clash with this Skill regardless of Speed\nThe following effects activate depending on the weapon's Attack Type\n- Slash weapons deal +50% damage\n- Non-Slash weapons deal -25% damage\n[StartBattle] Ottiene the following effects (effects are cumulative)\n- At [UnlockBuff_Rien2], convert the final Coin to [SuperCoin]\n- At [UnlockBuff_Rien3], on Clash Win with this Skill, Potere Finale +2\n[WhenUse] Ottiene 2 [Breath] and +2 [Breath] Count",
+          "name": "Con Segreto Temperato, Recidi La Forma",
+          "desc": "Ci si può Scontrare con quest'Abilità a prescindere dalla Velocità\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi Taglienti infliggono +50% danni\n- Le armi Contundenti e Perforanti infliggono -25% danni\n[StartBattle] Ottiene i seguenti effetti in base al livello di [UnlockBuff_Base] (cumulativi)\n- [UnlockBuff_Rien2]: Converte l'ultima Moneta in [SuperCoin]\n- [UnlockBuff_Rien3]: Se quest'Abilità vince lo Scontro, Potere Finale +2\n[WhenUse] Ottiene 2 [Breath] e +2 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3475,7 +3475,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Ottiene +2 [Breath] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Ottiene +2 Conteggio [Breath]"
                 }
               ]
             },
@@ -3489,7 +3489,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +2 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +2 Conteggio [Sinking]"
                 }
               ]
             }
@@ -3529,7 +3529,7 @@
         {
           "level": 1,
           "name": "Furioso-Replica",
-          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>This Skill does not trigger the target's Defense Skills</u></b></mark></color>\nCan Clash with this Skill regardless of Speed\n[WhenUse]\n- Ottiene 3 [Breath] and +3 [Breath] Count\n- Clash Power +5 (<color=#ff6000><mark=#ff000040><b><u>Clash Power gained is reduced by 1 per ogni 10 [KarmaOfIndexRien] on self, down to 0</u></b></mark></color>)\n[WhenUse] At 0+ PS, generate 1 Mang\n- Deal +40% damage; Potere Finale +4\n\n[WinDuel]\n- Ottiene 3 [Breath] and +3 [Breath] Count\n- Attack End: Infligge 3 [Laceration], 1 [Binding], and 1 [Vulnerable] next turn to all targets this unit hit\n[DefeatDuel]\n- Ottiene 4 [AttackDmgDown] and 9 [Paralysis]\n- Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n[EndSkill] If this Skill generated Mang, lose 20 PS\n[EndSkill] End this turn",
+          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Non attiva le Abilità Difensive</u></b></mark></color>\nCi si può Scontrare con quest'Abilità a prescindere dalla Velocità\n[WhenUse]\n- Ottiene 3 [Breath] e +3 Conteggio [Breath]\n- Potere Scontro +5 (<color=#ff6000><mark=#ff000040><b><u>il Potere Scontro ottenuto è ridotto di 1 per ogni 10 [KarmaOfIndexRien] su di sé, con un minimo di 0</u></b></mark></color>)\n[WhenUse] A 0+ PS, genera 1 Mang\n- Infligge +40% danni; Potere Finale +4\n\n[WinDuel]\n- Ottiene 3 [Breath] e +3 Conteggio [Breath]\n- A fine attacco, Infligge 3 [Laceration], 1 [Binding], e 1 [Vulnerable] nel turno successivo su ogni bersaglio colpito da quest'Abilità \n[DefeatDuel]\n- Ottiene 4 [AttackDmgDown] e 9 [Paralysis]\n- Il danno inflitto da quest'Abilità non può Stordire il bersaglio e non può attivare gli effetti di [Sinking] sul colpo\n[EndSkill] Se quest'Abilità ha generato Mang, perde 20 PS\n[EndSkill] Termina il turno",
           "coinlist": [
             {
               "coindescs": [
@@ -3544,7 +3544,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Reuse this Coin (7 times max)</u></b></mark></color>"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Riuse questa Moneta (max 7 volte)</u></b></mark></color>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 1 [Sinking]"
@@ -3560,8 +3560,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slam Down with Weight, Topple the Body",
-          "desc": "Blunt weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Blunt weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Blunt weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Blunt weapons deal +30% damage\n- Non-Blunt weapons deal -15% damage\n[WhenUse] Ottiene 1 [Breath] and +1 [Breath] Count",
+          "name": "Spodesta il Corpo, Schiaccia Sotto il Peso",
+          "desc": "Le armi Contundenti appaiono più frequentemente\n- A 75+ [KarmaOfIndexRien_2Phase], le armi Contundenti appaiono meno frequentemente\n- A 150+ [KarmaOfIndexRien_2Phase], le armi Contundenti appaiono molto meno frequentemente\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi Contundenti infliggono +30% danni\n- Le armi Taglienti e Perforanti infliggono -15% danni\n[WhenUse] Ottiene 1 [Breath] e +1 Conteggio [Breath]",
           "coinlist": [
             {},
             {
@@ -3583,8 +3583,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lay Vertical The End, Insert Up to the Wick",
-          "desc": "Pierce weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Pierce weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Pierce weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +30% damage\n- Non-Pierce weapons deal -15% damage\n[WhenUse] Ottiene 1 [Breath] and +1 [Breath] Count",
+          "name": "Distendi Verticalmente L'Estremità, Infilza Fino allo Stoppino",
+          "desc": "Le armi Perforanti appaiono più frequentemente\n- A 75+ [KarmaOfIndexRien_2Phase], le armi Perforanti appaiono meno frequentemente\n- A 150+ [KarmaOfIndexRien_2Phase], le armi Perforanti appaiono molto meno frequentemente\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi Perforanti infliggono +30% danni\n- Le armi Taglienti e Contundenti infliggono -15% danni\n[WhenUse] Ottiene 1 [Breath] e +1 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3615,8 +3615,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lay the Blade on its Side, Slice Like a Severed Breath",
-          "desc": "Slash weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Slash weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Slash weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Slash weapons deal +30% damage\n- Non-Slash weapons deal -15% damage\n[WhenUse] Ottiene 1 [Breath] and +1 [Breath] Count",
+          "name": "Ruota la Spada Sul Suo Lato, Taglia Come un Respiro Affogato",
+          "desc": "Le armi Taglienti appaiono più frequentemente\n- A 75+ [KarmaOfIndexRien_2Phase], le armi Taglienti appaiono meno frequentemente\n- A 150+ [KarmaOfIndexRien_2Phase], le armi Taglienti appaiono molto meno frequentemente\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi Taglienti infliggono +30% danni\n- Le armi Contundenti e Perforanti infliggono -15% danni\n[WhenUse] Ottiene 1 [Breath] e +1 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3631,10 +3631,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Infligge +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ottiene +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                 }
               ]
             }
@@ -3647,8 +3647,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swing to Fell, Have it Meet the Ground",
-          "desc": "Blunt weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Blunt weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Blunt weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Blunt weapons deal +40% damage\n- Non-Blunt weapons deal -20% damage\n[WhenUse] Ottiene 2 [Breath] and +1 [Breath] Count\n[WinDuel] Lower user's Stagger Threshold by 15\n- At 75+ [KarmaOfIndexRien_2Phase], this effect does not activate",
+          "name": "Colpisci Il Terreno, Lascia Che L'Arma Tocchi Il Suolo",
+          "desc": "Le armi Contundenti appaiono più frequentemente\n- A 75+ [KarmaOfIndexRien_2Phase], le armi Contundenti appaiono meno frequentemente\n- A 150+ [KarmaOfIndexRien_2Phase], le armi Contundenti appaiono molto meno frequentemente\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi Contundenti infliggono +40% danni\n- Le armi Taglienti e Perforanti infliggono -20% danni\n[WhenUse] Ottiene 2 [Breath] e +1 Conteggio [Breath]\n[WinDuel] Abbassa la propria Soglia di Stordimento di 15\n- A 75+ [KarmaOfIndexRien_2Phase], questo effetto non viene attivato",
           "coinlist": [
             {},
             {
@@ -3664,10 +3664,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ottiene +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +1 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +1 Conteggio [Sinking]"
                 }
               ]
             }
@@ -3680,8 +3680,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Aim Toward a Point, Let it Echo Within",
-          "desc": "Pierce weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Pierce weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Pierce weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +40% damage\n- Non-Pierce weapons deal -20% damage\n[WhenUse] Ottiene 2 [Breath] and +1 [Breath] Count\n[WinDuel] Infligge 2 [ResultReduction] next turn\n- At 75+ [KarmaOfIndexRien_2Phase], this effect does not activate",
+          "name": "Mira Verso un Punto, Lascia Che Echeggi Dall'Interno",
+          "desc": "Le armi Perforanti appaiono più frequentemente\n- A 75+ [KarmaOfIndexRien_2Phase], le armi Perforanti appaiono meno frequentemente\n- A 150+ [KarmaOfIndexRien_2Phase], le armi Perforanti appaiono molto meno frequentemente\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi Perforanti infliggono +40% danni\n- Le armi Taglienti e Contundenti infliggono -20% danni\n[WhenUse] Ottiene 2 [Breath] e +1 Conteggio [Breath]\n[WinDuel] Infligge 2 [ResultReduction] il turno successivo\n- A 75+ [KarmaOfIndexRien_2Phase], questo effetto non viene attivato",
           "coinlist": [
             {
               "coindescs": [
@@ -3693,7 +3693,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Infligge +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Sinking]"
                 }
               ]
             },
@@ -3703,10 +3703,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ottiene +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +1 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +1 Conteggio [Sinking]"
                 }
               ]
             }
@@ -3719,8 +3719,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Carve at a Low Slant, Peel What Remains",
-          "desc": "Slash weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Slash weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Slash weapons appear even less frequently\nPotere Finale +1 per ogni [UnlockBuff_Base] stage (max 3)\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +40% damage\n- Non-Pierce weapons deal -20% damage\n[WhenUse] Ottiene 2 [Breath] and +1 [Breath] Count\n[WinDuel] Ottiene 2 [ResultEnhancement] next turn\n- At 75+ [KarmaOfIndexRien_2Phase], this effect does not activate",
+          "name": "Affetta Con inclinazione Bassa, Rimuovi Ciò Che Ne Resta",
+          "desc": "Le armi Perforanti appaiono più frequentemente\n- A 75+ [KarmaOfIndexRien_2Phase], le armi Perforanti appaiono meno frequentemente\n- A 150+ [KarmaOfIndexRien_2Phase], le armi Perforanti appaiono molto meno frequentemente\nPotere Finale +1 per ogni livello di [UnlockBuff_Base] (max 3)\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi Perforanti infliggono +40% danni\n- Le armi Taglienti e Contundenti infliggono -20% danni\n[WhenUse] Ottiene 2 [Breath] e +1 Conteggio [Breath]\n[WinDuel] Ottiene 2 [ResultEnhancement] il turno successivo\n- A 75+ [KarmaOfIndexRien_2Phase], questo effetto non viene attivato",
           "coinlist": [
             {
               "coindescs": [
@@ -3742,10 +3742,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Ottiene +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +1 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +1 Conteggio [Sinking]"
                 }
               ]
             }
@@ -3758,8 +3758,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Destroy the Sound, Crush Flat the Thought",
-          "desc": "Can Clash with this Skill regardless of Speed\nIf this unit has [BlackNightmare]:\n- Convert all Coins to [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>When clashing against a non-Blunt Skill or a non-Ryōshū unit</u></b></mark></color>, Potere Moneta +2 and deal +50% damage\n- On Clash Lose against a Blunt Skill or Ryōshū:\n  - Potere Moneta -2 and deal -50% damage\n  - Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n\nBlunt weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Blunt weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Blunt weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Blunt weapons deal +60% damage\n- Non-Blunt weapons deal -30% damage\n[WhenUse] Ottiene 3 [Breath] and +2 [Breath] Count\n[WinDuel] Raise target's Stagger Threshold by 25\n- At 150+ [KarmaOfIndexRien_2Phase], this effect does not activate",
+          "name": "Silenzia Il Suono, Annienta Il Pensiero",
+          "desc": "Ci si può Scontrare con quest'Abilità a prescindere dalla Velocità\nSe ha [BlackNightmare]:\n- Converte ogni moneta in [SuperCoin]\n- <color=#ff6000><mark=#ff000040><b><u>Se non si Scontra contro un'Abilità Attacco Contundente o contro Ryōshū</u></b></mark></color>, Potere Moneta +2 e infligge +50% danni\n- A Scontro perso contro un'Abilità Attacco Contundente o contro Ryōshū:\n  - Potere Moneta -2 e infligge -50% danni\n  - Il danno inflitto da quest'Abilità non può Stordire il bersaglio e non può attivare gli effetti di [Sinking] sul colpo\n\nLe armi Contundenti appaiono più frequentemente\n- A 75+ [KarmaOfIndexRien_2Phase], le armi Contundenti appaiono meno frequentemente\n- A 150+ [KarmaOfIndexRien_2Phase], le armi Contundenti appaiono molto meno frequentemente\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi Contundenti infliggono +60% danni\n- Le armi Taglienti e Contundenti infliggono -30% danni\n[WhenUse] Ottiene 3 [Breath] e +2 Conteggio [Breath]\n[WinDuel] alza la Soglia di Stordimento del Bersaglio di 25\n- A 150+ [KarmaOfIndexRien_2Phase], questo effetto non viene attivato",
           "coinlist": [
             {
               "coindescs": [
@@ -3771,7 +3771,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +2 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +2 Conteggio [Sinking]"
                 }
               ]
             },
@@ -3791,7 +3791,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Ottiene +2 [Breath] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Ottiene +2 Conteggio [Breath]"
                 }
               ]
             }
@@ -3804,8 +3804,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stab the Heart of Silence, Penetrate the Memory",
-          "desc": "Can Clash with this Skill regardless of Speed\nIf this unit has [BlackNightmare]:\n- Convert all Coins to [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>When clashing against a non-Pierce Skill or a non-Ryōshū unit</u></b></mark></color>, Potere Moneta +2 and deal +50% damage\n- On Clash Lose against a Pierce Skill or Ryōshū:\n  - Potere Moneta -2 and deal -50% damage\n  - Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n\nPierce weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Pierce weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Pierce weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +60% damage\n- Non-Pierce weapons deal -30% damage\n[WhenUse] Ottiene 3 [Breath] and +2 [Breath] Count\n[WinDuel] Ottiene 2 [AttackDmgUp] next turn\n- At 150+ [KarmaOfIndexRien_2Phase], this effect does not activate",
+          "name": "Infilza Il Cuor Del Silenzio, Perforane Ogni Memoria",
+          "desc": "Ci si può Scontrare con quest'Abilità a prescindere dalla Velocità\nSe ha [BlackNightmare]:\n- Converte ogni moneta in [SuperCoin]\n- <color=#ff6000><mark=#ff000040><b><u>Se non si Scontra contro un'Abilità Attacco Perforante o contro Ryōshū</u></b></mark></color>, Potere Moneta +2 e infligge +50% danni\n- A Scontro perso contro un'Abilità Attacco Perforante o contro Ryōshū:\n  - Potere Moneta -2 e infligge -50% danni\n  - Il danno inflitto da quest'Abilità non può Stordire il bersaglio e non può attivare gli effetti di [Sinking] sul colpo\n\nLe armi Perforanti appaiono più frequentemente\n- A 75+ [KarmaOfIndexRien_2Phase], le armi Perforanti appaiono meno frequentemente\n- A 150+ [KarmaOfIndexRien_2Phase], le armi Perforanti appaiono molto meno frequentemente\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi Perforanti infliggono +60% danni\n- Le armi Taglienti e Contundenti infliggono -30% danni\n[WhenUse] Ottiene 3 [Breath] e +2 Conteggio [Breath]\n[WinDuel] Ottiene 2 [AttackDmgUp] il prossimo turno\n- A 150+ [KarmaOfIndexRien_2Phase], questo effetto non viene attivato",
           "coinlist": [
             {
               "coindescs": [
@@ -3851,7 +3851,7 @@
         {
           "level": 1,
           "name": "With Tempered Secret, Sever the Form",
-          "desc": "Can Clash with this Skill regardless of Speed\nIf this unit has [BlackNightmare]:\n- Convert all Coins to [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>When clashing against a non-Slash Skill or a non-Ryōshū unit</u></b></mark></color>, Potere Moneta +2 and deal +50% damage\n- On Clash Lose against a Slash Skill or Ryōshū:\n  - Potere Moneta -2 and deal -50% damage\n  - Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n\nSlash weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Slash weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Slash weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Slash weapons deal +60% damage\n- Non-Slash weapons deal -30% damage\n[WhenUse] Ottiene 3 [Breath] and +2 [Breath] Count\n[WinDuel] Potere Finale +3\n- At 150+ [KarmaOfIndexRien_2Phase], this effect does not activate",
+          "desc": "Ci si può Scontrare con quest'Abilità a prescindere dalla Velocità\nSe ha [BlackNightmare]:\n- Converte ogni moneta in [SuperCoin]\n- <color=#ff6000><mark=#ff000040><b><u>Se non si Scontra contro un'Abilità Attacco Tagliente o contro Ryōshū</u></b></mark></color>, Potere Moneta +2 e infligge +50% danni\n- A Scontro perso contro un'Abilità Attacco Tagliente o contro Ryōshū:\n  - Potere Moneta -2 e infligge -50% danni\n  - Il danno inflitto da quest'Abilità non può Stordire il bersaglio e non può attivare gli effetti di [Sinking] sul colpo\n\nLe armi Taglienti appaiono più frequentemente\n- A 75+ [KarmaOfIndexRien_2Phase], le armi Taglienti appaiono meno frequentemente\n- A 150+ [KarmaOfIndexRien_2Phase], le armi Taglienti appaiono molto meno frequentemente\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi taglienti infliggono +60% danni\n- Le armi Contundenti e Perforanti infliggono -30% danni\n[WhenUse] Ottiene 3 [Breath] e +2 Conteggio [Breath]\n[WinDuel] Potere Finale +3\n- A 150+ [KarmaOfIndexRien_2Phase], questo effetto non viene attivato",
           "coinlist": [
             {
               "coindescs": [
@@ -3863,7 +3863,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Ottiene +3 [Breath] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Ottiene +3 Conteggio [Breath]"
                 }
               ]
             },
@@ -3883,7 +3883,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +2 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +2 Conteggio [Sinking]"
                 }
               ]
             }
@@ -3897,7 +3897,7 @@
         {
           "level": 1,
           "name": "Ricordi Questa Mossa, Tesoro? Solo Tu Puoi Affrontare Questo Scontro.",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>Solo Ryōshū può Scontrare questa Abilità</u></b></mark></color>\n- Ryōshū può Scontrare questa Abilità a prescindere dalla Velocità\nOn Unopposed Attack, Potere Moneta +2 and deal +50% damage\n\n[DefeatDuel]\n- Potere Moneta -2 and deal -50% damage\n- Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n\n[EndBattle] <color=#ff6000><mark=#ff000040><b><u>If this unit lost the Clash, ottiene 1 [BurningWoundRien]</u></b></mark></color>\n- If all 3 Skills with [BlackNightmare]-related unique effects lost the Clash this turn, ottiene 2 [BurningWoundRien] instead",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Solo Ryōshū può Scontrare questa Abilità</u></b></mark></color>\n- Ryōshū può Scontrare con questa Abilità a prescindere dalla Velocità\nSu Attacco Incontrastato, Potere Moneta +2 e infligge +50% danni\n\n[DefeatDuel]\n- Potere Moneta -2 e infligge -50% danni\n- Il danno inflitto da quest'Abilità non può Stordire il bersaglio e non può attivare gli effetti di [Sinking] sul colpo\n\n[EndBattle] <color=#ff6000><mark=#ff000040><b><u>e quest'Abilità ha perso lo Scontro, ottiene 1 [BurningWoundRien]</u></b></mark></color>\n- Se tutte le Abilità con effetti legati a [BlackNightmare] hanno perso il loro rispettivo Scontro durante il turno, ottiene invece 2 [BurningWoundRien]",
           "coinlist": [
             {
               "coindescs": [
@@ -3925,7 +3925,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +2 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +2 Conteggio [Sinking]"
                 }
               ]
             }
@@ -3939,7 +3939,7 @@
         {
           "level": 1,
           "name": "Furioso [Crescendo]",
-          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>This Skill does not trigger the target's Defense Skills</u></b></mark></color>\nCan Clash with this Skill regardless of Speed\n[WhenUse]\n- Ottiene 6 [Breath] and +6 [Breath] Count\n- Clash Power +10 (<color=#ff6000><mark=#ff000040><b><u>Clash Power gained is reduced by 1 per ogni 20 [KarmaOfIndexRien_2Phase] on self</u></b></mark></color>)\n[WhenUse] At 0+ PS, generate 2 Mangs\n- Deal +70% damage; Potere Finale +6\n\n[WinDuel]\n- Attack End: Infligge 4 [Laceration], 2 [Binding], and 2 [Vulnerable] next turn to all targets this unit hit\n[DefeatDuel]\n- Ottiene 6 [AttackDmgDown] and 9 [Paralysis]\n- Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n[EndSkill] If this Skill generated Mang, lose 25 PS\n[EndSkill] End this turn",
+          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Non attiva le Abilità Difensive</u></b></mark></color>\nCi si può Scontrare con quest'Abilità a prescindere dalla Velocità\n[WhenUse]\n- Ottiene 6 [Breath] e +6 Conteggio [Breath]\n- Potere Scontro +10 (<color=#ff6000><mark=#ff000040><b><u>il Potere Scontro ottenuto è ridotto di 1 per ogni 20 [KarmaOfIndexRien_2Phase] su di sé, con un minimo di 0</u></b></mark></color>)\n[WhenUse] A 0+ PS, genera 2 Mang\n- Infligge +70% danni; Potere Finale +6\n\n[WinDuel]\n- A fine attacco: Infligge 4 [Laceration], 2 [Binding], e 2 [Vulnerable] il prossimo turno su ogni bersaglio colpito da quest'Abilità\n[DefeatDuel]\n- Ottiene 6 [AttackDmgDown] e 9 [Paralysis]\n- Il danno inflitto da quest'Abilità non può Stordire il bersaglio e non può attivare gli effetti di [Sinking] sul colpo\n[EndSkill] Se quest'Abilità ha generato Mang, perde 25 PS\n[EndSkill] Termina il turno",
           "coinlist": [
             {
               "coindescs": [
@@ -3954,7 +3954,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Reuse this Coin (7 times max)</u></b></mark></color>"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Riusa questa Moneta (max 7 volte)</u></b></mark></color>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 1 [Sinking]"
@@ -3971,7 +3971,7 @@
         {
           "level": 1,
           "name": "Furioso [Lacrimosa-Crescendo]",
-          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>This Skill does not trigger the target's Defense Skills</u></b></mark></color>\nCan Clash with this Skill regardless of Speed\n<color=#ff6000><mark=#ff000040><b><u>- When Clashing against Ryōshū's base E.G.O, Clash Power -20</u></b></mark></color>\n\n[WhenUse]\n- Ottiene 9 [Breath] and +9 [Breath] Count\n- Clash Power +15 (Clash Power gained is reduced by 1 per ogni 20 [KarmaOfIndexRien_2Phase] on self)\n[WhenUse] At 0+ PS, generate 3 Mangs\n- Deal +100% damage; Potere Finale +12\n\n[WinDuel]\n- Attack End: Infligge 5 [Laceration], 3 [Binding], and 3 [Vulnerable] next turn to all targets this unit hit\n[DefeatDuel]\n- Ottiene 8 [AttackDmgDown] and 9 [Paralysis]\n- Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n[EndSkill] If this Skill generated Mang, lose 30 PS\n[EndSkill] End this turn",
+          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Non attiva le Abilità Difensive</u></b></mark></color>\nCi si può Scontrare con quest'Abilità a prescindere dalla Velocità\n<color=#ff6000><mark=#ff000040><b><u>- Se si Scontra con l'E.G.O 'Creato in Fiamme' di Ryōshū, Potere Scontro -20</u></b></mark></color>\n\n[WhenUse]\n- Ottiene 9 [Breath] e +9 Conteggio [Breath]\n- Clash Power +15 (il Potere Scontro ottenuto è ridotto di 1 per ogni 20 [KarmaOfIndexRien_2Phase])\n[WhenUse] A 0+ PS, genera 3 Mang\n- Infligge +100% danni; Potere Finale +12\n\n[WinDuel]\n- A fine attacco, Infligge 5 [Laceration], 3 [Binding], e 3 [Vulnerable] il prossimo turno su ogni bersaglio colpito da quest'Abilità\n[DefeatDuel]\n- Ottiene 8 [AttackDmgDown] e 9 [Paralysis]\n- Il danno inflitto da quest'Abilità non può Stordire il bersaglio e non può attivare gli effetti di [Sinking] sul colpo\n[EndSkill] Se quest'Abilità ha generato Mang, perde 30 PS\n[EndSkill] Termina il turno",
           "coinlist": [
             {
               "coindescs": [
@@ -3986,7 +3986,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Reuse this Coin (7 times max)</u></b></mark></color>"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Riusa questa Moneta (max 7 volte)</u></b></mark></color>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 1 [Sinking]"
