@@ -1812,49 +1812,74 @@
       "dlg": "La punizione per tutte le parti coinvolte nei tuoi crimini... è una condanna a morte!"
     },
     {
-      "id": "",
+      "id": "battle_s3_11115_1_1",
       "desc": "MIDDLE NURSEFATHER OUTIS START | Obama - S3 Stamp of CATE",
       "dlg": "Questi giocattoli..."
     },
     {
-      "id": "",
+      "id": "battle_s3_11115_1_2",
       "desc": "Obama - S3 Stamp of CATE",
       "dlg": "Non vanno bene..."
     },
     {
-      "id": "",
+      "id": "battle_s3_11115_1_3",
       "desc": "Obama - S3 Stamp of CATE",
       "dlg": "Non mi divertono più!"
     },
     {
-      "id": "",
+      "id": "battle_special_11115_1",
       "desc": "Obama - Counter",
       "dlg": "Viè qua!"
     },
     {
-      "id": "",
-      "desc": "Obama - Lævateinn fully unsealed",
-      "dlg": "New line, awaiting translation"
+      "id": "battle_special_11115_2_2",
+      "desc": "Obama - S2-2 Gut Stab [Lævateinn]",
+      "dlg": "<i><size=120%>Ti avviso, è molto calda...</size></i>"
     },
     {
-      "id": "",
-      "desc": "Obama - Ishmael does something and triggers this line",
-      "dlg": "New line, awaiting translation"
-    },
-    {
-      "id": "",
-      "desc": "Obama - S3 Gut Stab [Lævateinn]",
-      "dlg": "È molto calda..."
-    },
-    {
-      "id": "",
-      "desc": "Obama - S3 Gut Stab [Lævateinn]",
+      "id": "battle_special_11115_2_3",
+      "desc": "Obama - S2-2 Gut Stab [Lævateinn]",
       "dlg": "<i><size=140%>CALDA DA MORIRE!!</size></i>"
     },
     {
-      "id": "",
-      "desc": "Obama - S3 CATE [Lævateinn]",
-      "dlg": "<i><size=120%>Ho fatto centro!!</size></i>"
+      "id": "battle_special_11115_3",
+      "desc": "Obama - S3-2 CATE [Lævateinn]",
+      "dlg": "<i><size=140%>Ho fatto centro!!</size></i>"
+    },
+    {
+      "id": "battle_special_11115_4",
+      "desc": "Obama - Removing First Layer",
+      "dlg": "Ho visto abbastanza!\nÈ l'ora dello sbusto!!"
+    },
+    {
+      "id": "battle_special_11115_5",
+      "desc": "Obama - Removing Second Layer",
+      "dlg": "Hahaha! Interessante!"
+    },
+    {
+      "id": "battle_special_11115_6",
+      "desc": "Obama - Full Unseal",
+      "dlg": "Guarda e impara!"
+    },
+    {
+      "id": "battle_special_11115_7",
+      "desc": "Obama - I cant understand what triggers this, but it does show up when clashing",
+      "dlg": "Huh... Non serve manco scriverlo. Qui ci vuole un'esecuzione sommaria!"
+    },
+    {
+      "id": "battle_special_11115_8",
+      "desc": "Obama - Ishmael wins a clash",
+      "dlg": "Si, cazzo! Continua\ncosì, piccoletta!"
+    },
+    {
+      "id": "battle_special_11115_10_2-03",
+      "desc": "Obama - Sacrifice",
+      "dlg": "Lo faccio per la famiglia!"
+    },
+    {
+      "id": "battle_special_11115_9",
+      "desc": "Obama - Ishmael Sacrifice",
+      "dlg": "Ricordi, piccoletta? Un piccolo sacrificio...! Non è niente se è per la famiglia!"
     },
     {
       "id": "",
