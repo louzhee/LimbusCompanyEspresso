@@ -2836,7 +2836,7 @@
         {
           "level": 3,
           "name": "Pugnalata Allo Stomaco [Lævateinn]",
-          "desc": "Abilità esclusiva di [MiddleFatherSwordFourOutis]\nSe il bersaglio ha 4+ ([Combustion] + [Laceration]), Potere Finale +1\n[WhenUse] Questa Abilità ottiene Livello Offensivo pari a (Risonanza più alta / 2) (max 3, arrotondato per difetto)\n[WhenUse] Ottiene +5 [Aggro] su questo Slot Abilità il turno successivo\n[BeforeAttack] Ottiene [Combustion]  pari al numero di Monete di questa Abilità\n[EndSkill] Perde 5 PS",
+          "desc": "Abilità esclusiva di [MiddleFatherSwordFourOutis]\nSe il bersaglio ha 4+ ([Combustion] + [Laceration]), Potere Finale +1\n[WhenUse] Questa Abilità ottiene Livello Offensivo pari a (Risonanza più alta / 2) (max 3, arrotondato per difetto)\n[WhenUse] Ottiene +5 [Aggro] su questo Slot Abilità il turno successivo\n[BeforeAttack] Ottiene [Combustion] pari al numero di Monete di questa Abilità\n[EndSkill] Perde 5 PS",
           "coinlist": [
             {
               "coindescs": [
@@ -2892,8 +2892,8 @@
         },
         {
           "level": 4,
-          "name": "Gut Stab [Lævateinn]",
-          "desc": "[MiddleFatherSwordFourOutis] Exclusive Skill\nIf target has 4+ ([Combustion] + [Laceration]), Final Power +1\n[WhenUse] This Skill gains Offense Level equal to (highest Reson. / 2) (max 3, rounded down)\n[WhenUse] Gain +5 [Aggro] to this Skill Slot next turn\n[BeforeAttack] Gain [Combustion] equal to the number of Coins in this Skill\n[EndSkill] Lose 5 SP",
+          "name": "Pugnalata Allo Stomaco [Lævateinn]",
+          "desc": "Abilità esclusiva di [MiddleFatherSwordFourOutis]\nSe il bersaglio ha 4+ ([Combustion] + [Laceration]), Potere Finale +1\n[WhenUse] Questa Abilità ottiene Livello Offensivo pari a (Risonanza più alta / 2) (max 3, arrotondato per difetto)\n[WhenUse] Ottiene +5 [Aggro] su questo Slot Abilità il turno successivo\n[BeforeAttack] Ottiene [Combustion] pari al numero di Monete di questa Abilità\n[EndSkill] Perde 5 PS",
           "coinlist": [
             {
               "coindescs": [
@@ -2901,7 +2901,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">4</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] Infligge <style=\"highlight\">4</style> [Combustion]"
                 }
               ]
             },
@@ -2911,7 +2911,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">4</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge <style=\"highlight\">4</style> [Laceration]"
                 }
               ]
             },
@@ -2921,7 +2921,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Combustion]"
                 }
               ]
             },
@@ -2931,7 +2931,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             },
@@ -2941,7 +2941,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] <style=\"highlight\">and 1 [Paralysis]</style> next turn (once per turn)"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Binding] <style=\"highlight\">e 1 [Paralysis]</style> il turno successivo (una volta per turno)"
                 }
               ]
             }
@@ -2954,8 +2954,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Complete and Total Extermination [Lævateinn]",
-          "desc": "[MiddleFatherSwordFourOutis] Exclusive Skill\nFinal Power +1 for every 4 ([Combustion] + [Laceration]) on target (max 3)\nDeal +1% damage for every 1 ([Combustion] + [Laceration]) on target (max 20%)\n[WhenUse] This Skill gains Offense Level equal to (highest Reson.) (max 6)\n[WhenUse] If this unit has [ReinforcedTattooSpiderOutis], Coin Power +1\n[BeforeAttack] Gain [Combustion] equal to the number of Coins of this Skill\n[EndSkill] Lose 5 SP\n[EndSkill] Consume all [ResentmentSpiderOutis] on self",
+          "name": "Vi Condanno A Morte [Lævateinn]",
+          "desc": "Abilità esclusiva di [MiddleFatherSwordFourOutis]\nPotere Finale +1 per ogni 4 ([Combustion] + [Laceration]) sul bersaglio (max 3)\nInfligge +1% danni per ogni 1 ([Combustion] + [Laceration]) sul bersaglio (max 20%)\n[WhenUse] Questa Abilità ottiene Livello Offensivo pari a (Risonanza più alta) (max 6)\n[WhenUse] Se questa unità ha [ReinforcedTattooSpiderOutis], Potere Moneta +1\n[BeforeAttack] Ottiene [Combustion] pari al numero di Monete di questa Abilità\n[EndSkill] Perde 5 PS\n[EndSkill] Consuma tutte le Stack di [ResentmentSpiderOutis] su di sé",
           "coinlist": [
             {
               "coindescs": [
@@ -2963,7 +2963,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Combustion]"
                 }
               ]
             },
@@ -2973,7 +2973,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Combustion]"
                 }
               ]
             },
@@ -2983,7 +2983,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             },
@@ -2993,7 +2993,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             },
@@ -3003,10 +3003,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal Pierce damage equal to ([Combustion] on target + [Laceration] on target)% of this Coin's final damage (max 25%)"
+                  "desc": "[OnSucceedAttack] Infligge danno Perforante pari a ([Combustion] sul bersaglio + [Laceration]sul bersaglio)% del danno finale di questa Moneta (max 25%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal Blunt damage equal to ([Combustion] on target + [Laceration] on target)% of this Coin's final damage (max 25%)"
+                  "desc": "[OnSucceedAttack] Infligge danno Contundente pari a ([Combustion] sul bersaglio + [Laceration]sul bersaglio)% del danno finale di questa Moneta (max 25%)"
                 }
               ]
             }
@@ -3014,8 +3014,8 @@
         },
         {
           "level": 4,
-          "name": "Complete and Total Extermination [Lævateinn]",
-          "desc": "[MiddleFatherSwordFourOutis] Exclusive Skill\nFinal Power +1 for every 4 ([Combustion] + [Laceration]) on target (max 3)\nDeal +1% damage for every 1 ([Combustion] + [Laceration]) on target (max <style=\"highlight\">40%</style>)\n[WhenUse] This Skill gains Offense Level equal to (highest Reson.) (max 6)\n[WhenUse] If this unit has [ReinforcedTattooSpiderOutis], Coin Power +1\n<style=\"highlight\">[WhenUse] If this unit has [ReinforcedTattooSpiderOutis], inflict 1 [Laceration] Potency On Coin Hit</style>\n[BeforeAttack] Gain [Combustion] equal to the number of Coins of this Skill\n[EndSkill] Lose 5 SP\n[EndSkill] Consume all [ResentmentSpiderOutis] on self\n<style=\"highlight\">[EndSkill] If this Skill was activated as a Counter Skill, gain 1 [HitDamageUp] next turn (once per turn)</style>",
+          "name": "Vi Condanno A Morte [Lævateinn]",
+          "desc": "Abilità esclusiva di [MiddleFatherSwordFourOutis]\nPotere Finale +1 per ogni 4 ([Combustion] + [Laceration]) sul bersaglio (max 3)\nInfligge +1% danni per ogni 1 ([Combustion] + [Laceration]) sul bersaglio (max <style=\"highlight\">40%</style>)\n[WhenUse] Questa Abilità ottiene Livello Offensivo pari a (Risonanza più alta) (max 6)\n[WhenUse] Se questa unità ha [ReinforcedTattooSpiderOutis], Potere Moneta +1\n<style=\"highlight\">[WhenUse] Se questa unità ha [ReinforcedTattooSpiderOutis], infligge 1 Potenza [Laceration] Sul Colpo Moneta</style>\n[BeforeAttack] Ottiene [Combustion] pari al numero di Monete di questa Abilità\n[EndSkill] Perde 5 PS\n[EndSkill] Consuma tutte le Stack di [ResentmentSpiderOutis] su di sé\n<style=\"highlight\">[EndSkill] Se questa Abilità è stata attivata come Contrattacco, ottiene 1 [HitDamageUp] il turno successivo (una volta per turno)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3023,7 +3023,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">4</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] Infligge <style=\"highlight\">4</style> [Combustion]"
                 }
               ]
             },
@@ -3033,7 +3033,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Combustion]"
                 }
               ]
             },
@@ -3043,10 +3043,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Laceration]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Deal Slash damage equal to (([Combustion] on target + [Laceration] on target) x 2)% of this Coin's final damage (max 50%)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Infligge danno Tagliente pari a (([Combustion] sul bersaglio + [Laceration] sul bersaglio) x 2)% del danno finale di questa Moneta (max 50%)</style>"
                 }
               ]
             },
@@ -3056,10 +3056,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Deal Slash damage equal to (([Combustion] on target + [Laceration] on target) x 2)% of this Coin's final damage (max 50%)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Infligge danno Tagliente pari a (([Combustion] sul bersaglio + [Laceration] sul bersaglio) x 2)% del danno finale di questa Moneta (max 50%)</style>"
                 }
               ]
             },
@@ -3069,10 +3069,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal Pierce damage equal to ([Combustion] on target + [Laceration] on target)% of this Coin's final damage (max 25%)"
+                  "desc": "[OnSucceedAttack] Infligge danno Perforante pari a ([Combustion] sul bersaglio + [Laceration]sul bersaglio)% del danno finale di questa Moneta (max 25%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal Blunt damage equal to ([Combustion] on target + [Laceration] on target)% of this Coin's final damage (max 25%)"
+                  "desc": "[OnSucceedAttack]Infligge danno Contundente pari a ([Combustion] sul bersaglio + [Laceration]sul bersaglio)% del danno finale di questa Moneta (max 25%)"
                 }
               ]
             }
@@ -3085,8 +3085,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Time to Unpack!",
-          "desc": "External effects cannot trigger this Skill to be Reused\n[EndSkill] Remove a seal from the sword",
+          "name": "Oggi si Spacchetta!",
+          "desc": "Gli effetti esterni non possono far Riusare questa Abilità\n[EndSkill] Rimuove un sigillo dalla spada",
           "coinlist": [
             {
               "coindescs": [
@@ -3094,7 +3094,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Combustion]"
                 }
               ]
             },
@@ -3104,7 +3104,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 }
               ]
             },
@@ -3114,7 +3114,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10"
+                  "desc": "[OnSucceedAttack] Aumenta la Soglia di Stordimento di 10"
                 }
               ]
             },
@@ -3124,7 +3124,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [VioletTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [VioletTakeDamageUp] il turno successivo"
                 }
               ]
             }
@@ -3132,8 +3132,8 @@
         },
         {
           "level": 3,
-          "name": "Time to Unpack!",
-          "desc": "External effects cannot trigger this Skill to be Reused\n<style=\"highlight\">[WhenUse] If this unit has [ReinforcedTattooSpiderOutis], deal Slash damage equal to (25% of each Coin's final damage) On Coin Hit</style>\n[EndSkill] Remove a seal from the sword",
+          "name": "Oggi si Spacchetta!",
+          "desc": "Gli effetti esterni non possono far Riusare questa Abilità\n<style=\"highlight\">[WhenUse] Se questa unità ha [ReinforcedTattooSpiderOutis], infligge danno Tagliente pari a (25% del danno finale di ogni Moneta) Sul Colpo Moneta</style>\n[EndSkill] Rimuove un sigillo dalla spada",
           "coinlist": [
             {
               "coindescs": [
@@ -3141,7 +3141,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Combustion]"
                 }
               ]
             },
@@ -3151,7 +3151,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 }
               ]
             },
@@ -3161,7 +3161,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10"
+                  "desc": "[OnSucceedAttack] Aumenta la Soglia di Stordimento di 10"
                 }
               ]
             },
@@ -3171,7 +3171,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [VioletTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [VioletTakeDamageUp] il turno successivo"
                 }
               ]
             }
@@ -3184,8 +3184,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Good Girl. Your Sacrifice for the Family Won't Be Forgotten.",
-          "desc": "[MiddleFatherSwordFourOutis] Exclusive Skill\n[CantDuel]\n[CantChangeTarget]\nExternal effects cannot trigger this Skill to be Reused, and this Skill does not trigger Defense Skills\nFinal Power +1 for every 4 ([Combustion] + [Laceration]) on the main target (max 3)\n[WhenUse] Final Power +1 and deal +10% damage for every [ReinforcedTattooSpiderOutis] on self (max 3, max 100%)\n[WhenUse] If The House of Spiders: The Middle Apprentice Ishmael is among targets, deal +100% damage\n[EndSkill] Consume all [ResentmentSpiderOutis] on self and gain 5 [ResentmentSpiderOutis]\n[EndSkill] If a targeted ally is killed, gain 10 [ResentmentSpiderOutis]",
+          "name": "Brava Bimba. Il Tuo Sacrificio per la Famiglia Non Sarà Dimenticato.",
+          "desc": "Abilità esclusiva di [MiddleFatherSwordFourOutis]\n[CantDuel]\n[CantChangeTarget]\nGli effetti esterni non possono far Riusare questa Abilità, e questa Abilità non attiva le Abilità Difensive\nPotere Finale +1 per ogni 4 ([Combustion] + [Laceration]) sul bersaglio principale (max 3)\n[WhenUse] Potere Finale +1 e infligge +10% danni per ogni [ReinforcedTattooSpiderOutis] su di séf (max 3, max 100%)\n[WhenUse] Se Il Nido dei Ragni: Apprendista del Medio Ishmael è tra i bersagli, infligge +100% danni\n[EndSkill] Consuma tutte le Stack di [ResentmentSpiderOutis] su di sé e ottiene 5 [ResentmentSpiderOutis]\n[EndSkill] Se un alleato bersagliato viene ucciso, ottiene 10 [ResentmentSpiderOutis]",
           "coinlist": [
             {
               "coindescs": [
@@ -3193,16 +3193,16 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "If target's Blunt Res. is below \"Normal\" (1.0), treat it as \"Normal\" (1.0)"
+                  "desc": "Se la resistenza Contundente è al di sotto di \"Normale\" (1.0), viene considerata come se fosse \"Normale\" (1.0)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Combustion] e +2 Conteggio [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration] e +2 Conteggio [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal Blunt damage equal to (100% of this Coin's final damage)"
+                  "desc": "[OnSucceedAttack] Infligge danno Contundente pari a (100% del danno finale di questa Moneta)"
                 }
               ]
             }
