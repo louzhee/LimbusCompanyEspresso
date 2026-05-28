@@ -140,15 +140,15 @@
 },
     {
       "id": 1091,
-      "panicName": "Refracted Affection and Resentment",
-      "lowMoraleDescription": "Deal and take +10% damage",
-      "panicDescription": "Deal and take +20% damage"
+      "panicName": "Affetto e Risentimento Rifratti",
+      "lowMoraleDescription": "Infligge e subisce +10% danni",
+      "panicDescription": "Infligge e subisce +20% danni"
     },
     {
       "id": 1097,
-      "panicName": "Imitation of a Father",
-      "lowMoraleDescription": "- Turn Start: Gain 5 [Combustion] and 5 [Laceration]",
-      "panicDescription": "- Turn Start: Gain 5 [Combustion], +3 [Combustion] Count, 5 [Laceration], and +3 [Laceration] Count"
+      "panicName": "Imitazione di un Padre",
+      "lowMoraleDescription": "- Inizio Turno: Ottiene 5 [Combustion] e 5 [Laceration]",
+      "panicDescription": "- Inizio Turno: Ottiene 5 [Combustion], +3 Conteggio [Combustion], 5 [Laceration] e +3 Conteggio [Laceration]"
     }
   ]
 }

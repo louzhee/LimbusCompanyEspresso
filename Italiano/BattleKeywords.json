@@ -3093,72 +3093,72 @@
 },
     {
       "id": "RetaliationBookSpiderOutis",
-      "name": "Book of Vengeance [The House of Spiders]",
-      "desc": "- Against units that have this effect, The House of Spiders: The Middle Nursefather Outis and The House of Spiders: The Middle Apprentice Ishmael heal 5 SP On Hit using a Skill (once per Skill, 2 times per turn)\n- On Hit using a Skill against The House of Spiders: The Middle Nursefather Outis, gain 1 additional Stack of The Middle - Grudge (once per Skill, 2 times per turn for each Identity)\n- On Hit using a Skill against The House of Spiders: The Middle Apprentice Ishmael, gain 1 additional Stack of The Middle - Grudge (once per Skill, 2 times per turn for each Identity)\n- Expires at Turn End",
+      "name": "Libro Della Vendetta [Nido dei Ragni]",
+      "desc": "- Contro le unità che hanno questo effetto, Il Nido dei Ragni: Precettore del Medio Outis e Il Nido dei Ragni: Apprendista del Medio Ishmael recuperano 5 PS Sul Colpo usando un'Abilità (una volta per Abilità, 2 volte per turno)\n- Sul Colpo usando un'Abilità contro Il Nido dei Ragni: Precettore del Medio Outis, ottiene 1  Stack in più di Il Medio - Rancore (una volta per Abilità, 2 volte per turno per ogni Identità)\n-  Sul Colpo usando un'Abilità contro Il Nido dei Ragni: Apprendista del Medio Ishmael, ottiene 1 Stack in più di Il Medio - Rancore (una volta per Abilità, 2 volte per turno per ogni Identità)\n- Scade a Fine Turno",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "ResentmentSpiderOutis",
-      "name": "The Middle - Grudge",
-      "desc": "- Max Stack: 15\n- If target has Vengeance Mark, deal +20% damage",
+      "name": "Il Medio - Rancore",
+      "desc": "- Max Stack: 15\n- Se il bersaglio ha Marchio della Vendetta, infligge +20% danni",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "ReinforcedTattooSpiderOutis",
-      "name": "The Middle - Vengeance Tattoo [<s>Great Sister</s>]",
-      "desc": "- Max Stack: 10\n- Final Power +1 for Base Skills for every 5 Stack (max 2)\n- Envy Skills and Blunt Skills deal +5% damage for every Stack (max 50%)",
+      "name": "Il Medio - Tatuaggi Vendicativi [<s>Sorella Maggiore</s>]",
+      "desc": "- Max Stack: 10\n- Potere Finale +1 per le Abilità Base per ogni 5 Stack (max 2)\n- Le Abilità Invidia e Contundenti infliggono +5% danni per ogni Stack (max 50%)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "DaughterEducationSpiderOutis",
-      "name": "Check This Out, Kiddo!",
-      "desc": "- Max Stack: 10\n- Reduced by 1 when this unit is hit by 2 Skills\n- At 5+ Stack, Base Skills gain Final Power +1\n- Blunt Skills deal +1% damage for every Stack (max 10%)",
+      "name": "Guarda Questo, Piccoletta!",
+      "desc": "- Max Stack: 10\n- Ridotto di 1 quando questa unità viene colpita da 2 Abilità\n- A 5+ Stack, le Abilità Base ottengono Potere Finale +1\n- Le Abilità Contundenti infliggono +1% danni per ogni Stack (max 10%)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "GotAComplimentIshmael",
-      "name": "I Got Praised!",
-      "desc": "- Max Stack: 10\n- Reduced by 1 when this unit is hit by 2 Skills\n- At 5+ Stack, Base Skills gain Final Power +1\n- Blunt Skills deal +1% damage for every Stack (max 10%)",
+      "name": "Sono Stata Brava!",
+      "desc": "- Max Stack: 10\n- Ridotto di 1 quando questa unità viene colpita da 2 Abilità\n- A 5+ Stack, le Abilità Base ottengono Potere Finale +1\n- Le Abilità Contundenti infliggono +1% dann per ogni Stack (max 10%)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "MiddleFatherGutsOutis",
-      "name": "Ridiculous Grit",
-      "desc": "- Max Stack: 3\n- Fix any Attack Type Resistances that exceed Normal (1.0) to Normal (unless Staggered)\n- Take -(30 + (The Middle - Vengeance Tattoo [<s>Great Sister</s>] Stack x 4))% damage from Skills (max 50%; rounded down)\n- On Clash Win, heal an additional (Clash count x 5) SP (max 15)\n- Turn End: If this unit lost SP this turn due to its Skill effects, deal +10% damage next turn using Base Skills (once per turn)\n- Turn End: Lose 1 Stack",
+      "name": "Tenacia Ridicola",
+      "desc": "- Max Stack: 3\n- Fissa qualsiasi tipo di Resistenza che supera \"Normale\" (1.0) a \"Normale\" (tranne se Stordita)\n- Subisce -(30 + (Il Medio - Stack di Tatuaggi Vendicativi [<s>Sorella Maggiore</s>] x 4))% danni dalle Abilità (max 50%, arrotondato per difetto)\n- A Scontro Vinto, recupera (numero Scontri x 5) PS in più (max 15)\n- Fine Turno: Se questa unità ha perso PS in questo turno a causa degli effetti delle sue Abilità, infligge +10% danno il turno successivo usando le Abilità Base (una volta per turno)\n- Fine Turno: Perde 1 Stack",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "MiddleFatherSwordOneOutis",
-      "name": "Sealed Sword",
-      "desc": "- Turn End: Gain 2 Haste next turn\n- Blunt Base Skills deal +2% damage for every 4 Bleed on target (max 10%)\n- On final Coin Hit using Base Skills, if target has 20+ Bleed, deal (10% of the Coin's final damage) Blunt damage (rounded down)",
+      "name": "Spada Sigillata",
+      "desc": "- Fine Turno: Ottiene 2 Rapidità il turno successivo\n- Le Abilità Base Contundenti infliggono +2% danni per ogni 4 Sanguinamento sul bersaglio (max 10%)\n- Sul Colpo con la Moneta Finale usando le Abilità Base, se il bersaglio ha 20+ Sanguinamento, infligge (10% del danno della Moneta Finale) danno Contundente (arrotondato per difetto)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "MiddleFatherSwordTwoOutis",
-      "name": "First Seal Removed",
-      "desc": "- Turn End: Gain 1 Haste next turn\n- Blunt Base Skills deal +2% damage for every 4 (Burn + Bleed) on target (max 10%)\n- On final Coin Hit using Base Skills, if target has 20+ (Burn + Bleed), deal (10% of the Coin's final damage) Blunt damage (rounded down)",
+      "name": "Primo Sigillo Rimosso",
+      "desc": "- Fine Turno: Ottiene 1 Rapidità il turno successivo\n- Le Abilità Base Contundenti infliggono +2% danni per ogni 4 (Bruciatura + Sanguinamento) sul bersaglio (max 10%)\n- Sul Colpo con la Moneta Finale usando le Abilità Base, se il bersaglio ha 20+ (Bruciatura + Sanguinamento), infligge (10% del danno della Moneta Finale) danno Contundente (arrotondato per difetto)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "MiddleFatherSwordThreeOutis",
-      "name": "Second Seal Removed",
-      "desc": "- Turn End: Gain 1 Haste next turn\n- Blunt Base Skills deal +2% damage for every 4 (Burn + Bleed) on target (max 10%)\n- On final Coin Hit using Base Skills, if target has 20+ (Burn + Bleed), deal (10% of the Coin's final damage) Slash damage (rounded down)",
+      "name": "Secondo Sigillo Rimosso",
+      "desc": "- Fine Turno: Ottiene 1 Rapidità il turno successivo\n- Le Abilità Base Contundenti infliggono +2% danni per ogni 4 (Bruciatura + Sanguinamento) sul bersaglio (max 10%)\n- Sul Colpo con la Moneta Finale usando le Abilità Base, se il bersaglio ha 20+ (Bruciatura + Sanguinamento), infligge (10% del danno della Moneta Finale) danno Contundente (arrotondato per difetto)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3166,31 +3166,31 @@
     {
       "id": "MiddleFatherSwordFourOutis",
       "name": "Lævateinn",
-      "desc": "- Turn Start: Inflict 3 Burn on all units on the field\n- Replace this unit's Base Skills with Lævateinn-exclusive Skills corresponding to each Skill's rank\n- Blunt Base Skills deal +2% damage for every 4 (Burn + Bleed) on target (max 10%)\n- On final Coin Hit using Base Skills, if target has 20+ (Burn + Bleed), deal (10% of the Coin's final damage) Pierce damage (rounded down)",
+      "desc": "- Inizio Turno: Infligge 3 Bruciatura su tutte le unità in campo\n- Sostituisce tutte le Abilità Base di questa unità con le Abilità esclusive di Lævateinn del rango Corrispondente ad ogni Abilità\n- Le Abilità Base Contundenti infliggono +2% danni per ogni 4 (Bruciatura + Sanguinamento) sul bersaglio (max 10%)\n- Sul Colpo con la Moneta Finale usando le Abilità Base, se il bersaglio ha 20+ (Bruciatura + Sanguinamento), infligge (10% del danno della Moneta Finale) danno Perforante (arrotondato per difetto)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "MidFamilyOutis",
-      "name": "Avenging My Family",
-      "desc": "- Envy Base Skills deal +20% damage\n- Base Skills gain Final Power +1",
+      "name": "Vendico La Mia Famiglia",
+      "desc": "- Le Abilità Base Invidia infliggono +20% danni\n- Le Abilità Base ottengono Potere Finale +1",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "CountSkillMidOutis",
-      "name": "Rising Fever",
-      "desc": "Lose 1 Stack when meeting one of the following conditions (once per turn):\n- Using the \"Stamp of Vengeance\" Skill (including activation via Counter)\n- At Turn End after activating 6+ Envy A-Reson.\n\nAt 0 Stack, use the \"Time to Unpack!\" Skill",
+      "name": "Entusiasmo Crescente",
+      "desc": "Perde 1 Stack quando soddisfa una di queste condizioni (una volta per turno):\n- Usa l'Abilità \"Timbro Della Vendetta\" (anche come Contrattacco)\n- A Fine Turno dopo aver attivato una 6+ Rison-A Invidia\n\nA 0 Stack, usa l'Abilità \"Oggi Si Spacchetta!\"",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "MatchesPersonality",
-      "name": "Blazing",
-      "desc": "- Min & Max Speed +1\n- This turn's first-used Base Attack Skill gains Final Power +2\n- Take 2% HP damage On Hit with the affected Skill (max 10%; this damage does not Stagger or reduce this unit's HP below 1)\n- Expires at Turn End",
+      "name": "Ardente",
+      "desc": "- Velocità Min & Max +1\n- La prima Abilità Attacco Base usata in questo turno ottiene Potere Finale +2\n- Subisce 2% danni ai PV Sul Colpo con quell'Abilità (max 10%; questo danno non Stordisce o riduce i PV di questa unità al di sotto di 1)\n- Scade a Fine Turno",
       "summary": "",
       "undefined": "-",
       "flavor": ""

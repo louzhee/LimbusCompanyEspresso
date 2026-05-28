@@ -492,11 +492,11 @@
       "id": "Railway6PowderBuff",
       "desc": "- +{2} {0} Resist.; +{2} {1} Resist.",
       "variation": "- +{1} {0} Resist.",
-      "variation2": "- No effect"
+      "variation2": "- Nessun effetto"
     },
     {
       "id": "SpiderHouse11115",
-      "desc": "The House of Spiders: The Middle Nursefather Outis: Take -20% damage; when hit, gain 1 Offense Level Up (2 times per turn)"
+      "desc": "Il Nido dei Ragni: Precettore del Medio Outis: Subisce -20% danni; quando viene colpita, ottiene 1 Livello Offensivo Aumentato (2 volte per turno)"
     }
   ]
 }

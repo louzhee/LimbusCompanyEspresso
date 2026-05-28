@@ -115,17 +115,17 @@
         },
         {
           "level": 5,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
-          "desc": "<style=\"highlight\">[BeforeAttack] Apply the following effects:\n- Final Power +1 for every 6 [Combustion] on all targets (max 4)\n- Deal +1% damage for every 1 [Combustion] on all targets (max 30%)</style>",
+          "name": "Fiamma del Quarto Fiammifero",
+          "abName": "Piccola Fiammiferaia",
+          "desc": "<style=\"highlight\">[BeforeAttack] Applica i seguenti effetti:\n- Potere Finale +1 per ogni 6 [Combustion] su tutti i bersagli (max 4)\n- Infligge +1% danni per ogni 1 [Combustion] su tutti i bersagli (max 30%)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 6 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Infligge 6 [Combustion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -186,9 +186,9 @@
         },
         {
           "level": 5,
-          "name": "4th Match Flame",
-          "abName": "Scorched Girl",
-          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">[BeforeAttack] Apply the following effects:\n- Final Power +1 for every 6 [Combustion] on all targets (max 6)\n- Deal +1.5% damage for every 1 [Combustion] on all targets (max 45%)\n[DefeatDuel] Base Power -12\n[EndSkill] Gain [MatchesPersonality] next turn (once per turn)</style>",
+          "name": "Fiamma del Quarto Fiammifero",
+          "abName": "Piccola Fiammiferaia",
+          "desc": "[CantIdentify]\nBersaglia casualmente\n<style=\"highlight\">[BeforeAttack] Applica i seguenti effetti:\n- Potere Finale +1 per ogni 6 [Combustion] su tutti i bersagli (max 6)\n- Infligge +1.5% danni per ogni 1 [Combustion] su tutti i bersagli (max 45%)\n[DefeatDuel] Potere Base -12\n[EndSkill] Ottiene [MatchesPersonality] il turno successivo (una volta per turno)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -196,10 +196,10 @@
                   "desc": "<style=\"highlight\">[SuperCoin]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack]</style> Inflict 6 [Combustion]"
+                  "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack]</style> Infligge 6 [Combustion]"
                 }
               ]
             }
