@@ -978,7 +978,7 @@
     },
     {
       "id": "tutorial_mainui_17_railway_title",
-      "content": "Metro Rifrattive"
+      "content": "Metro Rifrattiva"
     },
     {
       "id": "tutorial_mainui_17_railway_page_01_title_01",
@@ -986,7 +986,7 @@
     },
     {
       "id": "tutorial_mainui_17_railway_page_01_desc_01",
-      "content": "Le Tratte della Metro Rifrattiva saranno aperte per un certo periodo di tempo.\nPuoi entrare nelle Tratte disponibili senza costi."
+      "content": "Le Tratte della Metro Rifrattiva saranno aperte per un certo periodo di tempo.\nPuoi entrare nelle Linee disponibili senza spendere nulla."
     },
     {
       "id": "tutorial_mainui_17_railway_page_02_title_01",
@@ -3350,7 +3350,7 @@
     },
     {
       "id": "TutoRailway5_P20_D1",
-      "content": "Dopo aver completato la Sezione finale, il tuo record nella Metro Rifrattiva verrà registrato. Possono essere registrati fino a 20 record. "
+      "content": "Dopo aver completato la Sezione finale, il tuo record nella Metro Rifrattiva verrà registrato. Possono essere registrati fino a 20 record."
     },
     {
       "id": "TutoRailway5_P20_D2",
@@ -4234,11 +4234,11 @@
     },
     {
       "id": "TutoRailway1BokGak_P3_D3",
-      "content": "Sotto i Turni c'è il Totale Turni, che indica la somma di tutti i Turni impiegati per completare ogni Stazione."
+      "content": "Sotto i Turni per il Completameno vengono segnati i Turni Totali, la somma di tutti i Turni per il Completamento di ogni Stazione."
     },
     {
       "id": "TutoRailway1BokGak_P3_D4",
-      "content": "\nSotto ogni Stazione puoi vedere le ricompense per aver completato quella Stazione. Puoi ottenerle dagli Oggetti Smarriti."
+      "content": "Sotto ogni Stazione puoi vedere le ricompense per aver completato quella Stazione. Puoi ottenerle dagli Oggetti Smarriti."
     },
     {
       "id": "TutoRailway1BokGak_P4_T1",
@@ -4254,7 +4254,7 @@
     },
     {
       "id": "TutoRailway1BokGak_P4_D3",
-      "content": "Nella Linea 1, il Livello di Osservazione viene salvato anche se ti arrendi o riprovi la battaglia."
+      "content": "Nella Linea 1, il Livello di Osservazione viene registrato anche se ti arrendi o riprovi la battaglia."
     },
     {
       "id": "TutoRailway1BokGak_P5_T1",
@@ -4354,7 +4354,7 @@
     },
     {
       "id": "TutoRailway1BokGak_P13_D1",
-      "content": "Durante la Metro, puoi decidere di ricominciare dalle Sezioni già completate."
+      "content": "Durante la Metro, puoi decidere di ricominciare la battaglia da Sezioni già completate."
     },
     {
       "id": "TutoRailway1BokGak_P13_D2",
@@ -4810,95 +4810,95 @@
     },
     {
       "id": "TutoRailway6_P1_T1",
-      "content": "Refraction Railway Opening"
+      "content": "Apertura Metro Rifrattiva"
     },
     {
       "id": "TutoRailway6_P1_D1",
-      "content": "You can enter the available Lines at no cost."
+      "content": "Puoi entrare nelle Linee disponibili senza alcun costo."
     },
     {
       "id": "TutoRailway6_P2_T1",
-      "content": "Recommended Level & Tier"
+      "content": "Livello & Grado Consigliati"
     },
     {
       "id": "TutoRailway6_P2_D1",
-      "content": "Recommended levels & upgrade tiers are displayed on the side of the Line."
+      "content": "Il Livello & Grado consigliati per Identità ed E.G.O è mostrato su questo lato della Linea."
     },
     {
       "id": "TutoRailway6_P2_D2",
-      "content": "Refraction Railways present combat Encounters with high levels of difficulty. We suggest that you enter the Railway after meeting the recommended levels & upgrade tiers."
+      "content": "La Metro Rifrattiva offre Incontri con un alto livello di difficoltà. Suggeriamo di entrare nella Metro dopo aver raggiunto il Livello e i Gradi consigliati."
     },
     {
       "id": "TutoRailway6_P3_T1",
-      "content": "Line 6: Stations and Sections"
+      "content": "Linea 6: Stazioni e Sezioni"
     },
     {
       "id": "TutoRailway6_P3_D1",
-      "content": "Refraction Railway Line 6 is composed of several Sections that tie several Stations into a single Stage. There are a total of 8 Stations."
+      "content": "La Metro Rifrattiva Linea 6 è composta da diverse Sezioni che collegano più Stazioni in una sola Tappa. Ci sono un totale di 8 Stazioni."
     },
     {
       "id": "TutoRailway6_P3_D2",
-      "content": "There are 5 Combat Encounter Stages, each called a 'Section'."
+      "content": "Ci sono 5 Sezioni di Combattimento, ognuna chiamata 'Sezione'."
     },
     {
       "id": "TutoRailway6_P3_D3",
-      "content": "Clearing the Section will record your Clear Turn Count."
+      "content": "Completare la Sezione registrerà il tuo numero di Turni per il Completamento."
     },
     {
       "id": "TutoRailway6_P3_D4",
-      "content": "You can view the rewards for clearing that Station. Claim them at the Lost & Found."
+      "content": "Puoi visualizzare le ricompense offerte per il completamento di ogni Stazione. Ottienile in Oggetti Smarriti."
     },
     {
       "id": "TutoRailway6_P4_T1",
-      "content": "Entering Section"
+      "content": "Entrare nella Sezione"
     },
     {
       "id": "TutoRailway6_P4_D1",
-      "content": "Clearing the Section will record your Clear Turn Count."
+      "content": "Completare la Sezione registrerà il tuo numero di Turni per il Completamento."
     },
     {
       "id": "TutoRailway6_P4_D2",
-      "content": "Below the Clear Turn Count is the Total Turn Count, which is the sum of all Clear Turn Counts from each Section."
+      "content": "Sotto i Turni per il Completameno vengono segnati i Turni Totali, la somma di tutti i Turni per il Completamento di ogni Sezione."
     },
     {
       "id": "TutoRailway6_P4_D3",
-      "content": "Below each Section, you can view the rewards for clearing that Section. Claim them at the Lost & Found."
+      "content": "Sotto ogni Stazione puoi vedere le ricompense per aver completato quella Stazione. Puoi ottenerle dagli Oggetti Smarriti."
     },
     {
       "id": "TutoRailway6_P5_T1",
-      "content": "Observation Logs"
+      "content": "Registri di Osservazione"
     },
     {
       "id": "TutoRailway6_P5_D1",
-      "content": "In Line 6, save for a certain boss enemy, all enemy info will be unlocked for viewing from the start. Prepare the appropriate strategy, Identity, and E.G.O loadout based on this information."
+      "content": "Nella Linea 6, tranne per un certo tipo di boss, tutte le informazioni dei nemici saranno disponibili fin dall'inizio. Prepara una strategia, le Identità e gli E.G.O adeguati in base a queste informazioni."
     },
     {
       "id": "TutoRailway6_P5_D2",
-      "content": "However, the damage bonus based on Observation Levels does not apply in the Refraction Railway."
+      "content": "Tuttavia, nella Metro Rifrattiva non si applica il danno bonus basato sul Livello di Osservazione."
     },
     {
       "id": "TutoRailway6_P5_D3",
-      "content": "In Line 6, the updated Observation Level will be saved even if you give up or retry mid-Encounter."
+      "content": "Nella Linea 6, il Livello di Osservazione aggiornato viene registrato anche se ti arrendi o riprovi la battaglia.."
     },
     {
       "id": "TutoRailway6_P6_T1",
-      "content": "Team Setup"
+      "content": "Crea la tua Squadra"
     },
     {
       "id": "TutoRailway6_P6_D1",
-      "content": "Choose a number of Identities and E.G.O to enter the Railway with."
+      "content": "Scegli il numero di Identità ed E.G.O con cui entrare nella Metro Rifrattiva."
     },
     {
       "id": "TutoRailway6_P6_D2",
-      "content": "If you level up, Uptie, or Threadspin your Identities or E.G.O outside the Refraction Railway, the changes will be applied to your characters in the Refraction Railway as well."
+      "content": "Se aumenti il livello di un'Identità o il suo Grado Legame al di fuori della Metro Rifrattiva, i cambiamenti verranno applicati anche all'interno della Metro (E.G.O inclusi)."
     },
     {
       "id": "TutoRailway6_P6_D3",
-      "content": "Backup Units receive Starting SP buffs, and Backup Units further back in the Deployment order receive greater Starting SP buffs."
+      "content": "Le unità di Riserva riceveranno un Buff Iniziale ai PS, e le Riserve con un numero di Schieramento più alto riceveranno un Buff ancora più potente."
     },
     {
       "id": "TutoRailway6_P6_D4",
-      "content": "\nMinus Coin Identities receive negative Starting SP buffs."
+      "content": "\nLe Identità con Monete Negative riceveranno un Buff Iniziale ai PS negativo."
     },
     {
       "id": "TutoRailway6_P7_T1",
@@ -4938,95 +4938,95 @@
     },
     {
       "id": "TutoRailway6_P10_T1",
-      "content": "Combat - Chain Battles"
+      "content": "Combattimento - Battaglie Consecutive"
     },
     {
       "id": "TutoRailway6_P10_D1",
-      "content": "When a Deployed unit is defeated, the Backup units will fill their spot in the Deployment order."
+      "content": "Quando un'unità Schierata viene sconfitta, entrerà in campo un'unità di Riserva (in base all'ordine di Schieramento)."
     },
     {
       "id": "TutoRailway6_P10_D2",
-      "content": "When a Backup unit is Deployed into battle, its Combat Passive activates instead of its Support Passive."
+      "content": "Quando un'unità di Riserva viene schierata in battaglia, si attiva la sua Passiva di Combattimento invece della Passiva di Supporto."
     },
     {
       "id": "TutoRailway6_P10_D3",
-      "content": "When a unit on the field is defeated, its Support Passive will activate instead of its Combat Passive."
+      "content": "Quando un'unità in campo viene sconfitta, si attiva la sua Passiva di Supporto invece della Passiva di Combattimento."
     },
     {
       "id": "TutoRailway6_P11_T1",
-      "content": "Combat - Lingering Determination"
+      "content": "Combattimento - Determinazione Duratura"
     },
     {
       "id": "TutoRailway6_P11_D1",
-      "content": "In Line 6, when an Identity is killed, they release E.G.O resources based on the ranks and Affinities of their Base Attack Skills. And just like in Chain Battles, their deaths will not reduce other allies' SP."
+      "content": "Nella Linea 6, quando un'Identità viene sconfitta, questa rilascia delle risorse E.G.O in base al suo Grado e alle Affinità delle sue Abilità Base. Come nelle Battaglie Concatenate, la loro sconfitta non riduce i PS degli altri alleati."
     },
     {
       "id": "TutoRailway6_P12_T1",
-      "content": "Certain enemies in Line 6 will gain certain effects based on their Deployment orders."
+      "content": "Alcuni nemici nella Linea 6 otterranno alcuni effetti in base al loro ordine di Schieramento."
     },
     {
       "id": "TutoRailway6_P13_T1",
-      "content": "Clear Info"
+      "content": "Informazioni di Servizio"
     },
     {
       "id": "TutoRailway6_P13_D1",
-      "content": "After clearing each Station, you can view statistics such as Clear Turns, Total Turns, effects obtained in each Encounter, and participating Identities in the Clear Info menu."
+      "content": "Dopo aver completato ogni Stazione, puoi visualizzare le statistiche, come i Turni per il Completamento, Turni Totali, gli effetti ottenuti in ogni Incontri e le Identità che hanno partecipato dalla schermata \"Informazioni di Servizio\"."
     },
     {
       "id": "TutoRailway6_P14_D1",
-      "content": "The E.G.O resources held after clearing a Station can be carried over to the next Station."
+      "content": "Le risorse E.G.O in possesso alla fine di una Sezione saranno disponibili anche nella Sezione successiva."
     },
     {
       "id": "TutoRailway6_P15_D1",
-      "content": "If all of your allies are defeated, you can choose between returning to the Team Loadout menu to change your Deployment orders, and immediately retrying the battle."
+      "content": "Se tutti i tuoi alleati vengono sconfitti, puoi scegliere se tornare alla schermata di Schieramento o riprovare subito il combattimento."
     },
     {
       "id": "TutoRailway6_P16_T1",
-      "content": "Breaking Records"
+      "content": "Nuovi Record"
     },
     {
       "id": "TutoRailway6_P16_D1",
-      "content": "During an expedition, you can choose to start over from previously cleared Stages."
+      "content": "Durante la Metro, puoi decidere di ricominciare la battaglia da Sezioni già completate."
     },
     {
       "id": "TutoRailway6_P16_D2",
-      "content": "When you do so, the battle will start with the Sinners’ statuses and E.G.O resources reverted to that point, and any progress you've made since that Stage will be reset."
+      "content": "Così facendo la battaglia inizierà con gli status dei Peccatori e le risorse E.G.O che avevi accumulato fino a quel punto, e tutti i progressi di quella Sezione verranno ripristinati."
     },
     {
       "id": "TutoRailway6_P17_T1",
-      "content": "Banner Requisites"
+      "content": "Requisiti del Banner"
     },
     {
       "id": "TutoRailway6_P17_D1",
-      "content": "You can check the requirements for acquiring Refraction Railway Line 6 banners here."
+      "content": "Puoi visualizzare i requisiti di sblocco dei banner della Metro Rifrattiva Linea 6 qui."
     },
     {
       "id": "TutoRailway6_P18_T1",
-      "content": "The Lost & Found"
+      "content": "Oggetti Smarriti"
     },
     {
       "id": "TutoRailway6_P18_D1",
-      "content": "After clearing a Stage in the Line for the first time, the rewards will be sent to the Lost & Found."
+      "content": "Dopo aver completato una Sezione nella Linea per la prima volta, le ricompense saranno disponibili negli Oggetti Smarriti."
     },
     {
       "id": "TutoRailway6_P18_D2",
-      "content": "To gain access to a reward for the first time at Lost & Found, a number of Enkephalin Modules will be required."
+      "content": "Per aver accesso alle ricompense per la prima volta è necessario usare un certo numero di Moduli di Encefalina."
     },
     {
       "id": "TutoRailway6_P18_D3",
-      "content": "Afterward, you may freely access it and claim rewards you’ve earned at no additional cost."
+      "content": "Successivamente, una volta sbloccate le ricompense, potrai accedervi senza alcun costo aggiuntivo."
     },
     {
       "id": "TutoRailway6_P19_T1",
-      "content": "Total Record"
+      "content": "Registri di Viaggio"
     },
     {
       "id": "TutoRailway6_P19_D1",
-      "content": "Upon clearing the final Stage, your Refraction Railway play record will be saved. Up to 20 records can be viewed. "
+      "content": "Dopo aver completato la Sezione finale, il tuo record nella Metro Rifrattiva verrà registrato. Possono essere registrati fino a 20 record."
     },
     {
       "id": "TutoRailway6_P19_D2",
-      "content": "If you have more than 20 records, records with the highest Total Turns will be deleted first."
+      "content": "Se hai più di 20 record, verranno cancellati prima il record con i Turni Totali più alti."
     }
   ]
 }
