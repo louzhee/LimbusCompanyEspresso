@@ -673,9 +673,13 @@
                     "level": 1,
                     "name": "Riflessione",
                     "desc": "[CanDuelGuard]\n[WhenUse] Potere Finale +1 per ogni 3 [Breath] su di sé (max 5)\n[WhenUse] Ottiene 4 [Breath]\n- Se ha Scudo, ottiene anche +2 [Breath]",
-                    "coindescs": [
+                    "coinlist": [
                         {
-                            "desc": "[SuperCoin]"
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
                         }
                     ]
                 }

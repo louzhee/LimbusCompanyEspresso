@@ -560,6 +560,12 @@
       "id": 2090911,
       "name": "Ciò che Distingue le Falene dalle Farfalle",
       "desc": "Se l'Attacco dell'Abilità Base più a sinistra sull Pannello di Controllo è un'Abilità Ira o Lussuria, a Fine Attacco infligge il 30% del danno inflitto al bersaglio principale come danno dell'Affinità dell'Abilità ad un nemico casuale (max 30 danni; per gli Incontri Mirati, una Parte)\n\nSe questa Unità ha inflitto il massimo danno possibile con l'effetto sovracitato, ottiene 1 Danno Affinità Aumentato per l'Affinità corrispondente il turno successivo, e l'effetto non si attiva per 2 turni"
+    },
+    {
+      "id": 2010212,
+      "name": "Ember",
+      "desc": "<style=\"highlight\">On Use of a Wrath Skill or a Skill that inflicts [Combustion] Potency or Count: At 6+ total sum of [Combustion] on all targets, Clash Power +1</style>\n\nOn Clash Win, inflict (Wrath <style=\"highlight\">Reson. x 2</style>) [Combustion] <style=\"highlight\">on the main target</style> (<style=\"highlight\">max 8</style> per Skill)",
+      "summary": "Gain Clash Power\nWhen conditions are met, inflict [Combustion]"
     }
   ]
 }

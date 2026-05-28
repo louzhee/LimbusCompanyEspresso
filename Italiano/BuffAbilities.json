@@ -487,6 +487,16 @@
     {
       "id": "SojiRyoshuEntangle",
       "desc": "- Max Stack: 4\n- Ottiene 1 Stack per ogni Identità Precettore del Nido dei Ragni sconfitta\n- Ottiene un effetto speciale in base a quale alleato del Nido dei Ragni è stato sconfitto\n- Subisce -7.5% danni per ogni Stack"
+},
+    {
+      "id": "Railway6PowderBuff",
+      "desc": "- +{2} {0} Resist.; +{2} {1} Resist.",
+      "variation": "- +{1} {0} Resist.",
+      "variation2": "- No effect"
+    },
+    {
+      "id": "SpiderHouse11115",
+      "desc": "The House of Spiders: The Middle Nursefather Outis: Take -20% damage; when hit, gain 1 Offense Level Up (2 times per turn)"
     }
   ]
 }
