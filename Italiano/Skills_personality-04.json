@@ -2597,7 +2597,7 @@
         {
           "level": 4,
           "name": "Bang. Bang.",
-          "desc": "[WhenUse] Potere Moneta +1 per ogniy 6 ([Vibration] + [Sinking]) sul bersaglio (max 2)",
+          "desc": "[WhenUse] Potere Moneta +1 per ogni 6 ([Vibration] + [Sinking]) sul bersaglio (max 2)",
           "coinlist": [
             {
               "coindescs": [
