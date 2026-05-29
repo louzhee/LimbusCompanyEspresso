@@ -986,7 +986,7 @@
     },
     {
       "id": "tutorial_mainui_17_railway_page_01_desc_01",
-      "content": "Le Tratte della Metro Rifrattiva saranno aperte per un certo periodo di tempo.\nPuoi entrare nelle Linee disponibili senza spendere nulla."
+      "content": "Le Tratte della Metro Rifrattiva saranno aperte per un certo periodo di tempo.\nPuoi entrare nelle Linee disponibili senza alcun costo."
     },
     {
       "id": "tutorial_mainui_17_railway_page_02_title_01",
@@ -3238,7 +3238,7 @@
     },
     {
       "id": "TutoRailway5_P8_D1",
-      "content": "Ogni battaglia nella Metro Rifrattiva ti permetterà di scontrare le abilità alleate con quelle nemiche.\nIl massimo di Turni Totali per Sezione è 100 Turni. Se in una Sezione superi il 100simo Turno, la battaglia terminerà con una sconfitta."
+      "content": "Ogni battaglia nella Metro Rifrattiva ti permetterà di scontrare le abilità alleate con quelle nemiche.\nIl massimo di Turni Totali per Sezione è 100 Turni. Se in una Sezione superi il 100° Turno, la battaglia terminerà con una sconfitta."
     },
     {
       "id": "TutoRailway5_P9_T1",
@@ -3266,7 +3266,7 @@
     },
     {
       "id": "TutoRailway5_P10_D2",
-      "content": "Quando un'unità di Riserva viene schierata in battaglia, si attiva la sua Passiva di Combattimento invece della Passiva di Supporto.\n\nQuando un'unità Schierata viene sconfitta, la sua Passiva di Supporto si attiva al posto della Passiva di Combattimento."
+      "content": "\nQuando un'unità di Riserva viene schierata in battaglia, si attiva la sua Passiva di Combattimento invece della Passiva di Supporto.\n\nQuando un'unità Schierata viene sconfitta, la sua Passiva di Supporto si attiva al posto della Passiva di Combattimento."
     },
     {
       "id": "TutoRailway5_P11_T1",
@@ -4206,7 +4206,7 @@
     },
     {
       "id": "TutoRailway1BokGak_P1_D1",
-      "content": "Puoi entrare nelle Linee disponibili senza spendere nulla."
+      "content": "Puoi entrare nelle Linee disponibili senza alcun costo."
     },
     {
       "id": "TutoRailway1BokGak_P2_T1",
@@ -4214,7 +4214,7 @@
     },
     {
       "id": "TutoRailway1BokGak_P2_D1",
-      "content": "Il Livello & Grado consigliati per Identità ed E.G.O è mostrato su questo lato della Linea."
+      "content": "Il Livello & Grado consigliati per Identità ed E.G.O è mostrato qui."
     },
     {
       "id": "TutoRailway1BokGak_P2_D2",
@@ -4290,11 +4290,11 @@
     },
     {
       "id": "TutoRailway1BokGak_P6_D2",
-      "content": "Nelle Battaglie Consecutive, quando un'unità Schierata viene sconfitta, entrerà in campo un'unità di Riserva (in base all'ordine di Schieramento).\n"
+      "content": "Nelle Battaglie Consecutive, quando un'unità Schierata viene sconfitta, entra in campo un'unità di Riserva (in base all'ordine di Schieramento).\n"
     },
     {
       "id": "TutoRailway1BokGak_P6_D3",
-      "content": "Puoi entrare nella Stazione solo dopo che hai selezionato sia le Identità in Squadra che nella Riserva (rispettivamente 5 e 7 unità)."
+      "content": "\nPuoi entrare nella Stazione solo dopo che hai selezionato sia le Identità in Squadra che nella Riserva (rispettivamente 5 e 7 unità)."
     },
     {
       "id": "TutoRailway1BokGak_P7_T1",
@@ -4306,7 +4306,7 @@
     },
     {
       "id": "TutoRailway1BokGak_P7_D2",
-      "content": "Il massimo di Turni Totali per Stazione è 100 Turni. Se superi il 100simo Turno in una Stazione, la battaglia terminerà con una sconfitta."
+      "content": "Il massimo di Turni Totali per Stazione è 100 Turni. Se superi il 100° Turno in una Stazione, la battaglia terminerà con una sconfitta."
     },
     {
       "id": "TutoRailway1BokGak_P8_T1",
@@ -4318,11 +4318,11 @@
     },
     {
       "id": "TutoRailway1BokGak_P8_D2",
-      "content": "Quando un'unità di Riserva viene schierata in battaglia, si attiva la sua Passiva di Combattimento invece della Passiva di Supporto."
+      "content": "\nQuando un'unità di Riserva viene schierata in battaglia, si attiva la sua Passiva di Combattimento invece della Passiva di Supporto."
     },
     {
       "id": "TutoRailway1BokGak_P8_D3",
-      "content": "Quando una Riserva entra in campo, si attiva la sua Passiva di Combattimento al posto della Passiva di Supporto."
+      "content": "\nQuando una Riserva entra in campo, si attiva la sua Passiva di Combattimento al posto della Passiva di Supporto."
     },
     {
       "id": "TutoRailway1BokGak_P9_T1",
@@ -4822,7 +4822,7 @@
     },
     {
       "id": "TutoRailway6_P2_D1",
-      "content": "Il Livello & Grado consigliati per Identità ed E.G.O è mostrato su questo lato della Linea."
+      "content": "Il Livello & Grado consigliati per Identità ed E.G.O è mostrato qui."
     },
     {
       "id": "TutoRailway6_P2_D2",
@@ -4834,15 +4834,15 @@
     },
     {
       "id": "TutoRailway6_P3_D1",
-      "content": "La Metro Rifrattiva Linea 6 è composta da diverse Sezioni che collegano più Stazioni in una sola Tappa. Ci sono un totale di 8 Stazioni."
+      "content": "La Metro Rifrattiva Linea 6 è composta da diverse Sezioni che collegano più Stazioni in una sola Tappa.\nCi sono un totale di 8 Stazioni."
     },
     {
       "id": "TutoRailway6_P3_D2",
-      "content": "Ci sono 5 Sezioni di Combattimento, ognuna chiamata 'Sezione'."
+      "content": "Le Sezioni di Combattimento sono 5, ognuna chiamata 'Sezione'."
     },
     {
       "id": "TutoRailway6_P3_D3",
-      "content": "Completare la Sezione registrerà il tuo numero di Turni per il Completamento."
+      "content": "Completare una Sezione registrerà il tuo numero di Turni per il Completamento."
     },
     {
       "id": "TutoRailway6_P3_D4",
@@ -4862,7 +4862,7 @@
     },
     {
       "id": "TutoRailway6_P4_D3",
-      "content": "Sotto ogni Stazione puoi vedere le ricompense per aver completato quella Stazione. Puoi ottenerle dagli Oggetti Smarriti."
+      "content": "Sotto ogni Stazione puoi vedere le ricompense per il suo completamento. Puoi ottenerle dagli Oggetti Smarriti."
     },
     {
       "id": "TutoRailway6_P5_T1",
@@ -4870,11 +4870,11 @@
     },
     {
       "id": "TutoRailway6_P5_D1",
-      "content": "Nella Linea 6, tranne per un certo tipo di boss, tutte le informazioni dei nemici saranno disponibili fin dall'inizio. Prepara una strategia, le Identità e gli E.G.O adeguati in base a queste informazioni."
+      "content": "Nella Linea 6 tutte le informazioni dei nemici saranno disponibili fin dall'inizio, tranne per un certo tipo di boss. Prepara una strategia, Identità ed E.G.O adeguati in base a queste informazioni."
     },
     {
       "id": "TutoRailway6_P5_D2",
-      "content": "Tuttavia, nella Metro Rifrattiva non si applica il danno bonus basato sul Livello di Osservazione."
+      "content": "Nella Metro Rifrattiva, tuttavia, non si applica il danno bonus basato sul Livello di Osservazione."
     },
     {
       "id": "TutoRailway6_P5_D3",
@@ -4902,39 +4902,39 @@
     },
     {
       "id": "TutoRailway6_P7_T1",
-      "content": "Combat Deployment - Chain Battles"
+      "content": "Combattimento - Battaglie Consecutive"
     },
     {
       "id": "TutoRailway6_P7_D1",
-      "content": "Combat Encounters in Line 6 are \"Chain Battles.\""
+      "content": "I Combattimenti nella Linea 6 sono \"Battaglie Consecutive.\""
     },
     {
       "id": "TutoRailway6_P7_D2",
-      "content": "In Chain Battles, when a Deployed unit is defeated, the Backup Units will fill their spot according to the Deployment order."
+      "content": "Nelle Battaglie Consecutive, quando un'unità Schierata viene sconfitta, entra in campo un'unità di Riserva (in base all'ordine di Schieramento)."
     },
     {
       "id": "TutoRailway6_P7_D3",
-      "content": "You can enter the Station only when you have selected both your Deployment and Backup units: 7 and 5 units, respectively."
+      "content": "Puoi entrare nella Stazione solo dopo che hai selezionato sia le Identità in Squadra che nella Riserva (rispettivamente 5 e 7 unità)."
     },
     {
       "id": "TutoRailway6_P8_T1",
-      "content": "Identity Deployment Limits"
+      "content": "Restrizioni Schieramento Identità"
     },
     {
       "id": "TutoRailway6_P8_D1",
-      "content": "In Line 6, your Team's HP percentage and SP at the point of clearing Section 1 will carry over to Section 5.\nIn Sections 3 and 4, you will be unable to use the Identities assigned in the Team Loadout used in the immediately preceding Sections."
+      "content": "Nella Linea 6, la percentuale di PV e i PS del tuo Team verranno registrati una volta completata la Sezione 1 e riusati per la Sezione 5.\nNelle Sezioni 3 e 4 non potrai scegliere le Identità assegnate alle Configurazioni usate nelle Sezioni immediatamente precedenti."
     },
     {
       "id": "TutoRailway6_P9_T1",
-      "content": "Combat"
+      "content": "Combattimento"
     },
     {
       "id": "TutoRailway6_P9_D1",
-      "content": "Every battle in the Refraction Railway will allow you to directly match ally skills against enemy skills, just like in Focused Encounters."
+      "content": "Ogni battaglia nella Metro Rifrattiva ti permetterà di scontrare le abilità alleate con quelle nemiche, proprio come negli Incontri Mirati."
     },
     {
       "id": "TutoRailway6_P9_D2",
-      "content": "The highest Turn Count that can be recorded in each Station is 100 Turns. If your Turn Count goes beyond 100 Turns in a single Stage, the Encounter will end in defeat."
+      "content": "Il massimo di Turni per il Completamento per Stazione è 100 Turni. Se superi il 100° Turno in una Stazione, la battaglia terminerà con una sconfitta."
     },
     {
       "id": "TutoRailway6_P10_T1",
