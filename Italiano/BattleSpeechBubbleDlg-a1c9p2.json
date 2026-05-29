@@ -1104,12 +1104,12 @@
 	  },
 	  {
 		"id": "battle_special_10814_1",
-		"desc": "Kira - Nursefather Outis wins a Clash",
+		"desc": "Kira - Nursefather Outis gains Check This Out, Kiddo!",
 		"dlg": "Non riesco a distogliere lo sguardo...\nLa mamma è proprio da paura..."
 	  },
     {
 		"id": "battle_special_10814_5",
-		"desc": "Kira - unused (related to Middle Outis. Can't trigger it in-game.)",
+		"desc": "Kira - unused",
 		"dlg": "Lo sapevo, la mamma è troppo forte~!"
 	  },
 
