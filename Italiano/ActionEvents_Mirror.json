@@ -213,19 +213,19 @@
       "id": 901007,
       "name": "",
       "subDesc": "",
-      "desc": "“Guarda quelle farfalle! Sono belle, non è vero?”\n\n“E dai anche un'occhiata a quel tramonto!\nFa venire voglia di fare una passeggiata.”\n\n“Perché non ti fermi un momento\ne ti fai una bella pausa qui?”\n\nUn qualcosa di giallo ci saluta gentilmente.",
+      "desc": "“Guardate quelle farfalle! Quanto sono carine!”\n\n“Date un'occhiata anche a quel tramonto!\nFa venire voglia di fare una passeggiata.”\n\n“Perché non vi fermate qui per un po'\ne vi prendete un bella pausa?”\n\nUn qualcosa di giallo ci saluta gentilmente.",
       "options": [
         {
-          "message": "Prendi una pausa.",
+          "message": "Prendetevi una pausa.",
           "messageDesc": "Seleziona per ottenere un Dono E.G.O Senza Tratti",
           "result": [
-            "“Quanto è stato stancante arrivare fin qui?”\n\n“Davvero, osserva quelle farfalle.\nIl cuore si scalda solo a guardarle.”\n\nAmmirate le farfalle come la voce vi suggerisce.\nLoro vi riempono il cuore con un certo calore.\n\n“Sembra che qualcheduna voglia unirsi!”\n\nUn caleidoscopio di farfalle inizia a seguirvi,\nanche dopo aver lasciato quella pittoresca scena."
+            "“Quanto sarà stato stancante arrivare fin qui?”\n\n“Davvero, osservate quelle farfalle.\nIl cuore si scalda solo a guardarle.”\n\nAmmirate le farfalle come la voce vi suggerisce.\nLoro vi riempono il cuore con un certo calore.\n\n“Sembra che qualcheduna voglia unirsi!”\n\nUn caleidoscopio di farfalle inizia a seguirvi,\nanche dopo aver lasciato quella pittoresca scena."
           ]
         },
         {
-          "message": "Ignora e vattene.",
+          "message": "Ignorate e andatevene.",
           "result": [
-            "“Devi essere molto impegnato!”\n\nHa fatto lo stesso gesto di quando ci ha accolto.\nForse ci stava dicendo addio sin dall'inizio.\n\n“Sarà per un'altra volta!”"
+            "“Dovete essere molto impegnati!”\n\nHa fatto lo stesso gesto di quando ci ha accolti.\nForse ci stava dicendo addio sin dall'inizio.\n\n“Sarà per un'altra volta!”"
           ]
         }
       ]
