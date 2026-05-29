@@ -142,7 +142,7 @@
     },
     {
       "id": "CondensedBloodRefraction",
-      "name": "Sangue del Drago [龍血]",
+      "name": "Sangue del Dragone [龍血]",
       "desc": "- Potenza Max: 50\n- Fine Turno: Subisce 1% danni ai PV per Potenza (min 1; non si Stordisce da questo effetto)\n- Perde 1 Conteggio quando usa un'Abilità difensiva (una volta per turno)\n- Fine Turno: Raddoppia la Potenza e perde 1 Conteggio\n- Questo effetto può essere rimosso solo portando il Conteggio a 0",
       "summary": "",
       "undefined": "-"
@@ -156,7 +156,7 @@
     },
     {
       "id": "YesdragonPower",
-      "name": "Spirito del Drago [龍氣]",
+      "name": "Spirito del Dragone [龍氣]",
       "desc": "- Subisce -100% danni\n- Quando l'unità viene colpita, l'effetto scade a Fine Attacco dell'Abilità che l'ha colpita",
       "summary": "",
       "undefined": "-"
