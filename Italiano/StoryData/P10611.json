@@ -4,7 +4,7 @@
       "id": 0,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "Hold your fire."
+      "content": "Cessate il fuoco."
     },
     {
       "id": 1,
@@ -16,363 +16,363 @@
       "id": 2,
       "model": "히스클리프",
       "title": "Ufficio Alto Calibro",
-      "content": "Oi! Hold your fire, lad! Low ready, now!"
+      "content": "Ehi! Ho detto di cessare il fuoco, fanciullo! Canna a terra, ora!"
     },
     {
       "id": 3,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "Ha ha, thanks for repeating after me. Can't see too well through all this smoke."
+      "content": "Ahah, grazie per aver ripetuto i miei ordini. Non si vede un granché con tutto questo fumo."
     },
     {
       "id": 4,
-      "content": "A battlefield thick with the smoke of war..."
+      "content": "Un campo di battaglia avvolto da una fitta coltre di fumo..."
     },
     {
       "id": 5,
-      "content": "The chaotic cacophony of gunfire and grinding gears came to a sudden stop at the child's hand sign."
+      "content": "La caotica cacofonia di spari e ingranaggi stridenti si interruppe di colpo a un cenno della mano del fanciullo."
     },
     {
       "id": 6,
-      "content": "They were contracted by the Association for the eradication of the Church of Gears."
+      "content": "L'Associazione li aveva ingaggiati per estirpare la Chiesa degli Ingranaggi."
     },
     {
       "id": 7,
-      "content": "The child accepted the contract with gusto, but things weren't quite going according to plan, thanks to certain unexpected variables."
+      "content": "Il fanciullo aveva accettato l'incarico con grande entusiasmo, ma le cose non stavano andando esattamente secondo i piani, a causa di alcune variabili impreviste."
     },
     {
       "id": 8,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "Doesn't seem like they'll be closing the distance any time soon, right?"
+      "content": "Non sembra che abbiano intenzione di accorciare le distanze a breve, vero?"
     },
     {
       "id": 9,
       "model": "싱클레어",
       "title": "Ufficio Alto Calibro",
-      "content": "Yeah, but I don't know if it's a good idea for us to shoot first. Not to mention how we've already wasted a lot of bullets."
+      "content": "Già, ma non so se sia una buona idea sparare per primi. Per non parlare del fatto che abbiamo già sprecato un sacco di proiettili."
     },
     {
       "id": 10,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "This contract is a bit more troublesome than I'd expected. I guess that's what you get for picking up a Shi Association contract~"
+      "content": "Questo incarico è un po' più problematico del previsto. Immagino sia il minimo quando si accetta un contratto dell'Associazione Shi~"
     },
     {
       "id": 11,
-      "content": "Despite already having spent quite a lot of bullets, the child and his colleagues were having some trouble making much headway."
+      "content": "Nonostante avessero già consumato una grande quantità di munizioni, il fanciullo e i suoi colleghi faticavano a fare progressi."
     },
     {
       "id": 12,
-      "content": "There was the hot steam—a byproduct of boosting their powers—and the smoke coming out of the grinding gears. But the worst of them all was..."
+      "content": "C'era il vapore bollente—un sottoprodotto del potenziamento delle loro abilità—e il fumo sprigionato dagli ingranaggi stridenti. Ma la cosa peggiore di tutte erano..."
     },
     {
       "id": 13,
-      "content": "... the erratically moving Gear Worshippers, the very targets of their contract."
+      "content": "... i Devoti degli Ingranaggi, i bersagli stessi del loro contratto, che si muovevano in modo del tutto imprevedibile."
     },
     {
       "id": 14,
       "model": "히스클리프",
       "title": "Ufficio Alto Calibro",
-      "content": "Haah... Not only are they constantly moving, but their movements are all so bloody offbeat. I'm havin' some difficulty gettin' a good shot in, lads."
+      "content": "Ahf... Non bastasse il fatto che non stanno mai fermi, i loro movimenti sono maledettamente fuori tempo. Faccio fatica a piazzare un bel colpo, ragazzi."
     },
     {
       "id": 15,
       "model": "히스클리프",
       "title": "Ufficio Alto Calibro",
-      "content": "Got any bright ideas?"
+      "content": "Avete qualche idea brillante?"
     },
     {
       "id": 16,
-      "content": "The worshippers were sliding out of the bullets' trajectories in bizarrely fluent motions, as though they could tell where their guns were aiming."
+      "content": "I devoti schivavano le traiettorie dei proiettili con movimenti bizzarramente fluidi, come se potessero intuire dove fossero puntate le armi."
     },
     {
       "id": 17,
-      "content": "Benefits of installing 'Thought Gears', a calculation unit made from humans."
+      "content": "I vantaggi derivanti dall'installazione degli 'Ingranaggi del Pensiero', unità di calcolo create a partire da esseri umani."
     },
     {
       "id": 18,
       "model": "싱클레어",
       "title": "Ufficio Alto Calibro",
-      "content": "Hm... should we just start blasting and hope for the best?"
+      "content": "Uhm... e se provassimo a sparare all'impazzata sperando nella buona sorte?"
     },
     {
       "id": 19,
       "model": "히스클리프",
       "title": "Ufficio Alto Calibro",
-      "content": "I don't hate that idea, but... tsk. The budget for the bullets wasted's gonna be comin' straight out of bossman's pockets again, even if we were to finish the contract."
+      "content": "L'idea non mi dispiace, ma... tsk. Il costo dei proiettili sprecati uscirà dritto dalle tasche del capo anche stavolta, persino se dovessimo completare il contratto."
     },
     {
       "id": 20,
-      "content": "The colleagues glanced anxiously at the child as the prospect of having to dip into their boss's personal funds became increasingly likely."
+      "content": "I colleghi lanciarono un'occhiata ansiosa al fanciullo, vedendo farsi sempre più concreta la prospettiva di dover intaccare i fondi personali del loro capo."
     },
     {
       "id": 21,
-      "content": "However, the child's expression was as calm and casual as always, and he'd even begun humming a pleasant tune."
+      "content": "Tuttavia, l'espressione del fanciullo era serena e disinvolta come al solito, e aveva persino iniziato a canticchiare un allegro motivetto."
     },
     {
       "id": 22,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "Hmhm~ I think my budget can handle a volley, unless you're looking to shoot Atelier Logic ammunition full auto... Now that'll bankrupt even me, ha ha."
+      "content": "Uhm-mm~ Penso che le mie finanze possano coprire una raffica, a meno che non abbiate intenzione di sparare munizioni dell'Atelier Logic a fuoco automatico... In quel caso andrei in bancarotta persino io, ahah."
     },
     {
       "id": 23,
-      "content": "It's true. It wasn't that big of a deal for this child to pay for the bullets, as long as they made each one count."
+      "content": "Era la verità. Per quel fanciullo non era un gran problema pagare le munizioni, a patto che facessero contare ogni singolo colpo."
     },
     {
       "id": 24,
-      "content": "He could handle it, even if the Office funds were about to be completely depleted."
+      "content": "Poteva far fronte alla spesa anche se i fondi dell'Ufficio stavano per essere completamente prosciugati."
     },
     {
       "id": 25,
-      "content": "All he had to do was to say the word, and the family would send him some pocket money..."
+      "content": "Gli bastava chiedere e la sua famiglia gli avrebbe mandato la paghetta..."
     },
     {
       "id": 26,
-      "content": "... That 'pocket money', being the equivalent of the Office's yearly budget, could fill their warehouse to the brim with ammunition. It wouldn't leave them much, of course, but still."
+      "content": "... Una 'paghetta' che, equivalendo all'intero budget annuale dell'Ufficio, avrebbe potuto riempire il loro magazzino di munizioni fino all'orlo. Certo, non sarebbe avanzato molto, ma sarebbe comunque bastato."
     },
     {
       "id": 27,
-      "content": "But not everyone found this attitude to be pleasant."
+      "content": "Tuttavia, non tutti trovavano piacevole questo suo atteggiamento."
     },
     {
       "id": 28,
       "model": "히스클리프",
       "title": "Ufficio Alto Calibro",
-      "content": "Blimey, I just don't like it!"
+      "content": "Maledizione, proprio non mi va giù!"
     },
     {
       "id": 29,
       "model": "히스클리프",
       "title": "Ufficio Alto Calibro",
-      "content": "It makes us feel like parasites every time we gotta ask your family for favours."
+      "content": "Ci fa sentire come dei parassiti ogni volta che dobbiamo chiedere favori alla tua famiglia."
     },
     {
       "id": 30,
       "model": "싱클레어",
       "title": "Ufficio Alto Calibro",
-      "content": "W-well, what other choice have we got? We can break down their cover with impact rounds, but they're hiding in that smoke..."
+      "content": "B-beh, che altra scelta abbiamo? Potremmo distruggere i loro ripari con dei proiettili a impatto, ma se si nascondono in mezzo a quel fumo..."
     },
     {
       "id": 31,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "Alright, everyone~ Let's all relax and get it done like we always do."
+      "content": "Forza, gente~ Rilassiamoci e portiamo a termine l'incarico come facciamo sempre."
     },
     {
       "id": 32,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "I'll take the vanguard, so please cover me."
+      "content": "Io farò da avanguardia, quindi per favore copritemi."
     },
     {
       "id": 33,
       "model": "히스클리프",
       "title": "Ufficio Alto Calibro",
-      "content": "Right, I gotta take care of any buggers that get too close to you, yeah? No need to tell me how to do my job."
+      "content": "D'accordo, devo sistemare i bastardi che ti si avvicinano troppo, no? Non c'è bisogno che mi spieghi come fare il mio lavoro."
     },
     {
       "id": 34,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "Hm, that's great and all, but how about this?"
+      "content": "Uhm, fantastico, ma che ne diresti di questo?"
     },
     {
       "id": 35,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "I think I just came up with a plan."
+      "content": "Credo di aver appena ideato un piano."
     },
     {
       "id": 36,
-      "content": "The child's voice was as gentle as always, but there was a certain confidence and decisiveness in it as he explained the new strategy."
+      "content": "La voce del fanciullo era gentile come al solito, ma c'erano una sicurezza e una risolutezza precise mentre esponeva la nuova strategia."
     },
     {
       "id": 37,
-      "content": "After listening to the new plan, quickly described over the brief lull of battle, the two colleagues nodded affirmatively."
+      "content": "Dopo aver ascoltato il nuovo piano, illustrato rapidamente durante una breve tregua dai combattimenti, i due colleghi annuirono convinti."
     },
     {
       "id": 38,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "Okay, then... I'm going in!"
+      "content": "Va bene, allora... io vado!"
     },
     {
       "id": 39,
-      "content": "With that, the child leapt into the thick miasma of smoke without hesitation."
+      "content": "Detto questo, il fanciullo si lanciò senza alcuna esitazione nella fitta coltre di fumo."
     },
     {
       "id": 40,
-      "content": "He could barely see what was ahead, and the smoke was suffocating, but the child did not stop."
+      "content": "Riusciva a malapena a vedere cosa avesse davanti e il fumo era soffocante, eppure il fanciullo non si fermò."
     },
     {
       "id": 41,
-      "content": "He began pulling the trigger with abandon the moment he ventured into the smoke."
+      "content": "Iniziò a premere il grilletto all'impazzata non appena si addentrò nel fumo."
     },
     {
       "id": 42,
-      "content": "Most of them flew fruitlessly toward nothing, but he wasn't planning to hit the worshippers anyway."
+      "content": "La maggior parte dei colpi andò a vuoto nel nulla, ma d'altronde non era sua intenzione colpire i devoti."
     },
     {
       "id": 43,
       "model": "히스클리프",
       "title": "Ufficio Alto Calibro",
-      "content": "Huff... phoo..."
+      "content": "Anf... fff..."
     },
     {
       "id": 44,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "Heathcliff, now!"
+      "content": "Heathcliff, ora!"
     },
     {
       "id": 45,
-      "content": "A thunderous gunshot rings out, even before the child says his full name through the receiver."
+      "content": "Uno sparo fragoroso rimbomba prima ancora che il fanciullo finisca di pronunciare il suo nome attraverso la ricetrasmittente."
     },
     {
       "id": 46,
-      "content": "The bullet, fired at a moment's notice, lands a direct hit into the worshipper's brain."
+      "content": "Il proiettile, esploso all'istante, colpisce dritto al cervello del devoto."
     },
     {
       "id": 47,
-      "content": "He'd drawn them to the perfect angle for his sniper colleague to line up his shot."
+      "content": "Li aveva attirati nell'angolazione perfetta affinché il suo collega cecchino potesse allineare il tiro."
     },
     {
       "id": 48,
-      "content": "Once he confirmed that the Thought Gear inside the worshipper had come to a complete stop, the child did not waste a second and gave his next order."
+      "content": "Una volta verificato che l'Ingranaggio del Pensiero all'interno del devoto si fosse arrestato del tutto, il fanciullo non perse un secondo e impartì l'ordine successivo."
     },
     {
       "id": 49,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "I'll draw them out, so start blasting on my count of three."
+      "content": "Li attirerò allo scoperto, perciò iniziate a fare fuoco al mio tre."
     },
     {
       "id": 50,
       "model": "싱클레어",
       "title": "Ufficio Alto Calibro",
-      "content": "Yessir!"
+      "content": "Ricevuto!"
     },
     {
       "id": 51,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "One... two... three!"
+      "content": "Uno... due... tre!"
     },
     {
       "id": 52,
-      "content": "Bullets mustn't possess the firepower to penetrate building walls or steel."
+      "content": "I proiettili non devono possedere la potenza di fuoco necessaria a penetrare l'acciaio o le pareti degli edifici."
     },
     {
       "id": 53,
-      "content": "The child knew well about the Head's taboo involving firearms; and with that knowledge twisted these disadvantages to his own advantage."
+      "content": "Il fanciullo conosceva bene il Tabù della Testa riguardo alle armi da fuoco e, forte di quella conoscenza, volgeva questi svantaggi a proprio favore."
     },
     {
       "id": 54,
-      "content": "Drawing a worshipper next to a building wall, taking cover on the other side of the wall himself, then ordering his colleague to fire a penetrator round would be an example of one such strategy."
+      "content": "Attirare un devoto accanto alla parete di un edificio, ripararsi sul lato opposto del muro e ordinare al collega di sparare un proiettile perforante era un esempio di tale strategia."
     },
     {
       "id": 55,
-      "content": "Another would be forcing the enemies to take cover behind a wall, requesting his colleagues to fire an impact round, and demolishing the wall to bury them in the rubble."
+      "content": "Un'altra consisteva nel costringere i nemici a ripararsi dietro un muro, chiedere ai colleghi di sparare un proiettile a impatto e demolire la parete per seppellirli sotto le macerie."
     },
     {
       "id": 56,
-      "content": "The child soon realized that there was but a single worshipper remaining, having survived the slow but methodical takedown of the other worshippers."
+      "content": "Il fanciullo si rese presto conto che era rimasto un solo devoto, sopravvissuto alla metodica ed inesorabile eliminazione di tutti gli altri."
     },
     {
       "id": 57,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "Looks like their leader... escaped."
+      "content": "Sembra che il loro leader... sia fuggito."
     },
     {
       "id": 58,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "So you're the last one of this group. Seeing as you have two gears, may I assume that you are in a higher position than the others?"
+      "content": "Quindi sei l'ultimo rimasto di questo gruppo. Visto che hai due ingranaggi, posso presumere che tu occupi una posizione più elevata rispetto agli altri?"
     },
     {
       "id": 59,
-      "content": "A mere addition of one extra gear provided the lone worshipper a tremendous advantage in their final resistance."
+      "content": "L'aggiunta di un singolo ingranaggio in più garantiva al devoto rimasto solo un enorme vantaggio nella sua strenua resistenza finale."
     },
     {
       "id": 60,
-      "content": "The worshipper nimbly wiggled out of bullet trajectories even after the child drew them to an open position, and any penetration rounds that hit it bounced off impotently against its steel armor."
+      "content": "Il devoto schivava agilmente le traiettorie dei proiettili persino dopo che il fanciullo lo aveva attirato in uno spazio aperto, e i colpi perforanti che andavano a segno rimbalzavano impotenti contro la sua corazza d'acciaio."
     },
     {
       "id": 61,
       "model": "히스클리프",
       "title": "Ufficio Alto Calibro",
-      "content": "Oi, you alright over there? I don't got a clear shot anymore! You're in my dead angle!"
+      "content": "Ehi, tutto bene di là? Non ho più una linea di tiro pulita! Sei nel mio angolo cieco!"
     },
     {
       "id": 62,
-      "content": "His colleagues, realizing that this was not a foe to be underestimated, hollered worriedly in the child's direction."
+      "content": "I suoi colleghi, rendendosi conto che non si trattava di un avversario da sottovalutare, gridarono preoccupati in direzione del fanciullo."
     },
     {
       "id": 63,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "I think you two have done a great job supporting me so far."
+      "content": "Direi che voi due avete fatto un ottimo lavoro nel supportarmi finora."
     },
     {
       "id": 64,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "But it's time to end this."
+      "content": "Ma è il momento di mettere fine a questa storia."
     },
     {
       "id": 65,
-      "content": "It doesn't seem that the child agrees with their concerns."
+      "content": "Non sembra proprio che il fanciullo condivida le loro preoccupazioni."
     },
     {
       "id": 66,
-      "content": "The child steps forward, beaming with a casual smile."
+      "content": "Il fanciullo avanza, sfoggiando un sorriso disinvolto."
     },
     {
       "id": 67,
-      "content": "A sturdy breastplate made of steel."
+      "content": "Una robusta piastra pettorale in acciaio."
     },
     {
       "id": 68,
-      "content": "Some would purchase impact rounds to destroy the metal without penetrating it..."
+      "content": "Qualcuno comprerebbe proiettili a impatto per distruggere il metallo senza perforarlo..."
     },
     {
       "id": 69,
-      "content": "Some would purchase micro bullets to shoot through any visible holes in the armor..."
+      "content": "Qualcun altro acquisterebbe micro-proiettili per sparare attraverso le fessure visibili dell'armatura..."
     },
     {
       "id": 70,
-      "content": "... but the child sought a much simpler approach."
+      "content": "... ma il fanciullo preferiva un approccio decisamente più semplice."
     },
     {
       "id": 71,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "To this life of yours..."
+      "content": "Ti darò una fine..."
     },
     {
       "id": 72,
-      "content": "There was nothing stopping him from cutting through metal with his dagger, after all."
+      "content": "Dopotutto, nulla gli impediva di fendere il metallo con il suo pugnale."
     },
     {
       "id": 73,
-      "content": "The Workshop-made dagger in the child's hand cut through the worshipper's armor like a knife through butter, and..."
+      "content": "Il pugnale di un'Officina impugnato dal fanciullo squarciò la corazza del devoto come un coltello nel burro, e..."
     },
     {
       "id": 74,
-      "content": "... he aimed the barrel into this newly created gap in the worshipper's armor."
+      "content": "... infilò la canna della pistola direttamente nella fessura appena creata nell'armatura."
     },
     {
       "id": 75,
-      "content": "By the time the echoes of the three gunshots had dissipated into thin air, the worshipper's gears had already stopped turning."
+      "content": "Quando l'eco dei tre spari si dissolse nel nulla, gli ingranaggi del devoto avevano già smesso di girare."
     },
     {
       "id": 76,
       "model": "홍루",
       "title": "Ufficio Alto Calibro",
-      "content": "... I place the final Full-Stop."
+      "content": "…di Alto Calibro."
     }
   ]
 }
