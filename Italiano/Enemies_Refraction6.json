@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 9563,
-      "name": "Farfalla delle Vite Intrecciate Rifratta::La Crisalide",
+      "name": "Farfalla delle Vite Intrecciate Rifratta::Pupa",
       "desc": "Nucleo"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "id": 9556,
-      "name": "Giocherai? Rifratta?",
+      "name": "Giocherai? Rifratta",
       "desc": "Nucleo"
     },
     {
@@ -72,7 +72,7 @@
     },
     {
       "id": 956801,
-      "name": "Scaglia Achillea",
+      "name": "Scaglie Invertite",
       "desc": "Parte"
     },
     {
@@ -82,17 +82,17 @@
     },
     {
       "id": 9569,
-      "name": "Yinglong Rifratto",
+      "name": "Refracted Yinglong",
       "desc": "Nucleo"
     },
     {
       "id": 956901,
-      "name": "Cuneo Tumula-Fiori",
+      "name": "Lancia Tumula-Fiori",
       "desc": "Parte"
     },
     {
       "id": 956902,
-      "name": "Scaglia Achillea",
+      "name": "Scaglie Invertite",
       "desc": "Parte"
     },
     {
@@ -112,42 +112,42 @@
     },
     {
       "id": 957001,
-      "name": "Hongyu, la Giada Cremisi",
+      "name": "Hongyu, la Giada Cremisi Rifratta",
       "desc": "Parte"
     },
     {
       "id": 9571,
-      "name": "Spilla Tumula-Fiori Rifratta",
+      "name": "Spillo Tumula-Fiori Rifratto",
       "desc": "Nucleo"
     },
     {
       "id": 957101,
-      "name": "Spilla Tumula-Fiori",
+      "name": "Spillo Tumula-Fiori",
       "desc": "Parte"
     },
     {
       "id": 9550,
-      "name": "Il Precettore del Mignolo Rifratto - Shiomi Yoru",
+      "name": "La Precettrice Rifratta Del Mignolo - Shiomi Yoru",
       "desc": "Nucleo"
     },
     {
       "id": 9554,
-      "name": "Il Precettore dell'Anulare Rifratto - Callisto",
+      "name": "Il Precettore Rifratto Dell'Anulare - Callisto",
       "desc": "Nucleo"
     },
     {
       "id": 9555,
-      "name": "L'Apprendista dell'Anulare Rifratta - Albina",
+      "name": "L'Apprendista Rifratta Dell'Anulare - Albina",
       "desc": "Nucleo"
     },
     {
       "id": 9551,
-      "name": "Il Precettore dell'Indice Rifratto - Rien",
+      "name": "Il Precettore Rifratto Dell'Indice - Rien",
       "desc": "Nucleo"
     },
     {
       "id": 9552,
-      "name": "Il Precettore dell'Indice Rifratto - Rien",
+      "name": "Il Precettore Rifratto Dell'Indice - Rien",
       "desc": "Nucleo"
     },
     {
