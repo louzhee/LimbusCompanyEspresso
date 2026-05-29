@@ -564,7 +564,7 @@
     {
       "id": 2010212,
       "name": "Brace",
-      "desc": "<style=\"highlight\">Sul Colpo di un'Abilità Ira o di un'Abilità che infligge Potenza o Conteggio [Combustion]: A 6+ somma totale di [Combustion] su tutti i bersagli, Potere Scontro +1</style>\n\nA Scontro Vinto, infligge (<style=\"highlight\">Rison. Ira x 2</style>) [Combustion] <style=\"highlight\">sul bersaglio principale</style> (<style=\"highlight\">max 8</style> per Skill)",
+      "desc": "<style=\"highlight\">Sul Colpo di un'Abilità Ira o di un'Abilità che infligge Potenza o Conteggio [Combustion]: A 6+ somma totale di [Combustion] su tutti i bersagli, Potere Scontro +1</style>\n\nA Scontro Vinto, infligge (<style=\"highlight\">Rison. Ira x 2</style>) [Combustion] <style=\"highlight\">sul bersaglio principale</style> (<style=\"highlight\">max 8</style> per Abilità)",
       "summary": "Ottiene Potere Scontro\nQuando soddisfa le condizioni, infligge [Combustion]"
     }
   ]
