@@ -80,7 +80,7 @@
     {
       "id": "RustedWingScales",
       "name": "Polvere di Scaglie Arrugginite",
-      "desc": "- +0.25alle Resistenze verso i Tipi di Attacco e Affinità delle Abilità che si sono scontrate con l'Abilità \"Entangled Life - Regression\" di \"Farfalla delle Vite Intrecciate::La Crisalide\"",
+      "desc": "- +0.25 alle Resistenze verso i Tipi di Attacco e Affinità delle Abilità che si sono scontrate con l'Abilità \"Entangled Life - Advent\" di \"Farfalla delle Vite Intrecciate::La Crisalide\"",
       "summary": "",
       "undefined": "-"
     },
@@ -177,51 +177,51 @@
     },
     {
       "id": "TagGameBuff",
-      "name": "\"It\"",
-      "desc": "- Deal -100% damage using Unopposed Attacks\n- Take +80% damage from Unopposed Attacks\n- All Peccatulum Invidiae units, including this unit, equip only Defense Skills in their Skill Slots\n- Turn End: Lose 1 Stack",
+      "name": "\"Ce l'ha\"",
+      "desc": "- Infligge -100% danni con gli Attacchi Incontrastati\n- Subisce +80% danni dagli Attacchi Incontrastati\n- Tutte le unità Peccatulum Invidiae, compresa questa, equipaggiano solo Abilità Difensive nel loro Slot Abilità\n- Fine Turno: Perde 1 Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ObservationTheRingsRail",
-      "name": "Viewing the Tableau",
-      "desc": "- Base Offense Level -20\n- Base Defense Level -20\n- Turn Start: Gain 7 Protection if The Ring Apprentice has not retreated from this Encounter",
+      "name": "Osservando il Tableau",
+      "desc": "- Livello Offensivo Base -20\n- Livello Difensivo Base -20\n- Inzio Turno: Gain 7 Protezione se l'Apprendista dell'Anulare non si è ritirata da questo Incontro",
       "summary": "",
       "undefined": "-",
       "flavor": "\"The appreciation of artwork in a gallery calls for unhurried contemplation. Please remember—impatience dulls the appreciation of art.\""
     },
     {
       "id": "MiddleFingerLeashBuff",
-      "name": "Suppressed Might",
-      "desc": "- Unopposed Attacks deal -100% damage\n- Turn End: If 3+ allies are defeated in this Encounter, this effect expires",
+      "name": "Potenza Repressa",
+      "desc": "- Gli Attacchi Incontrastati infliggono -100% danni\n- Fine Turno: Se 3+ alleati sono stati sconfitti in questo Incontro, questo effetto scade",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ScarBygoneDaysRefraction_LowMorale",
-      "name": "Affection and Resentment",
-      "desc": "Deal and take +10% damage",
+      "name": "Affetto e Risentimento",
+      "desc": "Infligge e subisce +10% danni",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ScarBygoneDaysRefraction_Panic",
-      "name": "Affection and Resentment",
-      "desc": "Deal and take +20% damage",
+      "name": "Affetto e Risentimento",
+      "desc": "Infligge e subisce +20% danni",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "PainfulScarRailway_Panic",
-      "name": "Imitation of a Father",
-      "desc": "- Panic\n- Turn Start: Gain 5 Burn, +3 Burn Count, 5 Bleed, and +3 Bleed Count",
+      "name": "Imitazione di un Padre",
+      "desc": "- Panico\n- Inizio Turno: Ottiene 5 Bruciatura, +3 Conteggio Bruciatura, 5 Sanguinamento e +3 Conteggio Sanguinamento",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "PainfulScarRailway_LowMorale",
-      "name": "Imitation of a Father",
-      "desc": "- Low Morale\n- Turn Start: Gain 5 Burn and 5 Bleed",
+      "name": "Imitazione di un Padre",
+      "desc": "- Morale Basso\n- Inizio Turno:Ottiene 5 Bruciatura e 5 Sanguinamento",
       "summary": "",
       "undefined": "-"
     }
