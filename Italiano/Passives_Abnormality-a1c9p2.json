@@ -11,7 +11,7 @@
       "id": 132204,
       "name": "Riverbero Delle Immagini Residue",
       "desc": "Sul Colpo, infligge danni Taglienti pari a (danni finali della Moneta / 10)\n- questo effetto si attiva (livello di [TimeEntangleDesc]) volte; il danno di questo effetto non può Stordire il bersaglio",
-      "summary": "Infligge danno Tagliente bonus",
+      "summary": "Infligge danni Taglienti bonus",
       "undefined": "-"
     },
     {

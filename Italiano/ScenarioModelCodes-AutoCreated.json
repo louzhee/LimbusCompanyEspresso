@@ -2598,7 +2598,7 @@
         {
             "id": "엄지아비",
             "name": "Valentina",
-            "nickName": "Precettrice del Pollice"
+            "nickName": "Precettore del Pollice"
         },
         {
             "id": "엄지제자",
@@ -2633,17 +2633,17 @@
         {
             "id": "소지아비",
             "name": "Stella Dihui",
-            "nickName": "Precettrice del Mignolo"
+            "nickName": "Precettore del Mignolo"
         },
         {
             "id": "소지아비B1",
             "name": "Stella Dihui",
-            "nickName": "Precettrice del Mignolo"
+            "nickName": "Precettore del Mignolo"
         },
         {
             "id": "소지아비B2",
             "name": "Stella Dihui",
-            "nickName": "Precettrice del Mignolo"
+            "nickName": "Precettore del Mignolo"
         },
         {
             "id": "소지제자",
@@ -2733,7 +2733,7 @@
         {
             "id": "엄지아비피",
             "name": "Valentina",
-            "nickName": "Precettrice del Pollice"
+            "nickName": "Precettore del Pollice"
         },
         {
             "id": "중지아비",
@@ -2778,7 +2778,7 @@
         {
             "id": "소지아비2",
             "name": "Stella Dihui",
-            "nickName": "Precettrice del Mignolo"
+            "nickName": "Precettore del Mignolo"
         },
         {
             "id": "과거료슈1",
@@ -2823,7 +2823,7 @@
         {
             "id": "소지아비3",
             "name": "Stella Dihui",
-            "nickName": "Precettrice del Mignolo"
+            "nickName": "Precettore del Mignolo"
         },
         {
             "id": "검지제자3",
@@ -2903,7 +2903,7 @@
         {
             "id": "소지아비얼굴",
             "name": "Stella Dihui",
-            "nickName": "Precettrice del Mignolo"
+            "nickName": "Precettore del Mignolo"
         },
         {
             "id": "약지아비2",
@@ -3004,6 +3004,21 @@
             "id": "그레고르만우",
             "name": "Gregor",
             "nickName": "Peccatorino #13"
+        },
+        {
+            "id": "베르길리우스만우",
+            "name": "Vergilius",
+            "nickName": "Il Teropode Rosso"
+        },
+        {
+            "id": "유리만우",
+            "name": "Yuri",
+            "nickName": ""
+        },
+        {
+            "id": "카론만우",
+            "name": "Charon",
+            "nickName": ""
         },
         {
             "id": "뉴키라",
