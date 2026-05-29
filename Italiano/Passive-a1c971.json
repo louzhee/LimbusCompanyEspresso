@@ -93,7 +93,7 @@
     {
       "id": 108202,
       "name": "Adattamento",
-      "desc": "Ottiene 1 [Breath] ogni volta che infligge danno con le Abilità Attacco (max 15 per turno)\n- Sul Colpo, se il bersaglio ha 15+ [ObservedPerson], ottiene 1 [Breath] in più\n\nOttiene +1 Conteggio [Breath] ogni volta che subisce danni dalle Abilità Attacco nemiche (max 15 per turno)\n- Quando colpito, se il bersaglio ha 15+ [ObservedPerson], ottiene 1 Conteggio [Breath] in più"
+      "desc": "Ottiene 1 [Breath] ogni volta che infligge danno con le Abilità Attacco (max 15 per turno)\n- Sul Colpo, se il bersaglio ha 15+ [ObservedPerson], ottiene 1 [Breath] in più da questo effetto\n\nOttiene +1 Conteggio [Breath] ogni volta che subisce danni dalle Abilità Attacco nemiche (max 15 per turno)\n- Quando colpito, se il bersaglio ha 15+ [ObservedPerson], ottiene 1 Conteggio [Breath] in più da questo effetto"
     },
     {
       "id": 108203,
@@ -113,7 +113,7 @@
     {
       "id": 108206,
       "name": "Disadattamento",
-      "desc": "Rimpiazza la passiva 「Adattamento」 quando questa viene indebolita da un Evento a Scelta.\n\nOttiene 1 [Breath] ogni volta che infligge danno con le Abilità Attacco (max 15 per turno)\n- Se il bersaglio ha 15+ [ObservedPerson], riduce il [ObservedPerson] sul bersaglio di 3 per ottenere 1 [Breath] in più\n\nOttiene +1 Conteggio [Breath] ogni volta che subisce danni dalle Abilità Attacco nemiche (max 15 per turno)\n- Se il bersaglio ha 15+ [ObservedPerson], riduce il [ObservedPerson] sul bersaglio di 3 per ottenere 1 Conteggio [Breath] in più\n\nI danni sul Colpo Critico non possono essere aumentati o diminuiti"
+      "desc": "Rimpiazza la passiva 「Adattamento」 quando questa viene indebolita da un Evento a Scelta.\n\nOttiene 1 [Breath] ogni volta che infligge danno con le Abilità Attacco (max 15 per turno)\n- Se il bersaglio ha 15+ [ObservedPerson], riduce il [ObservedPerson] sul bersaglio di 3 per ottenere 1 [Breath] in più da questo effetto\n\nOttiene +1 Conteggio [Breath] ogni volta che subisce danni dalle Abilità Attacco nemiche (max 15 per turno)\n- Se il bersaglio ha 15+ [ObservedPerson], riduce il [ObservedPerson] sul bersaglio di 3 per ottenere 1 Conteggio [Breath] in più da questo effetto\n\nI danni sul Colpo Critico non possono essere aumentati o diminuiti"
     },
     {
       "id": 108207,
@@ -128,7 +128,7 @@
     {
       "id": 108209,
       "name": "Adattamento",
-      "desc": "Ottiene 1 [Breath] ogni volta che infligge danno con le Abilità Attacco (max 15 per turno)\n- Sul Colpo, se il bersaglio ha 15+ [ObservedPerson], ottiene 1 [Breath] in più\n\nOttiene +1 Conteggio [Breath] ogni volta che subisce danni dalle Abilità Attacco nemiche (max 15 per turno)\n- Quando colpito, se il bersaglio ha 15+ [ObservedPerson], ottiene 1 Conteggio [Breath] in più"
+      "desc": "Ottiene 1 [Breath] ogni volta che infligge danno con le Abilità Attacco (max 15 per turno)\n- Sul Colpo, se il bersaglio ha 15+ [ObservedPerson], ottiene 1 [Breath] in più da questo effetto\n\nOttiene +1 Conteggio [Breath] ogni volta che subisce danni dalle Abilità Attacco nemiche (max 15 per turno)\n- Ottiene 1 [Breath] ogni volta che infligge danno con le Abilità Attacco (max 15 per turno)\n- Sul Colpo, se il bersaglio ha 15+ [ObservedPerson], ottiene 1 [Breath] in più da questo effetto"
     },
     {
       "id": 108210,
@@ -138,7 +138,7 @@
     {
       "id": 108211,
       "name": "Disadattamento",
-      "desc": "Rimpiazza la passiva 「Adattamento」 quando questa viene indebolita da un Evento a Scelta.\n\nOttiene 1 [Breath] ogni volta che infligge danno con le Abilità Attacco (max 15 per turno)\n- Se il bersaglio ha 15+ [ObservedPerson], riduce il [ObservedPerson] sul bersaglio di 3 per ottenere 1 [Breath] in più\n\nOttiene +1 Conteggio [Breath] ogni volta che subisce danni dalle Abilità Attacco nemiche (max 15 per turno)\n- Se il bersaglio ha 15+ [ObservedPerson], riduce il [ObservedPerson] sul bersaglio di 3 per ottenere 1 Conteggio [Breath] in più\n\nI danni sul Colpo Critico non possono essere aumentati o diminuiti"
+      "desc": "Rimpiazza la passiva 「Adattamento」 quando questa viene indebolita da un Evento a Scelta.\n\nOttiene 1 [Breath] ogni volta che infligge danno con le Abilità Attacco (max 15 per turno)\n- Se il bersaglio ha 15+ [ObservedPerson], riduce il [ObservedPerson] sul bersaglio di 3 per ottenere 1 [Breath] in più da questo effetto\n\nOttiene +1 Conteggio [Breath] ogni volta che subisce danni dalle Abilità Attacco nemiche (max 15 per turno)\n- Se il bersaglio ha 15+ [ObservedPerson], riduce il [ObservedPerson] sul bersaglio di 3 per ottenere 1 Conteggio [Breath] in più da questo effetto\n\nI danni sul Colpo Critico non possono essere aumentati o diminuiti"
     },
     {
       "id": 138904,
