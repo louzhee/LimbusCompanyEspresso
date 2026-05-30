@@ -1155,7 +1155,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Impalare il Sé, Espurgando le impurità [自穿滅汚]",
+          "name": "Impalare il Sé, Espurga le impurità [自穿滅汚]",
           "desc": "[CantDuel] [CantIdentify]\n[WhenUse] Se la Giada Cremisi ha 1 PV, <color=#ff6000><mark=#ff000040><b><u>quest'Abilità non infligge danno e non attiva gli effetti delle sue Monete</u></b></mark></color>\n[EndSkill] Muore",
           "coinlist": [
             {
@@ -1744,7 +1744,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Liberation of the Repressed Flesh",
+          "name": "Liberazione Della Carne Repressa",
           "desc": "Mentre questa Abilità è equipaggiata, ottiene 1 [PlusCoinValueDown] e 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>quando viene colpita dalle Abilità nemiche</u></b></mark></color> (una volta per Abilità; max 3 volte per turno)\nNon può essere Stordita prima dell'uso di quest'Abilità\nSe quest'Abilità uccide: recupera 15 PS per ogni nemico sconfitto\n[StartBattle] Ottiene 4 [Protection]\n[WhenUse] Infligge +3% danni per ogni 6 ([Laceration] sul bersaglio principale + [Laceration] nei bersagli secondari) (max 30%)\n[DefeatDuel] Infligge -90% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio\n[EndSkill] [BoneBladeTheRings] scade",
           "coinlist": [
             {
