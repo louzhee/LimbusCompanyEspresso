@@ -4,13 +4,13 @@
       "id": 836601,
       "title": "",
       "prevDesc": "",
-      "eventDesc": "We returned to the Training Team hallways again.\n\nAccording to the Work Education manual, we're going to need the Physical Intervention Shield to survive the Noon of Violet's shockwave.\n\nWe stood huddled together at the hallway, remembering what Hod, the Sephirah of the Training Team told us. It wasn't long before the same bullets from earlier struck us.\n\nRed barriers began to form around the Sinners who were struck by the bullets.\n\n'Let's see... According to the schedule, we have some time until the next Noon arrives.'\n\nOne of the Sinners noticed an Emergency Response manual posted on the hallway walls.\n\nOn it were instructions on how to use a console installed in the hallways to activate the Regenerator systems connected to the Safety Team.\n\n'This seems like it'd be worth a try.'\n\nIf we hurry, we might be able to activate the Regenerator before the Noon arrives.",
-      "behaveDesc": "Who will activate the Regenerator?",
+      "eventDesc": "Siamo tornati di nuovo nei corridoi del Team di Formazione.\n\nSecondo il manuale di Formazione al Lavoro, avremo bisogno degli Scudi di Intervento Fisico per sopravvivere alla scossa del Mezzogiorno di Viola.\n\nEravamo tutti accalcati verso il corridoio, ricordando cosa Hod, il Sephirah del Team di Formazione ci ha detto. Non c'era voluto molto prima che gli stessi proiettili di prima ci colpissero.\n\nDelle barriere rosse si erano formate attorno ai Peccatori colpiti dai proiettili.\n\n'Vediamo... Secondo il programma, abbiamo ancora un po' di tempo prima che arrivi il prossimo Mezzogiorno.'\n\nUna dei Peccatori aveva notato un manuale di Pronto Intervento esposto sulle mura del corridoio.\n\nVi erano scritte delle istruzioni su come utilizzare una console installata nei corridoi per attivare i sistemi del Rigeneratore connessi al Team di Prevenzione.\n\n'Sembra possa valerne la pena provarci.'\n\nSe ci sbrighiamo, riusciremo ad attivare il Rigeneratore prima che arrivi il Mezzogiorno.",
+      "behaveDesc": "Chi attiverà il Rigeneratore?",
       "successDesc": [
-        "{0}'s face lights up as they read the manual.\n\nSoon, an announcement lets us know that the Regenerator Distinguisher has been modified, reactivating most functionalities of the Regenerator."
+        "L'espressione di {0} si solleva mentre legge il manuale.\n\nPresto, un annuncio ci comunica che il Differenziatore del Rigeneratore è stato modificato, riattivando molte funzionalità del Rigeneratore."
       ],
       "failureDesc": [
-        "{0}'s face grows darker as they read and reread the manual.\n\nThey must've hit a wall; they kept squinting at the paper for a while...\n\n... and eventually, {0} managed to reactivate the basic functionalities of the Regenerator.\n\nThere isn't much time until the next Ordeal.\n\nThere isn't any more time for us to struggle with this console. We hurried back to the lobby."
+        "L'espressione di {0} diventa cupa a forza di rileggere il manuale.\n\nSi starà trovando alle strette; continua a strizzare gli occhi sulla stessa pagina...\n\n... e finalmente, {0} riesce a riattivare le funzionalità di base del Rigeneratore.\n\nNon è rimasto molto tempo prima della prossima Ordalia.\n\nNon abbiamo più tempo per continuare a maneggiare questa console. Siamo corsi verso la sala."
       ]
     },
     {
