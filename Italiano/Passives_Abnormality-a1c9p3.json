@@ -448,7 +448,7 @@
       "id": 134701,
       "name": "Rien, Il Precettore Dell'Indice",
       "desc": "<color=#ff6000><mark=#ff000040><b><u>Subisce -50% danni dagli Attacchi Incontrastati</u></b></mark></color>\nSubisce -50% danni da [Vibration], [Burst], e [Sinking]\nQuando recupera PS per l'effetto di [UnlockBuff_Base], se i suoi PS sono sotto 0, porta i PS a 0\n\nA inizio Incontro, ottiene [BurningWoundRien_Mask]\n\nA 55% PV, ottiene un nuovo pattern\n- Rimuove tutti gli effetti non esclusivi a quest'Unità\n- Riporta [StackRienSpecialSkill] a 0",
-      "flavor": "Aspettai \"il momento giusto\" per volontà del Prescritto.\nContinuai ad aspettare anche quando la mia cara figlia se ne andò.\n\nUn giorno, finalmente, fui contattato da Limbus Company, e vidi che la porta del Retro era aperta.\nPoi, il dispositivo iniziò a suonare, e capì che era arrivato il momento di riportare mia figlia a casa."
+      "flavor": "Aspettai \"il momento giusto\" per volontà del Prescritto.\nContinuai ad aspettare anche quando la mia cara figlia se ne andò.\n\nUn giorno, finalmente, fui contattato da Limbus Company, e vidi che la Backdoor era aperta.\nPoi, il dispositivo iniziò a suonare, e capì che era arrivato il momento di riportare mia figlia a casa."
     },
     {
       "id": 134702,
@@ -466,7 +466,7 @@
       "id": 134704,
       "name": "Esecuzione Del Prescritto",
       "desc": "A fine turno, se il [IndexPrescript_Base_2nd] è stato portato al termine durante il turno, recupera 10 PS e ottiene 3 [BlessingOfIndexPrescriptEnemy] (una volta per turno)\n\n<color=#ff6000><mark=#ff000040><b><u>Se invece il [IndexPrescript_Base_2nd] non è stato portato al termine, ottiene 8 [KarmaOfIndexRien] e il [IndexPrescriptTargetToPersonality] ottiene 1 [ParryingResultUp] il turno successivo</u></b></mark></color>\n- Se non ha [UnlockBuff_Base], ottiene 1 [BlessingOfIndexPrescriptEnemy] a fine turno\n- A 9 [BlessingOfIndexPrescriptEnemy], non ottiene [KarmaOfIndexRien]",
-      "flavor": "Vuoi che perda la mia famiglia?\n\n\"Devo fare un viaggetto al nord oggi.\"\n\"Ah, a proposito— hey, piccoletto. Tesoro? Stasera dovrebbe arrivarmi un pacco. Potresti andare a ritirarlo, per favore?\""
+      "flavor": "Vuoi che perda la mia famiglia?\n\n\"Devo fare un viaggetto al nord oggi.\"\n\"Ah, a proposito— ciao, piccolo— Tesoro? Stasera dovrebbe arrivarmi un pacco. Potresti andare a ritirarlo, per favore?\""
     },
     {
       "id": 134705,
@@ -496,7 +496,7 @@
       "id": 134804,
       "name": "Esecuzione Del Prescritto",
       "desc": "A fine turno, se il [IndexPrescript_Base_2nd] è stato portato al termine, recupera 15 PS e ottiene 1 [BlessingOfIndexPrescriptEnemy] (una volta per turno)\n\n<color=#ff6000><mark=#ff000040><b><u>Se invece il [IndexPrescript_Base_2nd] non è stato portato al termine durante il turno, ottiene 10 [KarmaOfIndexRien_2Phase], perde 1 [BlessingOfIndexPrescriptEnemy], e il [IndexPrescriptTargetToPersonality] ottiene 2 [ParryingResultUp] il turno successivo</u></b></mark></color>\n- Se ha usato un'Abilità Potente durante il turno, ottiene invece 15 [KarmaOfIndexRien_2Phase] e perde 3 [BlessingOfIndexPrescriptEnemy]",
-      "flavor": "Ho... perso la mia famiglia.\n\n\"Non andartene...\"\n\"Papà... Non... andartene... Ti prego... aiutaci...\""
+      "flavor": "Ho perso... la mia famiglia.\n\n\"Non andartene...\"\n\"Papà... Non lasciarci qui... Ti prego... aiutaci...\""
     },
     {
       "id": 132224,

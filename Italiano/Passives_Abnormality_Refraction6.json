@@ -58,42 +58,42 @@
     {
       "id": 9567020,
       "name": "Presente [現在]",
-      "desc": "[StackPresentActivate], gain the following effects:\n- Does not lose [Breath] Count On Crit; Turn Start: gain (2 + # of Sinners) [Breath] and [Breath] Count\n- Skill \"Smite the Wicked\" gains Final Power +2 and its final Coin gains \"On Hit, raise Stagger Threshold by ([StackPresentActivate] Stack / 2) (rounded down)\" effect\n- On Hit, deal +(([Breath] Potency on self + [Breath] Count on self) x 2)% damage on Critical Hit (max 120%; on Clash Lose, apply only one-third of the effect's full value)\n"
+      "desc": "[StackPresentActivate], attiva i seguenti effetti:\n- Non perde Conteggio [Breath] sul Colpo Critico; A inizio turno, ottiene (2 + numero di Peccatori) Potenza e Conteggio [Breath]\n- L'Abilità \"Sconfiggi i Malvagi\" ottiene Potere Finale +2 e la sua ultima Moneta ottiene questo effetto:\n\"Sul Colpo, alza la Soglia di Stordimento di (Stack [StackPresentActivate] / 2) (arrotondato per difetto)\"\n- Sul Colpo, infligge +((Potenza + Conteggio [Breath] su di sé) x 2)% danni sul Colpo Critico (max 120%; se perde lo Scontro, apply only one-third of the effect's full value)\n"
     },
     {
       "id": 9567021,
       "name": "Presente [現在]",
-      "desc": "[StackPresentActivate], gain the following effects:\n<mark=#000000AA>- <color=#e5e5e5><s></color>Does not lose [Breath] Count On Crit; Turn Start: gain (2 + # of Sinners) [Breath] and [Breath] Count<color=#ff0000></s></color></mark>\n- Skill \"Smite the Wicked\" gains Final Power +2 and its final Coin gains \"On Hit, raise Stagger Threshold by ([StackPresentActivate] Stack / 2) (rounded down)\" effect\n- On Hit, deal +(([Breath] Potency on self + [Breath] Count on self) x 2)% damage on Critical Hit (max 120%; on Clash Lose, apply only one-third of the effect's full value)\n"
+      "desc": "[StackPresentActivate], gain the following effects:\n<mark=#000000AA>- <color=#e5e5e5><s></color>Does not lose [Breath] Count On Crit; Turn Start: gain (2 + # of Sinners) [Breath] and [Breath] Count<color=#ff0000></s></color></mark>\n- Skill \"Sconfiggi i Malvagi\" gains Final Power +2 and its final Coin gains \"On Hit, raise Stagger Threshold by ([StackPresentActivate] Stack / 2) (rounded down)\" effect\n- On Hit, deal +(([Breath] Potency on self + [Breath] Count on self) x 2)% damage on Critical Hit (max 120%; on Clash Lose, apply only one-third of the effect's full value)\n"
     },
     {
       "id": 9567022,
       "name": "Presente [現在]",
-      "desc": "[StackPresentActivate], gain the following effects:\n- Does not lose [Breath] Count On Crit; Turn Start: gain (2 + # of Sinners) [Breath] and [Breath] Count\n<mark=#000000AA>- <color=#e5e5e5><s></color>Skill \"Smite the Wicked\" gains Final Power +2 and its final Coin gains \"On Hit, raise Stagger Threshold by ([StackPresentActivate] Stack / 2) (rounded down)\" effect<color=#ff0000></s></color></mark>\n- On Hit, deal +(([Breath] Potency on self + [Breath] Count on self) x 2)% damage on Critical Hit (max 120%; on Clash Lose, apply only one-third of the effect's full value)\n"
+      "desc": "[StackPresentActivate], gain the following effects:\n- Does not lose [Breath] Count On Crit; Turn Start: gain (2 + # of Sinners) [Breath] and [Breath] Count\n<mark=#000000AA>- <color=#e5e5e5><s></color>Skill \"Sconfiggi i Malvagi\" gains Final Power +2 and its final Coin gains \"On Hit, raise Stagger Threshold by ([StackPresentActivate] Stack / 2) (rounded down)\" effect<color=#ff0000></s></color></mark>\n- On Hit, deal +(([Breath] Potency on self + [Breath] Count on self) x 2)% damage on Critical Hit (max 120%; on Clash Lose, apply only one-third of the effect's full value)\n"
     },
     {
       "id": 9567023,
       "name": "Presente [現在]",
-      "desc": "[StackPresentActivate], gain the following effects:\n- Does not lose [Breath] Count On Crit; Turn Start: gain (2 + # of Sinners) [Breath] and [Breath] Count\n- Skill \"Smite the Wicked\" gains Final Power +2 and its final Coin gains \"On Hit, raise Stagger Threshold by ([StackPresentActivate] Stack / 2) (rounded down)\" effect\n<mark=#000000AA>- <color=#e5e5e5><s></color>On Hit, deal +(([Breath] Potency on self + [Breath] Count on self) x 2)% damage on Critical Hit (max 120%; on Clash Lose, apply only one-third of the effect's full value)<color=#ff0000></s></color></mark>\n"
+      "desc": "[StackPresentActivate], attiva i seguenti effetti:\n- Non perde Conteggio [Breath] sul Colpo Critico; Turn Start: gain (2 + # of Sinners) [Breath] and [Breath] Count\n- Skill \"Sconfiggi i Malvagi\" gains Final Power +2 and its final Coin gains \"On Hit, raise Stagger Threshold by ([StackPresentActivate] Stack / 2) (rounded down)\" effect\n<mark=#000000AA>- <color=#e5e5e5><s></color>On Hit, deal +(([Breath] Potency on self + [Breath] Count on self) x 2)% damage on Critical Hit (max 120%; on Clash Lose, apply only one-third of the effect's full value)<color=#ff0000></s></color></mark>\n"
     },
     {
       "id": 9567030,
       "name": "Futuro [未來]",
-      "desc": "[StackFutureActivate], gain the following effects:\n- Turn Start: All Sinners gain +(3 + # of current turn / 2) [Laceration] Count (rounded up)\n- Skill \"Bloodflower\" gains Final Power +2 and its final Coin gains \"On Hit,\nheal ([StackFutureActivate] Stack x 3) HP on self\" effect\n- Whenever [Laceration] activates on self or on Sinners, heal HP equal to the said [Laceration] damage (rounded down)\n"
+      "desc": "[StackFutureActivate], attiva i seguenti effetti:\n- A inizio turno, infligge +(3 + numero del turno attuale / 2) Conteggio [Laceration] su ogni Peccatore (arrotondato per eccesso)\n- L'Abilità \"Fiore Sanguineo\" ottiene Potere Finale +2 e la sua ultima Moneta ottiene questo effetto:\n\"Sul Colpo, recupera (Stack [StackFutureActivate] x 3) PV\"\n- Quando [Laceration] viene attivato, recupera PV pari al danno inflitto da [Laceration] (arrotondato per difetto)\n"
     },
     {
       "id": 9567031,
       "name": "Futuro [未來]",
-      "desc": "[StackFutureActivate], gain the following effects:\n<mark=#000000AA>- <color=#d93737><s></color>Turn Start: All Sinners gain +(3 + # of current turn / 2) [Laceration] Count (rounded up)<color=#ff0000></s></color></mark>\n- Skill \"Bloodflower\" gains Final Power +2 and its final Coin gains \"On Hit,\nheal ([StackFutureActivate] Stack x 3) HP on self\" effect\n- Whenever [Laceration] activates on self or on Sinners, heal HP equal to the said [Laceration] damage (rounded down)\n"
+      "desc": "[StackFutureActivate], attiva i seguenti effetti:\n<mark=#000000AA>- <color=#d93737><s></color>A inizio turno, infligge +(3 + numero del turno attuale / 2) Conteggio [Laceration] su ogni Peccatore (arrotondato per eccesso)<color=#ff0000></s></color></mark>\n- L'Abilità \"Fiore Sanguineo\" ottiene Potere Finale +2 e la sua ultima Moneta ottiene questo effetto:\n\"Sul Colpo, recupera (Stack [StackFutureActivate] x 3) PV\"\n- Quando [Laceration] viene attivato, recupera PV pari al danno inflitto da [Laceration] (arrotondato per difetto)\n"
     },
     {
       "id": 9567032,
       "name": "Futuro [未來]",
-      "desc": "[StackFutureActivate], gain the following effects:\n- Turn Start: All Sinners gain +(3 + # of current turn / 2) [Laceration] Count (rounded up)\n<mark=#000000AA>- <color=#d93737><s></color>Skill \"Bloodflower\" gains Final Power +2 and its final Coin gains \"On Hit,\nheal ([StackFutureActivate] Stack x 3) HP on self\" effect<color=#ff0000></s></color></mark>\n- Whenever [Laceration] activates on self or on Sinners, heal HP equal to the said [Laceration] damage (rounded down)\n"
+      "desc": "[StackFutureActivate], attiva i seguenti effetti:\n- A inizio turno, infligge +(3 + numero del turno attuale / 2) Conteggio [Laceration] su ogni Peccatore (arrotondato per eccesso)\n<mark=#000000AA>- <color=#d93737><s></color>L'Abilità \"Fiore Sanguineo\" ottiene Potere Finale +2 e la sua ultima Moneta ottiene questo effetto:\n\"Sul Colpo, recupera (Stack [StackFutureActivate] x 3) PV\"<color=#ff0000></s></color></mark>\n- Quando [Laceration] viene attivato, recupera PV pari al danno inflitto da [Laceration] (arrotondato per difetto)\n"
     },
     {
       "id": 9567033,
       "name": "Futuro [未來]",
-      "desc": "[StackFutureActivate], gain the following effects:\n- Turn Start: All Sinners gain +(3 + # of current turn / 2) [Laceration] Count (rounded up)\n- Skill \"Bloodflower\" gains Final Power +2 and its final Coin gains \"On Hit,\nheal ([StackFutureActivate] Stack x 3) HP\" effect\n<mark=#000000AA>- <color=#d93737><s></color>Whenever [Laceration] activates on self or on Sinners, heal HP equal to the said [Laceration] damage (rounded down)<color=#ff0000></s></color></mark>\n"
+      "desc": "[StackFutureActivate], attiva i seguenti effetti:\n- A inizio turno, infligge +(3 + numero del turno attuale / 2) Conteggio [Laceration] su ogni Peccatore (arrotondato per eccesso)\n- L'Abilità \"Fiore Sanguineo\" ottiene Potere Finale +2 e la sua ultima Moneta ottiene questo effetto:\n\"Sul Colpo, recupera (Stack [StackFutureActivate] x 3) PV\"\n<mark=#000000AA>- <color=#d93737><s></color>Quando [Laceration] viene attivato, recupera PV pari al danno inflitto da [Laceration] (arrotondato per difetto)<color=#ff0000></s></color></mark>\n"
     },
     {
       "id": 956704,
@@ -158,22 +158,22 @@
     {
       "id": 957001,
       "name": "Vena del Dragone [龍脈]",
-      "desc": "A inizio turno, ottiene Scudo pari al 300% dei PV max del Nucleo\n- Questo effetto non si attiva se ci sono Abilità Attacco equipaggiate\nTurn Start: When Staggered, si riprende dallo Stordimento"
+      "desc": "A inizio turno, ottiene Scudo pari al 300% dei PV max del Nucleo\n- Questo effetto non si attiva se ci sono Abilità Attacco equipaggiate\nA inizio turno, se è Stordita, si riprende dallo Stordimento"
     },
     {
       "id": 957002,
       "name": "Vena Sanguinante del Dragone",
-      "desc": "Quando colpito, applica [YesdragonPower] sull'attaccante nel turno successivo\n\nAlla morte, applica [YesdragonPower] su ogni Peccatore"
+      "desc": "Quando colpita, applica [YesdragonPower] sull'attaccante nel turno successivo\n\nAlla morte, applica [YesdragonPower] su ogni Peccatore"
     },
     {
       "id": 957003,
       "name": "Un'Ultima Radianza [回光返照]",
-      "desc": "When this unit takes damage that brings its HP down to 0, this unit's HP does not drop below 1 for the turn; recover from Stagger due to damage\nFor the rest of the turn, this unit cannot be Staggered or killed due to damage; then, use \"Impale the Self, Impurity[TabExplain] to Purge\" at the very end of that turn"
+      "desc": "Quando subisce danni fatali, i PV non possono scendere sotto 1; recover from Stagger due to damage\nPer il resto di questo turno, quest'unità non puo essere uccisa. Alla fine del turno in cui si è attivato questo effetto, usa \"Impalare Il Sé, Espurga le Impurità[TabExplain]\""
     },
     {
       "id": 957004,
       "name": "Energia Nobile",
-      "desc": "Quest'unità è immune alle cure e alla Difesa di Supporto[TabExplain] effects\nSubisce danni dalle Abilità Attacco solo se è il bersaglio principale."
+      "desc": "Quest'unità è immune agli effetti di cura o di Difesa di Supporto[TabExplain]\nSubisce danni dalle Abilità Attacco solo se è il bersaglio principale."
     },
     {
       "id": 957006,
@@ -183,7 +183,7 @@
     {
       "id": 957101,
       "name": "Ritorno alle Origini [物歸原主]",
-      "desc": "Quando colpita dall'Abilità \"Crepuscolo\" di Yinlong, muore e applica 1 [YesdragonSelfRefraction] su Yinglong"
+      "desc": "Quando colpita dall'Abilità \"Luce Battente\" di Yinlong, muore e applica 1 [YesdragonSelfRefraction] su Yinglong"
     },
     {
       "id": 955101,
@@ -341,33 +341,33 @@
     },
     {
       "id": 957201,
-      "name": "Il Passato - Segmentation [分節]",
-      "desc": "Displays current [StackPastActivate] Stack on Farfalla[TabExplain] delle Vite Intrecciate::Imago\n\nEvery time this unit is <color=#ff6000><mark=#ff000040><b><u>hit as the main target</u></b></mark></color>:\n- Farfalla[TabExplain] delle Vite Intrecciate::Imago loses 1 [StackPastActivate] Stack (once per Coin)\n- The Sinner who attacked this unit heals 10 SP (once per turn per Sinner)\n\nIf this unit <color=#ff6000><mark=#ff000040><b><u>did not get hit as the main target this turn</u></b></mark></color>, Farfalla[TabExplain] delle Vite Intrecciate::Imago gains 5 [StackPastActivate] Stack at Combat End\n- If Farfalla[TabExplain] delle Vite Intrecciate::Imago is Staggered, this effect does not activate"
+      "name": "Il Passato - Segmentazione [分節]",
+      "desc": "Mostra gli Stack [StackPastActivate] sulla Farfalla[TabExplain] delle Vite Intrecciate::Imago\n\nOgni volta che quest'unità <color=#ff6000><mark=#ff000040><b><u>è colpita come bersaglio principale di un'Abilità Attacco</u></b></mark></color>:\n- La Farfalla[TabExplain] delle Vite Intrecciate::Imago perde 1 [StackPastActivate] (una volta per Moneta)\n- L'attaccante recupera 10 PS (una volta per turno per Peccatore)\n\nSe quest'unità <color=#ff6000><mark=#ff000040><b><u>non era un bersaglio principale di un'Abilità Attacco in questo turno</u></b></mark></color>, la Farfalla[TabExplain] delle Vite Intrecciate::Imago ottiene 5 [StackPastActivate] a fine combattimento\n- Se la Farfalla[TabExplain] delle Vite Intrecciate::Imago è Stordita, questo effetto non si attiva"
     },
     {
       "id": 957202,
       "name": "Il Passato - Origine [緣起]",
-      "desc": "Fix this unit's Speed to 1; this unit's HP does not drop below 1\n\nWhen this unit takes HP damage, transfer half of damage taken to Farfalla[TabExplain] delle Vite Intrecciate::Imago (rounded down)"
+      "desc": "Fissa la Velocità a 1; i PV di quest'unità non possono scendere sotto 1\n\nQuando subisce danni ai PV, trasferisci la metà dei danni subiti alla Farfalla[TabExplain] delle Vite Intrecciate::Imago (arrotondato per difetto)"
     },
     {
       "id": 957301,
       "name": "Il Presente - Segmentazione [分節]",
-      "desc": "Displays current [StackPresentActivate] Stack on Farfalla[TabExplain] delle Vite Intrecciate::Imago\n\nEvery time this unit is <color=#ff6000><mark=#ff000040><b><u>hit as the main target</u></b></mark></color>:\n- Farfalla[TabExplain] delle Vite Intrecciate::Imago loses 1 [StackPresentActivate] Stack (once per Coin)\n- The Sinner who attacked this unit heals 10 SP (once per turn per Sinner)\n\nIf this unit <color=#ff6000><mark=#ff000040><b><u>did not get hit as the main target this turn</u></b></mark></color>, Farfalla[TabExplain] delle Vite Intrecciate::Imago gains 5 [StackPresentActivate] Stack at Combat End\n- If Farfalla[TabExplain] delle Vite Intrecciate::Imago is Staggered, this effect does not activate"
+      "desc": "Mostra gli Stack [StackPresentActivate] sulla Farfalla[TabExplain] delle Vite Intrecciate::Imago\n\nOgni volta che quest'unità <color=#ff6000><mark=#ff000040><b><u>è colpita come bersaglio principale di un'Abilità Attacco</u></b></mark></color>:\n- La Farfalla[TabExplain] delle Vite Intrecciate::Imago perde 1 [StackPresentActivate] (una volta per Moneta)\n- L'attaccante recupera 10 PS (una volta per turno per Peccatore)\n\nSe quest'unità <color=#ff6000><mark=#ff000040><b><u>non era un bersaglio principale di un'Abilità Attacco in questo turno</u></b></mark></color>, la Farfalla[TabExplain] delle Vite Intrecciate::Imago ottiene 5 [StackPresentActivate] a fine combattimento\n- Se la Farfalla[TabExplain] delle Vite Intrecciate::Imago è Stordita, questo effetto non si attiva"
     },
     {
       "id": 957302,
       "name": "Il Presente - Origine [緣起]",
-      "desc": "Fix this unit's Speed to 1; this unit's HP does not drop below 1\n\nWhen this unit takes HP damage, transfer half of damage taken to Farfalla[TabExplain] delle Vite Intrecciate::Imago (rounded down)"
+      "desc": "Fissa la Velocità a 1; i PV di quest'unità non possono scendere sotto 1\n\nQuando subisce danni ai PV, trasferisci la metà dei danni subiti alla Farfalla[TabExplain] delle Vite Intrecciate::Imago (arrotondato per difetto)"
     },
     {
       "id": 957401,
       "name": "Il Futuro - Segmentazione [分節]",
-      "desc": "Displays current [StackFutureActivate] Stack sulla Farfalla[TabExplain] delle Vite Intrecciate::Imago\n\nEvery time this unit is <color=#ff6000><mark=#ff000040><b><u>hit as the main target</u></b></mark></color>:\n- La Farfalla[TabExplain] delle Vite Intrecciate::Imago loses 1 [StackFutureActivate] Stack (once per Coin)\n- The Sinner who attacked this unit heals 10 SP (once per turn per Sinner)\n\nIf this unit <color=#ff6000><mark=#ff000040><b><u>did not get hit as the main target this turn</u></b></mark></color>, la Farfalla[TabExplain] delle Vite Intrecciate::Imago gains 5 [StackFutureActivate] Stack at Combat End\n- Se la Farfalla[TabExplain] delle Vite Intrecciate::Imago is Staggered, this effect does not activate"
+      "desc": "Mostra gli Stack [StackFutureActivate] sulla Farfalla[TabExplain] delle Vite Intrecciate::Imago\n\nOgni volta che quest'unità <color=#ff6000><mark=#ff000040><b><u>è colpita come bersaglio principale di un'Abilità Attacco</u></b></mark></color>:\n- La Farfalla[TabExplain] delle Vite Intrecciate::Imago perde 1 [StackFutureActivate] (una volta per Moneta)\n- L'attaccante recupera 10 PS (una volta per turno per Peccatore)\n\nSe quest'unità <color=#ff6000><mark=#ff000040><b><u>non era un bersaglio principale di un'Abilità Attacco in questo turno</u></b></mark></color>, la Farfalla[TabExplain] delle Vite Intrecciate::Imago ottiene 5 [StackFutureActivate] a fine combattimento\n- Se la Farfalla[TabExplain] delle Vite Intrecciate::Imago è Stordita, questo effetto non si attiva"
     },
     {
       "id": 957402,
       "name": "Il Futuro - Origine [緣起]",
-      "desc": "Fissa la Velocità a 1; i PV di quest'unità non possono scendere sotto 1\n\nQuando subisce danni ai PV, trasferisci la metà dei danni subiti alla Farfalla[TabExplain] delle Vite Intrecciate::Imago (rounded down)"
+      "desc": "Fissa la Velocità a 1; i PV di quest'unità non possono scendere sotto 1\n\nQuando subisce danni ai PV, trasferisci la metà dei danni subiti alla Farfalla[TabExplain] delle Vite Intrecciate::Imago (arrotondato per difetto)"
     },
     {
       "id": 955701,
