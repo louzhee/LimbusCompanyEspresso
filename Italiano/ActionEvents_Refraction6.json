@@ -4,27 +4,27 @@
       "id": 955601,
       "name": "",
       "subDesc": "",
-      "desc": "Something glowing yellow hurriedly steps in front of us, blocking our path.\n\n\"Would you mind stopping for a moment, please?\"\n\n\"You see... there's a rather fussy child playing with her friends up ahead.\"\n\n\"Keeping the child entertained for as long as she wants is a tall order, so I've been waiting here to lend a helping hand.\"\n\n\"Tell me, which assistance would you like?\"<size=0%>",
+      "desc": "Qualcosa che splende di giallo si para davanti a noi in tutta fretta, bloccando il nostro cammino.\n\n\"Potreste fermarvi un momento, per favore?\"\n\n\"Vedete... c'è una bambina capricciosetta che sta giocando con i suoi amichetti poco più avanti.\"\n\n\"Non è un'impresa da poco riuscire a intrattenere questa piccolina finché non si stanchi, quindi ho deciso di aspettare qui per poter dare una mano.\"\n\n\"Ditemi, come posso esservi utile?\"<size=0%>",
       "options": [
         {
-          "message": "Drink the rippling sap.",
-          "messageDesc": "Select to apply a survivability-enhancing effect on all allied and enemy units throughout this Section",
+          "message": "Bevete della linfa vitale.",
+          "messageDesc": "Seleziona per applicare un effetto che potenzia la sopravvivenza per tutte le unità alleate e nemiche per questa Sezione",
           "result": [
-            "Once they drank the rippling sap, the Sinners seemed to feel noticeably better.<size=0%>"
+            "Dopo aver bevuto la linfa vitale, i Peccatori sembravano sentirsi decisamente meglio.<size=0%>"
           ]
         },
         {
-          "message": "Take the sunset-tinted butterfly.",
-          "messageDesc": "Select to apply a damage-enhancing effect on all allied and enemy units throughout this Section",
+          "message": "Portatevi la farfalla color tramonto.",
+          "messageDesc": "Seleziona per applicare un effetto che potenzia i danni per tutte le unità alleate e nemiche per questa Sezione",
           "result": [
-            "We decided to move on together with the butterflies.<size=0%>"
+            "Avevamo deciso di andare avanti assieme alle farfalle.<size=0%>"
           ]
         },
         {
-          "message": "Refuse the help.",
-          "messageDesc": "No particular effect",
+          "message": "Rifiutate l'aiuto.",
+          "messageDesc": "Nessun effetto particolare",
           "result": [
-            "We decided to enter the battle without receiving any help.<size=0%>"
+            "Avevamo deciso di iniziare la battaglia senza ricevere alcun aiuto.<size=0%>"
           ]
         }
       ]
@@ -33,27 +33,27 @@
       "id": 955101,
       "name": "",
       "subDesc": "",
-      "desc": "Something glowing yellow is waiting for us.\n\n\"Hello. It's been quite a while.\"\n\n\"There's a child waiting all alone up ahead, unable to arrive at the story's ending.\"\n\n\"I've been waiting here to lend a helping hand to anyone who would show the child what it means to end.\"\n\n\"Tell me, which assistance would you like?\"<size=0%>",
+      "desc": "Qualcosa che splende di giallo ci stava aspettando.\n\n\"Salve. Ne è passato di tempo.\"\n\n\"Più avanti c'è un fanciullo solo soletto, che non riesce ad arrivare alla fine della storia.\"\n\n\"Finora ho aspettato qui per assistere chiunque voglia mostrare al ragazzo cosa sia un finale.\"\n\n\"Ditemi, come posso esservi utile?\"<size=0%>",
       "options": [
         {
-          "message": "Drink the frozen sap.",
-          "messageDesc": "Select to apply a survivability-enhancing effect on all allied and enemy units throughout this Section",
+          "message": "Bevete della linfa congelata.",
+          "messageDesc": "Seleziona per applicare un effetto che potenzia la sopravvivenza per tutte le unità alleate e nemiche per questa Sezione",
           "result": [
-            "The Sinners melted down the frozen sap and drank it. They seemed to feel noticeably better.<size=0%>"
+            "I Peccatori avevano sciolto la linfa congelata per poi bersela. Sembravano sentirsi decisamente meglio.<size=0%>"
           ]
         },
         {
-          "message": "Take the glittering wing scale.",
-          "messageDesc": "Select to apply a damage-enhancing effect on all allied and enemy units throughout this Section",
+          "message": "Prendete le scaglie d'ali luccicanti.",
+          "messageDesc": "Seleziona per applicare un effetto che potenzia i danni per tutte le unità alleate e nemiche per questa Sezione",
           "result": [
-            "We tucked the glittering wing scale away and continued ahead.<size=0%>"
+            "Avevamo messo da parte le scaglie d'ali luccicanti per poi proseguire.<size=0%>"
           ]
         },
         {
-          "message": "Refuse the help.",
-          "messageDesc": "No particular effect",
+          "message": "Rifiutate l'aiuto.",
+          "messageDesc": "Nessun effetto particolare",
           "result": [
-            "We decided to enter the battle without receiving any help.<size=0%>"
+            "Avevamo deciso di andare in battaglia senza ricevere alcun aiuto.<size=0%>"
           ]
         }
       ]
@@ -62,27 +62,27 @@
       "id": 956701,
       "name": "",
       "subDesc": "",
-      "desc": "The final stop.\n\nA wayfarer tinged in the glow of the sunset approaches us.\n\n\"It would seem there is no need to say much.\"\n\n\"Make yourself comfortable and rest awhile. Of course, feel free to leave now if you're in a hurry.\"<size=0%>",
+      "desc": "L'ultima fermata.\n\nUn pellegrino tinto nel bagliore del tramonto si avvicina a noi.\n\n\"Non penso ci sia bisogno di dirvi altro.\"\n\n\"Mettetevi a vostro agio e riposatevi per un po'. Sentitevi pure liberi di ripartire subito se siete di fretta.\"<size=0%>",
       "options": [
         {
-          "message": "Drink the sap and take a good, long rest.",
-          "messageDesc": "Select to apply a survivability-enhancing effect on all allied units throughout this Section",
+          "message": "Sorseggiate della linfa e riposatevi.",
+          "messageDesc": "Seleziona per applicare un effetto che potenzia la sopravvivenza per tutte le unità alleate per questa Sezione",
           "result": [
-            "The Sinners quenched their thirst with sap and took a proper rest. They seemed to feel noticeably better.<size=0%>"
+            "I Peccatori si erano dissetati con la linfa e si erano riposati per bene. Sembravano sentirsi decisamente meglio.<size=0%>"
           ]
         },
         {
-          "message": "Rest awhile and depart with the butterflies.",
-          "messageDesc": "Select to apply a damage-enhancing effect on all allied units throughout this Section",
+          "message": "Riposatevi un po' per poi incamminarvi con le farfalle.",
+          "messageDesc": "Seleziona per applicare un effetto che potenzia i danni per tutte le unità alleate per questa Sezione",
           "result": [
-            "We followed the butterflies, leaving the site while our fighting instincts were still sharp.<size=0%>"
+            "Avevamo seguito le farfalle, andandocene dal luogo con i nostri istinti combattivi ancora fini.<size=0%>"
           ]
         },
         {
-          "message": "Hurry up and leave.",
-          "messageDesc": "No particular effect",
+          "message": "Sbrigatevi ad andarvene.",
+          "messageDesc": "Nessun effetto particolare",
           "result": [
-            "We decided to enter the battle without getting any rest.<size=0%>"
+            "Avevamo deciso di iniziare la battaglia senza riposarci.<size=0%>"
           ]
         }
       ]
@@ -91,27 +91,27 @@
       "id": 956401,
       "name": "Illusory Butterfly of Entangled Lives::The Past Choice Event",
       "subDesc": "",
-      "desc": "We managed to peel off the strands of red thread wrapped around the Abnormality.\n\nHow should we proceed?<size=0%>",
+      "desc": "Siamo riusciti a rimuovere i filamenti di filo rosso avvolti attorno all'Anormalità.\n\nCome dovremo procedere?<size=0%>",
       "options": [
         {
-          "message": "Sever the soot.",
-          "messageDesc": "In the Encounter against Butterfly of Entangled Lives::Imago in Section 5, disable the first effect of the \"Past\" Passive:\n\"When hit by a Sinner, Butterfly of Entangled Lives inflicts Burn and Burn Count on the said Sinner\"",
+          "message": "Recidi il nerofumo.",
+          "messageDesc": "Nell'Incontro contro la Farfalla delle Vite Intrecciate::Imago nella Sezione 5, disabilita il primo effetto della Passiva \"Passato\":\n\"Quando colpita da un Peccatore, la Farfalla delle Vite Intrecciate infligge Bruciatura e Conteggio Bruciatura su quel Peccatore\"",
           "result": [
-            "The illusion disperses, disappearing into the past.<size=0%>"
+            "L'illusione si disperde, svanendo nel passato.<size=0%>"
           ]
         },
         {
-          "message": "Sever the ember.",
-          "messageDesc": "In the Encounter against Butterfly of Entangled Lives::Imago in Section 5, disable the second effect of the \"Past\" Passive:\n\"Butterfly of Entangled Lives's 'In the Past'-exclusive Skill 'Kalpāgni' gains Final Power and its final Coin inflicts SP damage On Hit\"",
+          "message": "Recidi il tizzone.",
+          "messageDesc": "Nell'Incontro contro la Farfalla delle Vite Intrecciate::Imago nella Sezione 5, disabilita il secondo effetto della Passiva \"Passato\":\n\"L'Abilità esclusiva 'Kalpāgni' della Farfalla delle Vite Intrecciate 'Nel Passato' ottiene Potere Finale e la sua Moneta finale infligge danni ai PS Per Colpo\"",
           "result": [
-            "The illusion disperses, disappearing into the past.<size=0%>"
+            "L'illusione si disperde, svanendo nel passato.<size=0%>"
           ]
         },
         {
-          "message": "Sever the remains.",
-          "messageDesc": "In the Encounter against Butterfly of Entangled Lives::Imago in Section 5, disable the third effect of the \"Past\" Passive:\n\"Butterfly of Entangled Lives inflicts HP Healing Down and Wrath Fragility on Sinners who have enough Burn\"",
+          "message": "Recidi i resti.",
+          "messageDesc": "Nell'Incontro contro la Farfalla delle Vite Intrecciate::Imago nella Sezione 5, disabilita il terzo effetto della Passiva \"Passato\":\n\"Farfalla delle Vite Intrecciate infligge Cure PV Ridotte e Fragilità Ira ai Peccatori che hanno abbastanza Bruciatura\"",
           "result": [
-            "The illusion disperses, disappearing into the past.<size=0%>"
+            "L'illusione si disperde, svanendo nel passato.<size=0%>"
           ]
         }
       ]
@@ -120,27 +120,27 @@
       "id": 956501,
       "name": "Illusory Butterfly of Entangled Lives::The Present Choice Event",
       "subDesc": "",
-      "desc": "We managed to peel off the strands of red thread wrapped around the Abnormality.\n\nHow should we proceed?<size=0%>",
+      "desc": "Siamo riusciti a rimuovere i filamenti di filo rosso avvolti attorno all'Anormalità.\n\nCome dovremo procedere?<size=0%>",
       "options": [
         {
-          "message": "Sever the thread.",
-          "messageDesc": "In the Encounter against Butterfly of Entangled Lives::Imago in Section 5, disable the first effect of the \"Present\" Passive:\n\"When Butterfly of Entangled Lives hits Critically, it does not lose Poise Count; gains a large amount of Poise Potency and Count at Turn Start\"",
+          "message": "Recidi il filo.",
+          "messageDesc": "Nell'Incontro contro la Farfalla delle Vite Intrecciate::Imago nella Sezione 5, disabilita il primo effetto della Passiva \"Presente\":\n\"Quando la Farfalla delle Vite Intrecciate colpisce con Critico, non perde Conteggio Equilibrio; ottiene una grossa quantità di Potenza Equilibrio a Inizio Turno\"",
           "result": [
-            "The illusion disperses, fading into the present.<size=0%>"
+            "L'illusione si disperde, svanendo nel presente.<size=0%>"
           ]
         },
         {
-          "message": "Sever the moment.",
-          "messageDesc": "In the Encounter against Butterfly of Entangled Lives::Imago in Section 5, disable the second effect of the \"Present\" Passive:\n\"Butterfly of Entangled Lives's 'In the Present'-exclusive Skill 'Smite the Wicked' gains Final Power and its final Coin raises Stagger Threshold On Hit\"",
+          "message": "Recidi l'attimo.",
+          "messageDesc": "Nell'Incontro contro la Farfalla delle Vite Intrecciate::Imago nella Sezione 5, disabilita il secondo effetto della Passiva \"Presente\":\n\"L'Abilità esclusiva 'Sconfiggi i Malvagi' della Farfalla delle Vite Intrecciate 'Nel Presente' ottiene Potere Finale e la sua Moneta finale alza la Soglia di Stordimento Per Colpo\"",
           "result": [
-            "The illusion disperses, fading into the present.<size=0%>"
+            "L'illusione si disperde, svanendo nel presente.<size=0%>"
           ]
         },
         {
-          "message": "Sever the wing.",
-          "messageDesc": "In the Encounter against Butterfly of Entangled Lives::Imago in Section 5, disable the third effect of the \"Present\" Passive:\n\"Butterfly of Entangled Lives deals more damage on Critical Hit based on its Poise Potency and Count\"",
+          "message": "Recidi l'ala.",
+          "messageDesc": "Nell'Incontro contro la Farfalla delle Vite Intrecciate::Imago nella Sezione 5, disabilita il terzo effetto della Passiva \"Presente\":\n\"Farfalla delle Vite Intrecciate infligge più danni per Colpo Critico in base alla propria Potenza e Conteggio Equilibrio\"",
           "result": [
-            "The illusion disperses, fading into the present.<size=0%>"
+            "L'illusione si disperde, svanendo nel presente.<size=0%>"
           ]
         }
       ]
@@ -149,27 +149,27 @@
       "id": 956601,
       "name": "Illusory Butterfly of Entangled Lives::The Future Choice Event",
       "subDesc": "",
-      "desc": "We managed to peel off the strands of red thread wrapped around the Abnormality.\n\nHow should we proceed?<size=0%>",
+      "desc": "Siamo riusciti a rimuovere i filamenti di filo rosso avvolti attorno all'Anormalità.\n\nCome dovremo procedere?<size=0%>",
       "options": [
         {
-          "message": "Sever the portent.",
-          "messageDesc": "In the Encounter against Butterfly of Entangled Lives::Imago in Section 5, disable the first effect of the \"Future\" Passive:\n\"Turn Start: Sinners gain Bleed Count\"",
+          "message": "Recidi il presagio.",
+          "messageDesc": "Nell'Incontro contro la Farfalla delle Vite Intrecciate::Imago nella Sezione 5, disabilita il primo effetto della Passiva \"Futuro\":\n\"Inizio Turno: I Peccatori ottengono Conteggio Sanguinamento\"",
           "result": [
-            "The illusion disperses, crumbling into the future.<size=0%>"
+            "L'illusione si disperde, svanendo nel futuro.<size=0%>"
           ]
         },
         {
-          "message": "Sever the possibility.",
-          "messageDesc": "In the Encounter against Butterfly of Entangled Lives::Imago in Section 5, disable the second effect of the \"Future\" Passive: \n\"Butterfly of Entangled Lives's 'In the Future'-exclusive Skill 'Bloodflower' gains Final Power; On Hit, its final Coin heals HP on self\"",
+          "message": "Recidi la possibilità.",
+          "messageDesc": "Nell'Incontro contro la Farfalla delle Vite Intrecciate::Imago nella Sezione 5, disabilita il secondo effetto della Passiva \"Futuro\": \n\"L'Abilità esclusiva 'Fiore Sanguineo' della Farfalla delle Vite Intrecciate 'Nel Futuro' ottiene Potere Finale; Per Colpo, recupera PV con la sua Moneta finale\"",
           "result": [
-            "The illusion disperses, crumbling into the future.<size=0%>"
+            "L'illusione si disperde, svanendo nel futuro.<size=0%>"
           ]
         },
         {
-          "message": "Sever the way out.",
-          "messageDesc": "In the Encounter against Butterfly of Entangled Lives::Imago in Section 5, disable the third effect of the \"Future\" Passive:\n\"Butterfly of Entangled Lives heals HP every time Bleed is activated on it or the Sinners\"",
+          "message": "Recidi la via d'uscita.",
+          "messageDesc": "Nell'Incontro contro la Farfalla delle Vite Intrecciate::Imago nella Sezione 5, disabilita il terzo effetto della Passiva \"Futuro\":\n\"Farfalla delle Vite Intrecciate recupera PV ogni volta che si attiva Sanguinamento su di sé o sui Peccatori\"",
           "result": [
-            "The illusion disperses, crumbling into the future.<size=0%>"
+            "L'illusione si disperde, svanendo nel futuro.<size=0%>"
           ]
         }
       ]

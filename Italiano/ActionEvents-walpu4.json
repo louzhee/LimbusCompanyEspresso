@@ -4,22 +4,22 @@
             "id": 836602,
             "name": "",
             "subDesc": "",
-            "desc": "Looks like we can restore one of the deactivated systems of the Safety Team, apart from the basic functionalities of the Regenerator.\n\nWhich one should we reactivate?",
+            "desc": "Pare che possiamo ripristinare uno dei sistemi disattivati del Team di Prevenzione, oltre alle funzionalità di base del Rigeneratore.\n\nQuale dovremmo riattivare?",
             "options": [
                 {
-                    "message": "Regenerator Mk2",
-                    "messageDesc": "Select to heal PV for all allies.",
+                    "message": "Rigeneratore Mk2",
+                    "messageDesc": "Seleziona per far recuperare PV a tutti gli alleati.",
                     "result": [
-                        "Regenerator Mk2 reactivated.\n\nI can feel the Sinners' bodies rapidly regenerating.\n\nIt didn't just regenerate our wounds; it healed their fatigue or minor injuries as well."
+                        "Rigeneratore Mk2 riattivato.\n\nPosso sentire i corpi dei Peccatori rigenerarsi rapidamente.\n\nNon ha solamente rigenerato le loro ferite; ha guarito anche delle lesioni minori o persino fatto riprendere dalle loro stanchezze."
                     ]
                 },
-                {
-                    "message": "Mental Corruption Neutralizing Gas",
-                    "messageDesc": "Select to heal PS for all allies.",
-                    "result": [
-                        "The Mental Corruption Neutralizing Gas has been activated.\n\nThe Sinners all look noticeably more comfortable, as though their heads have been cleared.\n\nWe're now all ready to fight our next battle."
-                    ]
-                }
+              {
+                "message": "Gas Anti-Corruzione Mentale",
+                "messageDesc": "Select per far recuperare PS a tutti gli alleati.",
+                "result": [
+                  "Il Gas Anti-Corruzione Mentale è stato riattivato.\n\nI Peccatori sembrano sentirsi tutti molto meglio, come se le loro menti si fossero schiarite.\n\nSiamo tutti pronti ad affrontare la nostra prossima battaglia."
+                ]
+              }
             ]
         },
         {
