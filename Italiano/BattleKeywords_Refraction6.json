@@ -17,7 +17,7 @@
     {
       "id": "NoeulNageuneBuffA5",
       "name": "Linfa del Pellegrino del Tramonto",
-      "desc": "- Ottiene +50% PV max (max 200; Peccatula Invidiae escluse)\n- Rimuove la prima Soglia di Stordimento di questa unità\n- Turn End: 4 alleati con i PS minori recuperano 4 PS (esclusi alleati in Panico o Corrosi))",
+      "desc": "- Ottiene +50% PV max (max 200; Peccatula Invidiae escluse)\n- Rimuove la prima Soglia di Stordimento di questa unità\n- Fine Turno: 4 alleati con i PS minori recuperano 4 PS (esclusi alleati in Panico o Corrosi))",
       "summary": "",
       "undefined": "-"
     },
