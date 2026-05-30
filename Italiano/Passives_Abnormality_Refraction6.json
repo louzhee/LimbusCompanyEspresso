@@ -38,62 +38,62 @@
     {
       "id": 9567010,
       "name": "Passato [過去]",
-      "desc": "When [StackPastActivate], gain the following effects:\n- When hit by Sinners, inflict 1 [Combustion] and +1 [Combustion] Count on the\nattacking Sinner\n- Skill \"Kalpāgni\" gains Final Power +2 and its final Coin gains \"On Hit,\ninflict ([StackPastActivate] Stack / 2) SP damage (rounded down)\" effect\n- Turn Start: Inflict 5 [TakeHpHealReduce] and 3 [CrimsonTakeDamageUp] on all Sinners who have 10+ ([Combustion] Potency + [Combustion] Count)"
+      "desc": "[StackPastActivate], gain the following effects:\n- When hit by Sinners, inflict 1 [Combustion] and +1 [Combustion] Count on the\nattacking Sinner\n- Skill \"Kalpāgni\" gains Final Power +2 and its final Coin gains \"On Hit,\ninflict ([StackPastActivate] Stack / 2) SP damage (rounded down)\" effect\n- Turn Start: Inflict 5 [TakeHpHealReduce] and 3 [CrimsonTakeDamageUp] on all Sinners who have 10+ ([Combustion] Potency + [Combustion] Count)"
     },
     {
       "id": 9567011,
       "name": "Passato [過去]",
-      "desc": "When [StackPastActivate], gain the following effects:\n<mark=#000000AA>- <color=#ff9000><s></color>When hit by Sinners, inflict 1 [Combustion] and +1 [Combustion] Count on the\nattacking Sinner<color=#ff0000></s></color></mark>\n- Skill \"Kalpāgni\" gains Final Power +2 and its final Coin gains \"On Hit,\ninflict ([StackPastActivate] Stack / 2) SP damage (rounded down)\" effect\n- Turn Start: Inflict 5 [TakeHpHealReduce] and 3 [CrimsonTakeDamageUp] on all Sinners who have 10+ ([Combustion] Potency + [Combustion] Count)\n"
+      "desc": "[StackPastActivate], gain the following effects:\n<mark=#000000AA>- <color=#ff9000><s></color>When hit by Sinners, inflict 1 [Combustion] and +1 [Combustion] Count on the\nattacking Sinner<color=#ff0000></s></color></mark>\n- Skill \"Kalpāgni\" gains Final Power +2 and its final Coin gains \"On Hit,\ninflict ([StackPastActivate] Stack / 2) SP damage (rounded down)\" effect\n- Turn Start: Inflict 5 [TakeHpHealReduce] and 3 [CrimsonTakeDamageUp] on all Sinners who have 10+ ([Combustion] Potency + [Combustion] Count)\n"
     },
     {
       "id": 9567012,
       "name": "Passato [過去]",
-      "desc": "When [StackPastActivate], gain the following effects:\n- When hit by Sinners, inflict 1 [Combustion] and +1 [Combustion] Count on the\nattacking Sinner\n<mark=#000000AA>- <color=#ff9000><s></color>Skill \"Kalpāgni\" gains Final Power +2 and its final Coin gains \"On Hit,\ninflict ([StackPastActivate] Stack / 2) SP damage (rounded down)\" effect<color=#ff0000></s></color></mark>\n- Turn Start: Inflict 5 [TakeHpHealReduce] and 3 [CrimsonTakeDamageUp] on all Sinners who have 10+ ([Combustion] Potency + [Combustion] Count)\n"
+      "desc": "[StackPastActivate], gain the following effects:\n- When hit by Sinners, inflict 1 [Combustion] and +1 [Combustion] Count on the\nattacking Sinner\n<mark=#000000AA>- <color=#ff9000><s></color>Skill \"Kalpāgni\" gains Final Power +2 and its final Coin gains \"On Hit,\ninflict ([StackPastActivate] Stack / 2) SP damage (rounded down)\" effect<color=#ff0000></s></color></mark>\n- Turn Start: Inflict 5 [TakeHpHealReduce] and 3 [CrimsonTakeDamageUp] on all Sinners who have 10+ ([Combustion] Potency + [Combustion] Count)\n"
     },
     {
       "id": 9567013,
       "name": "Passato [過去]",
-      "desc": "When [StackPastActivate], gain the following effects:\n- When hit by Sinners, inflict 1 [Combustion] and +1 [Combustion] Count on the\nattacking Sinner\n- Skill \"Kalpāgni\" gains Final Power +2 and its final Coin gains \"On Hit,\ninflict ([StackPastActivate] Stack / 2) SP damage (rounded down)\" effect\n<mark=#000000AA>- <color=#ff9000><s></color>Turn Start: Inflict 5 [TakeHpHealReduce] and 3 [CrimsonTakeDamageUp] on all Sinners who have 10+ ([Combustion] Potency + [Combustion] Count)<color=#ff0000></s></color></mark>\n"
+      "desc": "[StackPastActivate], gain the following effects:\n- When hit by Sinners, inflict 1 [Combustion] and +1 [Combustion] Count on the\nattacking Sinner\n- Skill \"Kalpāgni\" gains Final Power +2 and its final Coin gains \"On Hit,\ninflict ([StackPastActivate] Stack / 2) SP damage (rounded down)\" effect\n<mark=#000000AA>- <color=#ff9000><s></color>Turn Start: Inflict 5 [TakeHpHealReduce] and 3 [CrimsonTakeDamageUp] on all Sinners who have 10+ ([Combustion] Potency + [Combustion] Count)<color=#ff0000></s></color></mark>\n"
     },
     {
       "id": 9567020,
       "name": "Presente [現在]",
-      "desc": "When [StackPresentActivate], gain the following effects:\n- Does not lose [Breath] Count On Crit; Turn Start: gain (2 + # of Sinners) [Breath] and [Breath] Count\n- Skill \"Smite the Wicked\" gains Final Power +2 and its final Coin gains \"On Hit, raise Stagger Threshold by ([StackPresentActivate] Stack / 2) (rounded down)\" effect\n- On Hit, deal +(([Breath] Potency on self + [Breath] Count on self) x 2)% damage on Critical Hit (max 120%; on Clash Lose, apply only one-third of the effect's full value)\n"
+      "desc": "[StackPresentActivate], gain the following effects:\n- Does not lose [Breath] Count On Crit; Turn Start: gain (2 + # of Sinners) [Breath] and [Breath] Count\n- Skill \"Smite the Wicked\" gains Final Power +2 and its final Coin gains \"On Hit, raise Stagger Threshold by ([StackPresentActivate] Stack / 2) (rounded down)\" effect\n- On Hit, deal +(([Breath] Potency on self + [Breath] Count on self) x 2)% damage on Critical Hit (max 120%; on Clash Lose, apply only one-third of the effect's full value)\n"
     },
     {
       "id": 9567021,
       "name": "Presente [現在]",
-      "desc": "When [StackPresentActivate], gain the following effects:\n<mark=#000000AA>- <color=#e5e5e5><s></color>Does not lose [Breath] Count On Crit; Turn Start: gain (2 + # of Sinners) [Breath] and [Breath] Count<color=#ff0000></s></color></mark>\n- Skill \"Smite the Wicked\" gains Final Power +2 and its final Coin gains \"On Hit, raise Stagger Threshold by ([StackPresentActivate] Stack / 2) (rounded down)\" effect\n- On Hit, deal +(([Breath] Potency on self + [Breath] Count on self) x 2)% damage on Critical Hit (max 120%; on Clash Lose, apply only one-third of the effect's full value)\n"
+      "desc": "[StackPresentActivate], gain the following effects:\n<mark=#000000AA>- <color=#e5e5e5><s></color>Does not lose [Breath] Count On Crit; Turn Start: gain (2 + # of Sinners) [Breath] and [Breath] Count<color=#ff0000></s></color></mark>\n- Skill \"Smite the Wicked\" gains Final Power +2 and its final Coin gains \"On Hit, raise Stagger Threshold by ([StackPresentActivate] Stack / 2) (rounded down)\" effect\n- On Hit, deal +(([Breath] Potency on self + [Breath] Count on self) x 2)% damage on Critical Hit (max 120%; on Clash Lose, apply only one-third of the effect's full value)\n"
     },
     {
       "id": 9567022,
       "name": "Presente [現在]",
-      "desc": "When [StackPresentActivate], gain the following effects:\n- Does not lose [Breath] Count On Crit; Turn Start: gain (2 + # of Sinners) [Breath] and [Breath] Count\n<mark=#000000AA>- <color=#e5e5e5><s></color>Skill \"Smite the Wicked\" gains Final Power +2 and its final Coin gains \"On Hit, raise Stagger Threshold by ([StackPresentActivate] Stack / 2) (rounded down)\" effect<color=#ff0000></s></color></mark>\n- On Hit, deal +(([Breath] Potency on self + [Breath] Count on self) x 2)% damage on Critical Hit (max 120%; on Clash Lose, apply only one-third of the effect's full value)\n"
+      "desc": "[StackPresentActivate], gain the following effects:\n- Does not lose [Breath] Count On Crit; Turn Start: gain (2 + # of Sinners) [Breath] and [Breath] Count\n<mark=#000000AA>- <color=#e5e5e5><s></color>Skill \"Smite the Wicked\" gains Final Power +2 and its final Coin gains \"On Hit, raise Stagger Threshold by ([StackPresentActivate] Stack / 2) (rounded down)\" effect<color=#ff0000></s></color></mark>\n- On Hit, deal +(([Breath] Potency on self + [Breath] Count on self) x 2)% damage on Critical Hit (max 120%; on Clash Lose, apply only one-third of the effect's full value)\n"
     },
     {
       "id": 9567023,
       "name": "Presente [現在]",
-      "desc": "When [StackPresentActivate], gain the following effects:\n- Does not lose [Breath] Count On Crit; Turn Start: gain (2 + # of Sinners) [Breath] and [Breath] Count\n- Skill \"Smite the Wicked\" gains Final Power +2 and its final Coin gains \"On Hit, raise Stagger Threshold by ([StackPresentActivate] Stack / 2) (rounded down)\" effect\n<mark=#000000AA>- <color=#e5e5e5><s></color>On Hit, deal +(([Breath] Potency on self + [Breath] Count on self) x 2)% damage on Critical Hit (max 120%; on Clash Lose, apply only one-third of the effect's full value)<color=#ff0000></s></color></mark>\n"
+      "desc": "[StackPresentActivate], gain the following effects:\n- Does not lose [Breath] Count On Crit; Turn Start: gain (2 + # of Sinners) [Breath] and [Breath] Count\n- Skill \"Smite the Wicked\" gains Final Power +2 and its final Coin gains \"On Hit, raise Stagger Threshold by ([StackPresentActivate] Stack / 2) (rounded down)\" effect\n<mark=#000000AA>- <color=#e5e5e5><s></color>On Hit, deal +(([Breath] Potency on self + [Breath] Count on self) x 2)% damage on Critical Hit (max 120%; on Clash Lose, apply only one-third of the effect's full value)<color=#ff0000></s></color></mark>\n"
     },
     {
       "id": 9567030,
       "name": "Futuro [未來]",
-      "desc": "When [StackFutureActivate], gain the following effects:\n- Turn Start: All Sinners gain +(3 + # of current turn / 2) [Laceration] Count (rounded up)\n- Skill \"Bloodflower\" gains Final Power +2 and its final Coin gains \"On Hit,\nheal ([StackFutureActivate] Stack x 3) HP on self\" effect\n- Whenever [Laceration] activates on self or on Sinners, heal HP equal to the said [Laceration] damage (rounded down)\n"
+      "desc": "[StackFutureActivate], gain the following effects:\n- Turn Start: All Sinners gain +(3 + # of current turn / 2) [Laceration] Count (rounded up)\n- Skill \"Bloodflower\" gains Final Power +2 and its final Coin gains \"On Hit,\nheal ([StackFutureActivate] Stack x 3) HP on self\" effect\n- Whenever [Laceration] activates on self or on Sinners, heal HP equal to the said [Laceration] damage (rounded down)\n"
     },
     {
       "id": 9567031,
       "name": "Futuro [未來]",
-      "desc": "When [StackFutureActivate], gain the following effects:\n<mark=#000000AA>- <color=#d93737><s></color>Turn Start: All Sinners gain +(3 + # of current turn / 2) [Laceration] Count (rounded up)<color=#ff0000></s></color></mark>\n- Skill \"Bloodflower\" gains Final Power +2 and its final Coin gains \"On Hit,\nheal ([StackFutureActivate] Stack x 3) HP on self\" effect\n- Whenever [Laceration] activates on self or on Sinners, heal HP equal to the said [Laceration] damage (rounded down)\n"
+      "desc": "[StackFutureActivate], gain the following effects:\n<mark=#000000AA>- <color=#d93737><s></color>Turn Start: All Sinners gain +(3 + # of current turn / 2) [Laceration] Count (rounded up)<color=#ff0000></s></color></mark>\n- Skill \"Bloodflower\" gains Final Power +2 and its final Coin gains \"On Hit,\nheal ([StackFutureActivate] Stack x 3) HP on self\" effect\n- Whenever [Laceration] activates on self or on Sinners, heal HP equal to the said [Laceration] damage (rounded down)\n"
     },
     {
       "id": 9567032,
       "name": "Futuro [未來]",
-      "desc": "When [StackFutureActivate], gain the following effects:\n- Turn Start: All Sinners gain +(3 + # of current turn / 2) [Laceration] Count (rounded up)\n<mark=#000000AA>- <color=#d93737><s></color>Skill \"Bloodflower\" gains Final Power +2 and its final Coin gains \"On Hit,\nheal ([StackFutureActivate] Stack x 3) HP on self\" effect<color=#ff0000></s></color></mark>\n- Whenever [Laceration] activates on self or on Sinners, heal HP equal to the said [Laceration] damage (rounded down)\n"
+      "desc": "[StackFutureActivate], gain the following effects:\n- Turn Start: All Sinners gain +(3 + # of current turn / 2) [Laceration] Count (rounded up)\n<mark=#000000AA>- <color=#d93737><s></color>Skill \"Bloodflower\" gains Final Power +2 and its final Coin gains \"On Hit,\nheal ([StackFutureActivate] Stack x 3) HP on self\" effect<color=#ff0000></s></color></mark>\n- Whenever [Laceration] activates on self or on Sinners, heal HP equal to the said [Laceration] damage (rounded down)\n"
     },
     {
       "id": 9567033,
       "name": "Futuro [未來]",
-      "desc": "When [StackFutureActivate], gain the following effects:\n- Turn Start: All Sinners gain +(3 + # of current turn / 2) [Laceration] Count (rounded up)\n- Skill \"Bloodflower\" gains Final Power +2 and its final Coin gains \"On Hit,\nheal ([StackFutureActivate] Stack x 3) HP\" effect\n<mark=#000000AA>- <color=#d93737><s></color>Whenever [Laceration] activates on self or on Sinners, heal HP equal to the said [Laceration] damage (rounded down)<color=#ff0000></s></color></mark>\n"
+      "desc": "[StackFutureActivate], gain the following effects:\n- Turn Start: All Sinners gain +(3 + # of current turn / 2) [Laceration] Count (rounded up)\n- Skill \"Bloodflower\" gains Final Power +2 and its final Coin gains \"On Hit,\nheal ([StackFutureActivate] Stack x 3) HP\" effect\n<mark=#000000AA>- <color=#d93737><s></color>Whenever [Laceration] activates on self or on Sinners, heal HP equal to the said [Laceration] damage (rounded down)<color=#ff0000></s></color></mark>\n"
     },
     {
       "id": 956704,
@@ -177,19 +177,19 @@
     },
     {
       "id": 957006,
-      "name": "uscita Rifratta",
+      "name": "Uscita Rifratta",
       "desc": "Non si può effettuare la Ritirata"
     },
     {
       "id": 957101,
-      "name": "Return to Origin [物歸原主]",
+      "name": "Ritorno alle Origini [物歸原主]",
       "desc": "Quando colpita dall'Abilità \"Crepuscolo\" di Yinlong, muore e applica 1 [YesdragonSelfRefraction] su Yinglong"
     },
     {
       "id": 955101,
       "name": "Rien, Il Precettore Dell'Indice",
       "desc": "<color=#ff9000><mark=#ff000040><b><u>Subisce -50% danni dagli Attacchi Incontrastati</u></b></mark></color>\nSubisce -50% danni da [Vibration], [Burst], e [Sinking]\nQuando recupera PS per l'effetto di [UnlockBuff_Base], se i suoi PS sono sotto 15, porta i PS a 15\n\nA inizio Incontro, ottiene [BurningWoundRien_Mask] e porta i PS a 45\n\nA 55% PV, ottiene un nuovo pattern\n- Rimuove tutti gli effetti non esclusivi a quest'Unità\n- Riporta [StackRienSpecialSkill] a 0",
-      "flavor": "Aspettai \"il momento giusto\" per volontà del Prescritto.\nContinuai ad aspettare anche quando la mia cara figlia se ne andò.\n\nUn giorno, finalmente, fui contattato da Limbus Company, e vidi che la porta del Retro era aperta.\nPoi, il dispositivo iniziò a suonare, e capì che era arrivato il momento di riportare mia figlia a casa."
+      "flavor": "Aspettai \"il momento giusto\" per volontà del Prescritto.\nContinuai ad aspettare anche quando la mia cara figlia se ne andò.\n\nUn giorno, finalmente, fui contattato da Limbus Company, e vidi che la Backdoor era aperta.\nPoi, il dispositivo iniziò a suonare, e capì che era arrivato il momento di riportare mia figlia a casa."
     },
     {
       "id": 955102,
@@ -207,7 +207,7 @@
       "id": 955104,
       "name": "Esecuzione Del Prescritto",
       "desc": "A fine turno, se il [IndexPrescript_Base_2nd] è stato portato al termine durante il turno, recupera 10 PS e ottiene 3 [BlessingOfIndexPrescriptEnemy] (una volta per turno)\n\n<color=#ff6000><mark=#ff000040><b><u>Se invece il [IndexPrescript_Base_2nd] non è stato portato al termine, ottiene 8 [KarmaOfIndexRien]</u></b></mark></color>\n- Se non ha [UnlockBuff_Base], ottiene 1 [BlessingOfIndexPrescriptEnemy] a fine turno\n- A 9 [BlessingOfIndexPrescriptEnemy], non ottiene [KarmaOfIndexRien]",
-      "flavor": "Vuoi che perda la mia famiglia?\n\n\"Devo fare un viaggetto al nord oggi.\"\n\"Ah, a proposito— hey, piccoletto. Tesoro? Stasera dovrebbe arrivarmi un pacco. Potresti andare a ritirarlo, per favore?\""
+      "flavor": "Vuoi che perda la mia famiglia?\n\n\"Devo fare un viaggetto al nord oggi.\"\n\"Ah, a proposito— ciao, piccolo— Tesoro? Stasera dovrebbe arrivarmi un pacco. Potresti andare a ritirarlo, per favore?\""
     },
     {
       "id": 955105,
@@ -242,7 +242,7 @@
       "id": 955204,
       "name": "Esecuzione Del Prescritto",
       "desc": "A fine turno, se il [IndexPrescript_Base_2nd] è stato portato al termine, recupera 15 PS e ottiene 1 [BlessingOfIndexPrescriptEnemy] (una volta per turno)\n\n<color=#ff9000><mark=#ff000040><b><u>Se invece il [IndexPrescript_Base_2nd] non è stato portato al termine durante il turno, ottiene 8 [KarmaOfIndexRien_2Phase] e perde 1 [BlessingOfIndexPrescriptEnemy]</u></b></mark></color>\n- Se ha usato un'Abilità Potente durante il turno, ottiene invece 12 [KarmaOfIndexRien_2Phase] e perde 2 [BlessingOfIndexPrescriptEnemy]",
-      "flavor": "Ho... perso la mia famiglia.\n\n\"Non andartene...\"\n\"Papà... Non... andartene... Ti prego... aiutaci...\""
+      "flavor": "Ho perso... la mia famiglia.\n\n\"Non andartene...\"\n\"Papà... Non... andartene... Ti prego... aiutaci...\""
     },
     {
       "id": 955205,
@@ -252,7 +252,7 @@
     {
       "id": 955312,
       "name": "Panico Fisso",
-      "desc": "Applica gli effetti di [PanicChangeLock] effect\nA fine turno, se in Panico, porta i PS a 45"
+      "desc": "Applica gli effetti di [PanicChangeLock]\nA fine turno, se in Panico, porta i PS a 45"
     },
     {
       "id": 955601,
