@@ -1,292 +1,257 @@
 {
-  "dataList": [
-    {
-      "id": 0,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "Alright... I'm going all in~ Come at me if you can!"
-    },
-    {
-      "id": 1,
-      "content": "Amidst the sounds of keyboards, flapping papers, and voices..."
-    },
-    {
-      "id": 2,
-      "content": "Sounded a song too cheery for an Office like this place."
-    },
-    {
-      "id": 3,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "Yes...! That's what I'm talking about~"
-    },
-    {
-      "id": 4,
-      "content": "The child looks thrilled and enthused, unlike everyone else whose brows are furrowed."
-    },
-    {
-      "id": 5,
-      "content": "On her screen is an online casino game that is said to be pretty popular on the side of the Backstreets where the child's Office is."
-    },
-    {
-      "id": 6,
-      "content": "The child seems to be deeply into this game lately."
-    },
-    {
-      "id": 7,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "Alright... I just need one good card..."
-    },
-    {
-      "id": 8,
-      "model": "걱정이 많은 직원",
-      "teller": "Concerned Employee",
-      "title": "Rosespanner Workshop",
-      "content": "Um, boss..."
-    },
-    {
-      "id": 9,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "...Huh? I'm trying to focus here, can it wait a bit?"
-    },
-    {
-      "id": 10,
-      "model": "걱정이 많은 직원",
-      "teller": "Concerned Employee",
-      "title": "Rosespanner Workshop",
-      "content": "It can't wait. I need you to check this..."
-    },
-    {
-      "id": 11,
-      "content": "Could that be the child's subordinate? Speaking to the child with a rather grumpy voice, the employee held a stack of paper in their arms."
-    },
-    {
-      "id": 12,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "Bah. c'mon..."
-    },
-    {
-      "id": 13,
-      "model": "걱정이 많은 직원",
-      "teller": "Concerned Employee",
-      "title": "Rosespanner Workshop",
-      "content": "Here, I've got five days' worth of documents awaiting your approval. Read them quickly, and..."
-    },
-    {
-      "id": 14,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "HERE IT IS!!!!!!"
-    },
-    {
-      "id": 15,
-      "content": "...The scream silenced the various noises that had filled the Office for a second."
-    },
-    {
-      "id": 16,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "I've got it, I've got the thing! Check this out, babe! Royal. Straight. Flush!"
-    },
-    {
-      "id": 17,
-      "model": "걱정이 많은 직원",
-      "teller": "Concerned Employee",
-      "title": "Rosespanner Workshop",
-      "content": "...What's that?"
-    },
-    {
-      "id": 18,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "You wanna know? That's the sound of three months' salary for everyone here rolling into my account!"
-    },
-    {
-      "id": 19,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "Aighty~ Listen up, everybody! I just..."
-    },
-    {
-      "id": 20,
-      "content": "No one in the Office pays attention to the child, but she goes on anyway."
-    },
-    {
-      "id": 21,
-      "content": "...The employee next to her whose patience was reaching its limit also went on."
-    },
-    {
-      "id": 22,
-      "model": "걱정이 많은 직원",
-      "teller": "Concerned Employee",
-      "title": "Rosespanner Workshop",
-      "content": "Boss! The work isn't going anywhere without your stamp on the papers! You need to work!"
-    },
-    {
-      "id": 23,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "Yeesh, you're loud! Why are you like that~"
-    },
-    {
-      "id": 24,
-      "content": "The child finally turned to face the nagging employee."
-    },
-    {
-      "id": 25,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "Lemme see... Approvals? You know I approve 'em most of the time, don't you? I even gave you my stamp!"
-    },
-    {
-      "id": 26,
-      "model": "걱정이 많은 직원",
-      "teller": "Concerned Employee",
-      "title": "Rosespanner Workshop",
-      "content": "Still, there are procedures to..."
-    },
-    {
-      "id": 27,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "Meh, what good are procedures in our teeny tiny workshop? We have to outsource everything 'cause we don't have the space for it!"
-    },
-    {
-      "id": 28,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "And I gotta say... You think I'm not working? I'm the one who's bringing in the jobs, y'know~"
-    },
-    {
-      "id": 29,
-      "model": "걱정이 많은 직원",
-      "teller": "Concerned Employee",
-      "title": "Rosespanner Workshop",
-      "content": "...And those jobs are piling up on our desks."
-    },
-    {
-      "id": 30,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "That's not the rep's job to care~ Counting on my lovely staff, I am~"
-    },
-    {
-      "id": 31,
-      "model": "걱정이 많은 직원",
-      "teller": "Concerned Employee",
-      "title": "Rosespanner Workshop",
-      "content": "……"
-    },
-    {
-      "id": 32,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "And also, I've never once had any of your salaries in arrears! Ain't I doing enough?"
-    },
-    {
-      "id": 33,
-      "content": "Still, if we go on like this..."
-    },
-    {
-      "id": 34,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "Ope, it's time for outdoor work. Aight, make way for the boss~ I'm about to get some work done as you so pleaded!"
-    },
-    {
-      "id": 35,
-      "content": "Leaving behind the stunned employee, the child stormed out."
-    },
-    {
-      "id": 36,
-      "content": "...People have different definitions of what makes a good leader."
-    },
-    {
-      "id": 37,
-      "content": "To that employee, at least, the child must seem totally inept."
-    },
-    {
-      "id": 38,
-      "content": "And yet…"
-    },
-    {
-      "id": 39,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "Huzzah~!"
-    },
-    {
-      "id": 40,
-      "content": "The child was undoubtedly excellent at her \"outdoor work\"."
-    },
-    {
-      "id": 41,
-      "content": "Thanks to her superb ability to \"tune up\", her workshop has never been left wanting for work..."
-    },
-    {
-      "id": 42,
-      "content": "And her roguish magnetism made it that much easier to expand the workshop's customer base. She climbed to the seat of the representative because she was capable."
-    },
-    {
-      "id": 43,
-      "content": "A diamond rolling on a mudhill is still a diamond, as they say."
-    },
-    {
-      "id": 44,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "Aight... That's a wrap for this one... Haah, I need jobs with better pay..."
-    },
-    {
-      "id": 45,
-      "content": "The child didn't want to care about the details, but she wanted her Office to grow nonetheless..."
-    },
-    {
-      "id": 46,
-      "content": "To that end, she kept searching and searching for leads on juicy jobs."
-    },
-    {
-      "id": 47,
-      "content": "Perhaps the effort has paid off."
-    },
-    {
-      "id": 48,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "Oh? K Corp... A request from the Nest?"
-    },
-    {
-      "id": 49,
-      "model": "로쟈",
-      "teller": "Rodion",
-      "title": "Rosespanner Workshop",
-      "content": "...Hunh, this one's a request for \"scrapping\", not tuning up... Hm, guess it's time for a bit of a workout~"
-    },
-    {
-      "id": 50,
-      "content": "It looks like the child has run into one hell of a job."
-    }
-  ]
+    "dataList": [
+        {
+            "id": 0,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "Bene... Vado all-in~ Fatevi sotto, se avete il coraggio!"
+        },
+        {
+            "id": 1,
+            "content": "Tra il ticchettio delle tastiere, il fruscio dei fogli e il mormorio delle voci..."
+        },
+        {
+            "id": 2,
+            "content": "...risuonava una canzone decisamente troppo allegra per un Ufficio come quello."
+        },
+        {
+            "id": 3,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "Sì...! È proprio così che si fa~"
+        },
+        {
+            "id": 4,
+            "content": "La fanciulla sembra entusiasta ed elettrizzata, a differenza di tutti gli altri che hanno le sopracciglia aggrottate."
+        },
+        {
+            "id": 5,
+            "content": "Sullo schermo c'è un gioco d'azzardo online che dicono sia piuttosto popolare nei Vicoli, la zona in cui si trova il suo Ufficio."
+        },
+        {
+            "id": 6,
+            "content": "Ultimamente la fanciulla sembra essere andata completamente in fissa con questo gioco."
+        },
+        {
+            "id": 7,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "Dai... Mi serve solo un'altra carta buona..."
+        },
+        {
+            "id": 8,
+            "model": "걱정이 많은 직원",
+            "teller": "Dipendente Preoccupato",
+            "title": "Officina Rosespanner",
+            "content": "Ehm, capo..."
+        },
+        {
+            "id": 9,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "...Eh? Sto cercando di concentrarmi, non può aspettare un attimo?"
+        },
+        {
+            "id": 10,
+            "model": "걱정이 많은 직원",
+            "teller": "Dipendente Preoccupato",
+            "title": "Officina Rosespanner",
+            "content": "No, non può aspettare. Ho bisogno che dia un'occhiata a questo..."
+        },
+        {
+            "id": 11,
+            "content": "Che sia un subordinato della fanciulla? Parlando con un tono piuttosto scontroso, l'impiegato stringeva tra le braccia una pila di documenti."
+        },
+        {
+            "id": 12,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "Ma andiamo, uffa..."
+        },
+        {
+            "id": 13,
+            "model": "걱정이 많은 직원",
+            "teller": "Dipendente Preoccupato",
+            "title": "Officina Rosespanner",
+            "content": "Ecco, qui ci sono i documenti degli ultimi cinque giorni che aspettano la sua approvazione. Li legga in fretta, e..."
+        },
+        {
+            "id": 14,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "ECCOLA QUI!!!!!!"
+        },
+        {
+            "id": 15,
+            "content": "...Quel grido fece calare il silenzio nel brusio dell'Ufficio per un istante."
+        },
+        {
+            "id": 16,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "Ce l'ho, ce l'ho! Guarda qua, tesoro! Scala. Reale. Massima!"
+        },
+        {
+            "id": 17,
+            "model": "걱정이 많은 직원",
+            "teller": "Dipendente Preoccupato",
+            "title": "Officina Rosespanner",
+            "content": "...E sarebbe?"
+        },
+        {
+            "id": 18,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "Vuoi sapere cos'è? È il suono di tre mesi di stipendio per tutti quanti qui dentro che entrano dritti nel mio conto!"
+        },
+        {
+            "id": 19,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "Bene bene~ Ascoltate tutti quanti! Ho appena..."
+        },
+        {
+            "id": 20,
+            "content": "Nessuno nell'Ufficio le presta la minima attenzione, ma alla fanciulla non importa e continua comunque a parlare."
+        },
+        {
+            "id": 21,
+            "content": "...E lo stesso vale per l'impiegato al suo fianco, la cui pazienza stava ormai raggiungendo il limite."
+        },
+        {
+            "id": 22,
+            "model": "걱정이 많은 직원",
+            "teller": "Dipendente Preoccupato",
+            "title": "Officina Rosespanner",
+            "content": "Capo! Senza il suo timbro sui documenti il lavoro è completamente bloccato! Deve lavorare!"
+        },
+        {
+            "id": 23,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "Mamma mia, quanto urli! Ma perché devi fare sempre così~"
+        },
+        {
+            "id": 24,
+            "content": "Alla fine, la fanciulla si girò a guardare l'impiegato insistente."
+        },
+        {
+            "id": 25,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "Fammi un po' vedere... Approvazioni? Lo sai che approvo quasi tutto, no? Ti ho persino lasciato il mio timbro!"
+        },
+        {
+            "id": 26,
+            "model": "걱정이 많은 직원",
+            "teller": "Dipendente Preoccupato",
+            "title": "Officina Rosespanner",
+            "content": "Resta il fatto che ci sono delle procedure da..."
+        },
+        {
+            "id": 27,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "Ma dai, a cosa servono le procedure in una micro-officina come la nostra? Dobbiamo dare tutto in appalto esterno perché non abbiamo nemmeno lo spazio materiale!"
+        },
+        {
+            "id": 28,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "E poi, scusa... Pensi davvero che io non stia lavorando? Sono io quella che procura i contratti, sai~"
+        },
+        {
+            "id": 29,
+            "model": "걱정이 많은 직원",
+            "teller": "Dipendente Preoccupato",
+            "title": "Officina Rosespanner",
+            "content": "...E quegli incarichi si stanno accumulando sulle nostre scrivanie."
+        },
+        {
+            "id": 30,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "Non spetta al rappresentante preoccuparsi di queste cose~ Io conto sul mio adorato staff~"
+        },
+        {
+            "id": 31,
+            "model": "걱정이 많은 직원",
+            "teller": "Dipendente Preoccupato",
+            "title": "Officina Rosespanner",
+            "content": "……"
+        },
+        {
+            "id": 32,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "E poi, non ho mai ritardato i vostri stipendi neanche una volta! Non faccio già abbastanza?"
+        },
+        {
+            "id": 33,
+            "content": "Eppure, se continuiamo di questo passo..."
+        },
+        {
+            "id": 34,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "Ops, tempo di andare in missione. Bene, fate largo al capo~ Vado a sgobbare un po', visto che ci tieni tanto!"
+        },
+        {
+            "id": 43,
+            "content": "Come si suol dire, un diamante resta un diamante anche se rotola nel fango."
+        },
+        {
+            "id": 44,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "Bene... Anche questa è andata... Ah, mi servono incarichi che paghino meglio..."
+        },
+        {
+            "id": 45,
+            "content": "La fanciulla non voleva perdersi nei dettagli, ma desiderava comunque far crescere il suo Ufficio..."
+        },
+        {
+            "id": 46,
+            "content": "A tal fine, continuava a cercare incessantemente piste per qualche lavoro succulento."
+        },
+        {
+            "id": 47,
+            "content": "E forse, quegli sforzi vennero ripagati."
+        },
+        {
+            "id": 48,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "Oh? K Corp... Una richiesta dal Nido?"
+        },
+        {
+            "id": 49,
+            "model": "로쟈",
+            "teller": "Rodion",
+            "title": "Officina Rosespanner",
+            "content": "...Uhm, questa è una richiesta di \"smantellamento\", non di manutenzione... Beh, direi che è ora di sgranchirsi un po' i muscoli~"
+        },
+        {
+            "id": 50,
+            "content": "Pare proprio che la ragazza si sia imbattuta in un affare coi fiocchi."
+        }
+    ]
 }

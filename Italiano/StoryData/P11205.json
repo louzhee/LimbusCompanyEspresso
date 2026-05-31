@@ -1,198 +1,198 @@
 {
-  "dataList": [
-    {
-      "id": 0,
-      "teller": "???",
-      "title": "???",
-      "content": "Khagh!"
-    },
-    {
-      "id": 1,
-      "content": "Sounds of a chainsaw rumbling and roaring."
-    },
-    {
-      "id": 2,
-      "teller": "???",
-      "title": "???",
-      "content": "Ugh..."
-    },
-    {
-      "id": 3,
-      "content": "Sounds of a person's limbs being cut, hurried footsteps making an escape, and another pair of feet following them."
-    },
-    {
-      "id": 4,
-      "content": "This is how the child's outdoor work always looks. He takes care of wet jobs for his office, and goes on to handle the next one."
-    },
-    {
-      "id": 5,
-      "model": "그레고르",
-      "teller": "Gregor",
-      "title": "Rosespanner Workshop",
-      "content": "Bah... Why is this thing so sluggish now?"
-    },
-    {
-      "id": 6,
-      "teller": "???",
-      "title": "???",
-      "content": "H—Help-"
-    },
-    {
-      "id": 7,
-      "model": "그레고르",
-      "teller": "Gregor",
-      "title": "Rosespanner Workshop",
-      "content": "Oh, there we go."
-    },
-    {
-      "id": 8,
-      "content": "...Doesn't look like a scene too pleasing to keep watching, right?"
-    },
-    {
-      "id": 9,
-      "teller": "Kind Employee",
-      "title": "Rosespanner Workshop",
-      "content": "Here, mister~ A coffee for you."
-    },
-    {
-      "id": 10,
-      "model": "그레고르",
-      "teller": "Gregor",
-      "title": "Rosespanner Workshop",
-      "content": "Well, I'll be... Thanks a bunch!"
-    },
-    {
-      "id": 11,
-      "content": "Once he returns to the office after a hard day at work, the child always does the same thing in the same spot."
-    },
-    {
-      "id": 12,
-      "content": "Holding a cup of cheap instant coffee in one hand, he smokes cigarettes until his fatigue yields and goes away."
-    },
-    {
-      "id": 13,
-      "model": "그레고르",
-      "teller": "Gregor",
-      "title": "Rosespanner Workshop",
-      "content": "No creamer, huh? You really care..."
-    },
-    {
-      "id": 14,
-      "teller": "Kind Employee",
-      "title": "Rosespanner Workshop",
-      "content": "I've been making coffee for you for months now, how can I forget what you don't want?"
-    },
-    {
-      "id": 15,
-      "content": "Chatting up, the employee who brought the coffee to the child lit their own cigarette."
-    },
-    {
-      "id": 16,
-      "teller": "Kind Employee",
-      "title": "Rosespanner Workshop",
-      "content": "Done with today's work?"
-    },
-    {
-      "id": 17,
-      "model": "그레고르",
-      "teller": "Gregor",
-      "title": "Rosespanner Workshop",
-      "content": "No... Leeet's see."
-    },
-    {
-      "id": 18,
-      "model": "그레고르",
-      "teller": "Gregor",
-      "title": "Rosespanner Workshop",
-      "content": "I got two jobs done at once earlier today, so... There'll be some rest for me if I handle one early in the morning and one at daybreak."
-    },
-    {
-      "id": 19,
-      "teller": "Kind Employee",
-      "title": "Rosespanner Workshop",
-      "content": "Oh my... Are you sure you don't need to take it easy?"
-    },
-    {
-      "id": 20,
-      "model": "그레고르",
-      "teller": "Gregor",
-      "title": "Rosespanner Workshop",
-      "content": "Eh... I gotta work hard to earn a lot. There's a fella who works overtime everyday, too, no?"
-    },
-    {
-      "id": 21,
-      "teller": "Kind Employee",
-      "title": "Rosespanner Workshop",
-      "content": "At least he mostly does paperwork..."
-    },
-    {
-      "id": 22,
-      "content": "'Fwhuu', the child exhales cigarette smoke, making a bitter smile."
-    },
-    {
-      "id": 23,
-      "content": "As the employee said, the child was aware that fatigue was wearing his body down with each passing day. He's human, after all."
-    },
-    {
-      "id": 24,
-      "content": "But, the child has a dream."
-    },
-    {
-      "id": 25,
-      "model": "그레고르",
-      "teller": "Gregor",
-      "title": "Rosespanner Workshop",
-      "content": "If I'm gonna make a machine that Tres will approve... it'll cost a fortune."
-    },
-    {
-      "id": 26,
-      "teller": "Kind Employee",
-      "title": "Rosespanner Workshop",
-      "content": "You're still at it, mister?"
-    },
-    {
-      "id": 27,
-      "model": "그레고르",
-      "teller": "Gregor",
-      "title": "Rosespanner Workshop",
-      "content": "'Course I am, bud~ Can't stay in this vicious workshop 'til I die, now can I."
-    },
-    {
-      "id": 28,
-      "model": "그레고르",
-      "teller": "Gregor",
-      "title": "Rosespanner Workshop",
-      "content": "Gotta make my own workshop product and stand on my own. Isn't that right?"
-    },
-    {
-      "id": 29,
-      "content": "The child shook his arm with the coffee a little."
-    },
-    {
-      "id": 30,
-      "content": "Sometimes, it's a chainsaw. Sometimes a dagger, and other times, a flamethrower. That arm was 'his own machine' the child has been preparing."
-    },
-    {
-      "id": 31,
-      "content": "Though the child has been working himself to the bones as he didn't have the funds to apply for an approval or mass-produce the arm, he felt he was still fortunate."
-    },
-    {
-      "id": 32,
-      "content": "If even the gear he's been tinkering with all by himself required an approval, he'd have had to forfeit his dream."
-    },
-    {
-      "id": 33,
-      "teller": "Kind Employee",
-      "title": "Rosespanner Workshop",
-      "content": "...Alright. Stay safe out there. You know you're the one that keeps our office running, right, mister?"
-    },
-    {
-      "id": 34,
-      "content": "The child would only snuff out his cigarette with a snicker."
-    },
-    {
-      "id": 35,
-      "content": "He had no need to answer. Whether it was true or not, it didn't change the fact that it was time for him to get busy."
-    }
-  ]
+    "dataList": [
+        {
+            "id": 0,
+            "teller": "???",
+            "title": "???",
+            "content": "Khagh!"
+        },
+        {
+            "id": 1,
+            "content": "Suoni di una motosega che romba e ruggisce."
+        },
+        {
+            "id": 2,
+            "teller": "???",
+            "title": "???",
+            "content": "Ugh..."
+        },
+        {
+            "id": 3,
+            "content": "Suoni di arti recisi, passi concitati in fuga e un altro paio di piedi che li inseguono."
+        },
+        {
+            "id": 4,
+            "content": "Le missioni del fanciullo si presentano sempre così. Si occupa del lavoro sporco per l'Ufficio, per poi passare subito al successivo."
+        },
+        {
+            "id": 5,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Officina Rosespanner",
+            "content": "Bah... Perché questo coso è così lento adesso?"
+        },
+        {
+            "id": 6,
+            "teller": "???",
+            "title": "???",
+            "content": "Ai... Aiuto—"
+        },
+        {
+            "id": 7,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Officina Rosespanner",
+            "content": "Oh, ecco fatto."
+        },
+        {
+            "id": 8,
+            "content": "...Non è esattamente una scena piacevole da continuare a guardare, vero?"
+        },
+        {
+            "id": 9,
+            "teller": "Impiegato Gentile",
+            "title": "Officina Rosespanner",
+            "content": "Ecco qua, signore~ Un caffè per te."
+        },
+        {
+            "id": 10,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Officina Rosespanner",
+            "content": "Ma guarda un po'... Grazie mille!"
+        },
+        {
+            "id": 11,
+            "content": "Una volta tornato in ufficio dopo una dura giornata di lavoro, il fanciullo fa sempre la stessa cosa, nello stesso posto."
+        },
+        {
+            "id": 12,
+            "content": "Con una tazza di caffè solubile economico in mano, fuma una sigaretta dopo l'altra finché la stanchezza non cede e svanisce."
+        },
+        {
+            "id": 13,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Officina Rosespanner",
+            "content": "Senza panna, eh? Ti ricordi sempre..."
+        },
+        {
+            "id": 14,
+            "teller": "Impiegato Gentile",
+            "title": "Officina Rosespanner",
+            "content": "Ti preparo il caffè da mesi ormai, come potrei dimenticare cosa non ti piace?"
+        },
+        {
+            "id": 15,
+            "content": "Chiacchierando, l'impiegato che aveva portato il caffè al fanciullo si accese a sua volta una sigaretta."
+        },
+        {
+            "id": 16,
+            "teller": "Impiegato Gentile",
+            "title": "Officina Rosespanner",
+            "content": "Finito l'incarico di oggi?"
+        },
+        {
+            "id": 17,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Officina Rosespanner",
+            "content": "No... Veeediamo un po'."
+        },
+        {
+            "id": 18,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Officina Rosespanner",
+            "content": "Oggi ho sbrigato due incarichi insieme, quindi... Potrò riposarmi un po' se ne sistemo uno a notte fonda e uno all'alba."
+        },
+        {
+            "id": 19,
+            "teller": "Impiegato Gentile",
+            "title": "Officina Rosespanner",
+            "content": "Caspita... Non dovresti prendertela con più calma?"
+        },
+        {
+            "id": 20,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Officina Rosespanner",
+            "content": "Eh... Devo darci dentro per guadagnare bene. C'è anche quel tipo che fa gli straordinari ogni giorno, no?"
+        },
+        {
+            "id": 21,
+            "teller": "Impiegato Gentile",
+            "title": "Officina Rosespanner",
+            "content": "Lui almeno fa per lo più lavoro d'ufficio..."
+        },
+        {
+            "id": 22,
+            "content": "'Fwhuu', il fanciullo espira il fumo della sigaretta, accennando un sorriso amaro."
+        },
+        {
+            "id": 23,
+            "content": "Come diceva l'impiegato, il fanciullo era consapevole che la stanchezza gli logorava il corpo giorno dopo giorno. Dopotutto, è umano."
+        },
+        {
+            "id": 24,
+            "content": "Ma il fanciullo ha un sogno."
+        },
+        {
+            "id": 25,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Officina Rosespanner",
+            "content": "Se voglio costruire un macchinario approvato dalla Tres... ci vorrà una fortuna."
+        },
+        {
+            "id": 26,
+            "teller": "Impiegato Gentile",
+            "title": "Officina Rosespanner",
+            "content": "Non hai ancora rinunciato?"
+        },
+        {
+            "id": 27,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Officina Rosespanner",
+            "content": "Certo che no, amico~ Non posso mica restare in questa officina infernale finché non crepo, no?"
+        },
+        {
+            "id": 28,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Officina Rosespanner",
+            "content": "Devo creare il prodotto della mia officina e mettermi in proprio. Non trovi?"
+        },
+        {
+            "id": 29,
+            "content": "Il fanciullo fece un piccolo cenno con il braccio che teneva il caffè."
+        },
+        {
+            "id": 30,
+            "content": "A volte è una motosega. Altre volte un pugnale, e altre ancora un lanciafiamme. Quel braccio era la 'sua macchina personale' che il fanciullo stava preparando con cura."
+        },
+        {
+            "id": 31,
+            "content": "Anche se il fanciullo si stava spaccando la schiena non avendo i fondi per richiedere l'approvazione o produrre in serie il braccio, si sentiva comunque fortunato."
+        },
+        {
+            "id": 32,
+            "content": "Se anche i congegni con cui armeggiava tutto da solo avessero richiesto un'approvazione, avrebbe dovuto rinunciare al suo sogno."
+        },
+        {
+            "id": 33,
+            "teller": "Impiegato Gentile",
+            "title": "Officina Rosespanner",
+            "content": "...Va bene. Fa' attenzione là fuori. Lo sai che sei tu a mandare avanti la baracca qui all'ufficio, vero?"
+        },
+        {
+            "id": 34,
+            "content": "Il fanciullo si limitò a spegnere la sigaretta con una risatina."
+        },
+        {
+            "id": 35,
+            "content": "Non aveva bisogno di rispondere. Che fosse vero o no, non cambiava il fatto che per lui fosse arrivato il momento di darsi da fare."
+        }
+    ]
 }
