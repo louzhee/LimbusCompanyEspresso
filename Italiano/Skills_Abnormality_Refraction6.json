@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Battito Devastante",
-          "desc": "[WhenUse]\n- Potere Scontro +1 per ogni 8 ([Combustion] + [Laceration]) on target (max 3)\n- Infligge +5% danni per ogni 6 [Breath] su di sé (max 20%)\n- Ottiene 2 [Breath]",
+          "desc": "[WhenUse]\n- Potere Scontro +1 per ogni 8 ([Combustion] + [Laceration]) sul bersaglio (max 3)\n- Infligge +5% danni per ogni 6 [Breath] su di sé (max 20%)\n- Ottiene 2 [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -38,7 +38,7 @@
         {
           "level": 1,
           "name": "Polverizzazione",
-          "desc": "[WhenUse]\n- Potere Scontro +1 per ogni 8 ([Combustion] + [Laceration]) on target (max 3)\n- Infligge +5% danni per ogni 6 [Breath] su di sé (max 20%)\n- Ottiene +2 Conteggio [Breath]",
+          "desc": "[WhenUse]\n- Potere Scontro +1 per ogni 8 ([Combustion] + [Laceration]) sul bersaglio (max 3)\n- Infligge +5% danni per ogni 6 [Breath] su di sé (max 20%)\n- Ottiene +2 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -267,7 +267,7 @@
         {
           "level": 1,
           "name": "Subbuglio Caotico",
-          "desc": "[WhenUse]\n- Potere Scontro +1 per ogni 6 ([Combustion] + [Laceration]) on target (max 6)\n- Potere Scontro +1 per ogni 6 [Breath] su di sé (max 3)\n[DefeatDuel]\nOttiene <color=#ff6000><mark=#ff000040><b><u>2 [ResultReduction] e 2[AttackDmgDown]</u></b></mark></color>",
+          "desc": "[WhenUse]\n- Potere Scontro +1 per ogni 6 ([Combustion] + [Laceration]) sul bersaglio (max 6)\n- Potere Scontro +1 per ogni 6 [Breath] su di sé (max 3)\n[DefeatDuel]\nOttiene <color=#ff6000><mark=#ff000040><b><u>2 [ResultReduction] e 2[AttackDmgDown]</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1633,7 +1633,7 @@
         {
           "level": 1,
           "name": "Installazione D'Arte n.3: Cassa Toracica Improvvisata",
-          "desc": "[CantDuel]\nDà priorità al nemico di Livello più alto\nQuesta Abilità non attiva le Abilità Difensive\n[WhenUse] Potere Moneta +1 per ogni 8 [Laceration] on target (max 2)",
+          "desc": "[CantDuel]\nDà priorità al nemico di Livello più alto\nQuesta Abilità non attiva le Abilità Difensive\n[WhenUse] Potere Moneta +1 per ogni 8 [Laceration] sul bersaglio (max 2)",
           "coinlist": [
             {
               "coindescs": [

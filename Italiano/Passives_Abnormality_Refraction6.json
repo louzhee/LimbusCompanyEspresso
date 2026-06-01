@@ -2,8 +2,8 @@
   "dataList": [
     {
       "id": 956301,
-      "name": "Movimenti del Nasciturno",
-      "desc": "A inizio Incontro, ottiene Scudo pari all'1.3% dei PV\nI PV non scendono sotto il 90%\n\nSe lo Scudo di quest'unità viene distrutto prima del turno 3,\nTermina il turno e ottiene <color=#ff6000><mark=#ff000040><b><u>un pattern speciale</u></b></mark></color> il prossimo turno\n\nDopo aver usato l'Abilità \"Movimenti\" termina l'Incontro"
+      "name": "Movimenti del Nascituro",
+      "desc": "A inizio Incontro, ottiene Scudo pari all'1.3% dei PV\nI PV non scendono sotto il 90%\n\nSe lo Scudo di quest'unità viene distrutto prima del turno 3,\nTermina il turno e ottiene <color=#ff6000><mark=#ff000040><b><u>un pattern speciale</u></b></mark></color> il prossimo turno\n\nDopo aver usato l'Abilità \"Movimenti\", termina l'Incontro"
     },
     {
       "id": 956401,
@@ -22,7 +22,7 @@
     },
     {
       "id": 956502,
-      "name": "Kṣaṇa del Circumvolution",
+      "name": "Kṣaṇa della Circonvoluzione",
       "desc": "Quadruplica gli effetti di [TransparentWingScales]\n\nSubisce +100% danni dalle Abilità E.G.O"
     },
     {
@@ -68,12 +68,12 @@
     {
       "id": 9567022,
       "name": "Presente [現在]",
-      "desc": "[StackPresentActivate], gain the following effects:\n- Does not lose [Breath] Count On Crit; Turn Start: gain (2 + # of Sinners) [Breath] and [Breath] Count\n<mark=#000000AA>- <color=#e5e5e5><s></color>L'Abilità \"Sconfiggi i Malvagi\" ottiene Potere Finale +2 e la sua ultima Moneta ottiene questo effetto:\n\"Sul Colpo, alza la Soglia di Stordimento del bersaglio di (Stack [StackPresentActivate] / 2) (arrotondato per difetto)\"<color=#ff0000></s></color></mark>\n- Sul Colpo, infligge +((Potenza + Conteggio [Breath] su di sé) x 2)% danni sul Colpo Critico (max 120%; se perde lo Scontro, applica solo un terzo del valore totale di questo effetto)\n"
+      "desc": "[StackPresentActivate], gain the following effects:\n- Non perde Conteggio [Breath] Sul Colpo Critico; A inizio turno, ottiene (2 + numero di Peccatori) Potenza e Conteggio [Breath]\n<mark=#000000AA>- <color=#e5e5e5><s></color>L'Abilità \"Sconfiggi i Malvagi\" ottiene Potere Finale +2 e la sua ultima Moneta ottiene questo effetto:\n\"Sul Colpo, alza la Soglia di Stordimento del bersaglio di (Stack [StackPresentActivate] / 2) (arrotondato per difetto)\"<color=#ff0000></s></color></mark>\n- Sul Colpo, infligge +((Potenza + Conteggio [Breath] su di sé) x 2)% danni sul Colpo Critico (max 120%; se perde lo Scontro, applica solo un terzo del valore totale di questo effetto)\n"
     },
     {
       "id": 9567023,
       "name": "Presente [現在]",
-      "desc": "[StackPresentActivate], attiva i seguenti effetti:\n- Non perde Conteggio [Breath] sul Colpo Critico; Turn Start: gain (2 + # of Sinners) [Breath] and [Breath] Count\n- L'Abilità \"Sconfiggi i Malvagi\" ottiene Potere Finale +2 e la sua ultima Moneta ottiene questo effetto:\n\"Sul Colpo, alza la Soglia di Stordimento del bersaglio di (Stack [StackPresentActivate] / 2) (arrotondato per difetto)\"\n<mark=#000000AA>- <color=#e5e5e5><s></color>Sul Colpo, infligge +((Potenza + Conteggio [Breath] su di sé) x 2)% danni sul Colpo Critico (max 120%; se perde lo Scontro, applica solo un terzo del valore totale di questo effetto)<color=#ff0000></s></color></mark>\n"
+      "desc": "[StackPresentActivate], attiva i seguenti effetti:\n- Non perde Conteggio [Breath] Sul Colpo Critico; A inizio turno, ottiene (2 + numero di Peccatori) Potenza e Conteggio [Breath]\n- L'Abilità \"Sconfiggi i Malvagi\" ottiene Potere Finale +2 e la sua ultima Moneta ottiene questo effetto:\n\"Sul Colpo, alza la Soglia di Stordimento del bersaglio di (Stack [StackPresentActivate] / 2) (arrotondato per difetto)\"\n<mark=#000000AA>- <color=#e5e5e5><s></color>Sul Colpo, infligge +((Potenza + Conteggio [Breath] su di sé) x 2)% danni sul Colpo Critico (max 120%; se perde lo Scontro, applica solo un terzo del valore totale di questo effetto)<color=#ff0000></s></color></mark>\n"
     },
     {
       "id": 9567030,

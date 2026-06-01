@@ -395,7 +395,7 @@
         {
           "level": 1,
           "name": "Installazione D'Arte n.3: Cassa Toracica Improvvisata",
-          "desc": "[CantDuel] [CantChangeTarget]\nDà priorità al nemico di Livello più alto\nQuesta Abilità non attiva le Abilità Difensive\n[WhenUse] Potere Moneta +1 per ogni 8 [Laceration] on target (max 2)",
+          "desc": "[CantDuel] [CantChangeTarget]\nDà priorità al nemico di Livello più alto\nQuesta Abilità non attiva le Abilità Difensive\n[WhenUse] Potere Moneta +1 per ogni 8 [Laceration] sul bersaglio (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -4041,7 +4041,7 @@
         {
           "level": 1,
           "name": "Dismay [落望]",
-          "desc": "[DefeatDuel] Lose 5 PS\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Ottiene 3 [Reduction]</u></b></mark></color>",
+          "desc": "[DefeatDuel] Perde 5 PS\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Ottiene 3 [Reduction]</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
