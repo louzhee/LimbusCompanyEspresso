@@ -1229,7 +1229,7 @@
         {
           "level": 4,
           "name": "Lamento Solenne per i Vivi",
-          "desc": "A 10+ [BulletLament], Potere Scontro +1\n<style=\"highlight\">Potere Moneta +1 per ogni 6 value</style> della somma di [Sinking] e [SinkingWhite] sul bersaglio <style=\"highlight\">(max 2)</style>\n[WinDuel] Infligge +1 Conteggio [Sinking]\n[EndSkill] Ottiene (Rison. più alta) [BulletLament] (max 6)\n- Se suddetta Rison. era una Rison.-A, ottiene (Rison. più alta x 2) [BulletLament] (max 12)\n<style=\"highlight\"> - Se suddetta Rison. era una Rison.-Aon., invece [ReloadLament]</style>",
+          "desc": "A 10+ [BulletLament], Potere Scontro +1\n<style=\"highlight\">Potere Moneta +1 per ogni 6 value</style> della somma di [Sinking] e [SinkingWhite] sul bersaglio <style=\"highlight\">(max 2)</style>\n[WinDuel] Infligge +1 Conteggio [Sinking]\n[EndSkill] Ottiene (Rison. più alta) [BulletLament] (max 6)\n- Se la Rison. era una Rison-A, ottiene (Rison. più alta x 2) [BulletLament] (max 12)\n<style=\"highlight\"> - Se la Rison. era una +4 Rison-A., invece [ReloadLament]</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2200,7 +2200,7 @@
                   "desc": "Infligge +<style=\"highlight\">20</style>% danni per ogni [BoseProjektil] su di sé (max <style=\"highlight\">140</style>%)"
                 },
                 {
-                  "desc": "- Se la prima Moneta ha ucciso un alleato, infligge +<style=\"highlight\">40</style>% danni per ogni [BoseProjektil] su di sé instead (max <style=\"highlight\">280</style>%)\n"
+                  "desc": "- Se la prima Moneta ha ucciso un alleato, infligge +<style=\"highlight\">40</style>% danni per ogni [BoseProjektil] su di sé  (max <style=\"highlight\">280</style>%)\n"
                 },
                 {
                   "desc": "+<style=\"highlight\">5</style>% Danni sul Colpo Critico per ogni Potenza [Breath] (max <style=\"highlight\">50</style>%)"
@@ -2696,7 +2696,7 @@
         {
           "level": 4,
           "name": "\"Avvolgi 330 Volte in Lunghe Fasce di Sangue Congelato\"",
-          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% di chance di ottenere un'arma Contundente\n- Le Monete che usano armi Contundenti infliggono <style=\"highlight\">+15%</style> danni\nSe questa Abilità è marchiata con [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Potere Scontro +1</style> ed infligge deal <style=\"highlight\">+20%</style> danni\n<style=\"highlight\">Potere Moneta +1 per ogni 6 ([Breath] su di sé + [Sinking] sul bersaglio) (max 2)</style>\n[WhenUse] Converte (livello di [UnlockBuff_Base] - 1)  Monete in [SuperCoin], partendo dalla Moneta finale\n[WhenUse] Ottiene + 2 Conteggio [Breath]",
+          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% di chance di ottenere un'arma Contundente\n- Le Monete che usano armi Contundenti infliggono <style=\"highlight\">+15%</style> danni\nSe questa Abilità è marchiata con [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Potere Scontro +1</style> ed infligge <style=\"highlight\">+20%</style> danni\n<style=\"highlight\">Potere Moneta +1 per ogni 6 ([Breath] su di sé + [Sinking] sul bersaglio) (max 2)</style>\n[WhenUse] Converte (livello di [UnlockBuff_Base] - 1)  Monete in [SuperCoin], partendo dalla Moneta finale\n[WhenUse] Ottiene + 2 Conteggio [Breath]",
           "coinlist": [
             {},
             {
@@ -2882,7 +2882,7 @@
         {
           "level": 4,
           "name": "Per un Capriccio Imprevedibile",
-          "desc": "<style=\"highlight\">A [UnlockBuffAlly_3], Potere Moneta +2</style>\n[StartBattle] Ottiene +2 Conteggio [Breath] (una volta per turno)\n[OnSucceedEvade] ottiene <style=\"highlight\">2</style> [Breath] (2 volte per turno)\n[EndBattle] A meno di [UnlockBuffAlly_2], attiva i seguenti effetti (una volta per Incontro):\n- Ottiene [UnlockBuffAlly_2]\n- Se le stack di [BlessingOfIndexPrescriptAlly] sono meno di 6, vengono aumentate fino a 6\n- Ottiene 5 [KarmaOfIndexAlly] all'inizio del turno successivo per ogni [BlessingOfIndexPrescriptAlly] ottenuta con l'effetto sopracitato",
+          "desc": "<style=\"highlight\">A [UnlockBuffAlly_3], Potere Moneta +2</style>\n[StartBattle] Ottiene +2 Conteggio [Breath] (una volta per turno)\n[OnSucceedEvade] Ottiene <style=\"highlight\">2</style> [Breath] (2 volte per turno)\n[EndBattle] A meno di [UnlockBuffAlly_2], attiva i seguenti effetti (una volta per Incontro):\n- Ottiene [UnlockBuffAlly_2]\n- Se le stack di [BlessingOfIndexPrescriptAlly] sono meno di 6, vengono aumentate fino a 6\n- Ottiene 5 [KarmaOfIndexAlly] all'inizio del turno successivo per ogni [BlessingOfIndexPrescriptAlly] ottenuta con l'effetto sopracitato",
           "coinlist": [
             {}
           ]
