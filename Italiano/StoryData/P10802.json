@@ -2,61 +2,61 @@
   "dataList": [
     {
       "id": 0,
-      "content": "The notes started with a simple inquiry."
+      "content": "Gli appunti iniziavano con un semplice interrogativo."
     },
     {
       "id": 1,
-      "content": "“R Corp's architecture is strange. A Nest's architecture usually bears some resemblance to those adjacent to it, but I can't identify any similarity between R Corp's buildings and its neighbors—J Corp, S Corp, and T Corp.”"
+      "content": "“L’architettura della R Corp. è bizzarra. Di norma, l’architettura di un Nido presenta delle somiglianze con quella dei Nidi adiacenti, ma non riesco a riscontrare alcuna analogia tra gli edifici della R Corp. e quelli dei suoi vicini: la J Corp., la S Corp. e la T Corp.”"
     },
     {
       "id": 2,
-      "content": "“Rather… it is closer to W Corp's designs than anything else. I searched the City and the Library for answers, but no one seems to know why.”"
+      "content": "“Piuttosto… è più vicina allo stile della W Corp. rispetto a qualunque altra cosa. Ho cercato risposte nella Città e nella Biblioteca, ma nessuno sembra saperne il motivo.”"
     },
     {
       "id": 3,
-      "content": "“I write this journal to find the reason why.”"
+      "content": "“Scrivo questo diario per scoprirne la ragione.”"
     },
     {
       "id": 4,
       "model": "이스마엘",
-      "title": "R Corp. 4th Pack Reindeer",
-      "content": "One thing's certain… There had to be an R Corp. preceding the current Wing."
+      "title": "Renna del 4° Branco della R Corp.",
+      "content": "Una cosa è certa… Doveva esserci una R Corp. antecedente all'attuale Ala."
     },
     {
       "id": 5,
-      "content": "The child wondered what kind of Singularity the old R Corp. possessed and why they shut down."
+      "content": "La fanciulla si domandava che tipo di Singolarità possedesse la vecchia R Corp. e perché avesse cessato l'attività."
     },
     {
       "id": 6,
-      "content": "And by tracing its tracks…"
+      "content": "E seguendone le tracce…"
     },
     {
       "id": 7,
       "model": "이스마엘",
-      "title": "R Corp. 4th Pack Reindeer",
-      "content": "Nhg… To find that… I must get my hands on info about the old R Corp."
+      "title": "Renna del 4° Branco della R Corp.",
+      "content": "Ugh… Per scoprirlo… devo assolutamente mettere le mani su delle informazioni riguardo alla vecchia R Corp."
     },
     {
       "id": 8,
-      "content": "She's sure that she'll find a lead on what she is seeking."
+      "content": "È sicura che troverà una pista per ciò che sta cercando."
     },
     {
       "id": 9,
-      "content": "As for what that may be, well, it's not the most enjoyable thing to discuss right now."
+      "content": "Riguardo a cosa possa essere… beh, non è l’argomento più piacevole di cui discutere in questo momento."
     },
     {
       "id": 10,
-      "content": "Perhaps another time, if we find the chance to."
+      "content": "Forse un'altra volta, se ne avremo l'occasione."
     },
     {
       "id": 11,
       "model": "이스마엘",
-      "title": "R Corp. 4th Pack Reindeer",
-      "content": "Hngh… O-Onto the next location…"
+      "title": "Renna del 4° Branco della R Corp.",
+      "content": "Ugh… A-Alla prossima destinazione…"
     },
     {
       "id": 12,
-      "content": "For now, watching this child who dry-swallows painkillers should be telling enough."
+      "content": "Per ora, guardare questa fanciulla che manda giù antidolorifici a secco dovrebbe essere un indizio sufficiente."
     }
   ]
 }

@@ -1,64 +1,64 @@
 {
-  "dataList": [
-    {
-      "id": 0,
-      "model": "로쟈",
-      "title": "Kurokumo Wakashu",
-      "content": "C'mon, mister. We both know how much money you're keeping in that safe."
-    },
-    {
-      "id": 1,
-      "content": "The child said smugly, her smirk exuding an air of sharp cynicism."
-    },
-    {
-      "id": 2,
-      "content": "The Kurokumo Clan isn't too different from most Syndicates."
-    },
-    {
-      "id": 3,
-      "content": "Their day job is to shake down households and businesses in the Backstreets, squeezing out every bit of spare change, all of which they label as “protection fees”."
-    },
-    {
-      "id": 4,
-      "content": "Curiously, the child was being particularly harsh on this establishment out of all the other places."
-    },
-    {
-      "id": 5,
-      "content": "Perhaps she heard somewhere that this man was an infamous miser and figured his money would feed her starving goons."
-    },
-    {
-      "id": 6,
-      "content": "The child looked as if she could wrench the man by the collar and behead him at any moment, but something was holding her back."
-    },
-    {
-      "id": 7,
-      "content": "She's probably hoping to stay out of trouble since unauthorized action is forbidden in her Syndicate."
-    },
-    {
-      "id": 8,
-      "content": "Oh, how fortunate for him. It looks like a guide has arrived to distract her."
-    },
-    {
-      "id": 9,
-      "model": "료슈",
-      "title": "Kurokumo Wakashu",
-      "content": "Rodya, we've got G.N. Finally taking hands off these shoddy missions."
-    },
-    {
-      "id": 10,
-      "model": "로쟈",
-      "title": "Kurokumo Wakashu",
-      "content": "…Mkay, so there's good news, huh?"
-    },
-    {
-      "id": 11,
-      "content": "The acronym-loving guide nodded with a fellow smirk, then added as she lit her cigarette:"
-    },
-    {
-      "id": 12,
-      "model": "료슈",
-      "title": "Kurokumo Wakashu",
-      "content": "We're about to have our swords dance with the Blade Lineage."
-    }
-  ]
+    "dataList": [
+        {
+            "id": 0,
+            "model": "로쟈",
+            "title": "Wakashu del Kurokumo",
+            "content": "Dai, vecchio. Sappiamo entrambi quanti soldi tieni in quella cassaforte."
+        },
+        {
+            "id": 1,
+            "content": "La fanciulla disse con fare compiaciuto, il suo ghigno trasudava un'aria di tagliente cinismo."
+        },
+        {
+            "id": 2,
+            "content": "Il Clan Kurokumo non è molto diverso dalla maggior parte dei Sindacati."
+        },
+        {
+            "id": 3,
+            "content": "Il lavoro consiste nell'estorcere denaro a famiglie e attività nei Vicoli, spremendo fino all'ultimo centesimo e spacciando il tutto come 'tasse di protezione'."
+        },
+        {
+            "id": 4,
+            "content": "Curiosamente, tra tutti i luoghi possibili, la fanciulla si stava dimostrando particolarmente spietata proprio con questa attività."
+        },
+        {
+            "id": 5,
+            "content": "Forse aveva sentito da qualche parte che quell'uomo era un famigerato taccagno, e aveva pensato che i suoi soldi avrebbero sfamato i suoi sgherri che stavano morendo di fame."
+        },
+        {
+            "id": 6,
+            "content": "La fanciulla sembrava pronta a prendere quell'uomo per il colletto e decapitarlo da un momento all'altro, ma qualcosa la tratteneva."
+        },
+        {
+            "id": 7,
+            "content": "Probabilmente preferisce evitare guai, dato che le azioni non autorizzate sono proibite nel suo Sindacato."
+        },
+        {
+            "id": 8,
+            "content": "Oh, che fortuna per lui. Sembra che sia arrivata una guida a distrarla."
+        },
+        {
+            "id": 9,
+            "model": "료슈",
+            "title": "Wakashu del Kurokumo",
+            "content": "Rodya, abbiamo delle B.N. Finalmente ci togliamo di mezzo queste missioni scadenti."
+        },
+        {
+            "id": 10,
+            "model": "로쟈",
+            "title": "Wakashu del Kurokumo",
+            "content": "…Uhm, quindi ci sono buone notizie, eh?"
+        },
+        {
+            "id": 11,
+            "content": "La guida, amante degli acronimi, annuì con un ghigno simile, poi aggiunse mentre si accendeva una sigaretta:"
+        },
+        {
+            "id": 12,
+            "model": "료슈",
+            "title": "Wakashu del Kurokumo",
+            "content": "Ci aspetta uno scontro con i Discendenti della Spada."
+        }
+    ]
 }
