@@ -2,207 +2,207 @@
   "dataList": [
     {
       "id": 0,
-      "teller": "Announcement",
+      "teller": "Annuncio",
       "title": "N Corp.",
-      "content": "<i>Simulation #66 Complete. All participating subjects, please stand by.</i>"
+      "content": "<i>Simulazione #66 completata. Tutti i soggetti partecipanti sono pregati di rimanere in attesa.</i>"
     },
     {
       "id": 1,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
       "content": "Puff..."
     },
     {
       "id": 2,
-      "content": "The child draws a swift trace with her keen sword, flings the blood splatter from its blade, and pulls out a cigarette in a single, connecting motion that was just as honed and polished."
+      "content": "La fanciulla traccia un fendente rapido con la sua spada affilata, scrolla gli schizzi di sangue dalla lama ed estrae una sigaretta in un unico movimento fluido, altrettanto preciso e rifinito."
     },
     {
       "id": 3,
-      "content": "Before her eyes lies a hill of torn flesh, an amalgamation of things once separate that has become completely unrecognizable as a whole."
+      "content": "Davanti ai suoi occhi giace una massa di carne dilaniata, una fusione di elementi un tempo distinti che è diventata del tutto irriconoscibile nel suo insieme."
     },
     {
       "id": 4,
-      "content": "The gruesome sight is enough to make those with weak stomachs gag, but it does not seem to bother the child one bit."
+      "content": "La macabra vista è sufficiente a far venire i conati a chi ha lo stomaco debole, ma non sembra infastidire minimamente la fanciulla."
     },
     {
       "id": 5,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "A bit hackneyed, isn't it. The way it's stacked."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Un po' banale, no? Il modo in cui è ammassato."
     },
     {
       "id": 6,
-      "content": "... Perhaps she is critiquing it."
+      "content": "... Forse la sta criticando."
     },
     {
       "id": 7,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Hmmh. What a grisly vision this is."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Uhm. Che macabra visione."
     },
     {
       "id": 8,
-      "content": "Footsteps approach from behind her."
+      "content": "Dei passi si avvicinano dietro di lei."
     },
     {
       "id": 9,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "What? Are you here for the T.S?"
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Cosa? Sei qui per la S.A.?"
     },
     {
       "id": 10,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "If, by T.S, you are referring to 'Training Simulation', then yes—I have indeed received an order. Yet, I must ask..."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Se con S.A. vi riferite a 'Simulazione di Addestramento', allora sì—ho invero ricevuto un ordine. Eppure, devo chiedervi..."
     },
     {
       "id": 11,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "If the task is complete, why linger instead of activating the cleaning machine?"
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Se il compito è stato assolto, perché indugiare invece di attivare il macchinario di pulizia?"
     },
     {
       "id": 12,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Need to let it rest and enjoy the luxury of taking in the results after the work is done."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Bisogna lasciar riposare l'opera e godersi il lusso di ammirare i risultati a lavoro compiuto."
     },
     {
       "id": 13,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Though, I guess one could argue that the process of creation isn't done until the machine has scrubbed it clean."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Anche se, suppongo si potrebbe argomentare che il processo di creazione non sia terminato finché la macchina non ha ripulito tutto."
     },
     {
       "id": 14,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Harangue I will not on your perspective on art, yet I would prefer if you did not force viewership upon the unwilling."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Non terrò un'arringa sulla vostra prospettiva artistica, eppure preferirei che non ne imponeste la visione a chi non la desidera."
     },
     {
       "id": 15,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
       "content": "Hmph."
     },
     {
       "id": 16,
-      "content": "The child... instead of dropping the cigarette and snuffing it out, she sizzled its tip on the red button on a wall, pushing it inward."
+      "content": "La fanciulla... anziché spegnere la sigaretta a terra, la premette contro il pulsante rosso a parete, spingendolo dentro con un gesto sprezzante."
     },
     {
       "id": 17,
-      "content": "Then, a large machine that resembled a vacuum came down and siphoned up the haphazardly stacked hill of flesh."
+      "content": "Subito dopo, un grande macchinario simile a un aspiratore calò dall'alto e risucchio la montagnetta di carne accumulata alla rinfusa."
     },
     {
       "id": 18,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "I had high hopes you'd be someone who's artistically inclined when I saw you put lead behind the backs of your comrades, but... you've been S.A.D."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Nutrivo grandi speranze che tu fossi qualcuno incline all'arte quando ti ho visto piantare piombo nella schiena dei tuoi compagni, e invece... sei una G.D."
     },
     {
       "id": 19,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "... Side effects of E.G.O Gear Corrosion, nothing more."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "... Semplici effetti collaterali della Corrosione dell'Equipaggiamento E.G.O, nulla più."
     },
     {
       "id": 20,
-      "content": "The child shook her head with a disappointed sigh, but the other child only gave an unfazed response as he put down the old firearm that hung from his shoulder. Clearly, this wasn't the first time an interaction of this nature had occurred."
+      "content": "La fanciulla scosse la testa con un sospiro deluso, ma l'altro fanciullo diede solo una risposta imperturbabile mentre posava la vecchia arma da fuoco che gli pendeva dalla spalla. Chiaramente, non era la prima volta che si verificava un'interazione di tale natura."
     },
     {
       "id": 21,
-      "content": "The pair had been in more than a dozen battles together ever since they joined N Corp., but their relationship was mostly one-sided and aloof."
+      "content": "Il duo aveva affrontato più di una dozzina di battaglie insieme da quando era entrato nella N Corp., ma il loro rapporto era per lo più unilaterale e distaccato."
     },
     {
       "id": 22,
-      "content": "The only times when they'd ever exchange words with one another was when the sword-carrying child would chat up the other."
+      "content": "Le uniche volte in cui si scambiavano parole erano quelle in cui la fanciulla armata di spada rivolgeva la parola all'altro."
     },
     {
       "id": 23,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Don't let it eat you up and spoil the fun. I'd like to taste it for as long as I can, heh."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Non farti consumare rovinando il divertimento. Vorrei assaporarlo il più a lungo possibile, eh."
     },
     {
       "id": 24,
-      "content": "... Of course, it hardly seems that she's chatting him up as a friendly gesture."
+      "content": "... Naturalmente, non sembra affatto che gli stia rivolgendo la parola come gesto amichevole."
     },
     {
       "id": 25,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "The minced flesh tells a tale of an experiment beginning to take shape."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "La carne tritata narra la storia di un esperimento che inizia a prendere forma."
     },
     {
       "id": 26,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Ahh, that. The director's... flour dough experiment."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Ah, quello. L'esperimento dell'... impasto della direttrice."
     },
     {
       "id": 27,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "An experiment on Identities... to force upon the subjected person their counterpart from a different, parallel world."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Un esperimento sulle Identità... volto a imporre alla persona sottomessa la sua controparte di un mondo diverso e parallelo."
     },
     {
       "id": 28,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Person? Hah, so those things were once human?"
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Persona? Ah, quindi quelle creature un tempo erano umane?"
     },
     {
       "id": 29,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "They must be."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Invero."
     },
     {
       "id": 30,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "The director would rather see me excluded from the experiment exploring the field of my own expertise... Learning is prohibited from me, even if I were to seek it. Of course, such things have long fallen out of my interest."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "La direttrice preferisce vedermi escluso dall'esperimento che esplora il campo delle mie stesse competenze... Mi è proibito apprendere, anche qualora lo cercassi. Naturalmente, tali questioni sono ormai lungi dal mio interesse."
     },
     {
       "id": 31,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Whatever it ends up becoming... I hope they won't proudly present some unimaginative metamorphosis as their idea of a final product."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Qualunque cosa finisca per diventare... spero solo che non presenti con orgoglio una qualche metamorfosi priva di estro come sua idea di prodotto finale."
     },
     {
       "id": 32,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "I'd like to see them try and make things like rats and mutts, non-human subjects, wear them. Yes, that'd make for a passable sight."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Vorrei vederla provare a farle indossare a soggetti non umani come topi e bastardini. Sì, quello sarebbe uno spettacolo passabile."
     },
     {
       "id": 33,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Hm... indeed, if Identities could be projected upon organisms with a high population and very little individual value... they could be utilized as weapons. Perhaps that is the director's vision."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Uhm... invero, se le Identità potessero essere proiettate su organismi dall'alta popolazione e dal misero valore individuale... potrebbero essere utilizzate come armi. Forse è questa la visione della direttrice."
     },
     {
       "id": 34,
@@ -212,343 +212,343 @@
       "id": 35,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "So much for your \"I.D.C\" attitude. Your mind's racing."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Alla faccia del tuo atteggiamento da \"N.M.I.\". Il tuo cervello sta correndo a mille."
     },
     {
       "id": 36,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "... A drivel, no more."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "... Semplici farneticazioni, nulla più."
     },
     {
       "id": 37,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Were military enhancement the purpose of this endeavor, would not one find the use of mass-produced N Corp. armors and augmentations... or prosthetics significantly more practical?"
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Se lo scopo di questa impresa fosse il potenziamento militare, non si sarebbe assai più pratico l'uso di armature e potenziamenti della N Corp. prodotti in massa... o di protesi?"
     },
     {
       "id": 38,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Do you really think the director would employ imitative machine bodies like those? Just look at the kind of people we are assisting in battle."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Credi davvero che la direttrice impiegherebbe corpi meccanici come quelli? Guarda solo il genere di persone che stiamo assistendo in battaglia."
     },
     {
       "id": 39,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "... I suppose they were quite happily hammering nails into all those who wore prosthetics. With greater intensity as of late..."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "... Immagino stessero conficcando chiodi con sommo piacere in tutti coloro che portavano protesi. Con maggior intensità negli ultimi tempi..."
     },
     {
       "id": 40,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Of course, the only reason I'm still here is that I can't get enough of carving beauty out of the vulgar, this awesome weapon and garb as my vestments."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Naturalmente, l'unico motivo per cui sono ancora qui è che non ne ho mai abbastanza di scolpire la bellezza dal volgare, con questa magnifica arma e queste vesti a ornamento del mio operato."
     },
     {
       "id": 41,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "I would've sliced this contemptuous building in half and left long ago had they tried to indoctrinate me into those clichéd fanatics' uninspired massacres."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Avrei tagliato in due questo spregevole edificio e me ne sarei andata da un pezzo se avessero provato a indottrinarmi nel compiere massacri privi di estro come quei fanatici banali."
     },
     {
       "id": 42,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "... An overbearing color has seeped into your verbiage."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "... Un colore prepotente è penetrato nella vostra loquacità."
     },
     {
       "id": 43,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Nonsense. I was always like this."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Sciocchezze. Sono sempre stata così."
     },
     {
       "id": 44,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Hm. Remain wary of Corrosion, still."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Uhm. Rimanete comunque vigile nei confronti della Corrosione."
     },
     {
       "id": 45,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Says you."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Senti chi parla."
     },
     {
       "id": 46,
-      "content": "A sharp alarm cuts through their dry exchange."
+      "content": "Un allarme acuto interrompe il loro arido scambio di parole."
     },
     {
       "id": 47,
-      "teller": "Announcement",
+      "teller": "Annuncio",
       "title": "N Corp.",
-      "content": "<i>Commencing Training Simulation #67. Subjects of this training are Ryōshū, Yi Sang. This training will test the simultaneous participation of...</i>"
+      "content": "<i>Inizio della Simulazione di Addestramento #67. I soggetti di questo addestramento sono Ryōshū e Yi Sang. Questo addestramento testerà la partecipazione simultanea di...</i>"
     },
     {
       "id": 48,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "... The coinciding of our attendance is thus explained."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "... Il coincidere della nostra presenza viene dunque spiegato."
     },
     {
       "id": 49,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Time to get moving. Walk & cut."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "È ora di muoversi. Cammina e combatti."
     },
     {
       "id": 50,
-      "content": "After the brief announcement, several lumps of flesh thudded to the ground from all directions."
+      "content": "Dopo il breve annuncio, diversi ammassi di carne piombarono al suolo da ogni direzione."
     },
     {
       "id": 51,
-      "content": "In some ways, they resembled unfinished, wet clay... and in others, melted half-puddles of humans. They quickly began to pursue the two children the moment their flesh hit the training room floor."
+      "content": "Per certi versi somigliavano a creta bagnata non rifinita... per altri, a pozze mezze liquefatte di esseri umani. Iniziarono rapidamente a inseguire i due fanciulli non appena toccarono il pavimento della sala d'addestramento."
     },
     {
       "id": 52,
-      "content": "They are results of utter, utter brutality... it wouldn't do any good to look too closely at them."
+      "content": "Sono i risultati di una brutalità assoluta, estrema... non farebbe bene guardarli troppo da vicino."
     },
     {
       "id": 53,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Remain wary of my... Corrosion. Nngh."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Rimanete vigile nei confronti della mia... Corrosione. Nngh."
     },
     {
       "id": 54,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "As you are my only ally in this chamber, it may be but an inevitable eventuality that my bullets shall fire at you."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Poiché siete la mia unica alleata in questa stanza, potrebbe essere un'inevitabile eventualità che i miei proiettili vengano scagliati contro di voi."
     },
     {
       "id": 55,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Hah, you'd dare?"
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Ah, oseresti?"
     },
     {
       "id": 56,
-      "content": "The child leaped between each blast of gunfire, between shambling mounds of flesh as her golden sword sliced through them one by one."
+      "content": "La fanciulla saltava tra un colpo d'arma da fuoco e l'altro, muovendosi tra ammassi di carne barcollanti mentre la sua spada dorata li fendeva uno ad uno."
     },
     {
       "id": 57,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Then... you're welcome to try. Pierce me if you can."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "E allora... accomodati pure. Trafiggimi, se ci riesci."
     },
     {
       "id": 58,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Ngh... I... I gave you fair warning of the... Corrosion."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Ngh... vi... vi avevo avvertita della... Corrosione."
     },
     {
       "id": 59,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "I am unrivaled, unparalleled; every gaze that falls upon me trembles with awe."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Sono impareggiabile, senza rivali; ogni sguardo che si posa su di me trema di venerazione."
     },
     {
       "id": 60,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Should you pierce me anyway... that would also constitute a certain aesthetic."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Se dovessi trafiggermi comunque... anche ciò avrebbe una certa estetica."
     },
     {
       "id": 61,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
       "content": "…!"
     },
     {
       "id": 62,
-      "content": "The firearm-wielding child suddenly whips around and fires."
+      "content": "Il fanciullo armato di arma da fuoco si volta di scatto e fa fuoco."
     },
     {
       "id": 63,
-      "content": "The bullet flies true, aiming straight at the golden-garbed child's back."
+      "content": "Il proiettile vola dritto, mirando dritto alla schiena della fanciulla dalle vesti dorate."
     },
     {
       "id": 64,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "... Huh."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "... Uh."
     },
     {
       "id": 65,
-      "content": "But it fails to punch through."
+      "content": "Ma non riesce a trapassarla."
     },
     {
       "id": 66,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "This is...?"
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Questo è...?"
     },
     {
       "id": 67,
-      "content": "The bullet was deflected by a translucent sphere that surrounded the sword-wielding child."
+      "content": "Il proiettile venne deviato da una sfera traslucida che avvolgeva la fanciulla armata di spada."
     },
     {
       "id": 68,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "A defensive field of sorts... little did I know that this E.G.O gear carried such functions."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Una sorta di campo difensivo... non sapevo che questo equipaggiamento E.G.O possedesse tali funzioni."
     },
     {
       "id": 69,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "No idea. Never seen it before."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Non ne ho idea. Mai visto prima."
     },
     {
       "id": 70,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "... This may explain why we were to train together."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "... Questo potrebbe spiegare il motivo per cui dovevamo addestrarci insieme."
     },
     {
       "id": 71,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Knowing that this function exists is enough. Boring."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Sapere che questa funzione esiste è sufficiente. Che noia."
     },
     {
       "id": 72,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Shoot me again. I'm going to deflect your bullet right into that shithead over there."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Sparami ancora. Devierò il tuo proiettile dritto su quel pezzo di merda laggiù."
     },
     {
       "id": 73,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "The director must be once again deploying new technology to these gear... or, perhaps this is simply the consequence of our increased synchronization with them."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "La direttrice dev'essere ancora una volta intenta a implementare nuove tecnologie in questi equipaggiamenti... o, forse, questa è semplicemente la conseguenza della nostra accresciuta sincronizzazione con essi."
     },
     {
       "id": 74,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "... He's lost himself in his own world again. Hah."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "... Si è perso di nuovo nel suo mondo. Ah."
     },
     {
       "id": 75,
-      "content": "But she cared very little for such things. She continued to flurry and cut through the particularly aggressive flesh mounds, as the other child had put his gun down in favor of daydreaming."
+      "content": "Ma a lei importava davvero poco di queste cose. Continuò a mulinare la sua arma e fendere gli ammassi di carne particolarmente aggressivi, mentre l'altro fanciullo aveva posato la pistola preferendo perdersi nei propri pensieri."
     },
     {
       "id": 76,
-      "content": "Maybe this wasn't the first time something like this has happened. Or, maybe she was simply glad to cut more; the child's sword did not come to a stop, and she did not complain."
+      "content": "Forse non era la prima volta che accadeva una cosa simile. O forse era semplicemente lieta di combarrere ancora; la spada della fanciulla non si fermò e lei non si lamentò."
     },
     {
       "id": 77,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "The director's thoughts are difficult to parse... hm. Do you recall our visit to a village they called Calw?"
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "I pensieri della direttrice sono difficili da decifrare... uhm. Rammentate la nostra visita a un villaggio che chiamavano Calw?"
     },
     {
       "id": 78,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "... Oh, the computer-obsessed little shit?"
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "... Oh, quella piccola stronza ossessionata dai computer?"
     },
     {
       "id": 79,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Sitting in her room in front of a computer for days on end... until the director showed her <i>something</i> to spark that fervor, I believe."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Se ne stava seduta nella sua stanza davanti a un computer per giorni e giorni... finché la direttrice non le ha mostrato <i>qualcosa</i> per scatenare quel fervore, credo."
     },
     {
       "id": 80,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Indeed. She behaved as one Corroded, despite not having been assigned an E.G.O gear at all."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Invero. Si comportava come un essere Corroso, nonostante non le fosse stato assegnato alcun equipaggiamento E.G.O."
     },
     {
       "id": 81,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "If this be not the consequences of Corrosion, then..."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Se queste non sono le conseguenze della Corrosione, allora..."
     },
     {
       "id": 82,
       "model": "이상",
       "teller": "Yi Sang",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "... we would do well to be cautious. It is entirely possible that the director harbors a certain ulterior motive as we are cultivated like livestock."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "... faremmo bene a essere cauti. È del tutto possibile che la direttrice nutra un qualche secondo fine, mentre veniamo allevati come bestiame."
     },
     {
       "id": 83,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Hah!"
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Ah!"
     },
     {
       "id": 84,
-      "content": "The child cuts down another massive lump of flesh, the size of three people put together, and scoffs."
+      "content": "La fanciulla abbatte un altro enorme ammasso di carne, delle dimensioni di tre persone messe insieme, e sbuffa."
     },
     {
       "id": 85,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "Hmph, and I'll welcome the attempt."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Hmph, e io la invito a provarci."
     },
     {
       "id": 86,
-      "content": "Then, she continued..."
+      "content": "Poi, continuò..."
     },
     {
       "id": 87,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "It better be one creative betrayal. I deserve something more..."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "Sarà meglio che sia un tradimento creativo. Mi merito qualcosa di più..."
     },
     {
       "id": 88,
       "model": "료슈",
       "teller": "Ryōshū",
-      "title": "N Corp. New League of Nine Littérateurs",
-      "content": "... than a tired, clichéd backstabbing. Should I not be presented with one such demonstration, the director'll have to pay for such pathetic lack of originality."
+      "title": "Nuova Lega dei Nove Letterati della N Corp.",
+      "content": "... di una scontata e banale pugnalata alle spalle. Se non mi verrà presentata una dimostrazione all'altezza, la direttrice dovrà pagare per una così patetica mancanza di originalità."
     },
     {
       "id": 89,
-      "content": "... her eyes glistening with both excitement and contempt."
+      "content": "... con gli occhi che le brillavano sia di eccitazione che di disprezzo."
     }
   ]
 }
