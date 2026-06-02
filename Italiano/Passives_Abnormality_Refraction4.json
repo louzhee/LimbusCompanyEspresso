@@ -117,8 +117,8 @@
     },
     {
       "id": 860506,
-      "name": "Refracted Struggle",
-      "desc": "At 10+ Clashes against the same enemy, randomly gain or lose Clash Power by (Clash Count / 10) in a Clash. (rounded down)"
+      "name": "Sforzo Rifratto",
+      "desc": "A 10+ Scontri sullo stesso bersaglio, ottiene o perde Potere Scontro pari a (Numero di Scontri / 10) in uno Scontro (arrotondato per difetto)"
     },
     {
       "id": 828004,

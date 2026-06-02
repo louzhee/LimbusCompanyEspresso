@@ -108,7 +108,7 @@
     {
       "id": 956801,
       "name": "Vita Aggrappata a un Cuneo [一櫼之命]",
-      "desc": "A inizio Incontro, ottiene 3 [YesdragonSelfRefraction]\nA fine turno, ottiene 1 [YesdragonSelfRefraction] il turno successivo\nOttiene +1 [YesdragonSelfRefraction] in più da questo effetto ogni volta che si attiva la Passiva \"Furia Tonante\" Passive triggers"
+      "desc": "A inizio Incontro, ottiene 3 [YesdragonSelfRefraction]\nA fine turno, ottiene 1 [YesdragonSelfRefraction] il turno successivo\nOttiene +1 [YesdragonSelfRefraction] in più da questo effetto ogni volta che si attiva la Passiva \"Furia Tonante\""
     },
     {
       "id": 956802,
@@ -148,7 +148,7 @@
     {
       "id": 956907,
       "name": "Erumpent Flower-burying Efflorescence [梅花滿開]",
-      "desc": "A inizio Incontro, ottiene 3 [YesdragonSelfRefraction]\nA fine turno, ottiene 1 [YesdragonSelfRefraction] il turno successivo\nOttiene +1 [YesdragonSelfRefraction] in più da questo effetto ogni volta che si attiva la Passiva \"Furia Tonante\" Passive triggers\n- Se la parte Scaglia Achillea è rotta, resetta l'aumento di [YesdragonSelfRefraction] ottenuto"
+      "desc": "A inizio Incontro, ottiene 3 [YesdragonSelfRefraction]\nA fine turno, ottiene 1 [YesdragonSelfRefraction] il turno successivo\nOttiene +1 [YesdragonSelfRefraction] in più da questo effetto ogni volta che si attiva la Passiva \"Furia Tonante\"\n- Se la parte Scaglia Achillea è rotta, resetta l'aumento di [YesdragonSelfRefraction] ottenuto"
     },
     {
       "id": 956908,
