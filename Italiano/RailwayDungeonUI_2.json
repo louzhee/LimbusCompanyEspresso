@@ -214,7 +214,7 @@
     },
     {
       "id": "railway_dungeon_2_current_battle_turn_count",
-      "content": "Turns taken this Station : <style=\"number_highlight\"><size=\"60%\">{0}</size></style>"
+      "content": "Turni in questa Stazione : <style=\"number_highlight\"><size=\"60%\">{0}</size></style>"
     },
     {
       "id": "railway_dungeon_2_ask_retry_when_defeat_info_turn_count",
