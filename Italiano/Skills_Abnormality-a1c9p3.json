@@ -376,7 +376,7 @@
         {
           "level": 1,
           "name": "Farò Da Scudo.",
-          "desc": "[CanDuelGuard]\n[SupportProtect] Abilità Esclusiva\nSubisce -20% danni per ogni [SupportProtect]\n[WhenUse] ogni alleato recupera 8 PS\n[DefeatDuel] Ottiene 1 [Vulnerable] il turno successivo",
+          "desc": "[CanDuelGuard]\nAbilità esclusiva alla [SupportProtect]\nSubisce -20% danni per ogni [SupportProtect]\n[WhenUse] ogni alleato recupera 8 PS\n[DefeatDuel] Ottiene 1 [Vulnerable] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
@@ -395,7 +395,7 @@
         {
           "level": 1,
           "name": "Installazione D'Arte n.3: Cassa Toracica Improvvisata",
-          "desc": "[CantDuel] [CantChangeTarget]\nDà priorità al nemoci col livello più alto\nQuesta Abilità non attiva le Abilità Difensive\n[WhenUse] Potere Moneta +1 per ogni 8 [Laceration] on target (max 2)",
+          "desc": "[CantDuel] [CantChangeTarget]\nDà priorità al nemico di Livello più alto\nQuesta Abilità non attiva le Abilità Difensive\n[WhenUse] Potere Moneta +1 per ogni 8 [Laceration] sul bersaglio (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -496,7 +496,7 @@
         {
           "level": 1,
           "name": "Melodia Di Tibia: Dissezione del Non Dissezionato Dal Dissezionato",
-          "desc": "Per il turno in cui quest'Abilità è stata equipaggiata, questa unità ottiene 1 [PlusCoinValueDown] e 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>quando viene colpita da un'Abilità Attacco</u></b></mark></color> (una volta per Abilità; max 3 volte per turno)\nNon può essere Stordito fino all'uso di questa Abilità\nSe Uccide, recupera 15 PS per ogni bersaglio ucciso\n[StartBattle] Ottiene 4 [Protection]\n[WhenUse] Infligge +3% danni per ogni 6 ([Laceration] sul bersaglio principale + [Laceration] sui bersagli secondari) (max 30%)\n[DefeatDuel] Infligge -60% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio\n[EndSkill] [MineTheRings] scade",
+          "desc": "Per il turno in cui quest'Abilità è stata equipaggiata, ottiene 1 [PlusCoinValueDown] e 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>quando viene colpito da un'Abilità Attacco</u></b></mark></color> (una volta per Abilità; max 3 volte per turno)\nNon può essere Stordito fino all'uso di questa Abilità\nSe Uccide, recupera 15 PS per ogni bersaglio ucciso\n[StartBattle] Ottiene 4 [Protection]\n[WhenUse] Infligge +3% danni per ogni 6 ([Laceration] sul bersaglio principale + [Laceration] sui bersagli secondari) (max 30%)\n[DefeatDuel] Infligge -60% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio\n[EndSkill] [MineTheRings] scade",
           "coinlist": [
             {
               "coindescs": [
@@ -598,7 +598,7 @@
         {
           "level": 1,
           "name": "Per Cortesia. Il Vandalismo è Proibito.",
-          "desc": "[DuelCounter]\n[SupportProtect] Abilità esclusiva\nNon può essere Stordito fino all'uso di questa Abilità\n[WhenUse] Ottiene 1 [Protection]\n[WhenUse] Se il bersaglio ha ha 6+ [Laceration], Potere Moneta +1",
+          "desc": "[DuelCounter]\nAbilità esclusiva alla [SupportProtect]\nNon può essere Stordito fino all'uso di questa Abilità\n[WhenUse] Ottiene 1 [Protection]\n[WhenUse] Se il bersaglio ha ha 6+ [Laceration], Potere Moneta +1",
           "coinlist": [
             {
               "coindescs": [
@@ -630,7 +630,7 @@
         {
           "level": 1,
           "name": "Chiusura - Installazione D'Arte n.1: La tua Carne E Le Tue Ossa Come Sedie Per La Mia Mostra",
-          "desc": "[CantDuel]\nDà priorità al nemico col Livello più alto\nQuesta Abilità non attiva le Abilità Difensive\n[WhenUse] Potere Moneta +1 per ogni 8 [Laceration] sul bersaglio (max 2)\n[EndSkill] Termina il turno",
+          "desc": "[CantDuel]\nDà priorità al nemico di Livello più alto\nQuesta Abilità non attiva le Abilità Difensive\n[WhenUse] Potere Moneta +1 per ogni 8 [Laceration] sul bersaglio (max 2)\n[EndSkill] Termina il turno",
           "coinlist": [
             {
               "coindescs": [
@@ -868,7 +868,7 @@
         {
           "level": 1,
           "name": "Ehi, Tu. Il vandalismo È Proibito.",
-          "desc": "[DuelCounter]\n[SupportProtect] Abilità esclusiva\nNon può essere stordita prima dell'uso di quest'Abilità\n[WhenUse] Ottiene 1 [Protection]\n[WhenUse] se il bersaglio ha 6+ [Laceration], Potere Moneta +1",
+          "desc": "[DuelCounter]\nAbilità esclusiva alla [SupportProtect]\nNon può essere stordita prima dell'uso di quest'Abilità\n[WhenUse] Ottiene 1 [Protection]\n[WhenUse] se il bersaglio ha 6+ [Laceration], Potere Moneta +1",
           "coinlist": [
             {
               "coindescs": [
@@ -2489,7 +2489,7 @@
         {
           "level": 1,
           "name": "Melodia Di Tibia: Dissezione del Non Dissezionato Dal Dissezionato",
-          "desc": "Per il turno in cui quest'Abilità è stata equipaggiata, questa unità ottiene 1 [PlusCoinValueDown] e 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>quando viene colpita da un'Abilità Attacco</u></b></mark></color> (una volta per Abilità; max 3 volte per turno)\nNon può essere Stordito fino all'uso di questa Abilità\nSe Uccide, recupera 15 PS per ogni bersaglio ucciso\n[StartBattle] Ottiene 4 [Protection]\n[WhenUse] Infligge +3% danni per ogni 6 ([Laceration] sul bersaglio principale + [Laceration] sui bersagli secondari) (max 30%)\n[DefeatDuel] Infligge -60% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio\n[EndSkill] [MineTheRings] scade",
+          "desc": "Per il turno in cui quest'Abilità è stata equipaggiata, ottiene 1 [PlusCoinValueDown] e 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>quando viene colpito da un'Abilità Attacco</u></b></mark></color> (una volta per Abilità; max 3 volte per turno)\nNon può essere Stordito fino all'uso di questa Abilità\nSe Uccide, recupera 15 PS per ogni bersaglio ucciso\n[StartBattle] Ottiene 4 [Protection]\n[WhenUse] Infligge +3% danni per ogni 6 ([Laceration] sul bersaglio principale + [Laceration] sui bersagli secondari) (max 30%)\n[DefeatDuel] Infligge -60% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio\n[EndSkill] [MineTheRings] scade",
           "coinlist": [
             {
               "coindescs": [
@@ -2550,7 +2550,7 @@
         {
           "level": 1,
           "name": "Chiusura - Installazione D'Arte n.1: La tua Carne E Le Tue Ossa Come Sedie Per La Mia Mostra",
-          "desc": "[CantDuel]\nDà priorità al nemico col Livello più alto\nQuesta Abilità non attiva le Abilità Difensive\n[WhenUse] Potere Moneta +1 per ogni 8 [Laceration] sul bersaglio (max 2)",
+          "desc": "[CantDuel]\nDà priorità al nemico di Livello più alto\nQuesta Abilità non attiva le Abilità Difensive\n[WhenUse] Potere Moneta +1 per ogni 8 [Laceration] sul bersaglio (max 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -3528,7 +3528,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Furioso-Replica",
+          "name": "Furioso (Replica)",
           "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Non attiva le Abilità Difensive</u></b></mark></color>\nCi si può Scontrare con quest'Abilità a prescindere dalla Velocità\n[WhenUse]\n- Ottiene 3 [Breath] e +3 Conteggio [Breath]\n- Potere Scontro +5 (<color=#ff6000><mark=#ff000040><b><u>il Potere Scontro ottenuto è ridotto di 1 per ogni 10 [KarmaOfIndexRien] su di sé, con un minimo di 0</u></b></mark></color>)\n[WhenUse] A 0+ PS, genera 1 Mang\n- Infligge +40% danni; Potere Finale +4\n\n[WinDuel]\n- Ottiene 3 [Breath] e +3 Conteggio [Breath]\n- A fine attacco, Infligge 3 [Laceration], 1 [Binding], e 1 [Vulnerable] nel turno successivo su ogni bersaglio colpito da quest'Abilità \n[DefeatDuel]\n- Ottiene 4 [AttackDmgDown] e 9 [Paralysis]\n- Il danno inflitto da quest'Abilità non può Stordire il bersaglio e non può attivare gli effetti di [Sinking] sul colpo\n[EndSkill] Se quest'Abilità ha generato Mang, perde 20 PS\n[EndSkill] Termina il turno",
           "coinlist": [
             {
@@ -3850,7 +3850,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "With Tempered Secret, Sever the Form",
+          "name": "Con Segreto Temperato, Recidi La Forma",
           "desc": "Ci si può Scontrare con quest'Abilità a prescindere dalla Velocità\nSe ha [BlackNightmare]:\n- Converte ogni moneta in [SuperCoin]\n- <color=#ff6000><mark=#ff000040><b><u>Se non si Scontra contro un'Abilità Attacco Tagliente o contro Ryōshū</u></b></mark></color>, Potere Moneta +2 e infligge +50% danni\n- A Scontro perso contro un'Abilità Attacco Tagliente o contro Ryōshū:\n  - Potere Moneta -2 e infligge -50% danni\n  - Il danno inflitto da quest'Abilità non può Stordire il bersaglio e non può attivare gli effetti di [Sinking] sul colpo\n\nLe armi Taglienti appaiono più frequentemente\n- A 75+ [KarmaOfIndexRien_2Phase], le armi Taglienti appaiono meno frequentemente\n- A 150+ [KarmaOfIndexRien_2Phase], le armi Taglienti appaiono molto meno frequentemente\nAttiva i seguenti effetti in base all'arma usata:\n- Le armi taglienti infliggono +60% danni\n- Le armi Contundenti e Perforanti infliggono -30% danni\n[WhenUse] Ottiene 3 [Breath] e +2 Conteggio [Breath]\n[WinDuel] Potere Finale +3\n- A 150+ [KarmaOfIndexRien_2Phase], questo effetto non viene attivato",
           "coinlist": [
             {
@@ -3971,7 +3971,7 @@
         {
           "level": 1,
           "name": "Furioso [Lacrimosa-Crescendo]",
-          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Non attiva le Abilità Difensive</u></b></mark></color>\nCi si può Scontrare con quest'Abilità a prescindere dalla Velocità\n<color=#ff6000><mark=#ff000040><b><u>- Se si Scontra con l'E.G.O 'Creato in Fiamme' di Ryōshū, Potere Scontro -20</u></b></mark></color>\n\n[WhenUse]\n- Ottiene 9 [Breath] e +9 Conteggio [Breath]\n- Clash Power +15 (il Potere Scontro ottenuto è ridotto di 1 per ogni 20 [KarmaOfIndexRien_2Phase])\n[WhenUse] A 0+ PS, genera 3 Mang\n- Infligge +100% danni; Potere Finale +12\n\n[WinDuel]\n- A fine attacco, Infligge 5 [Laceration], 3 [Binding], e 3 [Vulnerable] il prossimo turno su ogni bersaglio colpito da quest'Abilità\n[DefeatDuel]\n- Ottiene 8 [AttackDmgDown] e 9 [Paralysis]\n- Il danno inflitto da quest'Abilità non può Stordire il bersaglio e non può attivare gli effetti di [Sinking] sul colpo\n[EndSkill] Se quest'Abilità ha generato Mang, perde 30 PS\n[EndSkill] Termina il turno",
+          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Non attiva le Abilità Difensive</u></b></mark></color>\nCi si può Scontrare con quest'Abilità a prescindere dalla Velocità\n<color=#ff6000><mark=#ff000040><b><u>- Se si Scontra con l'E.G.O 'Creato in Fiamme' di Ryōshū, Potere Scontro -20</u></b></mark></color>\n\n[WhenUse]\n- Ottiene 9 [Breath] e +9 Conteggio [Breath]\n- Potere Scontro +15 (il Potere Scontro ottenuto è ridotto di 1 per ogni 20 [KarmaOfIndexRien_2Phase])\n[WhenUse] A 0+ PS, genera 3 Mang\n- Infligge +100% danni; Potere Finale +12\n\n[WinDuel]\n- A fine attacco, Infligge 5 [Laceration], 3 [Binding], e 3 [Vulnerable] il prossimo turno su ogni bersaglio colpito da quest'Abilità\n[DefeatDuel]\n- Ottiene 8 [AttackDmgDown] e 9 [Paralysis]\n- Il danno inflitto da quest'Abilità non può Stordire il bersaglio e non può attivare gli effetti di [Sinking] sul colpo\n[EndSkill] Se quest'Abilità ha generato Mang, perde 30 PS\n[EndSkill] Termina il turno",
           "coinlist": [
             {
               "coindescs": [
@@ -4041,7 +4041,7 @@
         {
           "level": 1,
           "name": "Dismay [落望]",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Ottiene 3 [Reduction]</u></b></mark></color>",
+          "desc": "[DefeatDuel] Perde 5 PS\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Ottiene 3 [Reduction]</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [

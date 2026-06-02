@@ -607,7 +607,7 @@
         {
           "level": 1,
           "name": "Passo Fantasma [殘像步]",
-          "desc": "[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Dimezza la [PhantomIncision] sul bersaglio</u></b></mark></color> (arrotondato per difetto)",
+          "desc": "[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Dimezza la [PhantomIncision] sul bersaglio</u></b></mark></color> (arrotondato per difetto)\n[DefeatDuel] Perde 5 PS",
           "coinlist": [
             {
               "coindescs": [
