@@ -5,20 +5,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "All Shall Scatter",
-          "desc": "Prioritizes enemies with Marked",
+          "name": "Tutto Verrà Disperso",
+          "desc": "Dà priorità ai nemici col [AaCePcBa]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal PS damage by the number of lit Candles"
+                  "desc": "[OnSucceedAttack] Infligge danno ai PS pari al numero di Candele accese"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal PS damage by the number of lit Candles"
+                  "desc": "[OnSucceedAttack] Infligge danno ai PS pari al numero di Candele accese"
                 }
               ]
             }
@@ -31,26 +31,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Longing...",
-          "desc": "Prioritizes enemies with Marked",
+          "name": "Attendendo...",
+          "desc": "Dà priorità ai nemici col [AaCePcBa]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Wrath Fragility next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [CrimsonTakeDamageUp] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [Combustion], inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha [Combustion], infligge 4 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Wrath Fragility next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [CrimsonTakeDamageUp] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [Combustion], inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha [Combustion], infligge 4 [Combustion]"
                 }
               ]
             }
@@ -64,25 +64,25 @@
         {
           "level": 1,
           "name": "9:2",
-          "desc": "Snuffs out all Candles next turn.\nUpon hitting targets with [AaCePcBa], target loses additional 5% of its max PV.\n[DefeatDuel] Inflict 10 Burn. Inflict target with Marked next turn.\n[EndBattle] All Candles heal to max PV.",
+          "desc": "Spegne ogni Candela il turno successivo.\nSe colpisce un bersaglio [AaCePcBa], il bersaglio perde oò 5% dei PV max in più.\n[DefeatDuel] Infligge 10 [Combustion]. Infligge [AaCePcBa] sul bersaglio il turno successivo.\n[EndBattle] Ogni candela recupera il max dei PV.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target's max PV decreases by 10%."
+                  "desc": "[OnSucceedAttack] I PV max del bersaglio scendono del 10%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Burn and +2 Burn Count"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Combustion] e +2 Conteggio [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target's max PV decreases by 10%."
+                  "desc": "[OnSucceedAttack] I PV max del bersaglio scendono del 10%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Burn and +2 Burn Count"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Combustion] e +2 Conteggio [Combustion]"
                 }
               ]
             }
@@ -96,25 +96,25 @@
         {
           "level": 1,
           "name": "6:5",
-          "desc": "[CantDuel][CantChangeTarget]\nTake damage in the target's place. Get staggered next turn.\nInflict Marked on a random enemy without [AaCePcBa].\n[EndBattle] All Candles heal to max PV",
+          "desc": "[CantDuel][CantChangeTarget]\nSubisce danni al posto del bersaglio. Viene stordito nel turno successivo.\nInfligge [AaCePcBa] su un nemico casuale senza [AaCePcBa].\n[EndBattle] Ogni candela recupera il max dei PV",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] This unit's max PV decreases by 10%."
+                  "desc": "[OnSucceedAttack] I PV max di quest'unità scendono del 10%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Burn on self"
+                  "desc": "[OnSucceedAttack] Infligge 10 [Combustion] su di sé"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] This unit's max PV decreases by 10%."
+                  "desc": "[OnSucceedAttack] I PV max di quest'unità scendono del 10%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Burn on self"
+                  "desc": "[OnSucceedAttack] Infligge 10 [Combustion] su di sé"
                 }
               ]
             }
@@ -127,13 +127,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "All Shall be Revealed",
+          "name": "Tutto Verrà Rivelato",
           "desc": "[CantDuel]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Wrath Fragility"
+                  "desc": "[OnSucceedAttack] Infligge 1 [CrimsonTakeDamageUp]"
                 }
               ]
             }
@@ -146,13 +146,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "All Shall Burn",
+          "name": "Tutto Brucerà",
           "desc": "[CantDuel]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Combustion], inflict 3 Burn."
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha [Combustion], infligge 3 [Combustion]"
                 }
               ]
             }
@@ -165,13 +165,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sparked Flame",
-          "desc": "Prioritizes targets with [AaCePcBa]",
+          "name": "Fiamma Attizzata",
+          "desc": "Dà priorità ai nemici col [AaCePcBa]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Burn and +2 Burn Count"
+                  "desc": "[OnSucceedAttack] Infligge 6 [Combustion] e +2 Conteggio [Combustion]"
                 }
               ]
             }
@@ -184,13 +184,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "So That It Will Burn",
-          "desc": "[StartBattle] Gain 20 Shield\nSnuff out the lights next turn when out of Shield",
+          "name": "Così Che Essa Bruci",
+          "desc": "[StartBattle] Ottiene 20 Scudo\nSe lo Scudo viene distrutto, questa Candela viene Spenta",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn and +1 Burn Count"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Combustion] e +1 Conteggio [Combustion]"
                 }
               ]
             }
@@ -920,13 +920,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Inizia Caccia",
-          "desc": "[StartBattle] Summon 4 allies next turn\n[WhenUse] Apply Prey Mark next turn",
+          "name": "Iniziare La Caccia",
+          "desc": "[StartBattle] Evoca 4 alleati il turno successivo\n[WhenUse] Applica [AaCePcBj] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Laceration]"
                 }
               ]
             }
@@ -945,7 +945,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Laceration]"
                 }
               ]
             }
@@ -965,17 +965,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Offense Level Down"
+                  "desc": "[OnSucceedAttack] Infligge 3 [AttackDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Binding] il turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Laceration]"
                 }
               ]
             }
@@ -989,7 +989,7 @@
         {
           "level": 1,
           "name": "Respiro Profondo",
-          "desc": "[StartBattle] Gain 10 Poise and +10 Poise Count.\nCritical Hits do not consume Poise Count with this Skill.\nTurn End: Gain [PlusCoinValueUp] next turn by the number of surviving other allies.",
+          "desc": "[StartBattle] Ottiene 10 Potenza e Conteggio [Breath].\nQuesta Abilità non consuma Conteggio [Breath] sul Colpo Critico.\nA fine turno, ottiene [PlusCoinValueUp] il turno successivo pari al numero di alleati in vita.",
           "coinlist": [
             {
               "coindescs": [
@@ -1006,12 +1006,12 @@
         {
           "level": 1,
           "name": "Contrattacco",
-          "desc": "Critical Hits do not consume Poise Count with this Skill.",
+          "desc": "Questa Abilità non consuma Conteggio [Breath] sul Colpo Critico.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             }
@@ -1025,29 +1025,29 @@
         {
           "level": 1,
           "name": "Braccare la Preda",
-          "desc": "+30% Damage on Critical Hit",
+          "desc": "+30% danni su Colpo Critico",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Raise target's first Stagger Threshold by 50% of damage dealt"
+                  "desc": "[CriticalOnSucceedAttack] Alza la prima Soglia di Stordimento del bersaglio del 50% del danno inflitto"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Laceration]"
                 }
               ]
             }
@@ -1060,16 +1060,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Taglia Gola",
-          "desc": "This Skill does not consume Poise Count upon Critical Hit.\nDeal +5% damage for every [Laceration] on target\n[WhenUse] Staggered at Turn End if this unit does not have Poise on self.",
+          "name": "Tagliare la Gola",
+          "desc": "Questa Abilità non consuma Conteggio [Breath] sul Colpo Critico.\nInfligge +5% danni per ogni [Laceration] sul bersaglio\n[WhenUse] Se non ha [Breath] su di sé viene Stordita.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "+50% Damage on Critical Hit"
+                  "desc": "+50% danni su Colpo Critico"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Stagger target next turn"
+                  "desc": "[OnSucceedAttack] Stordisce il bersaglio nel turno successivo"
                 }
               ]
             }
@@ -1083,7 +1083,7 @@
         {
           "level": 1,
           "name": "Respiri Profondi",
-          "desc": "[StartBattle] Gain 3 Poise and +5 Poise Count.\nFor this turn, gain Final Power equal to Poise Potency on self.\nFor this turn, lose 1 Poise Count when attacked.",
+          "desc": "[StartBattle] Ottiene 3 [Breath] e +5 Conteggio [Breath].\nPer questo turno:\n- Ottiene Potere Finale pari alla Potenza [Breath] su di sé;\n- Perde 1 Conteggio [Breath] quando colpita.",
           "coinlist": [
             {
               "coindescs": [
@@ -1100,26 +1100,26 @@
         {
           "level": 1,
           "name": "Per Sopravvivere",
-          "desc": "+30% Damage on Critical Hit",
+          "desc": "+30% danni su Colpo Critico",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal Core and Part PV by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Cura i PV del Nucleo e della Parte del 50% del danno inflitto"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal Core and Part PV by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Cura i PV del Nucleo e della Parte del 50% del danno inflitto"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal Core and Part PV by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Cura i PV del Nucleo e della Parte del 50% del danno inflitto"
                 }
               ]
             }
@@ -1133,7 +1133,7 @@
         {
           "level": 1,
           "name": "Devo... Proteggere",
-          "desc": "[TurnStartBattle] Upon using this Skill, if this unit has more than 0 Assist Barrier, activate Assist Defense.\n[StartBattle] Gain 10% of max PV as Assist Barrier.",
+          "desc": "[TurnStartBattle] Se usa quest'Abilità e se quest'unità ha più di 0 [AaCePcBr], attiva la [AaCePcBs].\n[StartBattle] Ottiene il 10% dei PV max come [AaCePcBr].",
           "coinlist": [
             {
               "coindescs": [
@@ -1150,22 +1150,22 @@
         {
           "level": 1,
           "name": "Arpione Tenace",
-          "desc": "Final Power +1 when attacking the same target as Starbuck",
+          "desc": "Potere Finale +1 quando attacca lo stesso bersaglio di Starbuck",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal Core and Part PV by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Cura i PV del Nucleo e della Parte del 50% del danno inflitto"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Tangle"
+                  "desc": "[OnSucceedAttack] Infligge [AaCePcBk]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal Core and Part PV by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Cura i PV del Nucleo e della Parte del 50% del danno inflitto"
                 }
               ]
             }
@@ -1178,16 +1178,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Devo Concludere Caccia...",
-          "desc": "Critical Hits do not consume Poise Count with this Skill.\nDeal +5% damage per [Laceration] on target",
+          "name": "Devo Concludere La Caccia...",
+          "desc": "Questa Abilità non consuma Conteggio [Breath] sul Colpo Critico.\nInfligge +5% danni per ogni [Laceration] sul bersaglio",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "+50% Damage on Critical Hit"
+                  "desc": "+50% danni su Colpo Critico"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Stagger target next turn"
+                  "desc": "[OnSucceedAttack] Stordisce il bersaglio nel turno successivo"
                 }
               ]
             }
@@ -1201,26 +1201,26 @@
         {
           "level": 1,
           "name": "Impala",
-          "desc": "[WhenUse] Gain +3 Poise Count",
+          "desc": "[WhenUse] Ottiene +3 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             }
@@ -1234,22 +1234,22 @@
         {
           "level": 1,
           "name": "Affondo Perforante",
-          "desc": "[WhenUse] Gain 5 Poise",
+          "desc": "[WhenUse] Ottiene 5 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Fragility] il turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [DefenseDown] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Reuse this Coin once (Max 3)"
+                  "desc": "[OnSucceedAttackHead] Riusa questa Moneta una volta (Max 3)"
                 }
               ]
             }
@@ -1263,12 +1263,12 @@
         {
           "level": 1,
           "name": "Eseguo gli ordini...",
-          "desc": "[TurnStartBattle] If Queequeg has more than 0 Assist Barrier, activate Assist Attack",
+          "desc": "[TurnStartBattle] Se Queequeg ha più di 0 [AaCePcBr], attiva l'[AaCePcBt]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             }
@@ -1282,15 +1282,15 @@
         {
           "level": 1,
           "name": "Imboscata",
-          "desc": "Deal 50% damage with Critical Hit\nDeal +5% damage per [Laceration] on target",
+          "desc": "Infligge +50% danni su Colpo Critico\nInfligge +5% danni per ogni [Laceration] sul bersaglio",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Raise target's first Stagger Threshold by 50% of damage dealt"
+                  "desc": "[CriticalOnSucceedAttack] Alza la prima Soglia di Stordimento del bersaglio del 50% del danno inflitto"
                 }
               ]
             }
@@ -1304,26 +1304,26 @@
         {
           "level": 1,
           "name": "Sospiro Impaurito",
-          "desc": "[WhenUse] Gain +6 Poise Count",
+          "desc": "[WhenUse] Ottiene +6 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             }
@@ -1337,25 +1337,25 @@
         {
           "level": 1,
           "name": "Arpione Deciso",
-          "desc": "Final Power +2 when attacking the same target as Queequeg",
+          "desc": "Potere Finale +2 quando attacca lo stesso bersaglio di Queequeg",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Capture"
+                  "desc": "[OnSucceedAttack] Infligge [AaCePcBl]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Infligge 5 [DefenseDown] il turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Fragility] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Reuse this Coin once (Max 3)"
+                  "desc": "[OnSucceedAttackTail] Riusa questa Moneta una volta (Max 3)"
                 }
               ]
             }
@@ -1369,15 +1369,15 @@
         {
           "level": 1,
           "name": "Per Fuggire...",
-          "desc": "Deal 100% damage with Critical Hit\nDeal +5% damage per [Laceration] on target",
+          "desc": "Infligge +100% danni sul Colpo Critico\ninfligge +5% danni per ogni [Laceration] sul bersaglio",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Raise target's first Stagger Threshold by 50% of damage dealt"
+                  "desc": "[CriticalOnSucceedAttack] Alza la prima Soglia di Stordimento del bersaglio del 50% del danno inflitto"
                 }
               ]
             }
@@ -1390,8 +1390,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Obbedite Agli Ordini",
-          "desc": "[WhenUse] Heal 10 PS for self and 1 other ally with the least PS ",
+          "name": "Obbedite Ai Miei Ordini",
+          "desc": "[WhenUse] Recupera 10 PS su di sé e su 1 atro alleato con meno PS ",
           "coinlist": [
             {
               "coindescs": [
@@ -1408,7 +1408,7 @@
         {
           "level": 1,
           "name": "A Me!",
-          "desc": "[StartBattle] Order Queequeg to activate Assist Defense next turn. Order is canceled when this unit is Staggered.",
+          "desc": "[StartBattle] Ordina la [AaCePcBs] di Queequeg il turno successivo. L'ordine viene annullato se quest'unità è Stordita.",
           "coinlist": [
             {
               "coindescs": [
@@ -1425,7 +1425,7 @@
         {
           "level": 1,
           "name": "Braccateli Fino alla Fine!",
-          "desc": "[StartBattle] Order Starbuck to activate Assist Attack next turn. Order is canceled when this unit is Staggered.\n[WhenUse] Apply 1 Prey Mark next turn",
+          "desc": "[StartBattle] Ordina l'[AaCePcBt] di Starbuck il turno successivo. L'ordine viene annullato se quest'unità è Stordita.\n[WhenUse] Applica 1 [AaCePcBj] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
@@ -1447,14 +1447,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             }
@@ -1468,26 +1468,26 @@
         {
           "level": 1,
           "name": "Arpione Infuocato",
-          "desc": "Final Power +1 for every negative effect on main target (Max 5)\nDeal +5% damage per [Laceration] on target",
+          "desc": "Potere Finale +1 per ogni effetto negativo sul bersaglio (Max 5)\nInfligge +5% danni per ogni [Laceration] sul bersaglio",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Burn by Bleed on target"
+                  "desc": "[OnSucceedAttack] Infligge [Combustion] pari al [Laceration] sul bersaglio"
                 }
               ]
             }
@@ -1500,8 +1500,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Foolishness!",
-          "desc": "[WhenUse] Heal 5 PS\n[OnSucceedEvade] Target loses 5 PS",
+          "name": "Che idiozie!",
+          "desc": "[WhenUse] Recupera 5 PS\n[OnSucceedEvade] Il bersaglio perde 5 PS",
           "coinlist": [
             {
               "coindescs": [
@@ -1517,13 +1517,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Exhale!",
-          "desc": "[WhenUse] Inflict 1 Prey Mark next turn\n[WinDuel] Gain 4 Poise",
+          "name": "Espira!",
+          "desc": "[WhenUse] Infligge 1 [AaCePcBj] il turno successivo\n[WinDuel] Ottiene 4 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Apply 4 Poise to 2 other allies.\nIf there are no other allies, gain 2 Poise Count instead."
+                  "desc": "[OnSucceedAttack] Applica 4 [Breath] ad altri 2 alleati.\nSe non ci sono alleati, ottiene invece 2 Conteggio [Breath]."
                 }
               ]
             }
@@ -1536,36 +1536,36 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Be Fearless!",
-          "desc": "[WhenUse] Heal 10 PS on self. 1 other ally with the highest PS loses 10 PS",
+          "name": "Non Temete!",
+          "desc": "[WhenUse] Recupera 10 PS. 1 alleato con più PS perde 10 PS (esclude sé stessa)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Burn Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Apply 1 Paralyze to a random other ally next turn"
+                  "desc": "[OnSucceedAttack] Applica 1 [Paralysis] su un altro alleato casuale il turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Burn Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Apply 1 Paralyze to a random other ally next turn"
+                  "desc": "[OnSucceedAttack] Applica 1 [Paralysis] su un altro alleato casuale il turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Burn Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Apply 1 Paralyze to a random other ally next turn"
+                  "desc": "[OnSucceedAttack] Applica 1 [Paralysis] su un altro alleato casuale il turno successivo"
                 }
               ]
             }
@@ -1579,12 +1579,12 @@
         {
           "level": 1,
           "name": "Tempering of Death",
-          "desc": "[WhenUse] Apply Undefiable Command to 1 ally with the lowest PS\n[DefeatDuel] Raise Stagger Threshold by 20 for 1 ally with the lowest PS",
+          "desc": "[WhenUse] Apply Undefiable Command to 1 ally with the lowest PS\n[DefeatDuel] Alza la Soglia di Vacillamento di 1 alleato con meno PS di 20",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Fragility]"
                 }
               ]
             }
@@ -1597,26 +1597,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Strike Me Down!",
+          "name": "Abbattimi!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Laceration]"
                 }
               ]
             }
@@ -1629,20 +1629,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stab to Kill",
-          "desc": "Targets the unit with the least Max PV",
+          "name": "Trafiggi a Morte",
+          "desc": "Bersaglia l'unità coi PV max minori",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Offense Level Down"
+                  "desc": "[OnSucceedAttack] Infligge 6 [AttackDown]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Laceration]"
                 }
               ]
             }
@@ -1655,8 +1655,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Undying Soul",
-          "desc": "Re-use Evade upon Evade failure (Up to 2 times)\n[OnDefeatEvade] Lose 2 Pip's Ego",
+          "name": "Anima Immortale",
+          "desc": "Se l'Evasione fallisce, Riusa l'Evasione (Max 2 volte)\n[OnDefeatEvade] Perde 2 [AaCePcBo]",
           "coinlist": [
             {}
           ]
@@ -1668,23 +1668,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Murky Innocence",
-          "desc": "[DefeatDuel] Gain 2 Defense Power Down. Lose 10 PS on self",
+          "name": "Innocenza Torbida",
+          "desc": "[DefeatDuel] Ottiene 2 [DefenseDown]. Perde 10 PS su di sé",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Pallid Noise"
+                  "desc": "[OnSucceedAttackHead] Infligge 1 [AaCePbBa]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Paralysis]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Pallid Noise"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [AaCePbBa]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
@@ -1700,19 +1700,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Weight of Guilt",
-          "desc": "Targets 3 units with the least Max PV\n[StartBattle] Gain Base Power +2 and Atk Weight +1 for every 5 Pip's Ego\n[WhenUse] Lose 3 Pip's Ego",
+          "name": "Il Peso Della Colpa",
+          "desc": "Bersaglia le 3 unità coi PV max minori\n[StartBattle] Potere Base +2 e Portata Attacco +1 per ogni 5 [AaCePcBo]\n[WhenUse] Perde 3 [AaCePcBo]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Pallid Noise"
+                  "desc": "[OnSucceedAttack] Infligge 1 [AaCePbBa]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 30 "
+                  "desc": "[OnSucceedAttack] Alza la Soglia di Stordimento di 30 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Target loses 10 PS"
+                  "desc": "[OnSucceedAttackHead] Il bersaglio perde 10 PS"
                 }
               ]
             }
@@ -1739,16 +1739,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swathed Fear",
-          "desc": "[WhenUse] Inflict 1 Prey Mark next turn",
+          "name": "Avvolti dal Terrore",
+          "desc": "[WhenUse] Infligge 1 [AaCePcBj] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Pallid Noise"
+                  "desc": "[OnSucceedAttackHead] Infligge 1 [AaCePbBa]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed and +4 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration] e +4 Conteggio [Laceration]"
                 }
               ]
             }
@@ -1761,16 +1761,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Punctured Weakness",
-          "desc": "[WhenUse] Inflict 1 Prey Mark next turn",
+          "name": "Debolezza Perforante",
+          "desc": "[WhenUse] Infligge 1 [AaCePcBj] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Pallid Noise"
+                  "desc": "[OnSucceedAttackHead] Infligge 1 [AaCePbBa]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Infligge 3 [AttackDown] il turno successivo"
                 }
               ]
             }
@@ -1783,59 +1783,59 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Echoing Cry",
-          "desc": "Deal +5% damage for every 1 Bleed on target\nIf target does not have Prey Mark, Coin Power +1\n[DefeatDuel] Lose 5 PS",
+          "name": "Grido Echeggiante",
+          "desc": "Infligge +5% danni per ogni [Laceration] sul bersaglio\nIf target does not have [AaCePcBj], Potere Moneta +1\n[DefeatDuel] Perde 5 PS",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 PS damage on 3 random enemies"
+                  "desc": "[OnSucceedAttack] Infligge 3 danni ai PS a 3 nemici casuali"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 PS damage on 3 random enemies"
+                  "desc": "[OnSucceedAttack] Infligge 3 danni ai PS a 3 nemici casuali"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 PS damage on 3 random enemies"
+                  "desc": "[OnSucceedAttack] Infligge 3 danni ai PS a 3 nemici casuali"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 PS damage on 3 random enemies"
+                  "desc": "[OnSucceedAttack] Infligge 3 danni ai PS a 3 nemici casuali"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 PS damage on 3 random enemies"
+                  "desc": "[OnSucceedAttack] Infligge 3 danni ai PS a 3 nemici casuali"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reuse the final Coin once for every 10 Starbuck's Ego"
+                  "desc": "[OnSucceedAttack] Riusa questa Moneta una volta per ogni 10 Starbuck's Ego"
                 }
               ]
             }
@@ -1848,30 +1848,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Clouded Path",
-          "desc": "[WhenUse] Inflict 1 Prey Mark next turn",
+          "name": "Percorso Annebbiato",
+          "desc": "[WhenUse] Infligge 1 [AaCePcBj] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Damage Down"
+                  "desc": "[OnSucceedAttack] Infligge 2 [AttackDmgDown]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Pallid Noise"
+                  "desc": "[OnSucceedAttackHead] Infligge 1 [AaCePbBa]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Laceration]"
                 }
               ]
             }
@@ -1884,16 +1884,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ammenda Sbiancata",
-          "desc": "[WhenUse] Lose 5 Queequeg's Ego\n[WinDuel] Gain 6 Defense Level Up\n[DefeatDuel] Lose 5 PS",
+          "name": "Ammenda Sbiadita",
+          "desc": "[WhenUse] Perde 5 [AaCePcBq]\n[WinDuel] Ottiene 6 [DefenseUp]\n[DefeatDuel] Perde 5 PS",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Pallid Noise"
+                  "desc": "[OnSucceedAttack] Infligge 2 [AaCePbBa]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Stagger target"
+                  "desc": "[OnSucceedAttack] Stordisce il bersaglio nel turno successivo"
                 }
               ]
             }
@@ -1906,20 +1906,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Insidious Pallidification",
-          "desc": "[StartBattle] Gain 10% of Max PV as Shield. For every Queequeg's Ego, gain additional 0.5% of Max PV as additional Shield.\nWhen attacked while Shielded, attacker loses 5 PS\nWhen attacked, use this Skill once for every 10 Queequeg's Ego",
+          "name": "Pallidificazione Insidiosa",
+          "desc": "[StartBattle] Ottiene il 10% dei PV max come Scudo. Per ogni [AaCePcBq], ottiene lo 0.5% dei PV Max come Scudo.\nSe colpita mentre ha Scudo, l'attaccante perde 5 PS\nSe colpita, usa quest'Abilità una volta per ogni 10 [AaCePcBq]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             }
@@ -1932,13 +1932,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Scorn Not the Prophecy",
+          "name": "Non Sdegnare la Profezia",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion] and 2 [Combustion] Count on target"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Combustion] e 2 Conteggio [Combustion] sul bersaglio"
                 }
               ]
             }

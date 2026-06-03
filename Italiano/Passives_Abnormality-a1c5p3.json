@@ -2,23 +2,23 @@
   "dataList": [
     {
       "id": 810001,
-      "name": "The All-Illuminating Light",
+      "name": "La Luce Onnipresente",
       "desc": "If every Candle is snuffed and at full PV, gain resistance until all Candles are lit again.\nWhen all Candles are lit, lose resistance."
     },
     {
       "id": 810002,
-      "name": "Darkness Deterred",
-      "desc": "Light all Candles every 4 turns after a Candle is snuffed. All Candles' PV is reduced to 1."
+      "name": "Oscurità Allontanata",
+      "desc": "Ogni Candela viene riaccesa dopo 4 turni. I PV di ogni Candela è ridotto a 1."
     },
     {
       "id": 810701,
-      "name": "Burning Embers",
-      "desc": "PV does not drop below 1.\nAt 1 PV, light the Candles and uses an Attack Skill."
+      "name": "Tizzoni Ardenti",
+      "desc": "I PV non scendono sotto 1.\nA 1 PV, accende le Candele e usa un'Abilità Attacco."
     },
     {
       "id": 810702,
-      "name": "Sinking Darkness",
-      "desc": "When all Candles are lit, use a Defensive Skill.\nSnuff out the Candles next turn when out of Shield."
+      "name": "Oscurità Affogante",
+      "desc": "Quando ogni Candela è accesa, usa un'Abilità Difensiva.\nSe lo Scudo viene distrutto, ogni Candela viene riaccesa nel turno successivo."
     },
     {
       "id": 810101,
