@@ -78,7 +78,7 @@
       "options": [
         {
           "message": "Avvicinati.",
-          "messageDesc": "Seleziona per ottenere un Dono E.G.O di Bruciatura",
+          "messageDesc": "Seleziona per ottenere un Dono E.G.O Bruciatura",
           "result": [
             "La nebbia ti affascina,\nti viene naturale allungare il dito, nella speranza che una delle luci atterri.\n\nUna scintilla si appoggia al dito.\nDopodiché, una fiamma la avvolge.\n\nUn altro bagliore si attacca al tuo corpo, poi quattro, poi otto.\nSi moltiplicano finché il tuo corpo non è coperto di luce."
           ]
@@ -91,7 +91,7 @@
         },
         {
           "message": "Entra nella nebbia.",
-          "messageDesc": "Vinci la battaglia per guadagnare 2 Doni E.G.O di Bruciatura",
+          "messageDesc": "Vinci la battaglia per guadagnare 2 Doni E.G.O Bruciatura",
           "result": [
             "Qualcosa ti attira nella nebbia.\n\nUn'infinità di fiori a forma di farfalla svolazzano, formando delle stelle.\n\nUn calore ardente vi assale dalla nebbia nel momento in cui hai provato a raccogliere un fiore."
           ]
@@ -133,7 +133,7 @@
       "options": [
         {
           "message": "Cammina dentro la nebbia.",
-          "messageDesc": "Prova con Vantaggio per Ira e Lussuria.\nPassa per ottenere un Dono E.G.O di Bruciatura.",
+          "messageDesc": "Prova con Vantaggio per Ira e Lussuria.\nPassa per ottenere un Dono E.G.O Bruciatura.",
           "result": [
             ""
           ]
@@ -175,7 +175,7 @@
       "options": [
         {
           "message": "Apri la bara.",
-          "messageDesc": "Prova con Vantaggio per Ira e Gola.\nPassa per ottenere un Dono E.G.O di Sanguinamento.",
+          "messageDesc": "Prova con Vantaggio per Ira e Gola.\nPassa per ottenere un Dono E.G.O Sanguinamento.",
           "result": [
             ""
           ]
