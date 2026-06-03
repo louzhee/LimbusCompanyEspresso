@@ -98,14 +98,14 @@
     },
     {
       "id": "Honglu_EGOResourceup",
-      "name": "Il Mio Cure, I Miei Pensieri...",
-      "desc": "[Effetto Esclusivo di Hong Lu]\n- Per questo Incontro: dopo aver usato un'Abilità Attaccok, ottiene 2 risorse E.G.O aggiuntive dell'Affinità dell'Attacco (una volta per turno)",
+      "name": "Il Mio Cuore, I Miei Pensieri...",
+      "desc": "[Effetto Esclusivo di Hong Lu]\n- Per questo Incontro: dopo aver usato un'Abilità Attacco, ottiene 2 risorse E.G.O aggiuntive dell'Affinità dell'Attacco (una volta per turno)",
       "summary": ""
     },
     {
       "id": "BudgetBulletPropellant",
       "name": "Munizioni Propellenti",
-      "desc": "- Munizione Speciale\n- Usata da certe Abilità\n- Max Stack: 4",
+      "desc": "- Munizione Speciale\n- Usato da certe Abilità\n- Max Stack: 4",
       "summary": ""
     },
     {
