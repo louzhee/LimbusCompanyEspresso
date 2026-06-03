@@ -135,8 +135,8 @@
     },
     {
       "id": "YesdragonSelfRefraction",
-      "name": "Spilla Tumula-Fiori [埋花針]",
-      "desc": "- Max Stack: 10\n- Ottiene 1 Livello Offensivo e 1 Livello Difensivo per ogni 2 Stack\n- A 5+ Stack, Potere Finale +1\n- A Stack max, Potere Moneta +1\n- Quando consuma Spilla Tumula-Fiori, dà 1 risorsa E.G.O dell'Affinità meno posseduta per ogni Stack consumata",
+      "name": "Aculeo Tumula-Fiori [埋花針]",
+      "desc": "- Max Stack: 10\n- Ottiene 1 Livello Offensivo e 1 Livello Difensivo per ogni 2 Stack\n- A 5+ Stack, Potere Finale +1\n- A Stack max, Potere Moneta +1\n- Quando consuma Aculeo Tumula-Fiori, dà 1 risorsa E.G.O dell'Affinità meno posseduta per ogni Stack consumata",
       "summary": "",
       "undefined": "-"
     },
@@ -171,7 +171,7 @@
     {
       "id": "YesdragonScale",
       "name": "Rivestito di Scaglie",
-      "desc": "- Max Stack: 20\n- Non scade a 0 Stack\n- Perde 1 Stack quando subisce danno a causa di Spilla Tumula-Fiori\n- Subisce +10% danni per ogni Stack persa",
+      "desc": "- Max Stack: 20\n- Non scade a 0 Stack\n- Perde 1 Stack quando subisce danno a causa di Aculeo Tumula-Fiori\n- Subisce +10% danni per ogni Stack persa",
       "summary": "",
       "undefined": "-"
     },
