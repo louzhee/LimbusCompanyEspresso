@@ -706,8 +706,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spilla Calante [落針]",
-          "desc": "[WhenUse] Potere Base +1 <color=#ff6000><mark=#ff000040><b><u>per ogni 2 [YesdragonSelfRefraction]</u></b></mark></color> su di sé\n[WhenUse] Se il bersaglio ha [Binding] o [Paralysis], Potere Base +2\n[WinDuel] <color=#ff6000><mark=#ff000040><b><u>Evoca la \"Spilla Tumula-Fiori\" nel turno successivo</u></b></mark></color>\n[DefeatDuel] Il bersaglio recupera 5 PS\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>La \"Spilla Tumula-Fiori\" non viene evocata</u></b></mark></color>, e la Testa subisce <color=#ff6000><mark=#ff000040><b><u>danni fissi</u></b></mark></color>",
+          "name": "Aculeo Calante [落針]",
+          "desc": "[WhenUse] Potere Base +1 <color=#ff6000><mark=#ff000040><b><u>per ogni 2 [YesdragonSelfRefraction]</u></b></mark></color> su di sé\n[WhenUse] Se il bersaglio ha [Binding] o [Paralysis], Potere Base +2\n[WinDuel] <color=#ff6000><mark=#ff000040><b><u>Evoca \"Aculeo Tumula-Fiori\" nel turno successivo</u></b></mark></color>\n[DefeatDuel] Il bersaglio recupera 5 PS\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>\"Aculeo Tumula-Fiori\" non viene evocato</u></b></mark></color>, e la Testa subisce <color=#ff6000><mark=#ff000040><b><u>danni fissi</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -801,7 +801,7 @@
         {
           "level": 1,
           "name": "Luce Battente [落雷]",
-          "desc": "[CantDuel][CantChangeTarget] \n<color=#ff6000><mark=#ff000040><b><u>Bersaglia la \"Spilla Tumula-Fiori\"</u></b></mark></color>\nSe la \"Spilla Tumula-Fiori\" è stata distrutta, quest'Abilità viene annullata",
+          "desc": "[CantDuel][CantChangeTarget] \n<color=#ff6000><mark=#ff000040><b><u>Bersaglia \"Aculeo Tumula-Fiori\"</u></b></mark></color>\nSe \"Aculeo Tumula-Fiori\" è stato distrutto, quest'Abilità viene annullata",
           "coinlist": [
             {
               "coindescs": [
@@ -955,8 +955,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spilla Calante [落針]",
-          "desc": "[WhenUse] Potere Base +1 <color=#ff6000><mark=#ff000040><b><u>per ogni 2 [YesdragonSelfRefraction]</u></b></mark></color> su di sé\n[WhenUse] Se il bersaglio ha [Binding] o [Paralysis], Potere Base +2\n[WhenUse] Se quest'unità ha <color=#ff6000><mark=#ff000040><b><u>5+ [YesdragonSelfRefraction]</u></b></mark></color>, Potere Moneta +1\n<color=#ff6000><mark=#ff000040><b><u>Evoca la \"Spilla Tumula-Fiori\" il turno successivo</u></b></mark></color>\n[DefeatDuel]<color=#ff6000><mark=#ff000040><b><u>La \"Spilla Tumula-Fiori\" non viene evocata</u></b></mark></color>",
+          "name": "Aculeo Calante [落針]",
+          "desc": "[WhenUse] Potere Base +1 <color=#ff6000><mark=#ff000040><b><u>per ogni 2 [YesdragonSelfRefraction]</u></b></mark></color> su di sé\n[WhenUse] Se il bersaglio ha [Binding] o [Paralysis], Potere Base +2\n[WhenUse] Se quest'unità ha <color=#ff6000><mark=#ff000040><b><u>5+ [YesdragonSelfRefraction]</u></b></mark></color>, Potere Moneta +1\n<color=#ff6000><mark=#ff000040><b><u>Evoca \"Aculeo Tumula-Fiori\" il turno successivo</u></b></mark></color>\n[DefeatDuel]<color=#ff6000><mark=#ff000040><b><u>\"Aculeo Tumula-Fiori\" non viene evocato</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1072,7 +1072,7 @@
         {
           "level": 1,
           "name": "Luce Battente [落雷]",
-          "desc": "[CantDuel][CantChangeTarget] \n<color=#ff6000><mark=#ff000040><b><u>Bersaglia la \"Spilla Tumula-Fiori\"</u></b></mark></color>\nSe la \"Spilla Tumula-Fiori\" è stata distrutta, quest'Abilità viene annullata",
+          "desc": "[CantDuel][CantChangeTarget] \n<color=#ff6000><mark=#ff000040><b><u>Bersaglia \"Aculeo Tumula-Fiori\"</u></b></mark></color>\nSe \"Aculeo Tumula-Fiori\" è stato distrutto, quest'Abilità viene annullata",
           "coinlist": [
             {
               "coindescs": [
@@ -1195,7 +1195,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spilla Porta-Spirito del Dragone",
+          "name": "Aculeo Porta-Spirito del Dragone",
           "desc": "[CanDuelGuard]\n[WinDuel] Infligge 1 [Vulnerable]",
           "coinlist": [
             {
