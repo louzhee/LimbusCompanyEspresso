@@ -176,14 +176,14 @@
     },
     {
       "id": "EgoErodeMemory_LowMorale",
-      "name": "Heart Toward the New Era",
-      "desc": "- Morale Basso\n- On Hit, consume 3 PS on self to inflict 2 Sinking",
+      "name": "Cuore Diretto Verso la Nuova Era",
+      "desc": "- Morale Basso\n- Sul Colpo, consuma 3 PS per infliggere 2 Annegamento",
       "summary": ""
     },
     {
       "id": "EgoErodeMemory_Panic",
-      "name": "Heart Toward the New Era",
-      "desc": "- Morale Basso\n- On Hit, inflict 3 Sinking and gain 1 Sinking",
+      "name": "Cuore Diretto Verso la Nuova Era",
+      "desc": "- Panico\n- Sul Colpo, infligge 3 Annegamento e ottiene 1 Annegamento",
       "summary": ""
     },
     {
@@ -206,14 +206,14 @@
     },
     {
       "id": "FamilyTreasure",
-      "name": "Explosive Amusement",
-      "desc": "- On Turn End:\n· Base Stack: 1\n· The unit connected to this unit heals 25% PV and loses 20 PS\n· Gain 1 Stack\n· At 3 Stack, use a self-detonation Skill. If this unit is killed by self-detonation, inflict the caged character with 3 Hollow Obedience next turn",
+      "name": "Intrattenimento Esplosivo",
+      "desc": "- Alla Fine del Turno:\n· Stack Base: 1\n· L'unità connessa a questa recupera il 25% dei PV e perde 20 PS\n· Ottiene 1 Stack\n· A 3 Stack, usa un'Abilità di auto-detonazione. Se questa unità viene uccisa dall'auto-detonazione, infligge 3 Obbedienza Vuota all'unità in gabbia il turno successivo",
       "summary": ""
     },
     {
       "id": "OutpouringAnger",
-      "name": "Rampage",
-      "desc": "- If the 'You do not know the fathoms of the eye's powers, its special nature' Skill's main target is Hong Lu, ignore all Skill effects and convert all Coins on that Skill to Unbreakable Coins",
+      "name": "Carneficina",
+      "desc": "- Se il bersaglio principale dell'Abilità 'You do not know the fathoms of the eye's powers, its special nature' è Hong Lu, ignora tutti gli effetti dell'Abilità e converte tutte le Monete su quell'Abilità in Monete Infrangibili",
       "summary": ""
     },
     {
@@ -242,26 +242,26 @@
     },
     {
       "id": "SupremeEternalLife",
-      "name": "Sublime Immortality",
-      "desc": "- Turn Start: Jia Mu's Core and every Part gain 5% of each of their max PV as Shield",
+      "name": "Immortalità Sublime",
+      "desc": "- Inizio Turno: Il Nucleo di Jia Mu ed ogni Parte ottengono il 5% dei loro PV max come Scudo",
       "summary": ""
     },
     {
       "id": "ImperfectEternalLife",
-      "name": "Imperfect Immortality",
-      "desc": "- Absorbed when struck by certain Skills of Jia Mu\n- If this effect was inflicted against Jia Mu, gain 1 Fragile per Stack; at 5 Stack, become Staggered",
+      "name": "Immortalità Imperfetta",
+      "desc": "- Viene assorbito quando colpito da alcune Abilità di Jia Mu\n- Se questo effetto è stato inflitto a Jia Mu, ottiene 1 Fragile per Stack; a 5 Stack, l'unità viene Stordita",
       "summary": ""
     },
     {
       "id": "GoldenBoughSync",
-      "name": "Malattunement",
-      "desc": "- Base Offense Level +2, Base Defense Level +2",
+      "name": "Malarmonizzazione",
+      "desc": "- Livello Offensivo Base +2, Livello Difensivo Base +2",
       "summary": ""
     },
     {
       "id": "GoldenBoughSyncDistorted",
-      "name": "Supernatural, Strength, Chaos, and Spirits",
-      "desc": "- Base Offense Level +4, Base Defense Level +4",
+      "name": "Il Sovrannaturale, la Forza, il Caos e gli Spiriti",
+      "desc": "- Livello Offensivo Base +4, Livello Difensivo Base +4",
       "summary": ""
     },
     {
