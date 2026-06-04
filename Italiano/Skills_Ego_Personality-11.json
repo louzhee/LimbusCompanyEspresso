@@ -563,7 +563,7 @@
           "level": 1,
           "name": "Tirerò Forbici. E Tu?",
           "abName": "Giocherai?",
-          "desc": "Su Attacco Incontrastato: Non attiva gli effetti [UnBrokenCoinOnSucceedAttack] di questa Abilità\n[WinDuel] Consuma risorse E.G.O Invidia pari alla Rison. Invidia e, per ogni risorsa E.G.O Invidia consumata, ottiene 1 risorsa E.G.O per ognuna delle Affinità possedute in quantità minore (risorse Invidia consumabili al max: 4)\n[DefeatDuel] Potere Finale -4 e ottiene Scurdo pari a (Rison. Invidia x 5) (max 20)",
+          "desc": "Su Attacco Incontrastato: Non attiva gli effetti [UnBrokenCoinOnSucceedAttack] di questa Abilità\n[WinDuel] Consuma risorse E.G.O Invidia pari alla Rison. Invidia e, per ogni risorsa E.G.O Invidia consumata, ottiene 1 risorsa E.G.O per ognuna delle Affinità possedute in quantità minore (risorse Invidia consumabili al max: 4)\n[DefeatDuel] Potere Finale -4 e ottiene Scudo pari a (Rison. Invidia x 5) (max 20)",
           "coinlist": [
             {
               "coindescs": [
@@ -588,7 +588,7 @@
           "level": 3,
           "name": "Tirerò Forbici. E Tu?",
           "abName": "Giocherai?",
-          "desc": "Su Attacco Incontrastato: Non attiva gli effetti [UnBrokenCoinOnSucceedAttack] di questa Abilità\n[WinDuel] Consuma risorse E.G.O Invidia pari alla Rison. Invidia e, per ogni risorsa E.G.O Invidia consumata, ottiene 1 risorsa E.G.O per ognuna delle Affinità possedute in quantità minore (risorse Invidia consumabili al max: 5)\n[DefeatDuel] Potere Finale -4 e ottiene Scurdo pari a (Rison. Invidia x 5) (max 25)",
+          "desc": "Su Attacco Incontrastato: Non attiva gli effetti [UnBrokenCoinOnSucceedAttack] di questa Abilità\n[WinDuel] Consuma risorse E.G.O Invidia pari alla Rison. Invidia e, per ogni risorsa E.G.O Invidia consumata, ottiene 1 risorsa E.G.O per ognuna delle Affinità possedute in quantità minore (risorse Invidia consumabili al max: 5)\n[DefeatDuel] Potere Finale -4 e ottiene Scudo pari a (Rison. Invidia x 5) (max 25)",
           "coinlist": [
             {
               "coindescs": [
@@ -616,7 +616,7 @@
           "level": 4,
           "name": "Tirerò Forbici. E Tu?",
           "abName": "Giocherai?",
-          "desc": "Su Attacco Incontrastato: Non attiva gli effetti [UnBrokenCoinOnSucceedAttack] di questa Abilità\n[WinDuel] Consuma risorse E.G.O Invidia pari alla Rison. Invidia e, per ogni risorsa E.G.O Invidia consumata, ottiene 1 risorsa E.G.O per ognuna delle Affinità possedute in quantità minore (risorse Invidia consumabili al max: 6)\n[DefeatDuel] Potere Finale -4 e ottiene Scurdo pari a (Rison. Invidia x 5) (max 30)",
+          "desc": "Su Attacco Incontrastato: Non attiva gli effetti [UnBrokenCoinOnSucceedAttack] di questa Abilità\n[WinDuel] Consuma risorse E.G.O Invidia pari alla Rison. Invidia e, per ogni risorsa E.G.O Invidia consumata, ottiene 1 risorsa E.G.O per ognuna delle Affinità possedute in quantità minore (risorse Invidia consumabili al max: 6)\n[DefeatDuel] Potere Finale -4 e ottiene Scudo pari a (Rison. Invidia x 5) (max 30)",
           "coinlist": [
             {
               "coindescs": [
