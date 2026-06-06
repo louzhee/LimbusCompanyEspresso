@@ -62,7 +62,7 @@
     {
       "id": "SelfHarm_LowMorale",
       "name": "Autolesionismo",
-      "desc": "- Morale Basso\n- A Inizio Turno: Ottiene 2 Rapidità e 2 Fragilità",
+      "desc": "- Morale Basso\n- A Inizio Turno: Ottiene 2 Rapidità e 2 Fragile",
       "undefined": "-"
     },
     {
@@ -74,7 +74,7 @@
     {
       "id": "Blame_LowMorale",
       "name": "Sbotto",
-      "desc": "- Morale Basso\n- A inizio Turno: Ottiene 2 Potere Attacco Aumentato e 2 Fragilità",
+      "desc": "- Morale Basso\n- A inizio Turno: Ottiene 2 Potere Attacco Aumentato e 2 Fragile",
       "undefined": "-"
     },
     {
@@ -235,14 +235,14 @@
     {
       "id": "Anger_LowMorale",
       "name": "Irritazione",
-      "desc": "- Morale Basso\n- A inizio Turno: Ottiene 1 Potere Attacco Aumentato e 2 Fragilità",
-      "summary": "Ottiene 1 Danno Aumentato e 2 Fragilità"
+      "desc": "- Morale Basso\n- A inizio Turno: Ottiene 1 Potere Attacco Aumentato e 2 Fragile",
+      "summary": "Ottiene 1 Danno Aumentato e 2 Fragile"
     },
     {
       "id": "Anger_Panic",
       "name": "Irritazione",
-      "desc": "- Panico\n- A inizio Turno: Ottiene 2 Danno Aumentato e 5 Fragilità",
-      "summary": "Ottiene 2 Danno Aumentato e 5 Fragilità"
+      "desc": "- Panico\n- A inizio Turno: Ottiene 2 Danno Aumentato e 5 Fragile",
+      "summary": "Ottiene 2 Danno Aumentato e 5 Fragile"
     },
     {
       "id": "Run_LowMorale",
@@ -685,14 +685,14 @@
     {
       "id": "Greedy",
       "name": "Smania",
-      "desc": "Ottiene 2 Fragilità e 10 Rallentamento questo turno. Inoltre, ottiene uno Slot Abilità in più e cambia comportamento.",
-      "summary": "Ottiene 2 Fragilità e 10 Rallentamento"
+      "desc": "Ottiene 2 Fragile e 10 Rallentamento questo turno. Inoltre, ottiene uno Slot Abilità in più e cambia comportamento.",
+      "summary": "Ottiene 2 Fragile e 10 Rallentamento"
     },
     {
       "id": "Desire",
       "name": "Pulsione",
-      "desc": "A Fine Turno: A 5+ Stack, subisce 30 danni ai PS, ottiene 2 Fragilità e 10 Rallentamento, e rimuove quest'effetto.",
-      "summary": "Subisce 30 danni ai PS e ottiene 2 Fragilità e 10 Rallentamento"
+      "desc": "A Fine Turno: A 5+ Stack, subisce 30 danni ai PS, ottiene 2 Fragile e 10 Rallentamento, e rimuove quest'effetto.",
+      "summary": "Subisce 30 danni ai PS e ottiene 2 Fragile e 10 Rallentamento"
     },
     {
       "id": "GreedyReady",
@@ -746,8 +746,8 @@
     {
       "id": "Enrage",
       "name": "Furore",
-      "desc": "Ottiene 3 Potere Attacco Aumentato e 3 Fragilità questo turno, e cambia comportamento. Non ottiene Istinti quando attaccato.",
-      "summary": "Ottiene 3 Potere Attacco Aumentato & 3 Fragilità"
+      "desc": "Ottiene 3 Potere Attacco Aumentato e 3 Fragile questo turno, e cambia comportamento. Non ottiene Istinti quando attaccato.",
+      "summary": "Ottiene 3 Potere Attacco Aumentato & 3 Fragile"
     },
     {
       "id": "Aggressive",
@@ -1194,8 +1194,8 @@
     {
       "id": "ErodingMind",
       "name": "Mente Erosa",
-      "desc": "A inizio Turno: Ottiene 2 Potere Attacco Diminuito, 2 Fragilità, e 5 Rallentamento",
-      "summary": "A inizio Turno: Ottiene 2 Potere Attacco Diminuito, 2 Fragilità, e 5 Rallentamento"
+      "desc": "A inizio Turno: Ottiene 2 Potere Attacco Diminuito, 2 Fragile, e 5 Rallentamento",
+      "summary": "A inizio Turno: Ottiene 2 Potere Attacco Diminuito, 2 Fragile, e 5 Rallentamento"
     },
     {
       "id": "Blue_LowMorale",
@@ -1518,7 +1518,7 @@
     {
       "id": "PseudoLastBoss_KingCrap",
       "name": "Furia Crostacea",
-      "desc": "A Inizio Turno, applica Potere Attacco Aumentato a tutti gli altri granchi alleati, e ottiene 2 Protezione se il guscio non è stato rotto.\n-5 PS al bersaglio quando usa un'Abilità.\nQuando i PS sono al 50%, ogni parte ottiene 2 Potere Attacco Aumentato e 2 Fragilità."
+      "desc": "A Inizio Turno, applica Potere Attacco Aumentato a tutti gli altri granchi alleati, e ottiene 2 Protezione se il guscio non è stato rotto.\n-5 PS al bersaglio quando usa un'Abilità.\nQuando i PS sono al 50%, ogni parte ottiene 2 Potere Attacco Aumentato e 2 Fragile."
     },
     {
       "id": "ChargeForceField",
@@ -1957,7 +1957,7 @@
     {
       "id": "TimeRentalTwoPersonality",
       "name": "Tempo in Prestito",
-      "desc": "A Fine Turno, con 2+ Conteggio:\n- Ottiene {1} Rapidità, Potere Scontro, e Fragilità il turno successivo\n- Se quest'unità dovesse ottienere più Rallentamento che Rapidità il turno successivo, L'effetto di Tempo in Prestito scade al turno successivo, e questa unità viene Stordita\n\nA Fine Turno: A 1 Conteggio, ottiene {0} Rallentamento il turno successivo\nA Fine Turno: Ottiene 1 Potenza, perde Conteggio",
+      "desc": "A Fine Turno, con 2+ Conteggio:\n- Ottiene {1} Rapidità, Potere Scontro, e Fragile il turno successivo\n- Se quest'unità dovesse ottienere più Rallentamento che Rapidità il turno successivo, L'effetto di Tempo in Prestito scade al turno successivo, e questa unità viene Stordita\n\nA Fine Turno: A 1 Conteggio, ottiene {0} Rallentamento il turno successivo\nA Fine Turno: Ottiene 1 Potenza, perde Conteggio",
       "summary": ""
     },
     {
@@ -2299,7 +2299,7 @@
     {
       "id": "FreishutzOutisEgoBullet_4th",
       "name": "Il Quarto Proiettile Magico",
-      "desc": "- Infligge +30% in più di danno\n- Prima di attaccare: ottiene +3 Portata Attacco\n- Sul Colpo, Aumenta la Soglia di Stordimento in base al danno inflitto (max 20); in seguito, infligge 3 Fragilità il turno successivo"
+      "desc": "- Infligge +30% in più di danno\n- Prima di attaccare: ottiene +3 Portata Attacco\n- Sul Colpo, Aumenta la Soglia di Stordimento in base al danno inflitto (max 20); in seguito, infligge 3 Fragile il turno successivo"
     },
     {
       "id": "FreishutzOutisEgoBullet_5th",
@@ -2376,12 +2376,12 @@
     {
       "id": "Hohenheim_LowMorale",
       "name": "Angoscia",
-      "desc": "A inizio Turno: ottiene 1 Fragilità e 2 Efficenza perdita PS"
+      "desc": "A inizio Turno: ottiene 1 Fragile e 2 Efficenza perdita PS"
     },
     {
       "id": "Hohenheim_Panic",
       "name": "Angoscia",
-      "desc": "A inizio Turno: ottiene 2 Fragilità e 3 Efficenza perdita PS"
+      "desc": "A inizio Turno: ottiene 2 Fragile e 3 Efficenza perdita PS"
     },
     {
       "id": "BlackCloud",

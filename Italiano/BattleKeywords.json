@@ -571,7 +571,7 @@
     {
       "id": "Desire",
       "name": "Pulsione",
-      "desc": "A Fine Turno, se le Stack sono a 5+, subisce 30 danni ai PS, ottiene 2 Fragilità e 10 Rallentamento, per poi rimuovere quest'effetto."
+      "desc": "A Fine Turno, se le Stack sono a 5+, subisce 30 danni ai PS, ottiene 2 Fragile e 10 Rallentamento, per poi rimuovere quest'effetto."
     },
     {
       "id": "Assemble",
@@ -1039,8 +1039,8 @@
     {
       "id": "ErodingMind",
       "name": "Mente Erosa",
-      "desc": "A Inizio Turno: Ottiene 2 Potere Attacco Diminuito, 2 Fragilità, e 5 Rallentamento",
-      "summary": "A Inizio Turno: Ottiene 2 Potere Attacco Diminuito, 2 Fragilità, e 5 Rallentamento"
+      "desc": "A Inizio Turno: Ottiene 2 Potere Attacco Diminuito, 2 Fragile, e 5 Rallentamento",
+      "summary": "A Inizio Turno: Ottiene 2 Potere Attacco Diminuito, 2 Fragile, e 5 Rallentamento"
     },
     {
       "id": "CrimsonResultUp",
@@ -1227,7 +1227,7 @@
     {
       "id": "PseudoLastBoss_KingCrap",
       "name": "Furia Crostacea",
-      "desc": "All'Inizio Turno, applica Potere Attacco Aumentato a tutti gli altri granchi alleati, e ottiene 2 Protezione se il Guscio non è stato rotto.\n-5 PS al bersaglio quando usa un'Abilità.\nQuando i PS sono al 50%, ogni parte ottiene 2 Potere Attacco Aumentato e 2 Fragilità."
+      "desc": "All'Inizio Turno, applica Potere Attacco Aumentato a tutti gli altri granchi alleati, e ottiene 2 Protezione se il Guscio non è stato rotto.\n-5 PS al bersaglio quando usa un'Abilità.\nQuando i PS sono al 50%, ogni parte ottiene 2 Potere Attacco Aumentato e 2 Fragile."
     },
     {
       "id": "ChargeForceField",
@@ -1455,7 +1455,7 @@
     {
       "id": "TimeRentalTwoPersonality",
       "name": "Tempo in Prestito",
-      "desc": "A Fine Turno, con 2+ Conteggio:\n- Ottiene (Conteggio Tempo in Prestito - 1) Rapidità, Potere Scontro, e Fragilità il turno successivo\n- Se quest'unità dovesse ottienere più Rallentamento che Rapidità il turno successivo, l'effetto di Tempo in Prestito scade al turno successivo, e questa unità viene Stordita\n\nFine Turno: A Fine Turno: A 1 Conteggio, ottiene (Tempo in Prestito - 1) Rallentamento il turno successivo\nA Fine Turno: Ottiene 1 Potenza, perde Conteggio",
+      "desc": "A Fine Turno, con 2+ Conteggio:\n- Ottiene (Conteggio Tempo in Prestito - 1) Rapidità, Potere Scontro, e Fragile il turno successivo\n- Se quest'unità dovesse ottienere più Rallentamento che Rapidità il turno successivo, l'effetto di Tempo in Prestito scade al turno successivo, e questa unità viene Stordita\n\nFine Turno: A Fine Turno: A 1 Conteggio, ottiene (Tempo in Prestito - 1) Rallentamento il turno successivo\nA Fine Turno: Ottiene 1 Potenza, perde Conteggio",
       "summary": ""
     },
     {
@@ -1748,7 +1748,7 @@
     {
       "id": "FreishutzOutisEgoBullet_4th",
       "name": "Il Quarto Proiettile Magico",
-      "desc": "- Infligge +30% danni\n- Prima di attaccare: ottiene +3 Portata Attacco\n- Sul Colpo, Aumenta la Soglia di Stordimento in base al danno inflitto (max 20); in seguito, infligge 3 Fragilità il turno successivo"
+      "desc": "- Infligge +30% danni\n- Prima di attaccare: ottiene +3 Portata Attacco\n- Sul Colpo, Aumenta la Soglia di Stordimento in base al danno inflitto (max 20); in seguito, infligge 3 Fragile il turno successivo"
     },
     {
       "id": "FreishutzOutisEgoBullet_5th",
@@ -1825,12 +1825,12 @@
     {
       "id": "Hohenheim_LowMorale",
       "name": "Angoscia",
-      "desc": "A Inizio Turno: ottiene 1 Fragilità e 2 Efficenza Perdita PS"
+      "desc": "A Inizio Turno: ottiene 1 Fragile e 2 Efficenza Perdita PS"
     },
     {
       "id": "Hohenheim_Panic",
       "name": "Angoscia",
-      "desc": "A Inizio Turno: ottiene 2 Fragilità e 3 Efficenza Perdita PS"
+      "desc": "A Inizio Turno: ottiene 2 Fragile e 3 Efficenza Perdita PS"
     },
     {
       "id": "BlackCloud",
