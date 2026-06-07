@@ -222,7 +222,7 @@
     },
     {
       "id": "mission_ui_condition_tags_201005005",
-      "content": "Deal {0}+ Skill damage against an enemy with a single Skill use (Shield HP dmg & dmg dealt On Hit such as Sinking Deluge or Time Moratorium counts; excludes dmg from Keywords and other sources)"
+      "content": "Infliggi {0}+ danni con l'uso di una sola Abilità contro un nemico (il danno allo Scudo PV & il danno inflitto Sul Colpo come Annegamento Instantaneo o Tempus Moratorium contano; viene escluso il danno dai Tratti e da altre fonti)"
     },
     {
       "id": "mission_ui_condition_tags_201005006",
