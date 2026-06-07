@@ -709,7 +709,7 @@
           "level": 4,
           "name": "Gloria Sbiadita - Incandescente",
           "abName": "Młynar",
-          "desc": "[CantDuel]\nGli effetti esterni non possono far Riusare questa Abilità\nA 40 [MlynarWaiting], questa Abilità diventa Scontrabile\n[WhenUse] A 40 [MlynarWaiting]:\n- Potere Scontro +20;\n- Finché quest'Abilità non è finita, questa unità non può essere Stordita dai danni subiti.\n\n[BeforeAttack] Consuma ogni [MlynarWaiting] per ottenere i seguenti effetti (ognuno arrotondato per difetto):\n- Recupera 1 Risorsa E.G.O per ogni (Stack consumato / 20) nel seguente ordine: Superbia, Ira\n- Ottiene 1 Portata Attacco per ogni (Stack consumati / 10) (max 4)\n- Ottiene 1 [DefenseUp] per ogni (Stack consumati / 10) (una volta per turno)\n- Se ha consumato 40 Stack, la 4ta Moneta infligge +<style=\"highlight\">100</style>% danni e ottiene 2 [Protection] (una volta per turno)\n\n[BeforeAttack] Infligge +5% danni per ogni 8 ([Combustion] + [Vibration]) sul bersaglio principale (max 25%)\n[EndSkill] Cura 5 PS per ogni bersaglio Storito o Sconfitto dai danni di questa Abilità (max 25)\n[EndSkill] Gain 1 [MlynarWaiting]\n[EndBattle] Se questa Abilità non ha consumato 40 [MlynarWaiting], lo Slot Abilità più a sinistra sul Pannello di Controllo ottiene +4 [Aggro] il turno successivo (una volta per turno)",
+          "desc": "[CantDuel]\nGli effetti esterni non possono far Riusare questa Abilità\nA 40 [MlynarWaiting], questa Abilità diventa Scontrabile\n[WhenUse] A 40 [MlynarWaiting]:\n- Potere Scontro +20;\n- Finché quest'Abilità non è finita, questa unità non può essere Stordita dai danni subiti.\n\n[BeforeAttack] Consuma ogni [MlynarWaiting] per ottenere i seguenti effetti (ognuno arrotondato per difetto):\n- Recupera 1 Risorsa E.G.O per ogni (Stack consumato / 20) nel seguente ordine: Superbia, Ira\n- Ottiene 1 Portata Attacco per ogni (Stack consumati / 10) (max 4)\n- Ottiene 1 [DefenseUp] per ogni (Stack consumati / 10) (una volta per turno)\n- Se ha consumato 40 Stack, la 4ta Moneta infligge +<style=\"highlight\">100</style>% danni e ottiene 2 [Protection] (una volta per turno)\n\n[BeforeAttack] Infligge +5% danni per ogni 8 ([Combustion] + [Vibration]) sul bersaglio principale (max 25%)\n[EndSkill] Cura 5 PS per ogni bersaglio Storito o Sconfitto dai danni di questa Abilità (max 25)\n[EndSkill] Ottiene 1 [MlynarWaiting]\n[EndBattle] Se questa Abilità non ha consumato 40 [MlynarWaiting], lo Slot Abilità più a sinistra sul Pannello di Controllo ottiene +4 [Aggro] il turno successivo (una volta per turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -717,7 +717,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "RRiusa questa Moneta (( Stack di [MlynarWaiting] consumati / 10) - 1) volte (max 3)<style=\"highlight\"></style>"
+                  "desc": "Riusa questa Moneta (( Stack di [MlynarWaiting] consumati / 10) - 1) volte (max 3)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnStartCoin] Se questa moneta non è stata rotta, e se bersaglia 3+ nemici, l'ultima Moneta usata da questa Abilità infligge +<style=\"highlight\">20</style>% danni (negli Incontri Mirati, ogni Parte è considerata come 1 bersaglio)"
