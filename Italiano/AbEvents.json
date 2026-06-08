@@ -564,7 +564,7 @@
       "eventDesc": "Un Peccatore bravo a perquisire dovrebbe fare al caso nostro.",
       "behaveDesc": "Chi sarà il più efficiente?",
       "successDesc": [
-        "[{0}] si ritrova con diverse ferite alle mani dopo aver frugato dentro al rottame.\nPer fortuna, siamo riusciti a trovare una piccola fiala all'interno.\n\"Dopo tutto quel lavoraccio...\"\nSospirano gli altri Peccatori per il misero bottino.\n...Siamo usciti dalla stanza con la promessa di riavvolgere il tempo per loro la prossima volta."
+        "[{0}] si ritrova con diverse ferite alle mani dopo aver frugato dentro al rottame.\nPer fortuna, siamo riusciti a trovare una piccola ampolla all'interno.\n\"Dopo tutto quel lavoraccio...\"\nSospirano gli altri Peccatori per il misero bottino.\n...Siamo usciti dalla stanza con la promessa di riavvolgere il tempo per loro la prossima volta."
       ],
       "failureDesc": [
         "I detriti erano più affilati del previsto.\n\"…!\"\n[{0}] si ritrova con diverse ferite alle mani dopo aver frugato dentro al rottame.\n\"Immagino non ci sia niente.\"\nDopo aver passato parecchio tempo a cercare, non abbiamo trovato niente di utile.\n\"…….\"\nSento lo sguardo rancoroso dei Peccatori sulle mie spalle."
@@ -617,7 +617,7 @@
       "eventDesc": "",
       "behaveDesc": "Fermerai Dongrang?",
       "successDesc": [
-        "[{0}] riesce a bloccare l'attacco di Dongrang.\n\n\"Haah... Siete una seccatura.\"\n\nMormora Dongrang mentre la sua arma viene respinta.\nSotto quell'amara risatina si celava una furia gelida."
+        "[{0}] riesce a bloccare l'attacco di Dongrang.\n\n\"Haha... Siete una seccatura.\"\n\nMormora Dongrang mentre la sua arma viene respinta.\nSotto quell'amara risata si celava una furia gelida."
       ],
       "failureDesc": [
         "[{0}] ha provato a fermare Dongrang, ma ahimè...\n\n\"Haha, che cosa ridicola che stai facendo.\"\n\nForse l'attacco era più forte di quel che ci aspettavamo. L'impatto spinge via [{0}].\n\n\"Haah... Siete una seccatura.\"\n\"Preferirei che voi serviate come semi... per i miei traguardi.\"\n\nSotto quel sogghigno beffardo si celava una furia gelida."
@@ -633,14 +633,14 @@
         "[{0}] mira con la sua arma verso Dongrang mentre la sua concentrazione è altrove.\n\n\"Kgh...\"\n\nSembra che l'attacco sia stato un successo.\nLa mossa che stava preparando Dongrang non è stata portata a termine.\n\n\"Ho capito da che parte state...\"\n\n\"Allora mi sbarazzerò di tutti voi assieme a Yi Sang e il suo ideale.\""
       ],
       "failureDesc": [
-        "[{0}] mira con la sua arma verso Dongrang mentre la sua concentrazione è altrove.\n\n\"Che incompetenza.\"\n\nPerò, ciò che sembrava un varco nelle sue difese si rivela una trappola.\nL'attaccante viene respinto dal contrattacco.\n\n\"Hah, ho capito da che parte state...\"\n\n\"Non mi lasciate altra scelta. mi sbarazzerò di tutti voi assieme a Yi Sang e il suo ideale..\""
+        "[{0}] mira con la sua arma verso Dongrang mentre la sua concentrazione è altrove.\n\n\"Che incompetenza.\"\n\nPerò, ciò che sembrava un varco nelle sue difese si rivela una trappola.\nL'attaccante viene respinto dal contrattacco.\n\n\"Ha, ho capito da che parte state...\"\n\n\"Non mi lasciate altra scelta. mi sbarazzerò di tutti voi assieme a Yi Sang e il suo ideale..\""
       ]
     },
     {
       "id": 805006,
       "title": "Stand in his way.",
       "prevDesc": "",
-      "eventDesc": "\"…….\"\n\nYi Sang si fa avanti.\n\n\"Devo insistere... che io segni la fine per Dongrang.\"\n\n\"...Perché ciò sarebbe il più ideale.\"",
+      "eventDesc": "\"…….\"\n\nYi Sang si fa avanti.\n\n\"Insisto... che io segni la fine per Dongrang.\"\n\n\"...Perché ciò sarebbe il più ideale.\"",
       "behaveDesc": "……",
       "successDesc": [
         "Yi Sang riesce a fermare Dongrang nel suo cammino.\n\n\"Yi Sang...\"\n\n\"Ti imploro, metti fine a tutto ciò... Dongrang.\"\n\n\"Haha... Come posso farlo?\"\n\n\"Alla fine... qualcuno deve... piangere lacrime, non è vero...?\"\n\nDongrang spinge l'arma conficcata nel suo corpo più in profondita.\n\n\"…!\"\n\n\"Finiamola così... Yi Sang...\""

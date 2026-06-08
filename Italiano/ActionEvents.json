@@ -997,7 +997,7 @@
     {
       "id": 10407,
       "name": "Run",
-      "desc": "Lo spazio si distorce.\nAl tempo stesso, un verso familiare arriva dalle vostre spalle.\nAssomiglia tanto al verso di un'Anormalità che avevamo precedentemente ridotto ad un uovo.\n\"Iniziate a correre!!\"\nI tredici Peccatori corrono verso la via.\n\"Laggiù!\"\n\"Q-Quello è un vicolo cieco...\"\nI Peccatori sembrano terrorizzati... Proviamo lo stesso ad andare lì dentro?",
+      "desc": "Lo spazio si distorce.\nAllo stesso tempo, un verso familiare arriva dalle vostre spalle.\nAssomiglia tanto al verso di un'Anormalità che avevamo precedentemente ridotto ad un uovo.\n\"Iniziate a correre!!\"\nI tredici Peccatori corrono verso la via.\n\"Laggiù!\"\n\"Q-Quello è un vicolo cieco...\"\nI Peccatori sembrano terrorizzati... Proviamo lo stesso ad andare lì dentro?",
       "options": [
         {
           "message": "Scappa.",
@@ -1037,7 +1037,7 @@
     {
       "id": 1040702,
       "name": "Run.",
-      "desc": "Continuiamo a correre via.\n\"Sarebbe preferibile se non ci fossero altre circostanze da preoccuparsi.\"\nMormora un Peccatore di una sua osservazione.\n\"Huh?!\"\nSolo allora, il muro di fronte a noi si tramuta in una vasta zona.\nCosa faremo adesso?",
+      "desc": "Continuiamo a correre via.\n\"Sarebbe meglio se non ci fossero altre circostanze da curarci.\"\nMormora un Peccatore di una sua osservazione.\n\"Huh?!\"\nSolo allora, il muro di fronte a noi si tramuta in una vasta zona.\nCosa faremo adesso?",
       "options": [
         {
           "message": "Scappa.",
@@ -1069,7 +1069,7 @@
         {
           "message": "Rimani in silenzio.",
           "result": [
-            "Vorrei che quel silenzio venga disturbato.\nCreerestiunsuonosetufrantumassiuncorpoceleste.\nLa finestra si frantuma di colpo, e i suoi frammenti ricadono sui Peccatori.\nTutti i Peccatori sono feriti.\n\"...Duole fisicamente.\"\nAbbiamo lasciato la stanza, sui nostri corpi sono rimaste incastrate delle schegge."
+            "Vorrei che quel silenzio venga disturbato.\nCreerestiunsuonosetufrantumassiuncorpoceleste.\nLa finestra si frantuma di colpo, e i suoi frammenti ricadono sui Peccatori.\nTutti i Peccatori sono feriti.\n\"...Nuoce fisicamente.\"\nAbbiamo lasciato la stanza, sui nostri corpi sono rimaste incastrate delle schegge."
           ]
         }
       ]
@@ -1103,7 +1103,7 @@
     {
       "id": 805005,
       "name": "Stand in his way.",
-      "desc": "\"Non dovrei sprecare il mio tempo in questo modo.\"\n\nArrivando ad una realizzazione, Dongrang si ferma sul posto.\nE ammirava il soffitto come se guardasse il cielo stellato.\n\n\"In questo momento... Ci sto rimettendo per ogni secondo che non piange.\"\n\n\"Il tempo e le opportunità di cambiare il mondo... stanno svanendo.\"\n\nDongrang lancia uno sguardo coi suoi occhi iniettati di sangue.\n\n\"Yi Sang... Sei tu, tu sei l'unico che se ne deve andare per che tutto ciò finisca!\"",
+      "desc": "\"Non dovrei sprecare il mio tempo in questo modo.\"\n\nArrivando ad una realizzazione, Dongrang si ferma sul posto.\nE ammirava il soffitto come se guardasse il cielo stellato.\n\n\"In questo momento... Ci sto rimettendo per ogni secondo che non piange.\"\n\n\"Il tempo e le opportunità di cambiare il mondo... stanno svanendo.\"\n\nDongrang lancia uno sguardo coi suoi occhi iniettati di sangue.\n\n\"Yi Sang... Tu, sei tu l'unico che se ne deve andare per che tutto ciò finisca!\"",
       "options": [
         {
           "message": "Fermalo.",
