@@ -4,13 +4,13 @@
       "id": 853901,
       "title": "Drifting Fox",
       "prevDesc": "Quegli ombrelli possono veramente proteggere la volpe?",
-      "eventDesc": "Vecchi ombrelli si allineano attorno alla Volpe Vagabonda.\nOmbrelli vecchi, bucati ed usurati.\nSolo le Ali sanno per quanto tempo quegli ombrelli hanno provato a proteggere la volpe, ma non sembrano fare un bel lavoro.\n\"…….\"\nImprovvisamente, qualcuno cammina lentamente da lei.\nLa Volpe se ne accorge, ma non ringhia, ne si tranquilizza.\nRimane ferma, mantenendo la sua posizione.",
+      "eventDesc": "Vecchi ombrelli si allineano attorno alla Volpe Vagabonda.\nOmbrelli vecchi, bucati ed usurati.\nSolo le Ali sanno per quanto tempo quegli ombrelli hanno provato a proteggere la volpe, ma non sembrano fare un bel lavoro.\n\"…….\"\nImprovvisamente, qualcuno cammina lentamente verso di lei.\nLa Volpe se ne accorge, ma non ringhia, ne si tranquilizza.\nRimane ferma, mantenendo la sua posizione.",
       "behaveDesc": "Chi si avvicina alla volpe?",
       "successDesc": [
-        "[{0}] cammina verso la volpe prima di prendere un ombrello logoro.\nSeppur sia un ombrello, ha permesso molte gocce d'acqua di passarci attraverso.\nL'aria umida e il vento gelido trapassavano l'ombrello nelle mani di [{0}].\n\"…….\"\nMa alza la testa al cielo con un sorriso sincero.\nCome se sapesse che un giorno la pioggia finirà."
+        "[{0}] cammina verso la volpe prima di prendere un ombrello logoro.\nSeppur sia un ombrello, ha permesso a molte gocce d'acqua di passarci attraverso.\nL'aria umida e il vento gelido trapassavano l'ombrello nelle mani di [{0}].\n\"…….\"\nMa alza la testa al cielo con un sorriso sincero.\nCome se sapesse che un giorno la pioggia finirà."
       ],
       "failureDesc": [
-        "[{0}] cammina verso la volpe prima di prendere un ombrello logoro.\nSeppur sia un ombrello, ha permesso molte gocce d'acqua di passarci attraverso.\nL'aria umida e il vento gelido trapassavano l'ombrello nelle mani di [{0}].\n\"…Haah.\"\nSi abbatte dopo un grosso sospiro.\nNon sarà facile notarlo da così lontano,\nma deve essere l'accumulo di tristezza e lo smorzamento che avrà sentito la persona sotto l'ombrello."
+        "[{0}] cammina verso la volpe prima di prendere un ombrello logoro.\nSeppur sia un ombrello, ha permesso a molte gocce d'acqua di passarci attraverso.\nL'aria umida e il vento gelido trapassavano l'ombrello nelle mani di [{0}].\n\"…Haah.\"\nSi abbatte dopo un grosso sospiro.\nNon sarà facile notarlo da così lontano,\nma deve essere l'accumulo di tristezza e lo smorzamento che avrà sentito la persona sotto l'ombrello."
       ]
     },
     {
