@@ -1895,7 +1895,7 @@
         {
           "level": 4,
           "name": "Frusta Mentale",
-          "desc": "Infligge <style=\"highlight\">+4%</style> danni per ogni [Charge] (max <style=\"highlight\">20%</style>)\n[WhenUse] A 5~9 Conteggio [Charge]:\n- Ottiene <style=\"highlight\">10</style> [Sinking] e aumenta il Conteggio [Charge] di questa unità a 10\n- Questa Abilità ottiene i seguenti attributi: [CantIdentify], [WideAreaFury], e Portata Attacco +1\n<style=\"highlight\">- [BeforeUse] A 5+ [Charge], questa Abilità non ottiene l'effetto [CantIdentify]</style>\n[WhenUse] Consuma 10 Conteggio [Charge] per ottenere Potere Moneta <style=\"highlight\">+2</style>\n<style=\"highlight\">[BeforeAttack] Con 8+ Conteggio [Charge] rimasto, consuma 8 Conteggio [Charge] per infliggere +40% danni</style>",
+          "desc": "Infligge <style=\"highlight\">+4%</style> danni per ogni [Charge] (max <style=\"highlight\">20%</style>)\n[WhenUse] A 5~9 Conteggio [Charge]:\n- Ottiene <style=\"highlight\">10</style> [Sinking] e aumenta il Conteggio [Charge] di questa unità a 10\n- Questa Abilità ottiene i seguenti attributi: [CantIdentify], [WideAreaRampage], e Portata Attacco +1\n<style=\"highlight\">- [BeforeUse] A 5+ [Charge], questa Abilità non ottiene l'effetto [CantIdentify]</style>\n[WhenUse] Consuma 10 Conteggio [Charge] per ottenere Potere Moneta <style=\"highlight\">+2</style>\n<style=\"highlight\">[BeforeAttack] Con 8+ Conteggio [Charge] rimasto, consuma 8 Conteggio [Charge] per infliggere +40% danni</style>",
           "coinlist": [
             {
               "coindescs": [
