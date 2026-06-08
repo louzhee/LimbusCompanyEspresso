@@ -1902,7 +1902,7 @@
     {
       "id": "VendettaMark",
       "name": "Marchio della Vendetta",
-      "desc": "- Stack Max: 10\n- Viene usato da alcune Abilità o Passive\n- Subisce +2% danni aggiuntivi dai nemici del Medio in base alle Stack (max 20%)\n- A Fine Turno: l'unità con le Stack maggiori di quest'effetto ottiene 1 Marchio della Vendetta Fraterno il turno successivo\n(Calcolato separatemante da Marchio della Vendetta; se più di una singola unità ha il valore più alto di quest'effetto, viene bersagliata l'unità coi PV maggiori)",
+      "desc": "- Stack Max: 10\n- Viene usato da alcune Abilità o Passive\n- Subisce +2% danni aggiuntivi dai nemici del Medio in base alle Stack (max 20%)\n- A Fine Turno: l'unità con più Stack di quest'effetto ottiene 1 Marchio della Vendetta Fraterno il turno successivo\n(Calcolato separatemante da Marchio della Vendetta; se più di una singola unità ha il valore più alto di quest'effetto, viene bersagliata l'unità coi PV maggiori)",
       "summary": "",
       "undefined": "-"
     },
@@ -1916,14 +1916,14 @@
     {
       "id": "BirdCage",
       "name": "Gabbia Bruciante",
-      "desc": "Stack Max: 5\nSe quest'unità ha Bruciatura, ottiene +0.1 Resistenza ad Ira per ogni Stack che ha (non può andare oltre la Resistenza ad Ira massima, 2.0, con quest'effetto\nA Fine Turno: ottiene Rallentamento pari alle Stack nel turno successivo\nA Fine Turno: dimezza le Stack (arrotondate per difetto)\n※ Non può ottenere altre Stack di quest'effetto mentre quest'ultimo è già attivo",
+      "desc": "Stack Max: 5\nSe quest'unità ha Bruciatura, ottiene +0.1 Resistenza ad Ira per ogni Stack che ha (non può andare oltre la Resistenza ad Ira massima, 2.0, con quest'effetto)\nA Fine Turno: ottiene Rallentamento pari alle Stack nel turno successivo\nA Fine Turno: dimezza le Stack (arrotondate per difetto)\n※ Non può ottenere altre Stack di quest'effetto mentre quest'ultimo è già attivo",
       "summary": "Resistenza ad Ira +0.1 per ogni Stack",
       "undefined": "-"
     },
     {
       "id": "WideAreaRampage",
       "name": "Raffica Incontrollabile",
-      "desc": "- Quando questa Abilità lancia le Monete, ogni Moneta viene lanciata contro un nemico casuale tra i suoi bersagli.\n· La prima Moneta prende sempre di mira il bersaglio principale.\n· Tutti gli effetti 'Sul Colpo' e tutti i danni inflitti da ogni Moneta vengono inflitti solo al bersaglio casuale selezionato dalla Moneta.",
+      "desc": "- Quando si lancia la Moneta di quest'Abilità, ogni Moneta viene lanciata contro un nemico casuale tra i suoi bersagli.\n· La prima Moneta prende sempre di mira il bersaglio principale\n· Tutti gli effetti 'Sul Colpo' e tutti i danni inflitti da ogni Moneta vengono inflitti solo al bersaglio casuale selezionato dalla Moneta.",
       "summary": "Attacca indiscriminatamente tra i bersagli scelti",
       "undefined": "-"
     },
