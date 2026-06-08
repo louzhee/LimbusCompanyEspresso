@@ -587,13 +587,13 @@
       "id": 1040401,
       "title": "PickingRowAndColumn",
       "prevDesc": "",
-      "eventDesc": "Vedendo più da vicino, riesci quasi a notare qualcos'altro all'interno.\nUn Peccatore con la vista aguzza potrebbe ottenere qualcosa di buono.",
+      "eventDesc": "Vedendo più da vicino, riesci quasi a notare qualcos'altro al suo interno.\nUn Peccatore con la vista aguzza potrebbe ottenere qualcosa di buono.",
       "behaveDesc": "Chi darà un'occhiata?",
       "successDesc": [
-        "[{0}] guarda l'armadio.\nRiesce a scoprire un cassetto nascosto. Il cassetto conteneva un mucchio di oggetti utili.\nSenti l'area continuare a distorcersi, forse non rimane molto tempo."
+        "[{0}] guarda l'armadio.\nRiesce a scoprire un cassetto nascosto. Il cassetto conteneva un mucchio di oggetti utili.\nPoco dopo, l'area iniziò a farsi sfocata e l'armadietto scomparve."
       ],
       "failureDesc": [
-        "[{0}] guarda l'armadio.\nForse ha sprecato troppo tempo a riflettere; Presto, l'area inizia a disperdersi, e l'armadio scompare."
+        "[{0}] guarda l'armadio.\nForse ha sprecato troppo tempo a riflettere; Presto, l'area iniziò a farsi sfocata e l'armadietto scomparve."
       ]
     },
     {
@@ -607,7 +607,7 @@
         "<i>Piansisenzascelta.\nOh ▽ ! Eccomiinpena.\nContemplotalepensiero:\nComedebbapiangerIo.</i>\n\nQuando [{0}] inizia a parlare con le figure nella finestra, loro si contorcono per poi sparire.\nDopodiché un frammento cade dalla finestra.\nLo abbiamo preso per poi lasciare la stanza."
       ],
       "failureDesc": [
-        "…………..\n[{0}] ha provato a parlare, ma non c'è stata risposta.\nPresto, le figure si contorcono per poi sparire.\n\"Cosa, volevano che noi cantassimo o che?\"\nAbbiamo lasciato la stanza con i Peccatori che si lamentavano."
+        "…………..\n[{0}] ha provato a parlare, ma non c'è stata risposta.\nPresto, le figure si contorcono per poi sparire.\n\"Cosa, volevano ci mettessimo a cantare?\"\nAbbiamo lasciato la stanza con i Peccatori che si lamentavano."
       ]
     },
     {

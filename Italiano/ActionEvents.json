@@ -845,7 +845,7 @@
     {
       "id": 10401,
       "name": "Looking for a Drone",
-      "desc": "Un drone della K Corp. ruzzola per terra.\nIo posso resuscitare i Peccatori solo dove riesco a vedere la stella, quindi nel frattempo...\nForse riusciamo a trovare una fiala ancora utilizzabile se cerchiamo dentro.",
+      "desc": "Un drone della K Corp. ruzzola per terra.\nIo posso resuscitare i Peccatori solo dove riesco a vedere la stella, quindi nel frattempo...\nForse riusciamo a trovare un'ampolla ancora utilizzabile se cerchiamo al suo interno.",
       "options": [
         {
           "message": "Fruga dentro il drone.",
@@ -926,7 +926,7 @@
     {
       "id": 10403,
       "name": "Poking at the Egg",
-      "desc": "\"Queste sono... uova?\"\n\"Per favore faccia attenzione. Potrebbe essere un'Anormalità.\"\nOra che ci penso, mi è stato detto che l'attrezzatura dei laboratori sotterranei della K Corp. maneggiavano le uova delle Succursali della L Corp.\n\"Whoa, ehi... Questo si sta scuotendo?\"\nProprio come il Peccatore stava osservando, un uovo iniziava a muoversi.\nCosa faremo?",
+      "desc": "\"Queste sono... uova?\"\n\"Per favore faccia attenzione. Potrebbe essere un'Anormalità.\"\nOra che ci penso, mi è stato detto che l'attrezzatura dei laboratori sotterranei della K Corp. maneggiavano le uova delle Succursali della L Corp.\n\"Whoa, ehi... Questo si sta muovendo?\"\nProprio come il Peccatore stava osservando, un uovo iniziava a muoversi.\nCosa faremo?",
       "options": [
         {
           "message": "Tocca le uova.",
@@ -938,7 +938,7 @@
           "message": "Non toccare le uova.",
           "messageDesc": "Niente accade.",
           "result": [
-            "\"Cos'altro possiamo fare? Dobbiamo scappare!\"\nHa decisamente ragione. Noi ce la siamo svignata dalla stanza."
+            "\"Cos'altro possiamo fare? Dobbiamo scappare!\"\nHa decisamente ragione. Ce la siamo svignata dalla stanza."
           ]
         }
       ]
@@ -946,7 +946,7 @@
     {
       "id": 10404,
       "name": "PickingRowAndColumn",
-      "desc": "Lo spazio si storce, ed appare un armadio.\nVedi degli oggetti nei suoi cassetti.",
+      "desc": "Lo spazio si distorce, ed appare un armadio.\nVedi degli oggetti nei suoi cassetti.",
       "options": [
         {
           "message": "Controlla da vicino."
@@ -962,7 +962,7 @@
           "message": "Esprimi un desiderio.",
           "messageDesc": "50% di chance di ottenere un Dono E.G.O",
           "result": [
-            "\"Romantico.\"\nTutti hanno chiuso gli occhi ed espresso un desiderio.\nChe abbia ricevuto una risposta?\nQuando gli occhi si erano aperti, per terra c'era un frammento luccicante.\n\"Hmm, mi domando chi abbia desiderato questo?\"\nCommentavano i Peccatori, ma può darsi che non abbia niente a che fare coi desideri dopotutto.\nPrendendo il frammento, abbiamo lasciato il posto.",
+            "\"Romantico.\"\nTutti hanno chiuso gli occhi ed espresso un desiderio.\nChe abbia ricevuto una risposta?\nQuando abbiamo aperto gli occhi, per terra c'era un frammento luccicante.\n\"Hmm, mi domando chi abbia desiderato qualcosa del genere?\"\nCommentavano i Peccatori, ma può darsi che non abbia niente a che fare coi desideri dopotutto.\nPrendendo il frammento, abbiamo lasciato il posto.",
             "\"Romantico.\"\nTutti hanno chiuso gli occhi ed espresso un desiderio.\n...Però, non è successo niente.\n\"Chi è stato! Uno di voi deve aver aperto gli occhi nel mentre!\"\nCalmando il Peccatore infuriato, abbiamo lasciato la stanza."
           ]
         },
@@ -1122,21 +1122,21 @@
           "message": "Apri lo scaffale nella seconda riga, quinta colonna.",
           "messageDesc": "Ottieni un Dono E.G.O.",
           "result": [
-            "Hai preso l'oggetto dallo scaffale sulla seconda riga, quinta colonna.\nÈ una misteriosa massa verde.\nQuando la osservi, ti sembra di guardare una maschera.\nPresto, l'area inizia a dissolversi, e l'armadio scompare."
+            "Hai preso l'oggetto dallo scaffale sulla seconda riga, quinta colonna.\nÈ una misteriosa massa verde.\nQuando la osservi, ti sembra di guardare una maschera.\nPoco dopo, l'area iniziò a farsi sfocata e l'armadietto scomparve."
           ]
         },
         {
           "message": "Apri lo scaffale nella quinta riga, ottava colonna.",
           "messageDesc": "Ottieni un Dono E.G.O.",
           "result": [
-            "Hai preso l'oggetto dallo scaffale sulla quinta riga, ottava colonna.\nÈ una misteriosa massa blu.\nQuando la osservi, ti sembra di guardare un pugnale.\nPresto, l'area inizia a dissolversi, e l'armadio scompare."
+            "Hai preso l'oggetto dallo scaffale sulla quinta riga, ottava colonna.\nÈ una misteriosa massa blu.\nQuando la osservi, ti sembra di guardare un pugnale.\nPoco dopo, l'area iniziò a farsi sfocata e l'armadietto scomparve."
           ]
         },
         {
           "message": "Apri lo scaffale nella sesta riga, prima colonna.",
           "messageDesc": "Ottieni un Dono E.G.O.",
           "result": [
-            "Hai preso l'oggetto dallo scaffale sulla sesta riga, prima colonna.\nÈ una misteriosa massa gialla.\nQuando la osservi, ti sembra di guardare un fiore.\nPresto, l'area inizia a dissolversi, e l'armadio scompare."
+            "Hai preso l'oggetto dallo scaffale sulla sesta riga, prima colonna.\nÈ una misteriosa massa gialla.\nQuando la osservi, ti sembra di guardare un fiore.\nPoco dopo, l'area iniziò a farsi sfocata e l'armadietto scomparve."
           ]
         }
       ]
