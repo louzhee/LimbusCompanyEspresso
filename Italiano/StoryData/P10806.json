@@ -1,198 +1,198 @@
 {
-  "dataList": [
-    {
-      "id": 0,
-      "content": "Within a beef noodle restaurant somewhere in the streets..."
-    },
-    {
-      "id": 1,
-      "content": "The child was enjoying her lunch alone at the table."
-    },
-    {
-      "id": 2,
-      "content": "Though she doesn't necessarily have an aversion to hanging out with others, she doesn't particularly like to, either."
-    },
-    {
-      "id": 3,
-      "content": "While people from the Liu Association normally dine in large, boisterous crowds, something about the child felt different from her peers."
-    },
-    {
-      "id": 4,
-      "content": "The child could have been a part of such crowds if she tried, but she seems more comfortable eating alone."
-    },
-    {
-      "id": 5,
-      "model": "이스마엘",
-      "teller": "Ishmael",
-      "title": "Liu Section 4",
-      "content": "...Ow, hot. Yes, this is Ishmael speaking."
-    },
-    {
-      "id": 6,
-      "model": "이스마엘",
-      "teller": "Ishmael",
-      "title": "Liu Section 4",
-      "content": "Right now...? I'm in the middle of a meal, could it wait a..."
-    },
-    {
-      "id": 7,
-      "model": "이스마엘",
-      "teller": "Ishmael",
-      "title": "Liu Section 4",
-      "content": "Got it..."
-    },
-    {
-      "id": 8,
-      "content": "Right, perhaps it could be because of work keeping her busy."
-    },
-    {
-      "id": 9,
-      "teller": "Kind Restaurant Owner",
-      "title": "Beef Noodle Restaurant",
-      "content": "Poor girl, leaving without finishing your meal again?"
-    },
-    {
-      "id": 10,
-      "model": "이스마엘",
-      "teller": "Ishmael",
-      "title": "Liu Section 4",
-      "content": "Um... Yeah, sorry. The usual treatment, please."
-    },
-    {
-      "id": 11,
-      "teller": "Kind Restaurant Owner",
-      "title": "Beef Noodle Restaurant",
-      "content": "Pack it up and keep it 'til you get back, right? You got it~"
-    },
-    {
-      "id": 12,
-      "content": "It looks like this certainly isn't the first time the child has left her food behind due to a call."
-    },
-    {
-      "id": 13,
-      "model": "이스마엘",
-      "teller": "Ishmael",
-      "title": "Liu Section 4",
-      "content": "Yes, I'm outside now. Which way is it?"
-    },
-    {
-      "id": 14,
-      "model": "이스마엘",
-      "teller": "Ishmael",
-      "title": "Liu Section 4",
-      "content": "Haah... And one more thing: I did ask for this since I had trouble getting along with others, but I'd like it if I could have my meals in peace at the very least."
-    },
-    {
-      "id": 15,
-      "model": "이스마엘",
-      "teller": "Ishmael",
-      "title": "Liu Section 4",
-      "content": "...No, I mean! The noodles are all mushy by the time I'm finished! Are you telling me I should live exclusively off dumplings?"
-    },
-    {
-      "id": 16,
-      "model": "이스마엘",
-      "teller": "Ishmael",
-      "title": "Liu Section 4",
-      "content": "What?! Just use U Corp's stasis preservation packaging? Do you have any idea how expensive that is?"
-    },
-    {
-      "id": 17,
-      "model": "이스마엘",
-      "teller": "Ishmael",
-      "title": "Liu Section 4",
-      "content": "Forget it! I'm hanging up."
-    },
-    {
-      "id": 18,
-      "content": "Irritated, the child ended the call."
-    },
-    {
-      "id": 19,
-      "model": "이스마엘",
-      "teller": "Ishmael",
-      "title": "Liu Section 4",
-      "content": "Haah... You've got to be kidding, I ordered a double portion because I'd be free today."
-    },
-    {
-      "id": 20,
-      "model": "이스마엘",
-      "teller": "Ishmael",
-      "title": "Liu Section 4",
-      "content": "...And they keep telling me I'm the only one they can trust these jobs with, so what more can I say to that?"
-    },
-    {
-      "id": 21,
-      "content": "From the sound of it, the child is particularly skilled among her peers in Section 4 of the Liu's southern branch. Her specialty of quickly closing the distance for a close-quarter thrashing made her excellent at dealing with groups of foes alone."
-    },
-    {
-      "id": 22,
-      "content": "Well... It could mean her talent doesn't quite mesh well with Liu Association's main expertise of coordinated offense, in other words."
-    },
-    {
-      "id": 23,
-      "content": "If she was such a sociable type, she wouldn't have had to desert her meal to catch up on a mission they were supposed to embark off on simultaneously in the first place, would she?"
-    },
-    {
-      "id": 24,
-      "teller": "Puny Thug",
-      "title": "???",
-      "content": "Ugh, krh!"
-    },
-    {
-      "id": 25,
-      "model": "이스마엘",
-      "teller": "Ishmael",
-      "title": "Liu Section 4",
-      "content": "Next."
-    },
-    {
-      "id": 26,
-      "content": "The child takes down one enemy after another just like that, a hint of anger visible on her face."
-    },
-    {
-      "id": 27,
-      "teller": "Panicked Thug",
-      "title": "???",
-      "content": "Tch, I can't stab through her clothes!"
-    },
-    {
-      "id": 28,
-      "teller": "Panicked Thug",
-      "title": "???",
-      "content": "Gaah!"
-    },
-    {
-      "id": 29,
-      "model": "이스마엘",
-      "teller": "Ishmael",
-      "title": "Liu Section 4",
-      "content": "Hah, it'll take far more than that to penetrate an Association's attire."
-    },
-    {
-      "id": 30,
-      "content": "Her speed was overwhelming, slightly flustering the surrounding colleagues as she razed foes with the vigor of chopping down bamboo."
-    },
-    {
-      "id": 31,
-      "teller": "Fearful Thug",
-      "title": "???",
-      "content": "You, you piece of..."
-    },
-    {
-      "id": 32,
-      "content": "And, as the remaining foes stumbled before the child..."
-    },
-    {
-      "id": 33,
-      "content": "Wagging her hand, the child taunted:"
-    },
-    {
-      "id": 34,
-      "model": "이스마엘",
-      "teller": "Ishmael",
-      "title": "Liu Section 4",
-      "content": "Come at me all at once. I'm pissed off 'cause my noodles are soggy."
-    }
-  ]
+    "dataList": [
+        {
+            "id": 0,
+            "content": "In un Ristorante di Noodles al Manzo, da qualche parte tra i vicoletti..."
+        },
+        {
+            "id": 1,
+            "content": "La fanciulla si stava godendo il pranzo da sola al tavolo."
+        },
+        {
+            "id": 2,
+            "content": "Sebbene non provi necessariamente un'avversione nello stare in compagnia altrui, non è una cosa che preferisce particolarmente."
+        },
+        {
+            "id": 3,
+            "content": "Mentre i membri dell'Associazione Liu di solito cenano in grandi e rumorose folle, c'era qualcosa nella fanciulla che la faceva sentire diversa dai suoi colleghi."
+        },
+        {
+            "id": 4,
+            "content": "La fanciulla avrebbe potuto far parte di quei gruppi se ci avesse provato, ma sembrava più a suo agio a mangiare da sola."
+        },
+        {
+            "id": 5,
+            "model": "이스마엘",
+            "teller": "Ishmael",
+            "title": "Sezione 4 della Liu",
+            "content": "...Ah, scotta! Sì, parlo io, Ishmael."
+        },
+        {
+            "id": 6,
+            "model": "이스마엘",
+            "teller": "Ishmael",
+            "title": "Sezione 4 della Liu",
+            "content": "Proprio ora...? Sono a metà pasto, potrebbe aspettare un..."
+        },
+        {
+            "id": 7,
+            "model": "이스마엘",
+            "teller": "Ishmael",
+            "title": "Sezione 4 della Liu",
+            "content": "Ricevuto..."
+        },
+        {
+            "id": 8,
+            "content": "Già, forse è perché il lavoro la tiene costantemente occupata."
+        },
+        {
+            "id": 9,
+            "teller": "Gentile Proprietario del Ristorante",
+            "title": "Ristorante di Noodles al Manzo",
+            "content": "Povera ragazza, te ne vai di nuovo senza finire di mangiare?"
+        },
+        {
+            "id": 10,
+            "model": "이스마엘",
+            "teller": "Ishmael",
+            "title": "Sezione 4 della Liu",
+            "content": "Ehm... Sì, scusi. Il solito, per favore."
+        },
+        {
+            "id": 11,
+            "teller": "Gentile Proprietario del Ristorante",
+            "title": "Ristorante di Noodles al Manzo",
+            "content": "Te lo incarto e lo tengo da parte finché non torni, giusto? Ci penso io~"
+        },
+        {
+            "id": 12,
+            "content": "Sembra proprio che questa non sia affatto la prima volta che la fanciulla lascia indietro del cibo a causa di una chiamata."
+        },
+        {
+            "id": 13,
+            "model": "이스마엘",
+            "teller": "Ishmael",
+            "title": "Sezione 4 della Liu",
+            "content": "Sì, adesso sono fuori. Da che parte devo andare?"
+        },
+        {
+            "id": 14,
+            "model": "이스마엘",
+            "teller": "Ishmael",
+            "title": "Sezione 4 della Liu",
+            "content": "Haa... E un'altra cosa: ho chiesto io di fare così dato che ho difficoltà a relazionarmi con gli altri, ma vorrei almeno che mi venisse garantita la pausa pranzo."
+        },
+        {
+            "id": 15,
+            "model": "이스마엘",
+            "teller": "Ishmael",
+            "title": "Sezione 4 della Liu",
+            "content": "...No, voglio dire! I noodles diventano tutti scotti quando ho finito! Mi state dicendo che dovrei vivere esclusivamente di ravioli?"
+        },
+        {
+            "id": 16,
+            "model": "이스마엘",
+            "teller": "Ishmael",
+            "title": "Sezione 4 della Liu",
+            "content": "Cosa?! 'Usa il confezionamento a stasi della U Corp'? Ha idea di quanto sia costoso?"
+        },
+        {
+            "id": 17,
+            "model": "이스마엘",
+            "teller": "Ishmael",
+            "title": "Sezione 4 della Liu",
+            "content": "Lasci perdere! Riaggancio."
+        },
+        {
+            "id": 18,
+            "content": "Irritata, la fanciulla interruppe la chiamata."
+        },
+        {
+            "id": 19,
+            "model": "이스마엘",
+            "teller": "Ishmael",
+            "title": "Sezione 4 della Liu",
+            "content": "Haa... Ma stiamo scherzando? Ho ordinato una porzione doppia perché oggi avrei dovuto essere libera."
+        },
+        {
+            "id": 20,
+            "model": "이스마엘",
+            "teller": "Ishmael",
+            "title": "Sezione 4 della Liu",
+            "content": "...E continuano a ripetermi che sono l'unica a cui possono affidare questi lavori, quindi che altro posso rispondere?"
+        },
+        {
+            "id": 21,
+            "content": "A quanto pare, la fanciulla è particolarmente abile tra i suoi colleghi della Sezione 4 del ramo sud della Liu. La sua specialità di accorciare rapidamente le distanze per un brutale scontro ravvicinato la rendeva eccellente nel gestire da sola interi gruppi di nemici."
+        },
+        {
+            "id": 22,
+            "content": "Beh... In altre parole, questo potrebbe significare che il suo talento non si sposa benissimo con la principale specialità dell'Associazione Liu, ovvero l'offensiva coordinata."
+        },
+        {
+            "id": 23,
+            "content": "Dopotutto, se fosse stata un tipo socievole, non avrebbe dovuto smettere di mangiare per correre a fare una missione a cui avrebbero dovuto prendere parte tutti contemporaneamente, no?"
+        },
+        {
+            "id": 24,
+            "teller": "Teppistello",
+            "title": "???",
+            "content": "Ugh, krh!"
+        },
+        {
+            "id": 25,
+            "model": "이스마엘",
+            "teller": "Ishmael",
+            "title": "Sezione 4 della Liu",
+            "content": "Prossimo."
+        },
+        {
+            "id": 26,
+            "content": "La fanciulla abbatte un nemico dopo l'altro proprio così, con una sfumatura di rabbia visibile sul volto."
+        },
+        {
+            "id": 27,
+            "teller": "Teppista nel Panico",
+            "title": "???",
+            "content": "Tch, non riesco a perforare il suo abito!"
+        },
+        {
+            "id": 28,
+            "teller": "Teppista nel Panico",
+            "title": "???",
+            "content": "Gaah!"
+        },
+        {
+            "id": 29,
+            "model": "이스마엘",
+            "teller": "Ishmael",
+            "title": "Sezione 4 della Liu",
+            "content": "Ah, ci vorrà ben altro per strappare il completo di un'Associazione."
+        },
+        {
+            "id": 30,
+            "content": "La sua velocità era travolgente, lasciando i colleghi circostanti leggermente spiazzati mentre radeva al suolo i nemici con l'impeto di chi abbatte il bambù."
+        },
+        {
+            "id": 31,
+            "teller": "Teppista spaventato",
+            "title": "???",
+            "content": "Razza di stronz-"
+        },
+        {
+            "id": 32,
+            "content": "E, mentre i nemici rimasti vacillavano davanti alla fanciulla..."
+        },
+        {
+            "id": 33,
+            "content": "Facendo un cenno con la mano, la fanciulla li provocò:"
+        },
+        {
+            "id": 34,
+            "model": "이스마엘",
+            "teller": "Ishmael",
+            "title": "Sezione 4 della Liu",
+            "content": "Fatevi sotto tutti insieme. Sono furiosa perché i miei noodles si sono scotti."
+        }
+    ]
 }
