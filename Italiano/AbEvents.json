@@ -431,7 +431,7 @@
     {
       "id": 803101,
       "title": "단수어선택지1",
-      "prevDesc": "Lo stomaco di quella cosa senza testa sembra si sia gonfiato al limite.",
+      "prevDesc": "Lo stomaco di quella creatura senza testa si è gonfiato al limite.",
       "eventDesc": "Il suo addome era pieno di un liquido rosso.\nSembra che possa espellerlo in un qualsiasi momento.\nSi può notare uno spruzzo di sangue gorgogliare attorno al suo collo.",
       "behaveDesc": "Chi può ostruire la sua gola?",
       "successDesc": [
