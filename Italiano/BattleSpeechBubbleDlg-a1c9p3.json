@@ -333,22 +333,22 @@
     {
       "id": "9SV-BAT3-BR3-2-01",
       "desc": "Matthias -  S3 Coin 2-1",
-      "dlg": "... non vanno bene..."
+      "dlg": "... non sono più..."
     },
     {
       "id": "9SV-BAT3-BR3-2",
       "desc": "Matthias -  S3 Coin 2-2",
-      "dlg": "... non vanno bene..."
+      "dlg": "... non sono più..."
     },
     {
       "id": "9SV-BAT3-BR3-3-01",
       "desc": "Matthias -  S3 Coin 3-1",
-      "dlg": "... non mi divertono più!"
+      "dlg": "... divertenti!"
     },
     {
       "id": "9SV-BAT3-BR3-3",
       "desc": "Matthias -  S3 Coin 3-2",
-      "dlg": "... non mi divertono più!"
+      "dlg": "... divertenti!"
     },
     {
       "id": "9SV-BAT3-BR5-1-01",
@@ -388,12 +388,12 @@
     {
       "id": "9SV-BAT3-BR8-4-01",
       "desc": "Matthias - CATE 1",
-      "dlg": "Haha! Ho fatto centro!"
+      "dlg": "Ho fatto centro!"
     },
     {
       "id": "9SV-BAT3-BR8-4",
       "desc": "Matthias - CATE 2",
-      "dlg": "Haha! Ho fatto centro!"
+      "dlg": "Ho fatto centro!"
     },
     {
       "id": "9SV-BAT3-BR9-1-01",
@@ -433,7 +433,7 @@
     {
       "id": "9SV-BAT3-12-1",
       "desc": "Matthias - Kira Clash Win 1",
-      "dlg": "Sì, cazzo! Continua così, piccoletta!"
+      "dlg": "Sì, cazzo! Continua così, piccolina!"
     },
     {
       "id": "9SV-BAT3-12-2",
@@ -443,7 +443,7 @@
     {
       "id": "9SV-BAT3-12-3",
       "desc": "Matthias - Kira Clash Win 3",
-      "dlg": "<i>Questa</i> è la mia bambina!"
+      "dlg": "Brava la mia bambina!"
     },
     {
       "id": "9SV-BAT18-14",
@@ -988,7 +988,7 @@
     {
       "id": "9SV-BAT12-BR3-7",
       "desc": "Sinclair - Trench-specialized Spear Combat",
-      "dlg": "lascia che ti depuri... da tutte quelle protesi."
+      "dlg": "Espurgherò... tutte quelle protesi."
     },
     {
       "id": "9SV-BAT12-04-1",
