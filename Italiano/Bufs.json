@@ -3793,32 +3793,32 @@
     },
     {
       "id": "ScratchesHurtID",
-      "name": "Avulsion Wound",
-      "desc": "- Max Stack: 3\n- Turn Start: Gain 2 Bleed\n- Turn End: Gain 1 Bind next turn\n- Turn End: Lose 1 Stack",
+      "name": "Ferita da Avulsione",
+      "desc": "- Max Stack: 3\n- Inizio Turno: Ottiene 2 Sanguinamento\n- Fine Turno: Ottiene 1 Rallentamento il prossimo turno\n- Fine Turno: perde 1 Stack",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "TiedRopeHonglu",
-      "name": "Trussed [Hong Lu]",
-      "desc": "- Base Stack: 3\n- Min & Max Speed -2\n- Take +10% Pride damage\n- Expires when the inflicter Retreats, is killed, or inflicts it on a different target. Replaced when Trussed by another unit\n- Turn End: Lose 1 Stack if the inflicter did not hit this unit this turn",
+      "name": "Legato [Hong Lu]",
+      "desc": "- Stack Base: 3\n- Velocita Min & Max -2\n- Subisce +10% Danni da Superbia\n- Scade quando colui che lo infligge si Ritira, viene ucciso, o lo infligge su un bersaglio diverso. Rimpiazzato quando Legato da un altra unità\n- Fine Turno: Perde 1 Stack se colui che lo infligg non ha colpito questa unità",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "TiedWithRopeID",
-      "name": "Prisoner Transport Arrangements",
-      "desc": "- Base Stack: 1\n- Currently Trussing {0}\n- In a Clash against enemies that have Trussed [Hong Lu], Clash Power +1\n- On Hit against enemies that have Trussed [Hong Lu], inflict 1 Bleed and gain 1 Poise (2 Skills per turn)\n- If there are no Trussed targets, expires",
+      "name": "Preparativi Per il Trasporto Prigionieri",
+      "desc": "-Stack Base: 1\n- Legati al momento {0}\n- In uno Scontro contro nemici che posseggono Legato[Hong Lu], Potere Scontro +1\n- Sul Colpo contro nemici che posseggono Legato[Hong Lu], infligge 1 Sanguinamento e ottiene 1 Equilibrio (2 Abilità per turno)\n- Se non ci sono nemici Legati, scade",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "AengduNewArmIshmael",
-      "name": "Dokkaebi Arms",
-      "desc": "- Take -15% damage\n- On Skill Use, gain 1 Haste next turn (2 times per turn)\n- Combat End: This effect expires, and gain +2 Poise Count",
+      "name": "Armamenti Dokkaebi",
+      "desc": "- Subisci -15% danni\n- All'uso di un Abilità, ottiene 1 Rapidità il prossimo turno (2 volte per turno)\n- Fine Combattimento: Questo effetto scade, e ottiene +2 Conteggio Equilibrio",
       "summary": "",
       "undefined": "-"
     },
