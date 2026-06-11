@@ -489,7 +489,7 @@
     {
       "id": 9251,
       "name": "Destino Infuocato",
-      "desc": "Max [Combustion] Potency +30\n \nOn Clash Win against targets that have [Combustion], activate [Combustion] on target once and reduce the target's [Combustion] Count by 1 (once per Identity)\n\nOn Skill Use against enemies that have [Combustion], the said Skill gains Offense Level equal to ([Combustion] Potency on the main target / 10) (max 8)",
+      "desc": "Potenza [Combustion] max + 30\n\nPer Scontro Vinto contro dei bersagli che hanno [Combustion], attiva una volta [Combustion] e diminuisci il Conteggio [Combustion] del bersaglio di 1 (una volta per Identità)\n\nAll'Uso di Abilità contro dei nemici che hanno [Combustion], ottieni Livelli Offensivi uguale a (Potenza [Combustion] sul bersaglio principale / 10)(max 8)",
       "simpleDesc": [
         {}
       ]

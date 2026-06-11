@@ -901,7 +901,7 @@
     {
       "id": 9037,
       "name": "Infante nell'Ampolla",
-      "desc": "Inizio Incontro: Ottieni +1 risorsa E.G.O per ogni Affinità Peccato\n\nUpon winning an Encounter, gain 2 E.G.O resource for the 2 least-owned Affinities",
+      "desc": "Inizio Incontro: ottieni +1 risorsa E.G.O per ogni Affinità Peccato\n\nAd Incontro vinto, ottieni 2 risorse E.G.O per le 2 Affinità con meno risorse E.G.O in tuo possesso",
       "simpleDesc": [
         {
           "abilityID": 9037,
@@ -2353,12 +2353,12 @@
     },
     {
       "id": 9088,
-      "name": "Lenire i Morti",
-      "desc": "Inizio Turno: Questo Dono si attiva per tutto l'Incontro quando 5 o più Identità hanno Abilità Attacco che applicano Potenza o Conteggio [Combustion] o '<noparse>Bruciatura</noparse> Speciale'. (escluse le Abilità E.G.O; escluse le Riserve)\n\nInizio Turno: Infliggi +6 Conteggio [Combustion] a tutti i nemici e infliggi casualmente un totale di 15 Potenza [Combustion] tra tutti i nemici (o tutte le Parti dell'Anormalità; una volta per ondata)\n\nPer le Abilità a Moneta Positiva che infliggono Potenza o Conteggio [Combustion] o '<noparse>Bruciatura</noparse> Speciale': Potere Finale +1, Potere Moneta +1, Potenza [Combustion] inflitta +1, Conteggio [Combustion] inflitto +1.\n- Le Abilità Attacco a Moneta Negativa: Invece di ottenere Potere Moneta, ottieni Potere Base +(4 / n° di Monete) (min 1; arrotondato per difetto)\n\nQuando si vince uno Scontro con un'Abilità che infligge Potenza o Conteggio [Combustion] o '<noparse>Bruciatura</noparse> Speciale', infliggi (n° delle Monete restanti + 1) Potenza [Combustion] al nemico bersagliato.",
+      "name": "Lenisci i Morti",
+      "desc": "Inizio Turno: Questo Dono si attiva per tutto l'Incontro quando 5 o più Identità hanno Abilità Attacco che applicano Potenza o Conteggio [Combustion] o '<noparse>Bruciatura</noparse> Speciale'. (escluse le Abilità E.G.O; escluse le Riserve)\n\nInizio Turno: Infliggi +6 Conteggio [Combustion] a tutti i nemici e infliggi casualmente un totale di 15 Potenza [Combustion] tra tutti i nemici (o tutte le parti dell'Anormalità; una volta per ondata)\n\nPer le Abilità a Moneta Positiva che infliggono Potenza o Conteggio [Combustion] o '<noparse>Bruciatura</noparse> Speciale': Potere Finale +1, Potere Moneta +1, Potenza [Combustion] inflitta +1, Conteggio [Combustion] inflitto +1.\n- Le Abilità Attacco a Moneta Negativa: Invece di ottenere Potere Moneta, ottieni Potere Base +(4 / n° di Monete) (min 1; arrotondato per difetto)\n\nQuando si vince uno Scontro con un'Abilità che infligge Potenza o Conteggio [Combustion] o '<noparse>Bruciatura</noparse> Speciale', infliggi (n° delle Monete restanti + 1) Potenza [Combustion] al nemico bersagliato.",
       "simpleDesc": [
         {
           "abilityID": 9088,
-          "simpleDesc": "Infliggi +6 Conteggio [Combustion]; infliggi casualmente 15 Potenza [Combustion] tra tutti i nemici"
+          "simpleDesc": "Infliggi +6 Conteggio [Combustion]; Infliggi casualmente 15 Potenza [Combustion] tra tutti i nemici"
         },
         {
           "abilityID": 90881,

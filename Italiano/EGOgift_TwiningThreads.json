@@ -59,23 +59,23 @@
     {
       "id": 9267,
       "name": "Ottone Ardente",
-      "desc": "Potenza [Combustion] Max +11\n\nTriplica la prima Potenza [Combustion] inflitta nell'Incontro (una volta per Incontro)\n\nWhen an enemy takes [Combustion] damage, deal Wrath damage equal to [Combustion] Potency\n\nSkills that inflict [Combustion] Potency, [Combustion] Count, or 'Unique Burn' deal +20% damage",
+      "desc": "Potenza [Combustion] Max +11\n\nTriplica la prima Potenza [Combustion] inflitta nell'Incontro (una volta per Incontro)\n\nQuando un nemico subisce danni da [Combustion], infliggi danni da Ira uguale alla Potenza [Combustion]\n\nAbilità che infliggono Potenza o Conteggio [Combustion], o '<noparse>Bruciatura</noparse> Speciale' infliggono +20% di danni",
       "simpleDesc": [
         {}
       ]
     },
     {
       "id": 19267,
-      "name": "Ottone Ardente+",
-      "desc": "<style=\"upgradeHighlight\">Potenza [Combustion] Max +21</style>\n\nTriplica la prima Potenza [Combustion] inflitta nell'Incontro (una volta per Incontro)\n\nWhen an enemy takes [Combustion] damage, deal Wrath damage equal to [Combustion] Potency\n\nSkills that inflict [Combustion] Potency, [Combustion] Count, or 'Unique Burn' deal <style=\"upgradeHighlight\">+25%</style> damage",
+      "name": "Searing Brass+",
+      "desc": "Potenza [Combustion] Max <style=\"upgradeHighlight\">+21</style>\n\nTriplica la prima Potenza [Combustion] inflitta nell'Incontro (una volta per Incontro)\n\nQuando un nemico subisce danni da [Combustion], infliggi danni da Ira uguale alla Potenza [Combustion]\n\nAbilità che infliggono Potenza o Conteggio [Combustion], o '<noparse>Bruciatura</noparse> Speciale' infliggono <style=\"upgradeHighlight\">+25%</style> di danni",
       "simpleDesc": [
         {}
       ]
     },
     {
       "id": 29267,
-      "name": "Ottone Ardente++",
-      "desc": "Potenza [Combustion] Max +21\n\nTriplica la prima Potenza [Combustion] inflitta nell'Incontro (una volta per Incontro)\n\nWhen an enemy takes [Combustion] damage, deal Wrath damage equal to ([Combustion] Potency x <style=\"upgradeHighlight\">1.5</style>)\n\nSkills that inflict [Combustion] Potency, [Combustion] Count, or 'Unique Burn' deal <style=\"upgradeHighlight\">+30%</style> damage",
+      "name": "Searing Brass++",
+      "desc": "Potenza [Combustion] Max +21\n\nTriplica la prima Potenza [Combustion] inflitta nell'Incontro (una volta per Incontro)\n\nQuando un nemico subisce danni da [Combustion], infliggi danni da Ira uguale a <style=\"upgradeHighlight\">(Potenza [Combustion] x 1.5</style>)\n\nAbilità che infliggono Potenza o Conteggio [Combustion], o '<noparse>Bruciatura</noparse> Speciale' infliggono <style=\"upgradeHighlight\">+30%</style> di danni",
       "simpleDesc": [
         {}
       ]
