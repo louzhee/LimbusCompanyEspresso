@@ -367,13 +367,13 @@
     },
     {
       "id": 76,
-      "name": "Mnestic Experience",
-      "desc": "Obtained from the Mnestic Experience event"
+      "name": "Esperienza Mnestica",
+      "desc": "Ottenuto dall'evento Esperienza Mnestica"
     },
     {
       "id": 77,
-      "name": "Mnestic Experience - Special Ticket",
-      "desc": "Obtained from the Mnestic Experience event"
+      "name": "Esperienza Mnestica - Banner Speciale",
+      "desc": "Ottenuto dall'evento Esperienza Mnestica"
     }
   ]
 }
