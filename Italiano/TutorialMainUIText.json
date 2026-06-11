@@ -5054,43 +5054,43 @@
     },
     {
       "id": "TutoEvent9127_P3_D1",
-      "content": "Mnestic Experience Event consists of 11 stages, including story stages, and a single dungeon. Said stages also offer batches of [Photos] as a first-time Clear bonus (only for first-time clears of each Stage).\n\nYou can earn considerably more [Photos] from Mnestic Experience Stages compared to Main Story Stages. "
+      "content": "L'evento Esperienza Mnestica è composto da 11 Sezioni, comprese quelle di sola storia, e un singolo Dungeon. Anche queste Sezioni offrono delle [Foto] come bonus Primo Completamento (solo per il primo completamento di ogni Sezione).\n\nPuoi ottenere più [Foto] nelle Sezioni di Esperienza Mnestica, rispetto alle altre della Storia."
     },
     {
       "id": "TutoEvent9127_P4_T1",
-      "content": "Event Bonus Units"
+      "content": "Unità con Bonus Evento"
     },
     {
       "id": "TutoEvent9127_P4_D1",
-      "content": "Having Bonus Identities on your team increases the amount of [Photos] earned from Stages and Mirror Dungeons."
+      "content": "Avere Identità ed E.G.O dall'evento Esperienza Mnestica nella tua squadra aumenta la quantità di [Foto] ottenuta dalle Sezioni e Dungeon Specchio."
     },
     {
       "id": "TutoEvent9127_P5_T1",
-      "content": "Reward Exchange"
+      "content": "Scambio Ricompense"
     },
     {
       "id": "TutoEvent9127_P5_D1",
-      "content": "You can redeem various rewards from the [Reward Exchange] based on the number of [Photos] you have."
+      "content": "Puoi ottenere vari premi dalla schermata [Scambio Ricompense], in base al numero di [Foto] che possiedi."
     },
     {
       "id": "TutoEvent9127_P6_D1",
-      "content": "The [Reward Exchange]'s open duration is shown here."
+      "content": "Qui puoi vedere fino a quando puoi ottenere le ricompense evento in [Scambia Ricompense]."
     },
     {
       "id": "TutoEvent9127_P6_D2",
-      "content": "You can acquire the event reward Identity, Ticket Deco, banners, and various currencies from [Reward Exchange] menu."
+      "content": "Nel menu [Scambia Ricompense] puoi scambiare le [Foto] con l'Identità evento, l'Annunciatore, le decorazioni del Profilo, i Banner ed altro."
     },
     {
       "id": "TutoEvent9127_P7_T1",
-      "content": "Photo Bundles"
+      "content": "Pacchetto di Foto"
     },
     {
       "id": "TutoEvent9127_P7_D1",
-      "content": "Rarely, you may obtain [Photo Bundles] from clearing Encounters. [Photo Bundles] is automatically converted to 20 [Photos] upon acquisition."
+      "content": "Raramente potresti ottenere un [Pacchetto di Foto] completando gli Incontri. Il [Pacchetto di Foto] viene convertito in 20 [Foto] non appena viene ottenuto."
     },
     {
       "id": "TutoEvent9127_P8_D1",
-      "content": "Even after the event fully ends, you will be able to experience the Mnestic Experience combat Encounters and view its story anytime at the Driverside - [Deviazione] and Theater - [Detour Tales]."
+      "content": "Potrai leggere la Storia e affrontare gli Incontri di Fili Intrecciati anche dopo la fine dell'evento dalle schermate Guida e Teatro - [Deviazioni]."
     }
   ]
 }
