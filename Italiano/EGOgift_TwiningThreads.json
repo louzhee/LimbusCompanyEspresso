@@ -59,7 +59,7 @@
     {
       "id": 9267,
       "name": "Ottone Ardente",
-      "desc": "Potenza [Combustion] Max +11\n\nTriplica la prima Potenza [Combustion] inflitta nell'Incontro (una volta per Incontro)",
+      "desc": "Potenza [Combustion] Max +11\n\nTriplica la prima Potenza [Combustion] inflitta nell'Incontro (una volta per Incontro)\n\nWhen an enemy takes [Combustion] damage, deal Wrath damage equal to [Combustion] Potency\n\nSkills that inflict [Combustion] Potency, [Combustion] Count, or 'Unique Burn' deal +20% damage",
       "simpleDesc": [
         {}
       ]
@@ -67,7 +67,7 @@
     {
       "id": 19267,
       "name": "Ottone Ardente+",
-      "desc": "Potenza [Combustion] Max +<style=\"upgradeHighlight\">21</style>\n\nTriplica la prima Potenza [Combustion] inflitta nell'Incontro (una volta per Incontro)",
+      "desc": "<style=\"upgradeHighlight\">Potenza [Combustion] Max +21</style>\n\nTriplica la prima Potenza [Combustion] inflitta nell'Incontro (una volta per Incontro)\n\nWhen an enemy takes [Combustion] damage, deal Wrath damage equal to [Combustion] Potency\n\nSkills that inflict [Combustion] Potency, [Combustion] Count, or 'Unique Burn' deal <style=\"upgradeHighlight\">+25%</style> damage",
       "simpleDesc": [
         {}
       ]
@@ -75,7 +75,7 @@
     {
       "id": 29267,
       "name": "Ottone Ardente++",
-      "desc": "Potenza [Combustion] Max +21\n\nTriplica la prima Potenza [Combustion] inflitta nell'Incontro (una volta per Incontro)\n\n<style=\"upgradeHighlight\">Quando si attiva [Combustion], (Rison. Ira x 10)% di possibilità di infliggere (Potenza x Conteggio [Combustion] / 11) danni da Ira e ridurre il Conteggio [Combustion] sul bersaglio di 1 (probabilità di attivazione max: 50%; una volta per turno)</style>",
+      "desc": "Potenza [Combustion] Max +21\n\nTriplica la prima Potenza [Combustion] inflitta nell'Incontro (una volta per Incontro)\n\nWhen an enemy takes [Combustion] damage, deal Wrath damage equal to ([Combustion] Potency x <style=\"upgradeHighlight\">1.5</style>)\n\nSkills that inflict [Combustion] Potency, [Combustion] Count, or 'Unique Burn' deal <style=\"upgradeHighlight\">+30%</style> damage",
       "simpleDesc": [
         {}
       ]

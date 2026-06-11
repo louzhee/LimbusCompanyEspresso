@@ -1245,6 +1245,20 @@
       "name": "Outis",
       "nameWithTitle": "Outis",
       "desc": "La 15a Identità di Outis"
+    },
+    {
+      "id": 10615,
+      "title": "Ch'unokkun della S Corp.",
+      "name": "Hong Lu",
+      "nameWithTitle": "Hong Lu",
+      "desc": "La 15a Identità di Hong Lu"
+    },
+    {
+      "id": 10815,
+      "title": "Team OSIR LCD",
+      "name": "Ishmael",
+      "nameWithTitle": "Ishmael",
+      "desc": "La 15a Identità di Ishmael"
     }
   ]
 }

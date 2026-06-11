@@ -267,6 +267,14 @@
     {
       "id": "BeforeBehavior",
       "name": "[Prima di Agire]"
+    },
+    {
+      "id": "AlwaysUseEGOPassive2050911",
+      "name": "[Sempre Attivo - Effetto Esclusivo di Mentore dei Discendenti della Spada Meursault]"
+    },
+    {
+      "id": "WhenUseEGOPassive",
+      "name": "[Effetto all'Uso]"
     }
   ]
 }

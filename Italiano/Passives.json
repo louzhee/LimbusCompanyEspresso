@@ -3039,6 +3039,50 @@
       "name": "Spada Sigillata [Lævateinn]",
       "desc": "Quando entra in un Incontro per la prima volta, ottiene [MiddleFatherSwordOneOutis]\n\n<style=\"highlight\">Inizio Turno: A 0 [CountSkillMidOutis], ottiene [CountSkillMidOutis] corrispondente al livello di risveglio\n- [MiddleFatherSwordOneOutis]: Ottiene 1 [CountSkillMidOutis]\n- [MiddleFatherSwordTwoOutis]: Ottiene 2 [CountSkillMidOutis]\n- [MiddleFatherSwordThreeOutis]: Ottiene 2 [CountSkillMidOutis]\n\nQuando le seguenti condizioni vengono soddisfatte, perde 1 [CountSkillMidOutis] (una volta per turn)\n- Quando usa l'Abilità \"Timbro Della Vendetta\", perde 1 Stack (anche quando \"Timbro Della Vendetta\" si attiva come Contrattacco)\n- A 6+ somma di Rison-A Invidia, perde 1 Stack a Fine Turno\n\nA 0 Stack di [CountSkillMidOutis], usa \"Oggi si Spacchetta!\" come Attacco Incontrastato a Fine Abilità\n- Fine Turno: A 0 Stack di [CountSkillMidOutis], e se questa unità non è riuscita ad usare \"Oggi si Spacchetta!\" in quel turno, usa \"Oggi si Spacchetta!\" a Inizio Combattimento del turno successivo\n- Mentre la spada di questa unità ha [MiddleFatherSwordOneOutis], a meno dell'80% di PV, usa \"Oggi si Spacchetta!\" a prescindere dalle Stack di [CountSkillMidOutis]\n\nA 50%- PV, ottiene 3 [MiddleFatherGutsOutis] (una volta per Incontro)\n\nQuando viene Stordita per la prima volta in questo Incontro, si riprende dallo Stordimento a Fine Turno e ottiene 15 [ResentmentSpiderOutis] (tranne Stordimenti forzati)\n\nInizio Turno: A 15 [ResentmentSpiderOutis], sostituisce un'Abilità Base di questa unità sul Pannello di Controllo con \"Timbro Della Vendetta\" o \"Vi Condanno A Morte\" (3 volte per Incontro)\n- Si applica solo all'Abilità nello Slot più in basso a sinistra sul Pannello di Controllo\n- Questo effetto non si applica se o \"Timbro Della Vendetta\" o \"Vi Condanno A Morte\" sono già presenti nello Slot interessato</style>",
       "flavor": "\"Sepolte nei meandri più reconditi della Città ci sono le Rovine. Spingiti oltre, e non sarai più nella Città. Questo è un frammento di una spada brandita da uno degli Endwatchers, coloro che aspettavano la fine, i quali abitavano nelle Rovine, attendendo l'apocalisse. È soltanto un frammento, ma al suo interno giace assopito il suo immenso potere — intatto, immacolato.\n... Così mi avevate detto, un tempo. Fratelli Maggiori, avevate proprio ragione. Questa spada è una Figata.\""
+    },
+    {
+      "id": 1061501,
+      "name": "Scouring Hunterband [推刷巾]",
+      "desc": "If this unit's Speed is faster than the target's, deal +(Speed difference x 2)% damage (max 10%)\n- If target is [TiedRopeHonglu], double the above damage increase effect (max 20%)\n\nCombat Start: Deal +5% damage for every ally that has a Slash Pride Skill equipped this turn (max 30%)"
+    },
+    {
+      "id": 1061502,
+      "name": "Ch'unokkun",
+      "desc": "If a target has [TiedRopeHonglu], gain [TiedWithRopeID]\nWhen chaining Skills, if there is an enemy this unit has inflicted [TiedRopeHonglu] on, then this unit can redirect that enemy's Attack Skill's targeting to itself regardless of Speed (Focused Encounters only)"
+    },
+    {
+      "id": 1061521,
+      "name": "Spiteful Pursuit",
+      "desc": "When 1 ally with the earliest Deployment order attacks an enemy that has [Binding], deal +10% damage"
+    },
+    {
+      "id": 1081501,
+      "name": "Limbus Company Specialized Custom Prosthetic Prototype mk5 - Dokkaebi Arms",
+      "desc": "Combat Start: Gain [AengduNewArmIshmael] and heal (Pride Reson.) SP for Blade Lineage allied Identities excluding this unit\n\nCombat Start: If there is an allied Identity at less than 50% HP on the field excluding this unit, gain 1 [SupportProtect] (once per turn)\n\nSkill End: Gain 1 [WindBladeIshmael] for every 3 [Breath] Potency on self (max 5, 2 times per turn)",
+      "summary": "Gain [AengduNewArmIshmael]"
+    },
+    {
+      "id": 1081502,
+      "name": "To Where I Must Return",
+      "desc": "Upon entering the Encounter for the first time, this unit gains [BladelineagePride] for every Blade Lineage Identity on the field excluding this unit (max 3)\n\nIf 3 or more Blade Lineage Identities, excluding this unit, are defeated in this Encounter:\n- Before Skill Use, if this unit did not have [SwordPlayOfTheHomeland], gain [SwordPlayOfTheHomeland]\n- When this unit gains [Breath] Potency and [Breath] Count with its Skill or Coin effects, gain 1 additional [Breath] Potency and [Breath] Count\n- If 5 or more Blade Lineage Identities are defeated, gain 2 additional [Breath] Potency and [Breath] Count instead",
+      "summary": ""
+    },
+    {
+      "id": 1081503,
+      "name": "Demonfire Spinecleaver",
+      "desc": "On Defense Skill Clash Lose, if this unit has 3+ [Agility], this unit cannot be Staggered from taking damage until Defense Skill End, and activate \"To Claim Their Bones\" after being hit (2 times per turn, excluding forced Staggers)",
+      "summary": "Activate additional Skill when conditions are met"
+    },
+    {
+      "id": 1081513,
+      "name": "Demonfire Spinecleaver",
+      "desc": "<style=\"highlight\">On Base Attack Skill End, if this unit has 15+ [WindBladeIshmael], activate \"Even the Balance - Lucent Rippling Flame\" (once per turn)</style>\n\nOn Defense Skill Clash Lose, if this unit has 3+ [Agility], this unit cannot be Staggered from taking damage until Defense Skill End, and activate \"To Claim Their Bones\" after being hit (2 times per turn, excluding forced Staggers)",
+      "summary": "Activate additional Skill when conditions are met"
+    },
+    {
+      "id": 1081521,
+      "name": "Cut Down What Must Be Felled",
+      "desc": "1 ally with the fastest Speed deals +10% damage using Slash Skills\n- If the said ally has [Agility], deal +15% damage using Slash Skills instead"
     }
   ]
 }

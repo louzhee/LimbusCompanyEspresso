@@ -429,6 +429,16 @@
       "id": 85,
       "name": "Metro Rifrattiva Linea 6 - Banner Speciale",
       "desc": "Ottenuto completando la Linea 5 con 111 o meno Turni Totali prima che la Stagione 7: Kumo no Ito · otI on akA termini"
+    },
+    {
+      "id": 86,
+      "name": "Mnestic Experience",
+      "desc": "Obtained from the Mnestic Experience event"
+    },
+    {
+      "id": 87,
+      "name": "Mnestic Experience - Special Banner",
+      "desc": "Obtained from the Mnestic Experience event"
     }
   ]
 }
