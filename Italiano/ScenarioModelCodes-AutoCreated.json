@@ -3102,17 +3102,17 @@
         },
         {
             "id": "빵가게주인",
-            "name": "Bakery Owner",
+            "name": "Proprietario di un Forno",
             "nickName": "Residente del Distretto 14"
         },
         {
             "id": "뒤틀린검계1",
-            "name": "The Reminisced Dead",
+            "name": "Morto Rievocato",
             "nickName": "Salsu dei Discendenti della Spada"
         },
         {
             "id": "뒤틀린검계2",
-            "name": "The Reminisced Dead",
+            "name": "Morto Rievocato",
             "nickName": "Salsu dei Discendenti della Spada"
         },
         {
@@ -3127,27 +3127,27 @@
         },
         {
             "id": "N사해결사1",
-            "name": "Class 2 Pinframing Staff",
-            "nickName": "N Corp. Service des Clous"
+            "name": "Personale fermoimmagine Classe 2",
+            "nickName": "Service des Clous della N Corp."
         },
         {
             "id": "N사해결사2",
-            "name": "Class 2 Pinframing Staff",
-            "nickName": "N Corp. Service des Clous"
+            "name": "Personale fermoimmagine Classe 2",
+            "nickName": "Service des Clous della N Corp."
         },
         {
             "id": "임경업",
             "name": "Im Gyeong-eop",
-            "nickName": "S Corp. Military Commissioner  - Sal"
+            "nickName": "Commissario Militare della S Corp. - Sal"
         },
         {
             "id": "임경업과거",
             "name": "Im Gyeong-eop",
-            "nickName": "S Corp. Military Commissioner  - Sal"
+            "nickName": "Commissario Militare della S Corp.  - Sal"
         },
         {
             "id": "임경업뒤틀림",
-            "name": "Im Gyeong-eop Distorto",
+            "name": "Im Gyeong-eop Distorta",
             "nickName": "Distorsione"
         },
         {
@@ -3177,7 +3177,7 @@
         },
         {
             "id": "임경업뒤틀림사라짐",
-            "name": "Im Gyeong-eop Distorto",
+            "name": "Im Gyeong-eop Distorta",
             "nickName": "Distorsione"
         },
         {
