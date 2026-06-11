@@ -3786,7 +3786,7 @@
     {
       "id": "MatchesPersonality",
       "name": "Ardente",
-      "desc": "- elocità Min & Max +1\n- La prima Abilità Attacco Base usata in questo turno ottiene Potere Finale +2\n- Subisce 2% danni ai PV Sul Colpo con quell'Abilità (max 10%; questo danno non Stordisce o riduce i PV di questa unità al di sotto di 1)\n- Scade a Fine Turno",
+      "desc": "- Velocità Min & Max +1\n- La prima Abilità Attacco Base usata in questo turno ottiene Potere Finale +2\n- Subisce 2% danni ai PV Sul Colpo con quell'Abilità (max 10%; questo danno non Stordisce o riduce i PV di questa unità al di sotto di 1)\n- Scade a Fine Turno",
       "summary": "",
       "undefined": "-",
       "flavor": ""
