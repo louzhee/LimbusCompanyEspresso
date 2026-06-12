@@ -551,8 +551,8 @@
     },
     {
       "id": 9274,
-      "name": "Ohra Bond",
-      "desc": "On Crit against an enemy, inflict 1 [Binding] next turn (2 times per turn)\nOn Hit using a Skill against an enemy that has [Binding], gain 1 [Breath] (2 times per turn per Identity)\n\nTurn Start: All enemies that have [Laceration] gain [AttackDown] equal to [Binding] on themselves (max 5)\n\nTurn Start: If all enemies(for Focused Encounters, all Parts) have [Binding], all allies gain 3 [Breath]",
+      "name": "Catena Ohra",
+      "desc": "Per Colpo Critico contro un nemico, infliggi 1 [Binding] nel prossimo turno (2 volte per turno)\nPer Colpo usando un'Abilità contro un nemico affetto da [Binding], ottieni 1 [Breath] (2 volte per Identità)\n\nInizio Turno: Tutti i nemici che hanno [Laceration] ottengono [AttackDown] pari a [Binding] su sé stessi (max 5)\n\nInizio Turno: Se tuti i nemici (per gli Incontri Mirati, tutte le Parti) hanno [Binding], tutti gli alleati ottengono 3 [Breath]",
       "simpleDesc": [
         {
           "abilityID": 9274,
@@ -562,8 +562,8 @@
     },
     {
       "id": 9275,
-      "name": "N Corp. Service des Clous Briefcase",
-      "desc": "When hitting an enemy using a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', inflict 1 [NailPersonality] (once per Skill)\nWhen triggering [VibrationExplosion] on an enemy that has [NailPersonality], inflict 1 [Binding] next turn (3 times per turn)",
+      "name": "Valigetta del Service des Clous du N Corp.",
+      "desc": "Quando colpisci un nemico usando un'Abilità che infligge Potenza, Conteggio [Laceration] o '<noparse>Sanguinamento</noparse> Speciale', infliggi 1 [NailPersonality] (una volta per Abilità)\nQuando si attiva [VibrationExplosion] su un nemico con [NailPersonality], infliggi 1 [Binding] nel turno dopo (3 volte per turno)",
       "simpleDesc": [
         {
           "abilityID": 9275,
@@ -573,8 +573,8 @@
     },
     {
       "id": 9276,
-      "name": "Baekja Water Dropper",
-      "desc": "When an allied Identity gains [SupportProtect], the said ally gains 2 [AttackDmgUp] and 2 [Protection]\n\n[Effects apply only to #1 Deployed Identity]\nTurn End: Gain 2 [Agility] next turn\nWhen an Identity's Speed is faster than the enemy's, deal +3% damage for every Speed difference (max 30%)",
+      "name": "Contagocce in Baekja",
+      "desc": "Quando un'Identità alleata ottiene [SupportProtect], quell'Identità ottiene 2 [AttackDmgUp] e 2 [Protection]\n\n[Gli effetti si applicano solo alla 1° Identità Schierata]\nFine Turno: Ottieni 2 [Agility] nel turno dopo\nQuando la Velocità di un'Identità è maggiore rispetto a quella del nemico, infliggi +3% di danni per la differenza in Velocità (max 30%)",
       "simpleDesc": [
         {
           "abilityID": 9276,
@@ -584,8 +584,8 @@
     },
     {
       "id": 9277,
-      "name": "Flagroot Cane Sword",
-      "desc": "If an ally was not hit by an enemy this turn, the said ally gains 1 [SlashDamageUp] next turn\nWhen an ally is hit by an enemy, the said ally gains 4 [Breath], and gains 1 [CriticalDamageUp] this turn and next turn (once per turn per Identity)\n- If the affected ally is a Blade Lineage Identity, gain double the effects of this E.G.O Gift",
+      "name": "Bastone Animato di Acoro",
+      "desc": "Se un alleato non è stato colpito da un nemico in questo turno, tale alleato ottiene 1 [SlashDamageUp] nel turno dopo\nQuando un alleato viene colpito da un nemico, tale alleato ottiene 4 [Breath], e ottiene 1 [CriticalDamageUp] per questo turno e il turno dopo (una volta per turno per Identità)\n- Se l'alleato affetto è un'Identità dei Discendenti della Spada, ottiene il doppio degli effetti di questo Dopo E.G.O",
       "simpleDesc": [
         {
           "abilityID": 9277,
@@ -595,8 +595,8 @@
     },
     {
       "id": 9278,
-      "name": "Crushed Wooden Manacle",
-      "desc": "On Hit against an enemy using a Slash Skill, inflict 1 [DefenseDown] next turn (2 times per Skill)\nIf an ally is faster than the enemy, the said ally deals +3% damage using Base Attack Skills for every 1 Speed Difference (max 12%)\n- If the enemy has [Binding], double the above damage boost and its maximum cap",
+      "name": "Ceppo di Legno Spezzato",
+      "desc": "Per Colpo contro un nemico che usa un'Abilitàà Tagliente, infliggi 1 [DefenseDown] il turno dopo (2 volte per Abilità)\nSe un alleato è più veloce del nemico, tale alleato infligge +3% di danni usando le Abilità Attacco Base per ciascuna differenza di Velocità (max 12%)\n- Se il nemico ha [Binding], raddoppia il precedente potenziamento ai danni e il suo limite massimo",
       "simpleDesc": [
         {
           "abilityID": 9278,
@@ -606,8 +606,8 @@
     },
     {
       "id": 9279,
-      "name": "Unadorned Sword-guard",
-      "desc": "Slash Skills deal +1% damage for every [Breath] (max 15%)",
+      "name": "Guardia di Spada Scabra",
+      "desc": "Le Abilità Taglienti infliggono +1% di danni per ogni [Breath] (max 15%)",
       "simpleDesc": [
         {
           "abilityID": 9279,
@@ -617,8 +617,8 @@
     },
     {
       "id": 9280,
-      "name": "The Book of the Homeland Swordplay [本國劍譜]",
-      "desc": "If an enemy has 1.5 or lower Slash Resist., Slash Resist. +0.3\nSlash Skills gain Offense Level +2\nWhen attacking enemies that are Weak (greater than 1.0 Resist.; Staggered states do not count) to Slash, deal +(5 + (target's Slash Resist. x 10))% damage (max 25%)\n\nSlash Skills deal +1.5% damage for every [Breath] (max 30%)\n\nTurn Start: Activates when there are 3 or more Blade Lineage Identities (only counts Identities on the field at Encounter Start)\nCombat Start: Apply 1 [BongukGiftEnhance] on allied Blade Lineage Identities that have equipped Wrath or Pride Skills\n\nCount 1 non-Blade Lineage S Corp. Identity with the earliest Deployment order as a Blade Lineage Identity and apply [BongukGiftEnhance] on it every turn",
+      "name": "Il Manoscritto della Spada della Patria [本國劍譜]",
+      "desc": "Se un nemico ha la Resistenza Tagliente di 1.5 o minore, Resistenza Tegliente +0.3\nLe Abilità Taglienti ottengono Livello Offensivo +2\nQuando attacchi dei nemici Deboli(Resistenza maggiore di 1.0; gli stati di Stordimento non contano) al Tagliente, infliggi +(5 + (Resistenza Tagliente del bersaglio. x 10))% di danni (max 25%)\n\nLe Abilità Taglienti infliggono +1.5% di danni per ogni [Breath] (max 30%)\n\nInizio Turno: Si attiva quando ci sono 3 o più Identità dei Discendenti della Spada (vengono contate solo le Identità in campo all'Inizio dell'Incontro)\nInizio Combattimento: Applica 1 [BongukGiftEnhance] sulle identità dei Discendenti della Spada alleate che hanno equipaggiato Abilità Ira o Superbia\n\nConta 1 Identità della S Corp che non fa parte dei Discendenti della Spada schierata per prima come un'Identità dei Discendenti della Spada e applica [BongukGiftEnhance] ad essa a ogni turno",
       "simpleDesc": [
         {
           "abilityID": 9280,
