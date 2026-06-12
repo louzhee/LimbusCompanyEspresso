@@ -2745,7 +2745,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Osservando le Pietre nella scacchiera",
+          "name": "Osservando le Pietre nella Scacchiera",
           "desc": "[CanDuelGuard]\n[SupportProtect] Abilità Esclusiva\n\n[WhenUse] Ottiene 3 [Breath]",
           "coinlist": [
             {
@@ -2759,7 +2759,7 @@
         },
         {
           "level": 4,
-          "name": "Observing the Stones on the Board",
+          "name": "Osservando le Pietre nella Scacchiera",
           "desc": "[CanDuelGuard]\n[SupportProtect] Abilità Esclusiva\n<style=\"highlight\">[WhenUse] Recupera 5 PS su bersagli che questa unità ha protetto con sando [SupportProtect]</style>\n[WhenUse] Ottiene 3 [Breath]",
           "coinlist": [
             {
