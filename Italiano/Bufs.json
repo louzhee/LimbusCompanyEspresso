@@ -3824,57 +3824,57 @@
     },
     {
       "id": "BladelineagePride",
-      "name": "Bearing of a Salsu",
-      "desc": "- Max Stack: 3\n- Gain Offense Level for every Stack\n- On Attack Hit using Slash Skills, gain 1 Poise (2 times per turn) \n- Lose 1 Stack when an allied Blade Lineage Identity is defeated",
+      "name": "Portamento di un Salsu",
+      "desc": "- Max Stack: 3\n- Ottiene Livello Offensivo per ogni Stack\n- Sul colpo con attacchi che usano Abilità Taglienti, ottiene 1 Equilibrio (2 volte per turno) \n- Perde 1 Stack quando un Identità alleata che appartiene ai Discendenti della Spada viene sconfitta",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "WindBladeIshmael",
-      "name": "Mook Workshop - Ye [銳] Type II Bladedraw / Thrust Force: Dokkaebi Fire",
-      "desc": "- Max Stack: 20\n- Can gain up to 10 Stacks per turn\n- Slash Base Attack Skills deal +1% damage for every Stack (max 10%)\n- Defense Skills lose 1 Clash Power for every 2 Stacks (max 5)\n- Turn End: Gain 1 Haste next turn for every 5 Stacks (max 3)",
+      "name": "Officina Mook - Ye[銳] Seconda Forma Sguainata / Propulsione : Fuoco Dokkaebi",
+      "desc": "- Max Stack: 20\n- Puo Ottenere fino a 10 stack per turno\n- Le Abilità Base Taglienti infliggono +1% danni per ogni Stack (max 10%)\n- Le Abilità Difensive perdono 1 Potere Scontro per ogni 2 Stack (max 5)\n- Fine Turno: Ottiene 1 Rapidità il turno successivo per ogni 5 Stack (max 3)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AlcoholKimPersonal",
-      "name": "Drink to the Fallen",
-      "desc": "- Max Stack: 4\n- Turn Start: Gain 1 Poise for every Stack\n· Blade Lineage Mentor Meursault gains 2 Poise for every Stack instead\n- Base Skills deal +(Poise on self x 1.5)% damage on Critical Hit (max 15%)\n- Base Skills that gain Poise and Poise Count gain Clash Power +1\n- Turn End: Lose 1 Stack",
+      "name": "Brindisi ai Caduti",
+      "desc": "- Max Stack: 4\n- Inizio Turno: Ottiene 1 Equilibrio per ogni Stack\n· Mentore dei Discendenti della Spada Meursault Ottiene invece 2 Equilibrio per ogni Stack\n- Le Abilità Base infliggono +(Equilibrio su sè x 1.5)% danni sui colpi critici (max 15%)\n- Le Abilità Base che ottengono Equilibrio e Conteggio Equilibrio ottengono Potere Scontro +1\n- Fine Turno: Perde 1 Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "GrudgePersonal",
-      "name": "Growing Resentment",
-      "desc": "- Max Stack: 999\n- \"To Claim Their Bones\" gains (Stack / 100) Final Power (max 6; rounded down)\n- On Hit using the final Coins of either \"Yield My Flesh\" or \"To Claim Their Bones\", deal +(Stack / 10)% damage; then, this effect expires",
+      "name": "Rancore Crescente",
+      "desc": "- Max Stack: 999\n- \"Per Strappare le Ossa\" Ottiene (Stack / 100) Potere Finale (max 6; Arrotondato per eccesso)\n- Sul colpo usando la moneta finale di \"Cedo la Carne\" o \"Per Strappare le Ossa\", infligge +(Stack / 10)% danni; poi, questo effetto scade",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "GhostKimPersonal",
-      "name": "Resentment",
-      "desc": "- Min & Max Speed +2\n- On Hit, heal HP by 10% of damage dealt using the Skill (can heal up to 50% of this unit's max HP per Skill)",
+      "name": "Risentimento",
+      "desc": "- Velocità Min & Max +2\n- Sul Colpo, Recupera PV pari al 10% del danno fatto usando un Abilità (può recuperare fino al 50% dei PV massimi di questa unità per Abilità)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RootSoupKimPersonal",
-      "name": "Resentful Scabbard",
-      "desc": "- When an ally, including this unit, takes HP damage, gain Growing Resentment equal to damage taken\n- In Memoriam Passive now ignores conditionals and activates at max potential\n- When activating Pride Reson., apply Swordplay of the Homeland - The True Essence on all Blade Lineage allies other than this unit\n\n- On Using \"Yield My Flesh\", until Skill End:\n· This unit's HP does not drop below 10 (once per turn)\n· Lose (Poise on self / 2) Clash Power (rounded down)\n- On Using \"To Claim Their Bones\", gain 4 Poise\n\n※ Sword of the Homeland - The True Essence effects:\n- Base Attack Skills gain Final Power +(# of Blade Lineage allies on the field / 3) (max 2, rounded down)\n- If this unit is a Blade Lineage Salsu, Base Skills gain Final Power +1 and deal +(120 / # of Coins)% damage\n- Turn End: Gain 1 Haste next turn and this effect expires",
+      "name": "Feretro Rancoroso",
+      "desc": "- Quando un alleato, includendo questa unità, subisce danni ai PV, Ottiene Rancore Crescentepari ai danni subiti\n- La Passiva In Memoriam now ignora le condizionali e si attiva al massimo potenziale\n- Quando attivi uns risonanza Superbia, applica Scherma della Patria - Vera Essenza a tutti gli alleati dei Discendenti della Spada oltre a questa unità\n\n- Usando \"Cedo la Carne\", fino alla fine dell'Abilità:\n· i PV di questa unità non possono scendere sotto 10 (una volta per turno)\n· Perde (Equilibrio su sè / 2) Potere Scontro (arrotondato per difetto)\n- Usando \"Per Strappare le Ossa\", Ottiene 4 Equilibrio\n\n※ Effetti di Scherma della Patria - Vera Essenza:\n- Le Abilità Offensive Base ottengono Potere Finale +(# alleati dei Discendenti della Spada / 3) (max 2, arrotondato per difetto)\n- Se questa unità è un Salsu dei Discendenti della Spada, le Abilità Base ottengono Potere Finale +1 e infliggono +(120 / # monete)% danni\n- Fine Turno: Ottiene 1 Rapidità il turno successivo e questo effetto scade",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RootSoupKimSatgat",
-      "name": "Sword of the Homeland - The True Essence",
-      "desc": "- Base Attack Skills gain Final Power +(# of Blade Lineage allies on the field / 3) (max 2, rounded down)\n- If this unit is a Blade Lineage Salsu, Base Skills gain Final Power +1 and deal +(120 / # of Coins)% damage\n- Turn End: Gain 1 Haste next turn and this effect expires",
+      "name": "Scherma della Patria - Vera Essenza",
+      "desc": "- Le Abilità Offensive Base ottengono Potere Finale +(# alleati dei Discendenti della Spada / 3) (max 2, arrotondato per difetto)\n- Se questa unità è un Salsu dei Discendenti della Spada, le Abilità Base ottengono Potere Finale +1 e infliggono +(120 / # monete)% danni\n- Fine Turno: Ottiene 1 Rapidità il turno successivo e questo effetto scade",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BongukGiftEnhance",
-      "name": "Sword of the Homeland - Striking",
-      "desc": "- Max Stack: 1\n- Plus Coin Power +1, deal +15% damage on Critical Hit\n- Expires at Turn End",
+      "name": "Scherma della Patria - Folgorante",
+      "desc": "- Max Stack: 1\n- Potere Monete Positive +1, infligge +15% danni su Colpo Critico\n- Scade a Fine Turno",
       "summary": "",
       "undefined": "-"
     }
