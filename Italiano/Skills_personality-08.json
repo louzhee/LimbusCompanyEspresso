@@ -2249,23 +2249,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rending Arts",
-          "desc": "[WhenUse] Gain +2 [Breath] Count\n[EndSkill] If this unit has [Agility], gain 1 [WindBladeIshmael] (once per turn)",
+          "name": "Tecniche Laceranti",
+          "desc": "[WhenUse] Ottiene +2 Conteggio [Breath]\n[EndSkill] Se questa unità ha [Agility], ottiene 1 [WindBladeIshmael] (una volta per turno)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             }
@@ -2273,23 +2273,23 @@
         },
         {
           "level": 2,
-          "name": "Rending Arts",
-          "desc": "<style=\"highlight\">[WhenUse] At 3+ [Agility], Clash Power +1</style>\n[WhenUse] Gain +2 [Breath] Count\n[EndSkill] If this unit has [Agility], gain 1 [WindBladeIshmael] (once per turn)",
+          "name": "Tecniche Laceranti",
+          "desc": "<style=\"highlight\">[WhenUse] A 3+ [Agility], Potere Scontro +1</style>\n[WhenUse] Ottiene +2 Conteggio [Breath]\n[EndSkill] Se questa unità ha [Agility],  1 [WindBladeIshmael] (una volta per turno)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             }
@@ -2298,25 +2298,25 @@
         {
           "level": 4,
           "name": "Rending Arts",
-          "desc": "<style=\"highlight\">[WhenUse] At 5+ [Breath], Coin Power +1\n[WhenUse] Clash Power +1 for every 5 [Laceration] on target (max 2)</style>\n[WhenUse] At 3+ [Agility], Clash Power +1\n[WhenUse] Gain +2 [Breath] Count\n[EndSkill] If this unit has [Agility], gain 1 [WindBladeIshmael] (once per turn)",
+          "desc": "<style=\"highlight\">[WhenUse] A 5+ [Breath], Potere Moneta +1\n[WhenUse] Potere Scontro +1 per ogni 5 [Laceration] sul bersaglio (max 2)</style>\n[WhenUse] A 3+ [Agility], Potere Scontro +1\n[WhenUse] Ottiene +2 Conteggio [Breath]\n[EndSkill] Se questa unità possiede [Agility], Ottiene 1 [WindBladeIshmael] (una volta per turno)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If this unit has [AengduNewArmIshmael] and 3+ [Agility], Reuse this Coin (once per turn)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Se questa unità ha [AengduNewArmIshmael] e 3+ [Agility], Riusa questa Moneta (una volta per turno)</style>"
                 }
               ]
             }
