@@ -792,21 +792,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "name": "Spadaccino Ammantato D'ombra [着影揮刀]",
           "abName": "Geseundae",
-          "desc": "When used for the first time in an Encounter, consume 15 less SP\n- If Blade Lineage Mentor Meursault used this Skill, also consume 1 fewer Wrath, Pride, and Envy E.G.O resources\n\nClash Power +1 and deal +6% damage for every 4 [Breath] on self (max 4, max 12% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +60% damage against the main target\n- Blade Lineage Mentor Meursault deals +120% damage against the main target instead\n\n[BeforeAttack] Gain +(highest Reson. / 2) Atk Weight (max 2, rounded down)\n[BeforeAttack] (3 + highest Reson.) allies with the earliest Deployment orders gain +4 [Breath] Count\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn",
+          "desc": "Quando viene usata per la prima volta in battaglia, consuma 15 PS in meno\n- Se Mentore dei Discendenti della Spada Meursault usa questa Abilità, consuma inoltre 1 risorsa E.G.O Ira, Superbia, e Invidia in meno\n\nPotere Scontro +1 ae infligge +6% danni per ogni 4 [Breath] su sè (max 4, max 12% rispettivamente)\n\nSe questa unità ha ottenuto [AlcoholKimPersonal] durante questo Incontro, infligge +60% danni contro il bersaglio principale\n- Mentore dei Discendenti della Spada Meursault infligge invece +120% danni contro il bersaglio principale\n\n[BeforeAttack] Ottiene +(Rison. più alta / 2) Gittata Attacco (max 2, rounded down)\n[BeforeAttack] (3 + Rison. più alta) alleati con l'ordine di schieramento più alto ottengono +4 Conteggio [Breath]\n[EndSkill] 4 altre unità alleate dei Discendenti della Spada che hanno la quantità minore di PS recuperano 10 PS\n[EndSkill] Ottiene 4 [AlcoholKimPersonal] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             }
@@ -816,19 +816,19 @@
           "level": 3,
           "name": "Shadow-vested Bladesinger [着影揮刀]",
           "abName": "Geseundae",
-          "desc": "When used for the first time in an Encounter, consume 15 less SP\n- If Blade Lineage Mentor Meursault used this Skill, also consume 1 fewer Wrath, Pride, and Envy E.G.O resources\n\nClash Power +1 and deal +6% damage for every 4 [Breath] on self (max <style=\"highlight\">6</style>, max <style=\"highlight\">24</style>% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +<style=\"highlight\">80</style>% damage against the main target\n- Blade Lineage Mentor Meursault deals +<style=\"highlight\">160</style>% damage against the main target instead\n\n[BeforeAttack] Gain +(highest Reson. / 2) Atk Weight (max 2, rounded down)\n[BeforeAttack] (3 + highest Reson.) allies with the earliest Deployment orders gain +4 [Breath] Count\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn",
+          "desc": "Quando viene usata per la prima volta in battaglia, consuma 15 PS in meno\n- Se Mentore dei Discendenti della Spada Meursault usa questa Abilità, consuma inoltre 1 risorsa E.G.O Ira, Superbia, e Invidia in meno\n\nPotere Scontro +1 ae infligge +6% danni per ogni 4 [Breath] su sè (max <style=\"highlight\">6</style>, max <style=\"highlight\">24</style>% rispettivamente)\n\nSe questa unità ha ottenuto [AlcoholKimPersonal] durante questo incontro, infligge +<style=\"highlight\">80</style>% danni contro il brsaglio principale\n- Mentore dei Discendenti della Spada Meursault infligge invece +<style=\"highlight\">160</style>% danni contro il bersaglio principale\n\n[BeforeAttack] Ottiene +(Rison. più alta / 2) Gittata Attacco (max 2, arrotondato per difetto)\n[BeforeAttack] (3 + Rison. più alta) alleati con l'ordine di schieramento più alto ottengono +4 Conteggio [Breath]\n[EndSkill] 4 altre unità alleate dei Discendenti della Spada che hanno la quantità minore di PS recuperano 10 PS\n[EndSkill] Ottiene 4 [AlcoholKimPersonal] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             }
@@ -838,19 +838,19 @@
           "level": 4,
           "name": "Shadow-vested Bladesinger [着影揮刀]",
           "abName": "Geseundae",
-          "desc": "When used for the first time in an Encounter, consume 15 less SP\n- If Blade Lineage Mentor Meursault used this Skill, also consume 1 fewer Wrath, Pride, and Envy E.G.O resources\n\nClash Power +1 and deal +6% damage for every 4 [Breath] on self (max <style=\"highlight\">8</style>, max <style=\"highlight\">30</style>% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +<style=\"highlight\">100</style>% damage against the main target\n- Blade Lineage Mentor Meursault deals +<style=\"highlight\">200</style>% damage against the main target instead\n\n[BeforeAttack] Gain +(highest Reson. / 2) Atk Weight (max 2, rounded down)\n[BeforeAttack] (3 + highest Reson.) allies with the earliest Deployment orders gain +4 [Breath] Count\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn",
+          "desc": "Quando viene usata per la prima volta in battaglia, consuma 15 PS in meno\n- Se Mentore dei Discendenti della Spada Meursault usa questa Abilità, consuma inoltre 1 risorsa E.G.O Ira, Superbia, e Invidia in meno\n\nPotere Scontro +1 e infligge +6% danni per ogni 4 [Breath] su sè (max <style=\"highlight\">8</style>, max <style=\"highlight\">30</style>% rispettivamente)\n\nSe questa unità ha ottenuto [AlcoholKimPersonal] durante questo incontro, infligge +<style=\"highlight\">100</style>% danni contro il bersaglio principale\n- Mentore dei Discendenti della Spada Meursault infligge invece +<style=\"highlight\">200</style>% danni contro il bersaglio principale\n\n[BeforeAttack] Ottiene + (Rison. più alta / 2) Gittata Attacco (max 2, arrotondato per difetto)\n[BeforeAttack] (3 + Rison. più alta) alleati con l'ordine di schieramento più alto ottengono +4 Conteggio [Breath]\n[EndSkill] 4 altre unità alleate dei Discendenti della Spada che hanno la quantità minore di PS recuperano 10 PS\n[EndSkill] Ottiene 4 [AlcoholKimPersonal] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             }
@@ -865,7 +865,7 @@
           "level": 1,
           "name": "Shadow-vested Bladesinger [着影揮刀]",
           "abName": "Geseundae",
-          "desc": "[CantIdentify]\nTargets randomly\n\nClash Power +2 and deal +6% damage for every 4 [Breath] on self (max 8, max 12% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +60% damage against the main target\n- Blade Lineage Mentor Meursault deals +120% damage against the main target\n\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -8)\n[BeforeAttack] All enemies and allies gain +4 [Breath] Count, 1 [SlashDamageUp] and 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn",
+          "desc": "[CantIdentify]\nBersaglia Casualmente\n\nPotere Moneta +2 and infligge +6% danno per ogni 4 [Breath] se sè (max 8, max 12% rispettivamente)\n\nSe questa unità ha ottenuto [AlcoholKimPersonal] durante questo incontro, infligge +60% danni contro il bersaglio pricipale\n- Mentore dei Discendenti della Spada Meursault infligge +120% danni contro il bersaglio principale\n\n[BeforeAttack] Potere Base -2 per ogni Moneta Infranta (max -8)\n[BeforeAttack] Tutti i nemici e alleati ottengono +4 Conteggio [Breath], 1 [SlashDamageUp] e 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 altre unità alleate dei Discendenti della Spada che hanno la quantità minore di PS recuperano 10 PS\n[EndSkill] Ottiene 4 [AlcoholKimPersonal] il prossimo turno",
           "coinlist": [
             {
               "coindescs": [
@@ -873,10 +873,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                  "desc": "[CriticalOnSucceedAttack] La Moneta Finale ottiene Potere Finale +2 (una volta per Moneta)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             },
@@ -886,10 +886,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                  "desc": "[CriticalOnSucceedAttack] La Moneta Finale ottiene Potere Finale +2 (una volta per Moneta)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             },
@@ -899,10 +899,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                  "desc": "[CriticalOnSucceedAttack] La Moneta Finale ottiene Potere Finale +2 (una volta per Moneta)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             },
@@ -912,7 +912,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             }
@@ -922,7 +922,7 @@
           "level": 3,
           "name": "Shadow-vested Bladesinger [着影揮刀]",
           "abName": "Geseundae",
-          "desc": "[CantIdentify]\nTargets randomly\n\nClash Power +2 and deal +6% damage for every 4 [Breath] on self (max <style=\"highlight\">12</style>, max <style=\"highlight\">24</style>% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +<style=\"highlight\">80</style>% damage against the main target\n- Blade Lineage Mentor Meursault deals +<style=\"highlight\">160</style>% damage against the main target\n\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -8)\n[BeforeAttack] All enemies and allies gain +4 [Breath] Count, 1 [SlashDamageUp] and 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn",
+          "desc": "[CantIdentify]\nBersaglia Casualente\n\nPotere Moneta +2 and infligge +6% danno per ogni 4 [Breath] se sè (max <style=\"highlight\">12</style>, max <style=\"highlight\">24</style>% rispettivamente)\n\nSe questa unità ha ottenuto [AlcoholKimPersonal] durante questo Incontro, infligge +<style=\"highlight\">80</style>% danni contro il bersaglio principale\n- Mentore dei Discendenti della Spada Meursault infligge +<style=\"highlight\">160</style>% danni contro il bersaglio principale\n\n[BeforeAttack] Potere Base -2 per ogni Moneta Infranta (max -8)\n[BeforeAttack] Tutti i nemici e alleati ottengono +4 Conteggio [Breath], 1 [SlashDamageUp] e 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 altre unità alleate dei Discendenti della Spada che hanno la quantità minore di PS recuperano 10 PS\n[EndSkill] Ottiene 4 [AlcoholKimPersonal] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
@@ -930,10 +930,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                  "desc": "[CriticalOnSucceedAttack] La Moneta Finale ottiene Potere Finale +2 (una volta per Moneta)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             },
@@ -943,10 +943,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                  "desc": "[CriticalOnSucceedAttack] La Moneta Finale ottiene Potere Finale +2 (una volta per Moneta)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             },
@@ -956,10 +956,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                  "desc": "[CriticalOnSucceedAttack] La Moneta Finale ottiene Potere Finale +2 (una volta per Moneta)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             },
@@ -969,7 +969,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             }
@@ -979,7 +979,7 @@
           "level": 4,
           "name": "Shadow-vested Bladesinger [着影揮刀]",
           "abName": "Geseundae",
-          "desc": "[CantIdentify]\nTargets randomly\n\nClash Power +2 and deal +6% damage for every 4 [Breath] on self (max <style=\"highlight\">16</style>, max <style=\"highlight\">30</style>% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +<style=\"highlight\">100</style>% damage against the main target\n- Blade Lineage Mentor Meursault deals +<style=\"highlight\">200</style>% damage against the main target\n\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -8)\n[BeforeAttack] All enemies and allies gain +4 [Breath] Count, 1 [SlashDamageUp] and 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn",
+          "desc": "[CantIdentify]\nBersaglia Casualmente\n\nPotere Moneta +2 and infligge +6% danno per ogni 4 [Breath] se sè (max <style=\"highlight\">16</style>, max <style=\"highlight\">30</style>% rispettivamente)\n\nSe questa unità ha ottenuto [AlcoholKimPersonal] durante questo Incontro, infligge +<style=\"highlight\">100</style>% danni contro il bersaglio principale\n- Mentore dei Discendenti della Spada Meursault infligge +<style=\"highlight\">200</style>% danni contro il bersaglio principale\n\n[BeforeAttack] Potere Base -2 per ogni Moneta Infranta (max -8)\n[BeforeAttack] Tutti i nemici e alleati ottengono +4 Conteggio [Breath], 1 [SlashDamageUp] e 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 altre unità alleate dei Discendenti della Spada che hanno la quantità minore di PS recuperano 10 PS\n[EndSkill] Ottiene 4 [AlcoholKimPersonal] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
@@ -987,10 +987,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                  "desc": "[CriticalOnSucceedAttack] La Moneta Finale ottiene Potere Finale +2 (una volta per Moneta)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             },
@@ -1000,10 +1000,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                  "desc": "[CriticalOnSucceedAttack] La Moneta Finale ottiene Potere Finale +2 (una volta per Moneta)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             },
@@ -1013,10 +1013,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                  "desc": "[CriticalOnSucceedAttack] La Moneta Finale ottiene Potere Finale +2 (una volta per Moneta)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             },
@@ -1026,7 +1026,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             }
