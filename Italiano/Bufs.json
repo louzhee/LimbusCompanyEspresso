@@ -3802,7 +3802,7 @@
     {
       "id": "TiedRopeHonglu",
       "name": "Legato [Hong Lu]",
-      "desc": "- Stack Base: 3\n- Velocita Min & Max -2\n- Subisce +10% Danni da Superbia\n- Scade quando colui che lo infligge si Ritira, viene ucciso, o lo infligge su un bersaglio diverso. Rimpiazzato quando Legato da un altra unità\n- Fine Turno: Perde 1 Stack se colui che lo infligg non ha colpito questa unità",
+      "desc": "- Stack Base: 3\n- Velocita Min & Max -2\n- Subisce +10% Danni da Superbia\n- Scade quando l'unità che lo infligge si Ritira, viene ucciso, o lo infligge su un bersaglio diverso. Rimpiazzato quando Legato da un altra unità\n- Fine Turno: Perde 1 Stack se l'unità che lo infligge non ha colpito questa unità",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3810,7 +3810,7 @@
     {
       "id": "TiedWithRopeID",
       "name": "Preparativi Per il Trasporto Prigionieri",
-      "desc": "-Stack Base: 1\n- Legati al momento {0}\n- In uno Scontro contro nemici che posseggono Legato[Hong Lu], Potere Scontro +1\n- Sul Colpo contro nemici che posseggono Legato[Hong Lu], infligge 1 Sanguinamento e ottiene 1 Equilibrio (2 Abilità per turno)\n- Se non ci sono nemici Legati, scade",
+      "desc": "-Stack Base: 1\n- Legati al momento {0}\n- In uno Scontro contro nemici che hanno Legato [Hong Lu], Potere Scontro +1\n- Sul Colpo contro nemici che hanno Legato [Hong Lu], infligge 1 Sanguinamento e ottiene 1 Equilibrio (2 Abilità per turno)\n- Se non ci sono nemici Legati, scade",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3818,7 +3818,7 @@
     {
       "id": "AengduNewArmIshmael",
       "name": "Armamenti Dokkaebi",
-      "desc": "- Subisci -15% danni\n- All'uso di un Abilità, ottiene 1 Rapidità il prossimo turno (2 volte per turno)\n- Fine Combattimento: Questo effetto scade, e ottiene +2 Conteggio Equilibrio",
+      "desc": "- Subisci -15% danni\n- All'uso di un Abilità, ottiene 1 Rapidità il prossimo turno (2 volte per turno)\n- Fine Combattimento: questo effetto scade, e ottiene +2 Conteggio Equilibrio",
       "summary": "",
       "undefined": "-"
     },
