@@ -3040,33 +3040,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Constricting Ohra Bonds",
-          "desc": "[WhenUse] Gain +3 [Breath] Count",
+          "name": "Catene Ohra Vincolanti",
+          "desc": "[WhenUse] ottiene +3 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 3 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Inflgge 1 [Binding] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [TiedRopeHonglu], inflict 1 [TiedRopeHonglu]"
+                  "desc": "[OnSucceedAttack] se il bersaglio ha [TiedRopeHonglu], infligge 1 [TiedRopeHonglu]"
                 }
               ]
             }
@@ -3074,33 +3074,33 @@
         },
         {
           "level": 2,
-          "name": "Constricting Ohra Bonds",
-          "desc": "[WhenUse] At 6+ ([Breath] on self + [Laceration] on target), Coin Power +1\n[WhenUse] Gain +3 [Breath] Count",
+          "name": "Catene Ohra Vincolanti",
+          "desc": "[WhenUse] A 6+ ([Breath] su sè + [Laceration] sul bersaglio), Potere Moneta +1\n[WhenUse] ottiene +3 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 4 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Binding] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [TiedRopeHonglu], inflict 1 [TiedRopeHonglu]"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha [TiedRopeHonglu], infligge 1 [TiedRopeHonglu]"
                 }
               ]
             }
@@ -3108,33 +3108,33 @@
         },
         {
           "level": 4,
-          "name": "Constricting Ohra Bonds",
-          "desc": "[WhenUse] Coin Power +1 for every 6 ([Breath] on self + [Laceration] on target) (max 2)\n[WhenUse] If target has [TiedRopeHonglu], Final Power +1\n[WhenUse] Gain +3 [Breath] Count",
+          "name": "Catene Ohra Vincolanti",
+          "desc": "[WhenUse] Potere Monete +1 per ogni 6 ([Breath] su sè + [Laceration] sul bersaglio) (max 2)\n[WhenUse] Se il bersaglio ha [TiedRopeHonglu], Potere Finale +1\n[WhenUse] Ottiene +3 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 4 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Binding] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [TiedRopeHonglu], inflict 1 [TiedRopeHonglu]"
+                  "desc": "[OnSucceedAttack] se il bersaglio ha [TiedRopeHonglu], infligge 1 [TiedRopeHonglu]"
                 }
               ]
             }
@@ -3147,32 +3147,32 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Avulsion Slash",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Squarcio Avulsivo",
+          "desc": "[WhenUse] Ottiene +2 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ [TiedRopeHonglu], consume 1 [TiedRopeHonglu] on target to Reuse this Coin (once per Skill)"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha 2+ [TiedRopeHonglu], consuma 1 [TiedRopeHonglu] sul bersaglio per riutilizare questa moneta (una volta per Abilità)"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [ScratchesHurtID]"
+                  "desc": "[CriticalOnSucceedAttack] Infligge 1 [ScratchesHurtID]"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Gain 2 [Agility] next turn"
+                  "desc": "[ReUseOnSucceedAttack] Ottiene 2 [Agility] il turno successivo"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Activate [Laceration] on target. Target loses 1 [Laceration] Count"
+                  "desc": "[ReUseOnSucceedAttack] Attiva [Laceration] sul bersaglio. Il bersaglio perde 1 Conteggio [Laceration]"
                 }
               ]
             }
@@ -3180,32 +3180,32 @@
         },
         {
           "level": 2,
-          "name": "Avulsion Slash",
-          "desc": "[WhenUse] At 6+ ([Breath] on self + [Laceration] on target), Coin Power +1\n[WhenUse] Gain +2 [Breath] Count",
+          "name": "Squarcio Avulsivo",
+          "desc": "[WhenUse] A 6+ ([Breath] su sè + [Laceration] sul bersaglio), Potere Moneta +1\n[WhenUse] Ottiene +2 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ [TiedRopeHonglu], consume 1 [TiedRopeHonglu] on target to Reuse this Coin (once per Skill)"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha 2+ [TiedRopeHonglu], consuma 1 [TiedRopeHonglu] sul bersaglio per riutilizzare questa Moneta (una volta per Abilità)"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [ScratchesHurtID]"
+                  "desc": "[CriticalOnSucceedAttack] Infligge 1 [ScratchesHurtID]"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Gain 2 [Agility] next turn"
+                  "desc": "[ReUseOnSucceedAttack] Ottiene 2 [Agility] il prossimo turno"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Activate [Laceration] on target. Target loses 1 [Laceration] Count"
+                  "desc": "[ReUseOnSucceedAttack] Attiva [Laceration] sul bersaglio. Il bersaglio perde 1 Conteggio [Laceration]"
                 }
               ]
             }
@@ -3213,32 +3213,32 @@
         },
         {
           "level": 4,
-          "name": "Avulsion Slash",
-          "desc": "[WhenUse] Coin Power +1 for every 6 ([Breath] on self + [Laceration] on target) (max 2)\n[WhenUse] If target has [TiedRopeHonglu], Final Power +1\n[WhenUse] Gain +2 [Breath] Count",
+          "name": "Squarcio Avulsivo",
+          "desc": "[WhenUse] Potere Moneta +1 per ogni 6 ([Breath] su sè + [Laceration] sul bersaglio) (max 2)\n[WhenUse] Se il bersaglio ha [TiedRopeHonglu], Potere Finale +1\n[WhenUse] Ottiene +2 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 3 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ [TiedRopeHonglu], consume 1 [TiedRopeHonglu] on target to Reuse this Coin (once per Skill)"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha 2+ [TiedRopeHonglu], consuma 1 [TiedRopeHonglu] sul bersaglio per Riusare questa Moneta (una volta per Abilità)"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [ScratchesHurtID]"
+                  "desc": "[CriticalOnSucceedAttack] Infligge 1 [ScratchesHurtID]"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Gain 2 [Agility] next turn"
+                  "desc": "[ReUseOnSucceedAttack] Ottiene 2 [Agility] il prossimo turno"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Activate [Laceration] on target. Target loses 1 [Laceration] Count"
+                  "desc": "[ReUseOnSucceedAttack] Attiva [Laceration] sul Bersaglio. Il bersaglio perde 1 Conteggio [Laceration]"
                 }
               ]
             }
@@ -3251,43 +3251,43 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Hunter's Scouring",
-          "desc": "[WhenUse] At 6+ ([Breath] on self + [Laceration] on target), Coin Power +1\n[WhenUse] If target has [TiedRopeHonglu], convert all Coins in this Skill to [SuperCoin]s, gain Final Power +1, and the final Coin applies the following On Hit:\n- Inflict +2 [Laceration] Count\n- Inflict 1 [Reduction] next turn\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Gain +3 [Breath] Count",
+          "name": "Scarnatura del Cacciatore",
+          "desc": "[WhenUse] A 6+ ([Breath] su sè + [Laceration] sul bersaglio), Potere Moneta +1\n[WhenUse] Se il bersaglio ha [TiedRopeHonglu], converte tutte le Monete di questa Abilità in [SuperCoin], ottiene Potere Finale +1, e la Moneta Finale applica il seguente effetto Sul Colpo:\n- Infligge +2 Conteggio [Laceration]\n- Infligge 1 [Reduction] il turno successivo\n[WhenUse] Ottiene 5 [Breath]\n[WhenUse] Ottiene +3 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Binding] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target does not have [TiedRopeHonglu], inflict [TiedRopeHonglu]"
+                  "desc": "[OnSucceedAttack] Se il bersaglio non ha [TiedRopeHonglu], infligge [TiedRopeHonglu]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ScratchesHurtID]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [ScratchesHurtID]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [ScratchesHurtID]"
+                  "desc": "[CriticalOnSucceedAttack] Infligge 1 [ScratchesHurtID]"
                 }
               ]
             }
@@ -3295,49 +3295,49 @@
         },
         {
           "level": 4,
-          "name": "Hunter's Scouring",
-          "desc": "[WhenUse] Coin Power +1 for every 6 ([Breath] on self + [Laceration] on target) (max 2)\n[WhenUse] If target has [ScratchesHurtID], deal +20% damage\n[WhenUse] If target has [TiedRopeHonglu], convert all Coins in this Skill to [SuperCoin]s, gain Final Power +1, and the final Coin applies the following On Hit:\n- Inflict +2 [Laceration] Count\n- Inflict 1 [Reduction] next turn\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Gain +3 [Breath] Count",
+          "name": "Scarnatura del Cacciatore",
+          "desc": "[WhenUse] Potere Moneta +1 per ogni 6 ([Breath] su sè + [Laceration] sul bersaglio) (max 2)\n[WhenUse] Se il bersaglio ha [ScratchesHurtID], infligge +20% danni\n[WhenUse] Se il bersaglio ha [TiedRopeHonglu], converte tutte le Monete di questa abilità in [SuperCoin], ottiene Potere Finale +1, e la Moneta Finale applica il seguente effetto Sul Colpo:\n- Infligge +2 Conteggio [Laceration]\n- Infligge 1 [Reduction] il prossimo turno\n[WhenUse] Ottiene 5 [Breath]\n[WhenUse] Ottiene +3 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Binding] il prossimo turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target does not have [TiedRopeHonglu], inflict [TiedRopeHonglu]"
+                  "desc": "[OnSucceedAttack] Se il bersaglio non ha [TiedRopeHonglu], infligge [TiedRopeHonglu]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal +50% damage on Critical Hit"
+                  "desc": "Infligge +50% danni sui Colpi Critici"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ScratchesHurtID]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [ScratchesHurtID]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [ScratchesHurtID]"
+                  "desc": "[CriticalOnSucceedAttack] Infligge 1 [ScratchesHurtID]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [IndigoTakeDamageUp] next turn"
+                  "desc": "[CriticalOnSucceedAttack] Infligge 1 [IndigoTakeDamageUp] il turno successivo"
                 }
               ]
             }
@@ -3350,8 +3350,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Throwing the Ohra Bond",
-          "desc": "[DuelCounter]\n[WhenUse] At 6+ ([Breath] on self + [Laceration] on target), Clash Power +2\n[WhenUse] Gain 5 [Breath]",
+          "name": "Lanciando la Catena Ohra",
+          "desc": "[DuelCounter]\n[WhenUse] A 6+ ([Breath] su sè + [Laceration] sul bersaglio), Potere Scontro +2\n[WhenUse] Ottiene 5 [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3359,10 +3359,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [TiedRopeHonglu]"
+                  "desc": "[OnSucceedAttack] Infligge [TiedRopeHonglu]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             }
@@ -3371,7 +3371,7 @@
         {
           "level": 4,
           "name": "Throwing the Ohra Bond",
-          "desc": "[DuelCounter]\n[WhenUse] At 6+ ([Breath] on self + [Laceration] on target), Clash Power +2\n[WhenUse] Gain 5 [Breath]\n[WinDuel] Gain +3 [Breath] Count",
+          "desc": "[DuelCounter]\n[WhenUse] A 6+ ([Breath] su sè + [Laceration] sul bersaglio), Potere Scontro +2\n[WhenUse] Ottiene 5 [Breath]\n[WinDuel] Ottiene +3 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3379,10 +3379,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [TiedRopeHonglu]"
+                  "desc": "[OnSucceedAttack] Infligge [TiedRopeHonglu]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             }
