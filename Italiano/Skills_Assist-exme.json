@@ -5,20 +5,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rending Arts",
-          "desc": "[WhenUse] Coin Power +1 for every 6 ([Breath] on self + [Laceration] on target) (max 2)\n[WhenUse] At 3+ [Agility], Base Power +2\n[WhenUse] Gain +2 [Breath] Count",
+          "name": "Tecniche Laceranti",
+          "desc": "[WhenUse] Potere Moneta +1 per ogni 6 ([Breath] su di sé + [Laceration] sul bersaglio) (max 2)\n[WhenUse] A 3+ [Agility], Potere Base +2\n[WhenUse] Ottiene +2 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 3 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             }
@@ -31,39 +31,39 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Acupuncture",
-          "desc": "[WhenUse] Coin Power +1 for every 6 ([Breath] on self + [Laceration] on target) (max 2)\n[WhenUse] At 3+ [Agility], Base Power +2\n[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain +2 [Breath] Count",
+          "name": "Agopuntura",
+          "desc": "[WhenUse] Potere Moneta +1 per ogni 6 ([Breath] su di sé + [Laceration] sul bersaglio) (max 2)\n[WhenUse] A 3+ [Agility], Potere Base +2\n[WhenUse] Ottiene +2 Conteggio [Breath]\n[WinDuel] Ottiene +2 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain 2 [Agility] next turn"
+                  "desc": "[CriticalOnSucceedAttack] Ottiene 2 [Agility] il turno successivo"
                 }
               ]
             }
@@ -76,36 +76,36 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lucent Rippling Flame",
-          "desc": "Deal +0.5% damage for every 1% missing HP on self (max 25%)\nDeal +25% damage on Critical Hit for every [Agility] on self (max 150%)\n[WhenUse] At 6+ ([Breath] on self + [Laceration] on target), Coin Power +1 (max 2)\n[WhenUse] At 5+ [WindBlade], convert into [SuperCoin]\n[WinDuel] Gain 5 [Breath]",
+          "name": "Fiamma Lucente Increspata",
+          "desc": "Infligge +0.5% danni per ogni 1% dei PV mancanti su di sé (max 25%)\nInfligge +25% danni sul Colpo Critico per ogni [Agility] su di sé (max 150%)\n[WhenUse] A 6+ ([Breath] su di sé + [Laceration] sul bersaglio), Potere Moneta +1 (max 2)\n[WhenUse] A 5+ [WindBlade], converte ogni moneta in [SuperCoin]\n[WinDuel] Ottiene 5 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Ottiene +3 Conteggio [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain 1 [WindBlade]"
+                  "desc": "[CriticalOnSucceedAttack] Ottiene 1 [WindBlade]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 2 [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain 1 [WindBlade]"
+                  "desc": "[CriticalOnSucceedAttack] Ottiene 1 [WindBlade]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain 1 [WindBlade]"
+                  "desc": "[CriticalOnSucceedAttack] Ottiene 1 [WindBlade]"
                 }
               ]
             }
@@ -118,37 +118,37 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Even the Balance - Lucent Rippling Flame",
-          "desc": "[CantDuel]\nThis Skill does not trigger Defense Skills\nDeal +0.5% damage for every 1% missing HP on self (max 25%)\nDeal +20% damage on Critical Hit for every [Agility] on self (max 100%)\n[EndSkill] Consume all [WindBlade] on self",
+          "name": "Stabilizzazione - Fiamma Lucente Increspata",
+          "desc": "[CantDuel]\nNon attiva le Abilità Difensive\nInfligge +0.5% danni per ogni 1% dei PV mancanti su di sé (max 25%)\nInfligge +20% danni sul Colpo Critico per ogni [Agility] su di sé (max 100%)\n[EndSkill] Consuma ogni [WindBlade] su di sé",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 5 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 5 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] At 5+ [Agility], Reuse this Coin (once per Skill)"
+                  "desc": "[CriticalOnSucceedAttack] A 5+ [Agility], Riusa questa Moneta (once per Skill)"
                 }
               ]
             }
@@ -161,23 +161,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "To Claim Their Bones",
-          "desc": "[CantDuel]\nThis Skill does not trigger Defense Skills\nDeal +0.5% damage for every 1% missing HP on self (max 25%)\nDeal +10% damage on Critical Hit for every [Agility] on self (max 50%)\n[WhenUse] Base Power +1 for every 4 ([Breath] on self + [Laceration] on target) (max 4)",
+          "name": "Per Strappare le Ossa",
+          "desc": "[CantDuel]\nNon attiva le Abilità Difensive\nInfligge +0.5% damage per ogni 1% dei PV mancanti su di sé (max 25%)\nInfligge +10% danni sul Colpo Critico per ogni [Agility] su di sé (max 50%)\n[WhenUse] Potere Base +1 per ogni 4 ([Breath] su di sé + [Laceration] sul bersaglio) (max 4)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 3 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Paralysis] il turno successivo"
                 }
               ]
             }
@@ -190,8 +190,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Light the Path Forward",
-          "desc": "[CanDuelGuard]\n[StartBattle] Gain 1 [SupportProtect]\n[WhenUse] Gain 5 [Breath]\n[WinDuel] Gain +2 [Breath] Count",
+          "name": "Illuminerò la strada",
+          "desc": "[CanDuelGuard]\n[StartBattle] Ottiene 1 [SupportProtect]\n[WhenUse] Ottiene 5 [Breath]\n[WinDuel] Ottiene +2 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -209,8 +209,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Observing the Stones on the Board",
-          "desc": "[CanDuelGuard]\n[SupportProtect] Exclusive Skill\n[WhenUse] Gain 5 [Breath]\n[WhenUse] At more than 25 [Breath], consume 5 [Breath] to gain 3 [WindBlade]\n[WinDuel] Gain +2 [Breath] Count",
+          "name": "Osservando le Pietre nella scacchiera",
+          "desc": "[CanDuelGuard]\nAbilità Esclusiva alla [SupportProtect]\n[WhenUse] Ottiene 5 [Breath]\n[WhenUse] A più di 25 [Breath], consuma 5 [Breath] per ottenere 3 [WindBlade]\n[WinDuel] Ottiene +2 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -228,23 +228,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Draw of the Sword",
-          "desc": "[WhenUse] At 5+ [Breath], Coin Power +1\n[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 3 [Breath]",
+          "name": "Sguaina la Spada",
+          "desc": "[WhenUse] A 5+ [Breath], Potere Moneta +1\n[WhenUse] Ottiene +2 Conteggio [Breath]\n[WinDuel] Ottiene 3 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 3 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[CriticalOnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             }
@@ -257,30 +257,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Acupuncture",
-          "desc": "[WhenUse] At 7+ [Breath], Coin Power +1\n[WhenUse] Gain +3 [Breath] Count\n[WinDuel] Gain 2 [Breath]",
+          "name": "Agopuntura",
+          "desc": "[WhenUse] A 7+ [Breath], Potere Moneta +1\n[WhenUse] Ottiene +3 Conteggio [Breath]\n[WinDuel] Ottiene 2 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 4 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal +20% damage on Critical Hit"
+                  "desc": "Infligge +20% danni sul Colpo Critico"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal +40% damage on Critical Hit"
+                  "desc": "Infligge +40% danni sul Colpo Critico"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Laceration]"
                 }
               ]
             }
@@ -293,30 +293,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Overthrow",
-          "desc": "[DuelCounter]\n[StartBattle] Gain 2 [SlashDamageUp] this turn and next turn\n[WhenUse] At 8+ [Breath], Coin Power +1\n[WhenUse] Gain +3 [Breath] Count\n[WinDuel] Gain 4 [Breath]",
+          "name": "Ribaltatore",
+          "desc": "[DuelCounter]\n[StartBattle] Ottiene 2 [SlashDamageUp] questo turno e il turno successivo\n[WhenUse] A 8+ [Breath], Potere Moneta +1\n[WhenUse] Ottiene +3 Conteggio [Breath]\n[WinDuel] Ottiene 4 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 5 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 5 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Ottiene +2 Conteggio [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal +80% damage on Critical Hit"
+                  "desc": "Infligge +80% danni sul Colpo Critico"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 8 [Laceration]"
                 }
               ]
             }
@@ -329,19 +329,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Yield My Flesh",
-          "desc": "Targets the Skill Slot that has the highest max Power\n[WhenUse] Until this Skill ends:\n- Take -2% damage from Attacks for every [Breath] on self (min -80%)\n- Clash Power -1 for every [Breath] on self (min -30)\n- Cannot be Staggered from taking damage\n[WinDuel] Gain 5 [Breath]\n[DefeatDuel] Use \"To Claim Their Bones\" after being hit\n[EndBattle] Cannot use \"Yield My Flesh\" until next turn",
+          "name": "Cedo la Carne",
+          "desc": "Bersaglia lo Slot Abilità col Potere Massimo più alto\n[WhenUse] Fino alla fine dell'attacco:\n- Subisce -2% danni dagli Attacchi per ogni [Breath] su di sé (min -80%)\n- Potere Scontro -1 per ogni [Breath] su di sé (min -30)\n- Non può essere Stordito\n[WinDuel] Ottiene 5 [Breath]\n[DefeatDuel] Usa \"per Strappare le Ossa\" dopo essere stato colpito\n[EndBattle] Non può usare \"Cedo la Carne\" fino al turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Deal +150% damage on Critical Hit"
+                  "desc": "Infligge +150% danni sul Colpo Critico"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [SlashResistDown] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [SlashResistDown] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [DefenseDown] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 4 [DefenseDown] il turno successivo"
                 }
               ]
             }
@@ -354,37 +354,37 @@
       "levelList": [
         {
           "level": 1,
-          "name": "To Claim Their Bones",
-          "desc": "[WhenUse] At 10+ [Breath], Coin Power +1\n[WhenUse] Deal +40% damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, the Parts)\n[WhenUse] Gain +4 [Breath] Count\n[EndSkill] Consume all [Breath] on self",
+          "name": "Per Strappare le Ossa",
+          "desc": "[WhenUse] A 10+ [Breath], Potere Moneta +1\n[WhenUse] Infligge +40% danni per ogni Portata Attacco in eccesso al numero dei bersagli (negli Incontri Mirati, le Parti)\n[WhenUse] Ottiene +4 Conteggio [Breath]\n[EndSkill] Consuma ogni [Breath] su di sé",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Coin Power +2 for the final Coin (once per Coin)"
+                  "desc": "[CriticalOnSucceedAttack] Potere Moneta +2 per l'ultima Moneta (una volta per Moneta)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Coin Power +2 for the final Coin (once per Coin)"
+                  "desc": "[CriticalOnSucceedAttack] Potere Moneta +2 per l'ultima Moneta (una volta per Moneta)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Coin Power +2 for the final Coin (once per Coin)"
+                  "desc": "[CriticalOnSucceedAttack] Potere Moneta +2 per l'ultima Moneta (una volta per Moneta)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 10 [Laceration] e +2 Conteggio [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Paralysis] il turno successivo"
                 }
               ]
             }
@@ -397,8 +397,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "YuRia Atelier - All-out Attack Mode, Mk. 17!",
-          "desc": "Deal +50% damage for every type of negative effect on target (max 100%)\n[WhenUse] If target has 6+ [Vibration], Base Power +3",
+          "name": "Atelier YuRia - Modalità Attacco Totale, Mark 17!",
+          "desc": "Infligge +50% danni per ogni tipo di effetto negativo sul bersaglio (max 100%)\n[WhenUse] Se il bersaglio ha 6+ [Vibration], Potere Base +3",
           "flavor": "Special Handmade Golden Retriever-Exclusive Axe.",
           "coinlist": [
             {
@@ -407,7 +407,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             },
@@ -417,7 +417,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Vibration]"
                 }
               ]
             },
@@ -427,10 +427,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Vibration]"
                 }
               ]
             },
@@ -440,10 +440,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Attiva [Laceration] sul bersaglio una volta. Il bersaglio perde 1 Conteggio [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Innesca [VibrationExplosion]; riduce poi il Conteggio [Vibration] sul bersaglio di 1"
                 }
               ]
             }
@@ -456,8 +456,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Cover You! Get Behind Me!",
-          "desc": "[CanDuelGuard]\n[SupportProtect] Exclusive Skill\n[WinDuel] Heal 4 SP for all allies (including this unit)\n- Heal 8 SP instead for LCD Units",
+          "name": "Vi Copro Le Spalle! State Indietro!",
+          "desc": "[CanDuelGuard]\nAbilità Esclusiva alla [SupportProtect]\n[WinDuel] Ogni alleato recupera 4 PS (include quest'unità)\n- Le unità della LCD recuperano invece 8 PS",
           "coinlist": [
             {
               "coindescs": [
