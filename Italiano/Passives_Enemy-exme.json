@@ -2,28 +2,28 @@
   "dataList": [
     {
       "id": 9105701,
-      "name": "Bearing of a Salsu",
-      "desc": "At 1 [Breath] Count, lose 10 HP instead of losing [Breath] Count (this effect cannot Stagger this unit and does not drop this unit's HP below 1)\n\nDeal +(missing HP percentage on self / 2) damage on Critical Hit using Base Skills (max 50%)"
+      "name": "Portamento di un Salsu",
+      "desc": "A 1 Conteggio [Breath], perde 10 PV al posto di Conteggio [Breath] (questo effetto non Stordisce l'unità; i PV di quest'unità non scendono sotto 1)\n\nInfligge +(percentuale dei PV mancanti su di sé / 2) danni su Colpo Critico (max 50%)"
     },
     {
       "id": 9105702,
-      "name": "A Breath Taken Together",
-      "desc": "When gaining [Breath] Potency using this unit's own Skills and Coin effects, apply 1 [Breath] on an ally that does not have [Breath] or has the lowest [Breath] Potency (5 times per turn)\n\nTurn Start: If Bamboo-hatted Kim is on the field, gain 1 [SlashDamageUp] and +2 [Laceration] Count"
+      "name": "Un Respiro Fatto Insieme",
+      "desc": "Quando ottiene Potenza [Breath] tramite gli effetti delle sue Abilità o Monete, applica 1 [Breath] su ogni alleato senza [Breath] o con meno Potenza [Breath] (5 volte per turno)\n\nA inizio turno, se Kim Cappello di Bambù è presente in battaglia, ottiene 1 [SlashDamageUp] e +2 Conteggio [Laceration]"
     },
     {
       "id": 9105703,
-      "name": "Headsplitting Memory",
-      "desc": "On Clash Lose, gain 1 [RegretSCorp]"
+      "name": "Ricordi Lancinanti",
+      "desc": "A Scontro perso, ottiene 1 [RegretSCorp]"
     },
     {
       "id": 9105704,
-      "name": "The Last Breath",
-      "desc": "If this unit is defeated, apply 5 [Breath] and +2 [Breath] Count on all Blade Lineage allies at the next Turn Start\n\nTurn Start: At 20+ [Breath] Potency, equip \"Slash Series\" on the leftmost Slot"
+      "name": "L'Ultimo Respiro",
+      "desc": "Se quest'unità viene sconfitta, applica 5 [Breath] e +2 Conteggio [Breath] su tutti gli alleati del Discendenti della Spada nel prossimo turno\n\nA inizio turno, A 20+ Potenza [Breath], equipaggia l'Abilità \"Serie di Affondi\" nello Slot più a sinistra"
     },
     {
       "id": 9105804,
-      "name": "The Last Breath",
-      "desc": "If this unit is defeated, apply 5 [Breath] and +2 [Breath] Count on all Blade Lineage allies at the next Turn Start\n\nTurn Start: At 20+ [Breath] Potency, equip \"Slash Series\" on the leftmost Slot"
+      "name": "L'Ultimo Respiro",
+      "desc": "Se quest'unità viene sconfitta, applica 5 [Breath] e +2 Conteggio [Breath] su tutti gli alleati del Discendenti della Spada nel prossimo turno\n\nA inizio turno, A 20+ Potenza [Breath], equipaggia l'Abilità \"Serie di Affondi\" nello Slot più a sinistra"
     }
   ]
 }
