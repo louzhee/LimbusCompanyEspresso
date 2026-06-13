@@ -448,7 +448,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ribalttore",
+          "name": "Ribaltare",
           "desc": "[WhenUse] Ottiene 1 [SlashResultUp] il turno successivo (1 volta al massimo)",
           "coinlist": [
             {
@@ -462,7 +462,7 @@
         },
         {
           "level": 4,
-          "name": "Ribalttore",
+          "name": "Ribaltare",
           "desc": "[WhenUse] Ottiene 1 [SlashResultUp] il turno successivo (1 volta al massimo)\n<style=\"highlight\">Infligge +0.5% danni per ogni 1% dei propri PV mancanti (Max 25%)</style>",
           "coinlist": [
             {
