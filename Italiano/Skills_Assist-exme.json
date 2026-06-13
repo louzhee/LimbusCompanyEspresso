@@ -228,7 +228,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sguaina la Spada",
+          "name": "Sguainare la Spada",
           "desc": "[WhenUse] A 5+ [Breath], Potere Moneta +1\n[WhenUse] Ottiene +2 Conteggio [Breath]\n[WinDuel] Ottiene 3 [Breath]",
           "coinlist": [
             {
@@ -293,7 +293,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ribaltatore",
+          "name": "Ribaltare",
           "desc": "[DuelCounter]\n[StartBattle] Ottiene 2 [SlashDamageUp] questo turno e il turno successivo\n[WhenUse] A 8+ [Breath], Potere Moneta +1\n[WhenUse] Ottiene +3 Conteggio [Breath]\n[WinDuel] Ottiene 4 [Breath]",
           "coinlist": [
             {
