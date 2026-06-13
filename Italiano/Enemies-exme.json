@@ -2,43 +2,43 @@
   "dataList": [
     {
       "id": 1448,
-      "name": "Ch'unokkun - Incapacitate",
-      "desc": "Core"
+      "name": "Ch'unokkun - Immobilizza",
+      "desc": "Nucleo"
     },
     {
       "id": 1449,
-      "name": "Ch'unokkun - Bind",
-      "desc": "Core"
+      "name": "Ch'unokkun - Lega",
+      "desc": "Nucleo"
     },
     {
       "id": 1450,
-      "name": "Flash Phenomenon - Im Gyeong-eop",
-      "desc": "Core"
+      "name": "Fenomeno del Flash: Im Gyeong-eop",
+      "desc": "Nucleo"
     },
     {
       "id": 1452,
-      "name": "Icy N Corp. Class 2 Staff",
-      "desc": "Core"
+      "name": "Personale Agghiacciante di Class 2 della N Corp.",
+      "desc": "Nucleo"
     },
     {
       "id": 1453,
-      "name": "Reticent N Corp. Class 2 Staff",
-      "desc": "Core"
+      "name": "Personale Riluttante di Class 2 della N Corp.",
+      "desc": "Nucleo"
     },
     {
       "id": 91057,
-      "name": "Hateful Blade Lineage Salsu",
-      "desc": "Core"
+      "name": "Salsu Odioso dei Discendenti della Spada",
+      "desc": "Nucleo"
     },
     {
       "id": 91058,
-      "name": "Resentful Blade Lineage Salsu",
-      "desc": "Core"
+      "name": "Salsu Rancoroso dei Discendenti della Spada",
+      "desc": "Nucleo"
     },
     {
       "id": 1451,
-      "name": "Imagined Im Gyeong-eop",
-      "desc": "Core"
+      "name": "Im Gyeong-eop Immaginata",
+      "desc": "Nucleo"
     }
   ]
 }
