@@ -353,7 +353,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Infligge 1 [Binding] il prossimo Turno"
+                  "desc": "[OnSucceedAttackHead] Infligge 1 [Binding] il turno successivo"
                 }
               ]
             }
@@ -745,7 +745,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Infligge 1 [Binding] il prossimo Turno"
+                  "desc": "[OnSucceedAttackHead] Infligge 1 [Binding] il turno successivo"
                 }
               ]
             }
@@ -1025,7 +1025,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Infligge 4 [PlusCoinValueDown] il prossimo Turno"
+                  "desc": "[OnSucceedAttackHead] Infligge 4 [PlusCoinValueDown] il turno successivo"
                 }
               ]
             }

@@ -62,7 +62,7 @@
                 {
                     "level": 1,
                     "name": "Basta Giochetti",
-                    "desc": "[StartBattle] Tutti gli alleati recuperano 10 PS\n[EndBattle] Se ci sono alleati in stato di Panico, essi ne escono il prossimo Turno e i loro PS tornano a 0\n[EndBattle] Applica 1 [HitResultUp] a tutti gli alleati (include questa unità)",
+                    "desc": "[StartBattle] Tutti gli alleati recuperano 10 PS\n[EndBattle] Se ci sono alleati in stato di Panico, essi ne escono il turno successivo e i loro PS tornano a 0\n[EndBattle] Applica 1 [HitResultUp] a tutti gli alleati (include questa unità)",
                     "coinlist": [
                         {
                             "coindescs": [
