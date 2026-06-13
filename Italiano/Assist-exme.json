@@ -3,17 +3,17 @@
     {
       "id": 400038,
       "name": "Aeng-du",
-      "desc": "Assist Unit Name"
+      "desc": "Nome dell'Unità di Supporto"
     },
     {
       "id": 400040,
-      "name": "Bamboo-hatted Kim",
-      "desc": "Assist Unit Name"
+      "name": "Kim Cappello di Bambù",
+      "desc": "Nome dell'Unità di Supporto"
     },
     {
       "id": 1460,
-      "name": "Flash Phenomenon - Projector",
-      "desc": "Enemy Assist Unit Name"
+      "name": "Fenomeno del Flash - Proiettore",
+      "desc": "Nome dell'Unità di Supporto Nemica"
     }
   ]
 }
