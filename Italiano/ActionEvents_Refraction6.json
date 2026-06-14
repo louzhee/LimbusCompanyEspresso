@@ -4,7 +4,7 @@
       "id": 955601,
       "name": "",
       "subDesc": "",
-      "desc": "Qualcosa che splende di giallo si para davanti a noi in tutta fretta, bloccando il nostro cammino.\n\n\"Potreste fermarvi un momento, per favore?\"\n\n\"Vedete... c'è una bambina capricciosetta che sta giocando con i suoi amichetti poco più avanti.\"\n\n\"Non è un'impresa da poco riuscire a intrattenere questa piccolina finché non si stanchi, quindi ho deciso di aspettare qui per poter dare una mano.\"\n\n\"Ditemi, come posso esservi utile?\"<size=0%>",
+      "desc": "Una creatura che risplende di giallo si para davanti a noi in tutta fretta, bloccando il nostro cammino.\n\n\"Potreste fermarvi un momento, per favore?\"\n\n\"Vedete... c'è una bambina capricciosetta che sta giocando con i suoi amichetti poco più avanti.\"\n\n\"Non è un'impresa da poco riuscire a intrattenere questa piccolina finché non si stanchi, quindi ho deciso di aspettare qui per poter dare una mano.\"\n\n\"Ditemi, come posso esservi utile?\"<size=0%>",
       "options": [
         {
           "message": "Bevete della linfa vitale.",
@@ -33,7 +33,7 @@
       "id": 955101,
       "name": "",
       "subDesc": "",
-      "desc": "Qualcosa che splende di giallo ci stava aspettando.\n\n\"Salve. Ne è passato di tempo.\"\n\n\"Più avanti c'è un fanciullo solo soletto, che non riesce ad arrivare alla fine della storia.\"\n\n\"Finora ho aspettato qui per assistere chiunque voglia mostrare al ragazzo cosa sia un finale.\"\n\n\"Ditemi, come posso esservi utile?\"<size=0%>",
+      "desc": "Una creatura che risplende di giallo ci stava aspettando.\n\n\"Salve. Ne è passato di tempo.\"\n\n\"Più avanti c'è un fanciullo solo soletto, che non riesce ad arrivare alla fine della storia.\"\n\n\"Finora ho aspettato qui per assistere chiunque voglia mostrare al ragazzo cosa sia un finale.\"\n\n\"Ditemi, come posso esservi utile?\"<size=0%>",
       "options": [
         {
           "message": "Bevete della linfa congelata.",

@@ -562,7 +562,7 @@
     },
     {
       "id": 9275,
-      "name": "Valigetta del Service des Clous du N Corp.",
+      "name": "Valigetta della N Corp. Service des Clous",
       "desc": "Quando colpisci un nemico usando un'Abilità che infligge Potenza, Conteggio [Laceration] o '<noparse>Sanguinamento</noparse> Speciale', infliggi 1 [NailPersonality] (una volta per Abilità)\nQuando si attiva [VibrationExplosion] su un nemico con [NailPersonality], infliggi 1 [Binding] nel turno dopo (3 volte per turno)",
       "simpleDesc": [
         {
@@ -617,7 +617,7 @@
     },
     {
       "id": 9280,
-      "name": "Il Manoscritto della Spada della Patria [本國劍譜]",
+      "name": "Il Libro della Spada della Patria [本國劍譜]",
       "desc": "Se un nemico ha la Resistenza Tagliente di 1.5 o minore, Resistenza Tegliente +0.3\nLe Abilità Taglienti ottengono Livello Offensivo +2\nQuando attacchi dei nemici Deboli(Resistenza maggiore di 1.0; gli stati di Stordimento non contano) al Tagliente, infliggi +(5 + (Resistenza Tagliente del bersaglio. x 10))% di danni (max 25%)\n\nLe Abilità Taglienti infliggono +1.5% di danni per ogni [Breath] (max 30%)\n\nInizio Turno: Si attiva quando ci sono 3 o più Identità dei Discendenti della Spada (vengono contate solo le Identità in campo all'Inizio dell'Incontro)\nInizio Combattimento: Applica 1 [BongukGiftEnhance] sulle identità dei Discendenti della Spada alleate che hanno equipaggiato Abilità Ira o Superbia\n\nConta 1 Identità della S Corp che non fa parte dei Discendenti della Spada schierata per prima come un'Identità dei Discendenti della Spada e applica [BongukGiftEnhance] ad essa a ogni turno",
       "simpleDesc": [
         {
