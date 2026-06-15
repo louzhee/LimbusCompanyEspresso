@@ -814,7 +814,7 @@
         },
         {
           "level": 3,
-          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "name": "Spadaccino Ammantato d'Ombra [着影揮刀]",
           "abName": "Geseundae",
           "desc": "Quando viene usata per la prima volta in battaglia, consuma 15 PS in meno\n- Se Mentore dei Discendenti della Spada Meursault usa questa Abilità, consuma inoltre 1 risorsa E.G.O Ira, Superbia, e Invidia in meno\n\nPotere Scontro +1 ae infligge +6% danni per ogni 4 [Breath] su sè (max <style=\"highlight\">6</style>, max <style=\"highlight\">24</style>% rispettivamente)\n\nSe questa unità ha ottenuto [AlcoholKimPersonal] durante questo incontro, infligge +<style=\"highlight\">80</style>% danni contro il brsaglio principale\n- Mentore dei Discendenti della Spada Meursault infligge invece +<style=\"highlight\">160</style>% danni contro il bersaglio principale\n\n[BeforeAttack] Ottiene +(Rison. più alta / 2) Gittata Attacco (max 2, arrotondato per difetto)\n[BeforeAttack] (3 + Rison. più alta) alleati con l'ordine di schieramento più alto ottengono +4 Conteggio [Breath]\n[EndSkill] 4 altre unità alleate dei Discendenti della Spada che hanno la quantità minore di PS recuperano 10 PS\n[EndSkill] Ottiene 4 [AlcoholKimPersonal] il turno successivo",
           "coinlist": [
@@ -836,7 +836,7 @@
         },
         {
           "level": 4,
-          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "name": "Spadaccino Ammantato d'Ombra [着影揮刀]",
           "abName": "Geseundae",
           "desc": "Quando viene usata per la prima volta in battaglia, consuma 15 PS in meno\n- Se Mentore dei Discendenti della Spada Meursault usa questa Abilità, consuma inoltre 1 risorsa E.G.O Ira, Superbia, e Invidia in meno\n\nPotere Scontro +1 e infligge +6% danni per ogni 4 [Breath] su sè (max <style=\"highlight\">8</style>, max <style=\"highlight\">30</style>% rispettivamente)\n\nSe questa unità ha ottenuto [AlcoholKimPersonal] durante questo incontro, infligge +<style=\"highlight\">100</style>% danni contro il bersaglio principale\n- Mentore dei Discendenti della Spada Meursault infligge invece +<style=\"highlight\">200</style>% danni contro il bersaglio principale\n\n[BeforeAttack] Ottiene + (Rison. più alta / 2) Gittata Attacco (max 2, arrotondato per difetto)\n[BeforeAttack] (3 + Rison. più alta) alleati con l'ordine di schieramento più alto ottengono +4 Conteggio [Breath]\n[EndSkill] 4 altre unità alleate dei Discendenti della Spada che hanno la quantità minore di PS recuperano 10 PS\n[EndSkill] Ottiene 4 [AlcoholKimPersonal] il turno successivo",
           "coinlist": [
@@ -863,7 +863,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "name": "Spadaccino Ammantato d'Ombra [着影揮刀]",
           "abName": "Geseundae",
           "desc": "[CantIdentify]\nBersaglia Casualmente\n\nPotere Moneta +2 and infligge +6% danno per ogni 4 [Breath] se sè (max 8, max 12% rispettivamente)\n\nSe questa unità ha ottenuto [AlcoholKimPersonal] durante questo incontro, infligge +60% danni contro il bersaglio pricipale\n- Mentore dei Discendenti della Spada Meursault infligge +120% danni contro il bersaglio principale\n\n[BeforeAttack] Potere Base -2 per ogni Moneta Infranta (max -8)\n[BeforeAttack] Tutti i nemici e alleati ottengono +4 Conteggio [Breath], 1 [SlashDamageUp] e 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 altre unità alleate dei Discendenti della Spada che hanno la quantità minore di PS recuperano 10 PS\n[EndSkill] Ottiene 4 [AlcoholKimPersonal] il prossimo turno",
           "coinlist": [
@@ -920,7 +920,7 @@
         },
         {
           "level": 3,
-          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "name": "Spadaccino Ammantato d'Ombra [着影揮刀]",
           "abName": "Geseundae",
           "desc": "[CantIdentify]\nBersaglia Casualente\n\nPotere Moneta +2 and infligge +6% danno per ogni 4 [Breath] se sè (max <style=\"highlight\">12</style>, max <style=\"highlight\">24</style>% rispettivamente)\n\nSe questa unità ha ottenuto [AlcoholKimPersonal] durante questo Incontro, infligge +<style=\"highlight\">80</style>% danni contro il bersaglio principale\n- Mentore dei Discendenti della Spada Meursault infligge +<style=\"highlight\">160</style>% danni contro il bersaglio principale\n\n[BeforeAttack] Potere Base -2 per ogni Moneta Infranta (max -8)\n[BeforeAttack] Tutti i nemici e alleati ottengono +4 Conteggio [Breath], 1 [SlashDamageUp] e 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 altre unità alleate dei Discendenti della Spada che hanno la quantità minore di PS recuperano 10 PS\n[EndSkill] Ottiene 4 [AlcoholKimPersonal] il turno successivo",
           "coinlist": [
@@ -977,7 +977,7 @@
         },
         {
           "level": 4,
-          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "name": "Spadaccino Ammantato d'Ombra [着影揮刀]",
           "abName": "Geseundae",
           "desc": "[CantIdentify]\nBersaglia Casualmente\n\nPotere Moneta +2 and infligge +6% danno per ogni 4 [Breath] se sè (max <style=\"highlight\">16</style>, max <style=\"highlight\">30</style>% rispettivamente)\n\nSe questa unità ha ottenuto [AlcoholKimPersonal] durante questo Incontro, infligge +<style=\"highlight\">100</style>% danni contro il bersaglio principale\n- Mentore dei Discendenti della Spada Meursault infligge +<style=\"highlight\">200</style>% danni contro il bersaglio principale\n\n[BeforeAttack] Potere Base -2 per ogni Moneta Infranta (max -8)\n[BeforeAttack] Tutti i nemici e alleati ottengono +4 Conteggio [Breath], 1 [SlashDamageUp] e 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 altre unità alleate dei Discendenti della Spada che hanno la quantità minore di PS recuperano 10 PS\n[EndSkill] Ottiene 4 [AlcoholKimPersonal] il turno successivo",
           "coinlist": [
