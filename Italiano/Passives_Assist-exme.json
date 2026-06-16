@@ -2,64 +2,65 @@
   "dataList": [
     {
       "id": 40003801,
-      "name": "Limbus Company Specialized Custom Prosthetic Prototype mk5 - Dokkaebi Arms",
-      "desc": "Encounter Start: Gain [AengduNewArm]\n\nIf there is an ally at less than 50% HP on the field excluding this unit, gain 1 [SupportProtect] (once per turn)",
-      "summary": "Gain [SupportProtect]",
+      "name": "Prototipo Protesi Speciale Personalizzata della Limbus Company Mk5 - Armamenti Dokkaebi",
+      "desc": "A inizio combattimento, ottiene [AengduNewArm]\n\nSe c'è un alleato con meno del 50% dei PV sul campo escludendo questa unità, ottiene 1 [SupportProtect] (una volta per turno)",
+      "summary": "Ottiene [SupportProtect]",
       "flavor": "\"On the outside, it looks no different from prostheses you might find in other Nests or Backstreets... But apparently, this particular prosthetic limb has been created using technology unique to Limbus Company. I wonder what that could be...\"\n\n\"Since the development of this prototype was led by the LCD Department, I would assume it has something to do with the power of Distortions... Oh, that's not to say that I have any certainty regarding the matter—I was only in charge of transporting it, you see. It's just a simple speculation, really. In any case, I doubt this is your average prosthetic limb meant for body enhancement.\""
     },
     {
       "id": 40003802,
-      "name": "Demonfire Spinecleaver",
-      "desc": "Skill End: Gain 1 [WindBlade] for every 3 [Breath] (max 5, 2 times per turn)\n\nOn Base Attack Skill End: At 15+ [WindBlade], activate \"Even the Balance - Lucent Rippling Flame\" on the enemy (once per turn)\n\nOn Defense Skill Clash Lose, if this unit has 3+ [Agility], this unit cannot be Staggered from taking damage until Defense Skill End, and activate \"To Claim Their Bones\" against the enemy after being hit (2 times per turn, excluding forced Staggers)",
-      "summary": "Activate additional Skill when conditions are met"
+      "name": "Fendi-Vertebre del Fuoco Demoniaco",
+      "desc": "A fine attacco, ottiene 1 [WindBlade] per ogni 3 [Breath] (max 5, 2 volte per turno)\n\nA Fine Attacco con Abilità Base, se questa unità ha 15+ [WindBlade], attiva \"Stabilizzazione - Fiamma Lucente Increspata\" sul nemico (una volta per turno)\n\nQuando perde uno Scontro con un Abilità Difensiva, se questa unità ha 3+ [Agility], questa unità non può essere stordita fino alla fine dell'Abilità Difensiva e usa l'Abilità \"Per Strappare le Ossa\" dopo essere stata colpita (2 volte per turno, esclude gli Stordimenti forzati)",
+      "summary": "Attiva un'Abilità bonus sotto certi requisiti"
     },
     {
       "id": 40003803,
       "name": "Swiftblade",
-      "desc": "On Crit, gain 1 [Agility] next turn (3 times per Skill, 2 times per turn)",
-      "summary": "Gain [Agility]"
+      "desc": "Sul Colpo Critico, ottiene 1 [Agility] il turno successivo (3 volte per Abilità, 2 volte per turno)",
+      "summary": "Ottiene [Agility]"
     },
     {
       "id": 40003804,
-      "name": "To Where I Must Return",
-      "desc": "When 3 or more other Blade Lineage allies are defeated:\n- When gaining [Breath] Potency/Count using this unit's own Skills and Coin effects: Gain 1 more of each\n- When 5 or more other Blade Lineage allies are defeated, gain 2 more of each instead\n- Combat Start: Apply [SwordPlayOfTheHomeland] on self",
+      "name": "Il Luogo In Cui Tornare",
+      "desc": "Quando 3 o più alleati dei Discendenti della Spada sono sconfitti:\n- Quando questa unità ottiene Potenza [Breath] con gli effetti delle sue Abilità o Monete, ne ottiene 1 in più di entrambi\n- Quando 5 o più alleati dei Discendenti della Spada, ne ottiene invece 2 in più\n- A inizio combattimento, applica [SwordPlayOfTheHomeland] su di sé",
       "summary": ""
     },
     {
       "id": 40004001,
-      "name": "Fugitive",
-      "desc": "Upon entering the Encounter for the first time, gain [BrandedKimSatgat]"
+      "name": "Fuggiasco",
+      "desc": "Quando entra nell'Incontro per la prima volta, ottiene [BrandedKimSatgat]"
     },
     {
       "id": 40004002,
-      "name": "Bearing of a Salsu",
-      "desc": "At 1 [Breath] Count, lose 10 HP instead of losing [Breath] Count (this effect cannot Stagger this unit and does not drop this unit's HP below 1)\n\nDeal +(missing HP percentage on self / 2) damage on Critical Hit using Base Skills (max 50%)"
+      "name": "Portamento di un Salsu",
+      "desc": "A 1 Conteggio [Breath], perde 10 PV al posto di Conteggio [Breath] (questo effetto non Stordisce l'unità; i PV di quest'unità non scendono sotto 1)\n\nInfligge +(percentuale dei PV mancanti su di sé / 2) danni su Colpo Critico (max 50%)"
     },
     {
       "id": 40004003,
-      "name": "Swordplay of the Homeland",
-      "desc": "Combat Start: If Pride Reson. was activated,\n- Gain (Pride Reson. x 2) [Breath] (max 8)\n- Apply 1 [SlashResultUp] and 1 [CriticalDamageUp] on all Sinners and Assist Units excluding this unit (for Blade Lineage targets, double this effect)\n\nTurn End: Gain ([Breath] on self / 4) [Agility] next turn (max 6, rounded down)"
+      "name": "Scherma Della Patria",
+      "desc": "A inizio combattimento, se è stata attivata una Rison. Superbia:\n- Ottiene (Rison. Superbia x 2) [Breath] (max 8)\n- Applica 1 [SlashResultUp] e 1 [CriticalDamageUp] su ogni alleato (esclude sé stesso; quest effetto è raddoppiato sui bersagli della fazione dei Discendenti della Spada)\n\nA fine turno, ottiene ([Breath] su di sé / 4) [Agility] il turno successivo (max 6, arrotondato per difetto)"
     },
     {
       "id": 40004004,
-      "name": "Blade Lineage Mentor",
-      "desc": "When gaining [Breath] Potency/Count using this unit's own Skills and Coin effects: Apply 1 [Breath] Potency and 1 [Breath] Count on the Sinner and 2 Assist Units that do not have [Breath] or have the lowest [Breath] Potency (excluding this unit)\n- For Blade Lineage allies, apply 3 [Breath] Potency and +2 [Breath] Count instead\n\nWhen a Blade Lineage Sinner or Assist Unit is defeated, this unit loses 10 SP"
+      "name": "Mentore dei Discendenti della Spada",
+      "desc": "Quando questa unità ottiene Potenza [Breath] con gli effetti delle sue Abilità o Monete, dà 1 Potenza e 1 Conteggio [Breath] sul Peccatore e sulle 2 Unità di Supporto senza [Breath] o con meno Potenza [Breath] (esclude sé stesso)\n- Se quest'alleato è della fazione dei Discendenti della Spada, dà invece 3 Potenza e +2 Conteggio [Breath]\n\nQuando un alleato dei Discendenti della Spada è sconfitto, questa unità perde 10 SP"
     },
     {
       "id": 40004005,
-      "name": "Yield My Flesh to Claim Their Bones",
-      "desc": "In this Encounter, when this unit takes damage that brings its HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn (once per Encounter)\n\nTurn End: At 30+ [Breath] Potency, fix this unit's Speed to 20 next turn and equip \"Yield My Flesh\" on the leftmost Skill Slot\n- If \"Yield My Flesh\" becomes inaccessible due to Skill effect, this effect does not activate"
+      "name": "Cedo la Carne per Strappare le Ossa",
+      "desc": "Quando questa unità subisce danni fatali, annulla quei danni. Poi, i PV di questa unità non possono scendere sotto 1 per il resto del turno (una volta per Incontro)\n\nA inizio turno, se ha 30+ Potenza [Breath], porta la sua Velocità 20 ed equipaggia l'Abilità \"Cedo la Carne\" sullo Slot più a sinistra\n- Se \"Cedo la Carne\" è inaccessible, questo effetto non viene attivato"
     },
     {
       "id": 40004006,
-      "name": "Fate Lost",
-      "desc": "Lose this Encounter if this unit is killed",
+      "name": "Fato Perduto",
+      "desc": "Se questa unità viene sconfitta, perdi l'Incontro",
       "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
     },
     {
       "id": 40003901,
-      "name": "Dimensional Bag [Ezra]",
-      "desc": "Encounter Start: Gain 1 [DimensionalBagEzraA]\n\nIf this unit used the current Workshop weapon more than once, switch weapons the next turn\n\nList of weapons:\n- Allas Workshop Gloves\n- Nester Workshop Hammer\n- Screw Atelier Drill Hammer\n- Namir Workshop Gauntlets\n- YuRia Atelier Axe"
+      "name": "Borsone Dimensionale [Ezra]",
+      "desc": "A inizio Incontro, ottiene 1 [DimensionalBagEzraA]\n\nSe questa unità ha usato l'arma dell'Officina attuale più di una volta, cambia arma nel turno successivo\n\nLista delle Armi:\n- Guanti dell'Officina Allas\n- Martello dell'Officina Nester\n- Martello Trivella Atelier Screw\n- Guanti da Combattimento dell'Officina Namir\n- Ascia Atelier YuRia",
+      "comm": "Nomi placeholder."
     }
   ]
 }

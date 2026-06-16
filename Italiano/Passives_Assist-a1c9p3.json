@@ -28,8 +28,8 @@
     },
     {
       "id": 40000706,
-      "name": "Fate Lost",
-      "desc": "Lose this Encounter if this unit is killed after Hohenheim is killed",
+      "name": "Fato Perduto",
+      "desc": "Se questa unità viene sconfitta mentre Hohenheim è sconfitto, perdi l'Incontro",
       "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
     },
     {
@@ -60,8 +60,8 @@
     },
     {
       "id": 40000806,
-      "name": "Fate Lost",
-      "desc": "Lose this Encounter if this unit is killed after Alyssa is killed",
+      "name": "Fato Perduto",
+      "desc": "Se questa unità viene sconfitta mentre Alyssa è sconfitta, perdi l'Incontro",
       "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
     },
     {
@@ -77,14 +77,14 @@
     },
     {
       "id": 40000904,
-      "name": "Fate Lost",
-      "desc": "Lose this Encounter if this unit is killed",
+      "name": "Fato Perduto",
+      "desc": "Se questa unità viene sconfitta, perdi l'Incontro",
       "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
     },
     {
       "id": 40001001,
-      "name": "Deep Contemplation",
-      "desc": "Encounter Start: Gain [MosesWarPTSD]"
+      "name": "Panic Recovery - Deep Contemplation",
+      "desc": "Encounter Start: Gain [MosesWarPTSD]\n\nTurn End: If this unit is in Panic, reset SP to 0"
     },
     {
       "id": 40001002,
@@ -94,8 +94,8 @@
     },
     {
       "id": 40001003,
-      "name": "Fate Lost",
-      "desc": "Lose this Encounter if this unit is killed",
+      "name": "Fato Perduto",
+      "desc": "Se questa unità viene sconfitta, perdi l'Incontro",
       "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
     },
     {
@@ -111,8 +111,8 @@
     },
     {
       "id": 40001104,
-      "name": "Fate Lost",
-      "desc": "Lose this Encounter if this unit is killed",
+      "name": "Fato Perduto",
+      "desc": "Se questa unità viene sconfitta, perdi l'Incontro",
       "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
     },
     {
@@ -152,8 +152,8 @@
     },
     {
       "id": 40001208,
-      "name": "Fate Lost",
-      "desc": "Lose this Encounter if this unit is killed",
+      "name": "Fato Perduto",
+      "desc": "Se questa unità viene sconfitta, perdi l'Incontro",
       "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
     },
     {
@@ -204,8 +204,8 @@
     },
     {
       "id": 40001310,
-      "name": "Fate Lost",
-      "desc": "Lose this Encounter if this unit is killed",
+      "name": "Fato Perduto",
+      "desc": "Se questa unità viene sconfitta, perdi l'Incontro",
       "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
     },
     {
