@@ -53,7 +53,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Serie di Affondi",
+          "name": "Serie di Tagli",
           "desc": "[WhenUse] Potere Base +1 per ogni 4 [Breath] su di sé (max 5)\n[DefeatDuel] Potere Base -13\n[DefeatDuel] Questa Abilità non può Stordire il bersaglio\n[EndSkill] Consuma ogni [Breath] su di sé",
           "coinlist": [
             {
@@ -165,7 +165,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Serie di Affondi",
+          "name": "Serie di Tagli",
           "desc": "Se il bersaglio ha meno del 50% dei PV, Potere Finale +2\n[WhenUse] Potere Base +1 per ogni 4 [Breath] su di sé (max 5)\n[DefeatDuel] Potere Base -13\n[DefeatDuel] Quest'Abilità non può Stordire il bersaglio\n[EndSkill] Consuma ogni [Breath] su di sé",
           "coinlist": [
             {
