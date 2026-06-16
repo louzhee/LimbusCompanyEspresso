@@ -643,12 +643,12 @@
     {
       "id": "battle_s3_10404_1_1",
       "desc": "Ryoshu Bistro - S3",
-      "dlg": "U.\n(Utile)"
+      "dlg": "U.\n(Utile,)"
     },
     {
       "id": "battle_s3_10404_1_2",
       "desc": "Ryoshu Bistro - S3",
-      "dlg": "M.A.\n(Morbido, Appetitoso...)"
+      "dlg": "M.A.\n(Morbido e Appetitoso...)"
     },
     {
       "id": "battle_s3_10404_1_3",
@@ -663,17 +663,17 @@
     {
       "id": "battle_s3_11005_1_1",
       "desc": "NClair - S3",
-      "dlg": "Espurgherò..."
+      "dlg": "<color=#bd9a52>Espurgherò..."
     },
     {
       "id": "battle_s3_11005_1_2",
       "desc": "NClair - S3 testa",
-      "dlg": "Tutte le impurità!"
+      "dlg": "<color=#bd9a52>Tutte le impurità!"
     },
     {
       "id": "battle_s3_11005_1_2-03",
       "desc": "NClair - S3 croce",
-      "dlg": "Tutte le impurità."
+      "dlg": "<color=#bd9a52>Tutte le impurità."
     },
     {
       "id": "battle_s3_10905_1_2",
@@ -693,7 +693,7 @@
     {
       "id": "battle_s3_10104_1_4",
       "desc": "Spicebush - S3",
-      "dlg": "Sboccia."
+      "dlg": "<color=#FFE714>Sboccia."
     },
     {
       "id": "battle_s3_11006_1_2-03",
@@ -1153,7 +1153,7 @@
     {
       "id": "battle_s3_11011_1_4-1",
       "desc": "Devyat Sinclair - S3 end",
-      "dlg": "Ti farai male!"
+      "dlg": "Ti farò male!"
     },
     {
       "id": "battle_special_11011_1",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "battle_special_10611_3-01",
-      "desc": "FullStop Hong Li - FuA",
+      "desc": "FullStop Hong Lu - FuA",
       "dlg": "<color=#5BFFDE>Okay, ci penso io.</color>"
     },
     {
@@ -1392,7 +1392,7 @@
     },
     {
       "id": "battle_s3_11012_1_3-02",
-      "desc": "Middle Sinclair - S3 alt",
+      "desc": "Middle Sinclair - S3 end",
       "dlg": "Fa la bua, vero?"
     },
     {
@@ -1408,7 +1408,7 @@
     {
       "id": "battle_s3_11212_1_3",
       "desc": "Si Gregor - S3",
-      "dlg": "Non di là— strada sbagliata!"
+      "dlg": "Non di là— hai sbagliato strada!"
     },
     {
       "id": "battle_s3_10212_1_2",
@@ -1668,7 +1668,7 @@
     {
       "id": "battle_s2_10613_1_5",
       "desc": "Lord Hong Lu - S3-2 solo end",
-      "dlg": "<color=#41E8E6>... Come abbattei Daguanyuan.</color>"
+      "dlg": "<color=#41E8E6>... Come ho abbattuto Daguanyuan.</color>"
     },
     {
       "id": "battle_s3_10114_1_1",
@@ -2443,7 +2443,7 @@
     {
       "id": "battle_s3_11015_1_6",
       "desc": "Renclair - S3 (5~19 Moons)",
-      "dlg": "Drive the blade into that momentary glimpse of the gap..."
+      "dlg": "Usa la lama e colpisci quel piccolo istante di debolezza..."
     },
     {
       "id": "battle_s3_11015_1_7",
@@ -2938,7 +2938,7 @@
     {
       "id": "battle_special_10915_5",
       "desc": "Ring Rodya - Réflexion expires",
-      "dlg": "Ecco fatto. That's long enough for an appraisal session."
+      "dlg": "Ecco fatto. Direi che è abbastanza per una sessione di valutazioni."
     },
     {
       "id": "battle_s3_10715_1_5",
@@ -3233,7 +3233,7 @@
     {
       "id": "battle_react_10310_8-2",
       "desc": "Manager Don - Death (Priest deployed)",
-      "dlg": "<color=#B60008>Priest... Affido la famiglia alle tue mani.</color>"
+      "dlg": "<color=#B60008>Prete... Affido la famiglia alle tue mani.</color>"
     },
     {
       "id": "battle_react_10310_8-3",
@@ -3258,7 +3258,7 @@
     {
       "id": "battle_add_10710_3",
       "desc": "Wild Hunt Heathcliff - Wind Hunt on Wuthering Heights",
-      "dlg": "<color=#8749c1>Such grudge you bear... Quindi lamentati e piangi, finché le goccie delle tue lacrime non si uniranno a quelle della tempesta!</color>"
+      "dlg": "<color=#8749c1>Sento il tuo rancore... Quindi lamentati e piangi, finché le goccie delle tue lacrime non si uniranno a quelle della tempesta!</color>"
     },
     {
       "id": "battle_s3_10710_large_2",
@@ -3348,12 +3348,12 @@
     {
       "id": "battle_s3_10815_1_2-02",
       "desc": "Ishdu - S3-2 mid",
-      "dlg": "Cambio Postura—Terzo Azzardo."
+      "dlg": "Cambio Postura—Terzo Gambetto."
     },
     {
       "id": "battle_s3_10815_1_2-02",
       "desc": "Ishdu - S3-1 mid",
-      "dlg": "Terzo Azzardo."
+      "dlg": "Terzo Gambetto."
     },
     {
       "id": "battle_s3_10815_1_3-01",
@@ -3378,7 +3378,7 @@
     {
       "id": "battle_s3_10815_1_5",
       "desc": "Ishdu - S3-2 start-mid",
-      "dlg": "Fendi-Vertebre del Fuoco Demoniaco (鬼火腰擊).\nCambio Postura—Terzo Azzardo."
+      "dlg": "Fendi-Vertebre del Fuoco Demoniaco (鬼火腰擊).\nCambio Postura—Terzo Gambetto."
     },
     {
       "id": "battle_special_10815_1",
