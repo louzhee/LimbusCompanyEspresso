@@ -203,20 +203,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Toxic Fluid",
-          "desc": "[StartBattle] Consume 1 Green Slime",
+          "name": "Fluido Tossico",
+          "desc": "[StartBattle] Consuma 1 Slime Verde",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Poison"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Poison]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Poison"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Poison]"
                 }
               ]
             }
@@ -229,26 +229,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Corrosive Fluid",
-          "desc": "[StartBattle] Consume 1 Green Slime",
+          "name": "Fluido Corrosivo",
+          "desc": "[StartBattle] Consuma 1 Slime Verde",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Defense Level Down by [Poison] on target"
+                  "desc": "[OnSucceedAttack] Infligge [DefenseDown] in base al [Poison] sul bersaglio"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Larva"
+                  "desc": "[OnSucceedAttack] Infligge 1 Larva"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Defense Level Down by [Poison] on target"
+                  "desc": "[OnSucceedAttack] Infligge [DefenseDown] in base al [Poison] sul bersaglio"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Larva"
+                  "desc": "[OnSucceedAttack] Infligge 1 Larva"
                 }
               ]
             }
@@ -261,26 +261,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Paralytic Fluid",
-          "desc": "[StartBattle] Consume 1 Green Slime",
+          "name": "Fluido Paralitico",
+          "desc": "[StartBattle] Consuma 1 Slime Verde",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Poison], inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha [Poison], infligge 1 [Paralysis]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Larva"
+                  "desc": "[OnSucceedAttack] Infligge 2 Larva"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Poison], inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha [Poison], infligge 1 [Paralysis]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Larva"
+                  "desc": "[OnSucceedAttack] Infligge 2 Larva"
                 }
               ]
             }
@@ -293,26 +293,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Devouring Fluid",
-          "desc": "[StartBattle] Consume 2 Green Slime\n[WhenUse] Inflict 3 Larva",
+          "name": "Fluido Divorante",
+          "desc": "[StartBattle] Consuma 2 Slime Verde\n[WhenUse] Infligge 3 Larva",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Poison"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Poison]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] Infligge 1 [Paralysis] il turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Poison"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Poison]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] Infligge 1 [Paralysis] il turno successivo"
                 }
               ]
             }
@@ -325,22 +325,22 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Effervescent Green Slime",
-          "desc": "[StartBattle] Gain Atk Weight by [AaCePcBh]\n[StartBattle] Gain 10 [AaCePcBh]",
+          "name": "Slime Verde Effervescente",
+          "desc": "[StartBattle] Ottiene Portata Attacco in base al [AaCePcBh]\n[StartBattle] Ottiene 10 [AaCePcBh]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Poison"
+                  "desc": "[OnSucceedAttack] Infligge 10 [Poison]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Lose 7 PS"
+                  "desc": "[OnSucceedAttack] Perde 7 PS"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Larva"
+                  "desc": "[OnSucceedAttack] Infligge 3 Larva"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Paralyze and 3 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttackHead] Infligge 1 [Paralysis] e 3 [DefenseDown] il turno successivo"
                 }
               ]
             }
@@ -353,13 +353,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Predation",
-          "desc": "[CantDuel][CantChangeTarget]\nTargets Green Slime primarily\nDefeats Green Slime upon attacking",
+          "name": "Predazione",
+          "desc": "[CantDuel][CantChangeTarget]\nBersaglia lo <noparse>Slime Verde</noparse>\nSe attacca lo <noparse>Slime Verde</noparse>, lo uccide",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[TargetKill] Gain 3 [AaCePcBh]."
+                  "desc": "[TargetKill] Ottiene 3 [AaCePcBh]."
                 }
               ]
             }
@@ -372,8 +372,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Overflowing Poison",
-          "desc": "[OnSucceedEvade] Inflict 5 Poison",
+          "name": "Veleno Traboccante",
+          "desc": "[OnSucceedEvade] Infligge 5 [Poison]",
           "coinlist": [
             {
               "coindescs": [
@@ -391,13 +391,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Headbutt",
+          "name": "Testata",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Sinking]"
                 }
               ]
             }
@@ -410,20 +410,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pound",
+          "name": "Botta",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Sinking]"
                 }
               ]
             }
@@ -436,26 +436,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Press",
+          "name": "Schiaccia",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count if target has [AaCePcBb]"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Sinking] se il bersaglio ha [AaCePcBb]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count if target has [AaCePcBb]"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Sinking] se il bersaglio ha [AaCePcBb]"
                 }
               ]
             }
@@ -468,43 +468,43 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blind Obsession",
-          "desc": "[DefeatDuel] This unit's Fluorescence Part loses 34% of Max PV.\n[DefeatDuel] Gain 1 Blind Obsession",
+          "name": "Ossessione Cieca",
+          "desc": "[DefeatDuel] La Parte Fluorente di questa unità perde il 34% dei PV max.\n[DefeatDuel] Ottiene 1 Ossessione Cieca",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttackHead] Infligge 4 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttackHead] Infligge 4 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttackHead] Infligge 4 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sinking Deluge"
+                  "desc": "[OnSucceedAttack] Innesca [SinkingSurge]"
                 }
               ]
             }
@@ -517,23 +517,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Crashing Siltcurrent",
-          "desc": "[CantDuel][StartBattle] Alters the environment",
+          "name": "Corrente Torbida",
+          "desc": "[CantDuel][StartBattle] Modifica il campo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking and +2 Sinking Count"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Sinking] e +2 Conteggio [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gain -2 PS Loss Efficiency next turn"
+                  "desc": "[OnSucceedAttackHead] Ottiene -2 Efficenza Perdita PS il turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking and +2 Sinking Count"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Sinking] e +2 Conteggio [Sinking]"
                 }
               ]
             }
@@ -546,13 +546,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wayward Blind Obsession",
-          "desc": "[CantDuel][CantChangeTarget] Targets destroyed Flotsam\n[EndSkill] Fluorescence Part loses 34% of Max PV.\n[EndBattle] Gain 1 Blind Obsession.",
+          "name": "Ossessione Cieca e Dispersa",
+          "desc": "[CantDuel][CantChangeTarget] Bersaglia i Relitti distrutti\n[EndSkill] La parte Fluorente perde il 34% dei PV max.\n[EndBattle] Ottiene 1 Ossessione Cieca.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Destroys target."
+                  "desc": "[OnSucceedAttack] Distrugge il bersaglio."
                 }
               ]
             }
@@ -565,26 +565,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sweep",
-          "desc": "[EndBattle] Create Flotsam",
+          "name": "Spazzata",
+          "desc": "[EndBattle] Crea un Relitto",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count if target has [AaCePcBb]"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Sinking] se il bersaglio ha [AaCePcBb]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count if target has [AaCePcBb]"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Sinking] se il bersaglio ha [AaCePcBb]"
                 }
               ]
             }
@@ -597,13 +597,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wriggle",
-          "desc": "[StartBattle] Spend all Blind Obsession\n[StartBattle] Destroy all Flotsam and destroyed Flotsam",
+          "name": "Torsione",
+          "desc": "[StartBattle] Consuma ogni Ossessione Cieca\n[StartBattle] Distrugge tutti i Relitti",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Sinking"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Sinking]"
                 }
               ]
             }
@@ -616,13 +616,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stab",
+          "name": "Trafiggi",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Bleed"
+                  "desc": "[OnSucceedAttackHead] Infligge 4 [Laceration]"
                 }
               ]
             }
@@ -635,27 +635,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tear Up Wound",
-          "desc": "[WinDuel] Heal 5 PS.\nDeal +5% damage per [Laceration] on target",
+          "name": "Apri Ferita",
+          "desc": "[WinDuel] Recupera 5 PS.\nInfligge +5% danni per ogni [Laceration] sul bersaglio",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 }
               ]
             }
@@ -668,46 +668,46 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Protect the Town!",
-          "desc": "[WhenUse] Gain 5 Poise",
+          "name": "Proteggete il Villaggio!",
+          "desc": "[WhenUse] Ottiene 5 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 PS"
+                  "desc": "[OnSucceedAttack] Recupera 4 PS"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 PS"
+                  "desc": "[OnSucceedAttack] Recupera 4 PS"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 PS"
+                  "desc": "[OnSucceedAttack] Recupera 4 PS"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 PS"
+                  "desc": "[OnSucceedAttack] Recupera 4 PS"
                 }
               ]
             }
@@ -720,16 +720,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tangling Javelin",
-          "desc": "[WhenUse] Gain 5 Poise and +2 Poise Count",
+          "name": "Lancia e Cattura",
+          "desc": "[WhenUse] Ottiene 5 [Breath] e +2 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Tangle"
+                  "desc": "[OnSucceedAttack] Infligge [AaCePcBk]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Binding] il turno successivo"
                 }
               ]
             }
@@ -743,7 +743,7 @@
         {
           "level": 1,
           "name": "Blocco",
-          "desc": "When attacked while this unit has Shield, gain 1 Offense Level Up next turn",
+          "desc": "Se colpito mentre ha Scudo, Ottiene 1 Livello Offensivo Aumentato il turno successivo",
           "coinlist": [
             {
               "coindescs": [
@@ -761,20 +761,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quick Jabs",
+          "name": "Colpi Rapidi",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             }
@@ -787,34 +787,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Carve Wound",
-          "desc": "[WinDuel] Heal 5 PS.\nDeal +5% damage per [Laceration] on target",
+          "name": "Sfregia Ferite",
+          "desc": "[WinDuel] Recupera 5 PS.\nInfligge +5% danni per ogni [Laceration] sul bersaglio",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                 }
               ]
             }
@@ -827,46 +827,46 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Protect the Town!",
-          "desc": "[WhenUse] Gain 5 Poise",
+          "name": "Proteggete il Villaggio!",
+          "desc": "[WhenUse] Ottiene 5 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 PS"
+                  "desc": "[OnSucceedAttack] Recupera 4 PS"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 PS"
+                  "desc": "[OnSucceedAttack] Recupera 4 PS"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 PS"
+                  "desc": "[OnSucceedAttack] Recupera 4 PS"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 4 PS"
+                  "desc": "[OnSucceedAttack] Recupera 4 PS"
                 }
               ]
             }
@@ -879,16 +879,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Capturing Javelin",
-          "desc": "[WhenUse] Gain 5 Poise and +2 Poise Count",
+          "name": "Lancia e Cattura",
+          "desc": "[WhenUse] Ottiene 5 [Breath] e +2 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Capture"
+                  "desc": "[OnSucceedAttack] Infligge [AaCePcBl]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Binding] il turno successivo"
                 }
               ]
             }
@@ -902,7 +902,7 @@
         {
           "level": 1,
           "name": "Evasione",
-          "desc": "[OnSucceedEvade] Gain 1 Offense Level Up next turn (Max 3)",
+          "desc": "[OnSucceedEvade] Ottiene 1 Livello Offensivo Aumentato il turno successivo (Max 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -968,7 +968,7 @@
                   "desc": "[OnSucceedAttack] Infligge 3 [AttackDown]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Infligge 2 [Binding] il turno successivo"
+                  "desc": "[OnSucceedAttack] Infligge 2 [[Binding]ing] il turno successivo"
                 }
               ]
             },
@@ -1684,10 +1684,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [AaCePbBa]"
+                  "desc": "[OnSucceedAttackHead] Infligge 1 [AaCePbBa]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Binding] il turno successivo"
                 }
               ]
             }
