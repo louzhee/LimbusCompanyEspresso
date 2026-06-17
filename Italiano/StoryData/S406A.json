@@ -2,166 +2,166 @@
     "dataList": [
         {
             "id": 0,
-            "content": "As the prolonged cycles of pain came to an end…"
+            "content": "Quando il prolungato ciclo di sofferenza giunse al termine…"
         },
         {
             "id": 1,
             "place": "Strade Distrutte del Nido K",
             "model": "파우스트",
-            "content": "The Abnormality has been successfully suppressed. We can return to the bus now."
+            "content": "L'Anormalità è stata soppresso con successo. Adesso possiamo tornare sul bus."
         },
         {
             "id": 2,
-            "content": "It was a “success” that accompanied many deaths and revivals on our side, but I nodded anyway."
+            "content": "Quel “successo” era stato accompagnato da innumerevoli morti e resurrezioni, ma annuii lo stesso."
         },
         {
             "id": 3,
-            "content": "We got back on the bus, harboring a few unanswered questions."
+            "content": "Tornammo indietro sul bus, covando alcune domande senza ancora una risposta."
         },
         {
             "id": 4,
-            "place": "Aboard Mephistopheles",
+            "place": "A bordo del Mephistopheles",
             "model": "베르길리우스",
-            "content": "You came back later than expected. I was just about to take my first nap in a while."
+            "content": "Siete tornati più tardi del previsto, stavo quasi per farmi un pisolino."
         },
         {
             "id": 5,
-            "content": "I explained the oddities we ran into earlier to Vergilius.\n(To be more precise, Faust did the heavy speaking.)"
+            "content": "Spiegai le stranezze in cui ci eravamo imbattuti poco prima a Vergilius.\n(Anzi, ad essere precisi, Faust fece da mediatrice.)"
         },
         {
             "id": 6,
-            "content": "I was expecting him to coldly tell me to do my job as the middle manager and follow whatever orders I’m given, but his answer was surprisingly earnest."
+            "content": "Mi aspettavo che mi dicesse freddamente di fare il mio lavoro da intermediario e seguire gli ordini che mi venivano dati, ma la sua risposta fu sorprendentemente onesta."
         },
         {
             "id": 7,
             "model": "베르길리우스",
-            "content": "…The existence of Abnormalities has been almost completely unknown to the public, and we don’t possess all the details on them, either, Dante."
+            "content": "…L'esistenza delle Anormalità è quasi del tutto sconosciuta al pubblico, e neanche noi disponiamo di tutti i dettagli su di esse, Dante."
         },
         {
             "id": 8,
             "model": "단테",
-            "content": "<Didn’t think you’d admit it right away.>"
+            "content": "<Non avrei mai pensato che lo avresti ammesso così apertamente.>"
         },
         {
             "id": 9,
-            "content": "Faust flinched a little, but she didn’t relay what I just said."
+            "content": "Faust sussultò leggermente, ma non riferì quello che avevo detto."
         },
         {
             "id": 10,
             "model": "베르길리우스",
-            "content": "Enigmatic as they are… let’s leave Ms. Faust and other departments of our proud Limbus Company to uncover all the details in the future, as we likely ought to."
+            "content": "Considerato quanto sono enigmatiche… lasciamo che siano la signorina Faust e gli altri dipartimenti della nostra gloriosa Limbus Company a svelarne tutti i dettagli in futuro, come è giusto che sia."
         },
         {
             "id": 11,
             "model": "파우스트",
-            "content": "…Will do."
+            "content": "…Sarà fatto."
         },
         {
             "id": 12,
-            "content": "Was Faust given any time at all to do some sort of research on this job?"
+            "content": "Mi chiesi se Faust avesse avuto effettivamente tempo per fare delle ricerche su questo incarico."
         },
         {
             "id": 13,
-            "content": "The mysteries were left unsolved, but… if Faust accepted the suggestion without a hitch, that probably means she’s thought of a way."
+            "content": "I misteri rimasero tali, ma… se Faust ha accettato quel suggerimento senza batter ciglio, probabilmente significa che ha già in mente un piano."
         },
         {
             "id": 14,
             "model": "오티스",
-            "content": "You, why do you have your shoulders hunched over like that?"
+            "content": "Ehi tu, perché te ne stai lì tutta incurvata?"
         },
         {
             "id": 15,
             "model": "오티스",
-            "content": "You’re short enough as you are, and this shrunken posture makes you practically imperceptible."
+            "content": "Già sei bassa di tuo, in questo modo diventi praticamente invisibile."
         },
         {
             "id": 16,
             "model": "돈키호테",
-            "content": "…I hoped to meet Lord Siegfried again…"
+            "content": "…Speravo di incontrare di nuovo Messer Siegfried…"
         },
         {
             "id": 17,
             "model": "그레고르",
-            "content": "(Who was Lord Sieg…fried, again?)"
+            "content": "(Chi era il Messer Sieg…fried?)"
         },
         {
             "id": 18,
             "model": "이스마엘",
-            "content": "Wasn’t that the man who took photos of himself while cutting us down with one hand?"
+            "content": "Non era quell'uomo che si è fatto i selfie mentre ci faceva a pezzi con una mano sola?"
         },
         {
             "id": 19,
             "model": "그레고르",
-            "content": "(Right… That Zack Friture guy…?)"
+            "content": "(Ah, giusto… Quel tale signor Frigo…?)"
         },
         {
             "id": 20,
-            "content": "Ishmael was breathing audibly through her nose. The incident at the checkpoint must’ve left some deep grudges for her."
+            "content": "Si sentiva chiaramente il respiro pesante di Ishmael. L'incidente alla dogana deve averle lasciato un bel dente avvelenato."
         },
         {
             "id": 21,
             "model": "돈키호테",
-            "content": "Eager was I to show him… my valiant acts of rescuing imperiled civilians…"
+            "content": "Ardente era il mio desiderio di mostrargli…  il mio valore nel soccorrere i deboli in periglio…"
         },
         {
             "id": 22,
             "model": "돈키호테",
-            "content": "I vowed that I shall meet him again as a Fixer of noble cause…"
+            "content": "Giurai che ci saremmo ricongiunti quando fossi divenuta una Fixer di nobili ideali…"
         },
         {
             "id": 23,
             "model": "그레고르",
-            "content": "Reunions are more touching if it’s after a long time, Don Quixote. Try thinking that it’s a good thing he didn’t show up today."
+            "content": "Rivedersi è molto più commovente se passa un bel po' di tempo, Don Quixote. Pensa che sia un bene che non si sia fatto vedere oggi."
         },
         {
             "id": 24,
             "model": "베르길리우스",
-            "content": "It really is strange, though."
+            "content": "È davvero strano, però."
         },
         {
             "id": 25,
             "model": "베르길리우스",
-            "content": "He’s not one to miss spectacles with this many spectators around."
+            "content": "Non è il tipo da perdersi spettacoli con così tanti spettatori."
         },
         {
             "id": 26,
             "model": "홍루",
-            "content": "Oho… Is he kind of like a celebrity, then?"
+            "content": "Oho… Quindi è una sorta di celebrità?"
         },
         {
             "id": 27,
             "model": "베르길리우스",
-            "content": "You could say that. He has a flair for showmanship, so it’s usual for K Corp. to take advantage of these kinds of commotions by sending him."
+            "content": "Si potrebbe dire di sì. Ha la tendenza a dare spettacolo, e K Corp. sfrutta questo genere di disturbi mandando proprio lui."
         },
         {
             "id": 28,
             "model": "베르길리우스",
-            "content": "But… if he hasn’t shown up for this perfect opportunity to draw the public’s full attention…"
+            "content": "Ma… se non si è presentato ad un'occasione perfetta come questa per attirare l'attenzione del pubblico…"
         },
         {
             "id": 29,
             "model": "단테",
-            "content": "<That means this isn’t something they want people to notice…>"
+            "content": "<Significa che questa è una faccenda non vogliono fa notare a nessuno…>"
         },
         {
             "id": 30,
             "model": "돈키호테",
-            "content": "I shan’t… take such vicious slander of Lord Siegfried!"
+            "content": "Non tollererò… simili calunnie nei confronti di Messer Siegfried!"
         },
         {
             "id": 31,
             "model": "돈키호테",
-            "content": "On the fifth row of Page 42 of his autobiography “A Hero Should Keep Smiling Until His Last”, he writes that he shall be there to aid the weak no matter when and where!"
+            "content": "Nella quinta riga di pagina 42 della sua autobiografia “Un Eroe Dovrebbe Sorridere Fino Alla Fine”, egli scrive chiaramente che accorrerà in soccorso dei deboli, non importa dove o quando!"
         },
         {
             "id": 32,
             "model": "베르길리우스",
-            "content": "…Hah. Alright, you’d best hold that belief of yours dearly."
+            "content": "…Hah. D'accordo, faresti meglio a tenerti strette queste tue convinzioni."
         },
         {
             "id": 33,
             "model": "베르길리우스",
-            "content": "That way, you’ll have something to cling to when you face the extreme in the future."
+            "content": "Così avrai qualcosa a cui aggrapparti quando la situazione si farà disperata."
         }
     ]
 }

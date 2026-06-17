@@ -6,19 +6,19 @@
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "Laboratorio della K Corp.",
-            "content": "Attenzione, gente! È arrivata la cavalleria!!"
+            "content": "Attenzione, gente! Sono arrivati i rinforzi!!"
         },
         {
             "id": 1,
             "model": "로쟈",
-            "content": "W-Who are those people?"
+            "content": "E-E questi chi sono?"
         },
         {
             "id": 2,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Già, di chi si tratta, Shrenne~? Ti sei fatta dei nuovi amici oltre a me?"
+            "content": "Già, Shrenne, di chi si tratta~? Ti sei fatta dei nuovi amici oltre a me?"
         },
         {
             "id": 3,
@@ -36,7 +36,7 @@
         },
         {
             "id": 5,
-            "content": "The enemies' faces clouded over at the unexpected arrival of reinforcements."
+            "content": "Le facce dei nemici si offuscarono all'improvviso arrivo dei rinforzi."
         },
         {
             "id": 6,
@@ -64,28 +64,28 @@
             "model": "니코",
             "teller": "Niko",
             "title": "Officina Rosespanner",
-            "content": "Ma guarda che roba, la nostra \"aura\" li ha fatti fuggire con la coda tra le gambe... Huhu..."
+            "content": "Ma guarda un po', la nostra \"aura\" li ha fatti fuggire con la coda tra le gambe... Huhu..."
         },
         {
             "id": 10,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Grazie, Shrenne. Sto davvero considerando che il tuo dipartimento potrebbe essere scelto come il migliore dell'anno prossimo."
+            "content": "Grazie, Shrenne. Mi hai fatto seriamente considerare la possibilità che il tuo dipartimento possa essere scelto come il migliore dell'anno, per la prima volta."
         },
         {
             "id": 11,
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "Laboratorio della K Corp.",
-            "content": "È un vero peccato che i tuoi preziosi trofei siano stati distrutti, huh?"
+            "content": "È un vero peccato che i tuoi preziosi trofei siano stati distrutti, eh?"
         },
         {
             "id": 12,
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Ms. Shrenne, le mie scuse per i sospetti, ma non avrà forse atteso la distruzione dei trofei prima di portare qui dei rinforzi, spero?"
+            "content": "Signorina Shrenne, voglia perdonare i miei sospetti, ma mi auguro sinceramente che lei non abbia atteso la distruzione dei trofei prima di far intervenire i rinforzi."
         },
         {
             "id": 13,
@@ -104,24 +104,24 @@
         {
             "id": 15,
             "model": "그레고르",
-            "content": "The damage they left is pretty severe now that I'm seeing it firsthand..."
+            "content": "I danni che si sono lasciati dietro sono piuttosto gravi..."
         },
         {
             "id": 16,
             "model": "그레고르",
-            "content": "It could've gotten all the researchers killed if things went wrong."
+            "content": "Tutti i ricercatori sarebbero morti, se le cose avessero preso la piega sbagliata."
         },
         {
             "id": 17,
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Eccome, ed è il motivo per cui dobbiamo eliminarli e riprenderci il controllo della struttura che hanno occupato il prima possibile."
+            "content": "Eccome, ed è il motivo per cui dobbiamo eliminarli e riprendere il controllo della struttura che hanno occupato il prima possibile."
         },
         {
             "id": 18,
             "model": "이상",
-            "content": "Why, then, does K Corp... not provide assistance?"
+            "content": "Perché, dunque, la K Corp... non fornisce assistenza?"
         },
         {
             "id": 19,
@@ -133,14 +133,14 @@
         {
             "id": 20,
             "model": "이상",
-            "content": "While I may concede on that matter as innocent feathers were involved, this concerns researchers and a laboratory directly affiliated with the Wing..."
+            "content": "Sebbene possa sorvolare sulla questione, dato che erano coinvolte piume innocenti, qui si tratta di ricercatori e di un laboratorio direttamente affiliati all'Ala..."
         },
         {
             "id": 21,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Un'altra dimostrazione che vogliono essere discreti."
+            "content": "È la prova di quanto vogliano che la faccenda rimanga discreta, non trovate?"
         },
         {
             "id": 22,
@@ -152,74 +152,74 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "In ogni caso, mi assicurerò di farvi avere una generosa quantità di fiale rigenerative da usare a vostra discrezione. Sembra un buon momento per muoverci, non vi sembra?"
+            "content": "In ogni caso, mi assicurerò di farvi avere una generosa quantità di ampolle rigenerative da usare a vostra discrezione. Direi che è il momento giusto per partire, non vi sembra?"
         },
         {
             "id": 24,
             "model": "그레고르",
-            "content": "We aren't going on a picnic, Dongrang... You gonna be okay?"
+            "content": "Non stiamo andando a fare una scampagnata, Dongrang... Te la caverai?"
         },
         {
             "id": 25,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Ma certamente, vedervi combattere mi ha fatto sentire al sicuro, verrò volentieri con voi."
+            "content": "Ma certamente. Vedervi combattere mi ha fatto sentire al sicuro, verrò volentieri con voi."
         },
         {
             "id": 26,
             "model": "파우스트",
-            "content": "Just so you know... the technology our Manager Dante uses is on a different level compared to K Corp's ampules; rather than regenerate, it restores."
+            "content": "Per vostra informazione... la tecnologia usata dal nostro Manager Dante è su un livello differente rispetto alle ampolle della K Corp. Più che rigenerare, essa ripristina."
         },
         {
             "id": 27,
             "model": "파우스트",
-            "content": "Therefore, observing it won't provide much insight that can be applied to K Corp's Singularity or regeneration ampules."
+            "content": "Pertanto, osservarla non fornirà grandi spunti applicabili alla Singolarità della K Corp o al miglioramento delle ampolle rigenerative."
         },
         {
             "id": 28,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Ripristinare, non curare, huh..."
+            "content": "Ripristinare, non rigenerare, huh..."
         },
         {
             "id": 29,
             "model": "로쟈",
-            "content": "No way~ Is he trying to copy Dante's ability like what that shady Bodhisattva Chicken guy tried with his rival?!"
+            "content": "Non dirmelo~ Sta cercando di copiare l'abilità di Dante come ha cercato di fare quel tipo losco del Polletto Bodhisattva con il suo rivale?!"
         },
         {
             "id": 30,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Sia mai. Non sono il tipo da ingozzarmi di cibo che non posso digerire."
+            "content": "Non farei mai una cosa del genere. Non sono il tipo da fare il passo più lungo della gamba."
         },
         {
             "id": 31,
             "model": "오티스",
-            "content": "It has to be common practice for someone like you to send capable underlings to do the fighting for you, and yet you insist on being on the front. Are you that hungry for a medal?"
+            "content": "È pratica comune per persone come te mandare sottoposti capaci di combattere a farlo al tuo posto, eppure insisti a voler essere in prima linea. Sei davvero così disperato per una medaglia?"
         },
         {
             "id": 32,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "No, è che ho lasciato..."
+            "content": "No, è che ho lasciato lì..."
         },
         {
             "id": 33,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Alcune cose che non sono riuscito a prendere in tempo."
+            "content": "Diverse cose che non ho fatto in tempo a prendere."
         },
         {
             "id": 34,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Ad esempio, la foto ricordo per il mio terzo premio di eccellenza consecutivo, la targa commemorativa di apprezzamento da parte della K Corp, la foto celebrativa per l'espansione del mio laboratorio, e... che altro c'era, Samjo?"
+            "content": "Come la foto che commemora il mio terzo anno consecutivo di vittoria del premio d'eccellenza, la targa di apprezzamento della K Corp, la foto scattata per festeggiare l'espansione del mio laboratorio e... cos'altro c'era, Samjo?"
         },
         {
             "id": 35,
@@ -231,40 +231,40 @@
         {
             "id": 36,
             "model": "오티스",
-            "content": "...So it's more that you wanted to gain back the medals you had."
+            "content": "...Quindi non è solo per le medaglie."
         },
         {
             "id": 37,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Oh vero, anche quelli."
+            "content": "Oh sì, anche per quelle."
         },
         {
             "id": 38,
             "model": "그레고르",
-            "content": "You really did just barely manage to escape there, huh..."
+            "content": "Guarda che poco fa ti sei davvero salvato per un pelo..."
         },
         {
             "id": 39,
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "Laboratorio della K Corp.",
-            "content": "Vi garantisco che quel secchione di Dongrang non ha mai dato un pugno in vita sua. È troppo spensierato. Almeno portati dei Fixer come faccio io."
+            "content": "Vi garantisco che quel secchione di Dongrang non ha mai dato un pugno in vita sua. È troppo spensierato. Si portasse almeno dei Fixer, come faccio io."
         },
         {
             "id": 40,
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Coinvolgerai anche il tuo dipartimento, Ms. Shrenne?"
+            "content": "Coinvolgerà anche il suo dipartimento, signorina Shrenne?"
         },
         {
             "id": 41,
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Non vedo come beneficeresti dal successo di questa operazione."
+            "content": "Non vedo come beneficerebbe dal successo di questa operazione."
         },
         {
             "id": 42,
@@ -278,42 +278,42 @@
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "Laboratorio della K Corp.",
-            "content": "Ho perso troppo per dare peso a cose come benefici ed interessi."
+            "content": "Ho perso troppo per preoccuparmi di interessi e profitti."
         },
         {
             "id": 44,
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Ms. Shrenne..."
+            "content": "Signorina Shrenne..."
         },
         {
             "id": 45,
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "In tal caso, ho ragione nel dedurre che il pagamento per i Fixer sarà coperto dal tuo dipartimento--"
+            "content": "In tal caso, ho ragione nel dedurre che il pagamento per i Fixer sarà coperto dal suo dipartimento-"
         },
         {
             "id": 46,
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "Laboratorio della K Corp.",
-            "content": "Ugh... Proprio non ce la fai a non essere un pedante insopportabile..."
+            "content": "Ugh... Siete proprio un branco di odiosi... non vi smentite mai."
         },
         {
             "id": 47,
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "La filiale della Lobotomy Corp. che dobbiamo riprenderci non è troppo distante."
+            "content": "La succursale della Lobotomy Corp. che dobbiamo riprenderci non è troppo distante."
         },
         {
             "id": 48,
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "E allora andiamoci, assieme."
+            "content": "E allora andiamoci tutti assieme."
         },
         {
             "id": 49,
@@ -327,22 +327,22 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Le prometto che avrà il suo giretto; la prossima volta. Per ora muoviamoci."
+            "content": "Le prometto che avrà il suo giretto... la prossima volta. Per ora muoviamoci."
         },
         {
             "id": 51,
             "model": "로쟈",
-            "content": "Huh? Who do you think you are to decide that...?!"
+            "content": "Huh? Chi pensi di essere per deciderlo da solo...?!"
         },
         {
             "id": 52,
-            "place": "Direzione per la Filiale della Lobotomy Corp. nel Nido K",
-            "content": "This mission felt particularly tumultuous."
+            "place": "Direzione per la Succursale della Lobotomy Corp. - Nido K",
+            "content": "La missione sembrava particolarmente tumultuosa."
         },
         {
             "id": 53,
             "model": "로쟈",
-            "content": "And then, you see~ I bet the chips and declared like this:"
+            "content": "E poi sapete cos'è successo~? Ho scommetto tutte le fiches e detto:"
         },
         {
             "id": 54,
@@ -352,19 +352,19 @@
         {
             "id": 55,
             "model": "그레고르",
-            "content": "Haah... I wanna stop hearing it... It's giving me nausea."
+            "content": "Haah... Voglio smettere di sentire questa storia... Mi sta facendo venire la nausea."
         },
         {
             "id": 56,
             "model": "니코",
             "teller": "Niko",
             "title": "Officina Rosespanner",
-            "content": "Non c'è niente di paragonabile al poker scuotitasche del casinò di J Corp. Quelli che se ne stanno seduti tutto il giorno davanti le slot machine sono dei coglioni."
+            "content": "Non c'è niente di paragonabile al poker scuotitesta del casinò della J Corp. Quelli che se ne stanno seduti tutto il giorno davanti le slot machine sono dei coglioni."
         },
         {
             "id": 57,
             "model": "히스클리프",
-            "content": "What, you mean there's something up with the machines?"
+            "content": "Eh, intendi che c'è qualcosa che non va con le slot?"
         },
         {
             "id": 58,
@@ -376,25 +376,25 @@
         {
             "id": 59,
             "model": "히스클리프",
-            "content": "Hold on, you gotta explain in more detail..."
+            "content": "Aspè, spiegamelo meglio..."
         },
         {
             "id": 60,
             "model": "단테",
-            "content": "<Things are lively this time around.>"
+            "content": "<Stavolta c'è un'atmosfera vivace.>"
         },
         {
             "id": 61,
             "model": "료슈",
-            "content": "D.L.I."
+            "content": "N.M.P."
         },
         {
             "id": 62,
-            "content": "\"She says she doesn't like it,\" whispered Sinclair."
+            "content": "\"Ha detto che non le piace,\" sussurrò Sinclair."
         },
         {
             "id": 63,
-            "content": "I whispered back to him saying \"I know\"."
+            "content": "\"Lo so\", gli sussurrai a mia volta."
         }
     ]
 }

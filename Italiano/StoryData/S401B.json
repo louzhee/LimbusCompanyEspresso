@@ -143,7 +143,7 @@
         {
             "id": 31,
             "model": "베르길리우스",
-            "content": "La distribuzione delle succursali della Lobotomy Corp è più complicata di quanto vi aspettate. Possono essere dappertutto… un po' come fossero rami di un albero."
+            "content": "La distribuzione delle succursali della Lobotomy Corp è più complesse di quanto vi aspettate. Possono essere dappertutto… un po' come fossero rami di un albero."
         },
         {
             "id": 32,
@@ -193,7 +193,7 @@
         {
             "id": 41,
             "model": "단테",
-            "content": "<A proposito…>"
+            "content": "<Tra l'altro…>"
         },
         {
             "id": 42,
@@ -272,7 +272,7 @@
         },
         {
             "id": 57,
-            "content": "Don Quixote era l'unica a rispondere con entusiasmo a questa informazione."
+            "content": "Don Quixote fu l'unica a rispondere con entusiasmo a quell'informazione."
         },
         {
             "id": 58,
@@ -300,7 +300,7 @@
         {
             "id": 63,
             "model": "이스마엘",
-            "content": "È strano che lo sia, siamo nel bel mezzo del Nido della K Corp; è improbabile che sia succe—"
+            "content": "Strano che lo sia, siamo nel bel mezzo del Nido della K Corp. È improbabile che sia succe—"
         },
         {
             "id": 64,
@@ -309,12 +309,12 @@
         {
             "id": 65,
             "model": "로쟈",
-            "content": "…Hanno appena lanciato qualcosa al bus ed ha rimbalzato… Era una persona, vero?"
+            "content": "…Qualcosa è appena volato contro l'autobus ed è rimbalzato via… Era una persona, vero?"
         },
         {
             "id": 66,
             "model": "뫼르소",
-            "content": "Un individuo di sesso maschile, sembra che abbia poco più di 40 anni. Sembra riportare gravi lesioni nella regione occipitale. È morto prima dell'impatto."
+            "content": "Un individuo di sesso maschile, pare che abbia poco più di 40 anni. Sembra riportare gravi lesioni nella regione occipitale. È morto prima dell'impatto."
         },
         {
             "id": 67,

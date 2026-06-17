@@ -4,24 +4,24 @@
             "id": 0,
             "place": "Stanza Cubica della N Corp.",
             "model": "홍루",
-            "content": "What did that fellow named Gubo want to do with the mirror, I wonder?"
+            "content": "Mi chiedo, cosa voleva fare quel tipo di nome Gubo con lo specchio?"
         },
         {
             "id": 1,
             "model": "이상",
-            "content": "What exactly N Corp. wished to do... I do not know in detail. I did not bother to ask."
+            "content": "Non so cosa desiderasse fare in dettaglio la N Corp, esattamente... Non mi sono curato di chiederlo."
         },
         {
             "id": 2,
             "model": "이상",
-            "content": "However..."
+            "content": "Tuttavia..."
         },
         {
             "id": 3,
             "model": "헤르만",
             "teller": "Hermann",
             "title": "N Corp.",
-            "content": "Ti trovi a a tuo agio qui, è abbastanza comodo? Stai mangiando a sufficienza?"
+            "content": "Ti trovi bene qui? È abbastanza confortevole? Stai mangiando a sufficienza?"
         },
         {
             "id": 4,
@@ -33,87 +33,87 @@
             "model": "구보",
             "teller": "Gubo",
             "title": "N Corp.",
-            "content": "Come l'ho già informata, signora, è un uomo dotato di una spiccata renitenza."
+            "content": "Come le dicevo, signora, è un uomo di poche parole."
         },
         {
             "id": 6,
             "model": "헤르만",
             "teller": "Hermann",
             "title": "N Corp.",
-            "content": "Conosci un modo... per distruggere tutti i mondi e le infinite possibilità rappresentate nello specchio e nella finestra specchio?"
+            "content": "Conosci un modo... per distruggere tutti i mondi e le miriadi di possibilità che essi rappresentano nello specchio e nella finestra di vetro?"
         },
         {
             "id": 7,
             "model": "이상",
-            "content": "I..."
+            "content": "Io..."
         },
         {
             "id": 8,
             "model": "헤르만",
             "teller": "Hermann",
             "title": "N Corp.",
-            "content": "Era scontato che dicessi di no. Ti sto dicendo cosa dovrai studiare."
+            "content": "Naturalmente dirai di no. Ti sto solo indicando cosa studiare."
         },
         {
             "id": 9,
             "model": "헤르만",
             "teller": "Hermann",
             "title": "N Corp.",
-            "content": "E anche nel caso ti opponessi, non sei la mia unica opzione."
+            "content": "Anche se dovessi rifiutarti, ho molti altri modi per convincerti."
         },
         {
             "id": 10,
             "model": "헤르만",
             "teller": "Hermann",
             "title": "N Corp.",
-            "content": "Ma chiedertelo cortesemente mi sembrava il minimo, per rispetto nei confronti del tuo amico."
+            "content": "Ma ho ritenuto fosse un gesto di riguardo chiedertelo prima in modo garbato, se non altro per considerazione verso il tuo amico."
         },
         {
             "id": 11,
             "model": "헤르만",
             "teller": "Hermann",
             "title": "N Corp.",
-            "content": "Ah, lasciamo che questo rimanga un piccolo segreto tra noi tre."
+            "content": "Ah, facciamo in modo che questo resti un piccolo segreto tra noi tre, va bene?"
         },
         {
             "id": 12,
             "model": "헤르만",
             "teller": "Hermann",
             "title": "N Corp.",
-            "content": "...Quei due sono ancora riluttanti all'idea di riunirsi alla Lega? Ad Aseah non sembra fare differenza, ma questi due sembrano piuttosto...irragionevoli."
+            "content": "...Quei due sono ancora riluttanti a riunirsi alla Lega? Ad Aseah non sembrava importare molto, ma questi due sono ostinati."
         },
         {
             "id": 13,
             "model": "구보",
             "teller": "Gubo",
             "title": "N Corp.",
-            "content": "Non c'è motivo di preoccuparsi. Presto prenderanno una decisione."
+            "content": "Non c'è da preoccuparsi. Si decideranno presto."
         },
         {
             "id": 14,
             "model": "구보",
             "teller": "Gubo",
             "title": "N Corp.",
-            "content": "La nuova Lega che abbiamo fodnato qui sarà più potente che mai. Dopotutto, è sostenuta da niente di meno che Miss Hermann."
+            "content": "La nuova Lega formata qui sarà più potente che mai. Ha nientemeno che il sostegno della signora Hermann."
         },
         {
             "id": 15,
             "model": "구보",
             "teller": "Gubo",
             "title": "N Corp.",
-            "content": "Qual è il problema? Esiti ad accettare l'offerta perché non ci sono Dongrang e Dongbaek a tenerti per mano?"
+            "content": "Qual è il problema? Esiti ad accettare l'offerta senza che Dongrang e Dongbaek ti accompagnino?"
         },
         {
             "id": 16,
             "model": "구보",
             "teller": "Gubo",
             "title": "N Corp.",
-            "content": "...Non ti rendi conto che non posso stare tranquillo finché non avrai preso una decisione?"
+            "content": "...Davvero non capisci che potrò mettermi l'anima in pace solo quando avrai chiarito la tua posizione?"
         },
         {
             "id": 17,
             "model": "이상",
-            "content": "My mind has not changed from before."
+            "content": "La mia decisione non è cambiata rispetto a prima."
         },
         {
             "id": 18,
@@ -127,125 +127,125 @@
             "model": "상이",
             "teller": "Sang Yi",
             "title": "Yeonsim",
-            "content": "...Destruction of the mirror worlds, huh. Gubo and Hermann seemed pretty serious about it."
+            "content": "...Distruggere i mondi specchio, eh. Gubo e Hermann sembravano piuttosto seri al riguardo."
         },
         {
             "id": 20,
             "model": "이상",
-            "content": "You would be right. Once they have set their mind on it, it will undoubtedly be done."
+            "content": "Avresti ragione. Una volta che si sono messi in testa qualcosa, la porteranno indubbiamente a termine."
         },
         {
             "id": 21,
             "model": "이상",
-            "content": "And I... would end up aiding him in his purpose..."
+            "content": "E io... finirei per aiutarlo a raggiungere il suo scopo..."
         },
         {
             "id": 22,
             "model": "이상",
-            "content": "However..."
+            "content": "Tuttavia..."
         },
         {
             "id": 23,
             "model": "이상",
-            "content": "I do not wish for you to perish as a result."
+            "content": "Non desidero che tu perisca a causa di ciò."
         },
         {
             "id": 24,
             "model": "이상",
-            "content": "You must fly away and leave before Gubo destroys you as well."
+            "content": "Devi volare via e andartene prima che Gubo distrugga anche te."
         },
         {
             "id": 25,
             "model": "상이",
             "teller": "Sang Yi",
             "title": "Yeonsim",
-            "content": "...What about you?"
+            "content": "...E tu?"
         },
         {
             "id": 26,
             "model": "이상",
-            "content": "Is it not abundantly clear? There is nothing I am capable of. Unlike you, I have no wings to fly with."
+            "content": "Non è forse fin troppo chiaro? Non sono capace di nulla. A differenza tua, non ho ali con cui volare."
         },
         {
             "id": 27,
             "model": "이상",
-            "content": "I have no complaints. If I mutely follow whatever they demand, they will at least let me be."
+            "content": "Non ho nulla di cui lamentarmi. Se seguirò in silenzio ogni loro ordine, almeno mi lasceranno in pace."
         },
         {
             "id": 28,
             "model": "이상",
-            "content": "As I have said, all that I have left... is you outside the mirror."
+            "content": "Non te l'ho forse detto? Tutto ciò che mi resta... sei solo tu, al di fuori dello specchio."
         },
         {
             "id": 29,
             "model": "상이",
             "teller": "Sang Yi",
             "title": "Yeonsim",
-            "content": "...When you've suffered a loss, shouldn't you consider filling the void back up with new things?"
+            "content": "...Se perdi qualcosa, non ti viene mai voglia di colmare quel vuoto con qualcosa di nuovo?"
         },
         {
             "id": 30,
             "model": "이상",
-            "content": "What a peculiar question. This is all that is of my world, so how will I be able to fill it anew?"
+            "content": "Dici cose singolari. Il mio mondo finisce qui, dunque come potrei mai colmarlo di nuovo?"
         },
         {
             "id": 31,
             "model": "이상",
-            "content": "After that, you wouldn't show up before me for a time."
+            "content": "E dopo quell'istante, per un lungo periodo, non ti mostrasti più davanti a me."
         },
         {
             "id": 32,
             "model": "이상",
-            "content": "A question occurs to me at times."
+            "content": "A volte mi sorge un dubbio."
         },
         {
             "id": 33,
             "model": "이상",
-            "content": "I was the one who said this was all that I had, so why did you make such a devastated expression as though you lost everything?"
+            "content": "Ero io quello che diceva che questo era tutto ciò che avevo, quindi perché avevi un'espressione così devastata, come se avessi perso ogni cosa?"
         },
         {
             "id": 34,
             "model": "이스마엘",
-            "content": "It sounds like the Yi Sang in the mirror..."
+            "content": "Sembra che lo Yi Sang nello specchio..."
         },
         {
             "id": 35,
             "model": "이스마엘",
-            "content": "Wanted to keep him in this place. Telling him that it's not safe outside, so he should stay inside..."
+            "content": "Volesse tenerlo in questo posto, dicendogli che fuori non fosse sicuro, e che quindi sarebbe dovuto rimanere lì dentro..."
         },
         {
             "id": 36,
             "model": "싱클레어",
-            "content": "But, why would he do such a..."
+            "content": "Ma perché avrebbe dovuto..."
         },
         {
             "id": 37,
             "model": "T사기술청1",
-            "teller": "Class 3 Collector",
+            "teller": "Esattore di Classe 3",
             "title": "T Corp.",
-            "content": "Trattandosi di un'organizzazione non autorizzata che ha condotto attività illecite, siamo qui per requisire la tecnologia creata dalla cosidetta Lega dei nove."
+            "content": "Siamo qui per sequestrare la tecnologia creata dalla Lega dei Nove, un'organizzazione non autorizzata coinvolta in attività illecite."
         },
         {
             "id": 38,
             "model": "T사기술청1",
-            "teller": "Class 3 Collector",
+            "teller": "Esattore di Classe 3",
             "title": "T Corp.",
-            "content": "Mostrate i vostri orologi è presentate le vostre generalità."
+            "content": "Esibite i vostri orologi e identificatevi fornendo ogni dettaglio."
         },
         {
             "id": 39,
             "model": "단테",
-            "content": "<Did the tech agency staff follow him all the way there?>"
+            "content": "<Il personale dell'agenzia l'ha seguito fin qui?>"
         },
         {
             "id": 40,
             "model": "뫼르소",
-            "content": "It's implausible for employees of T Corp's tech agency to chase him into N Corp."
+            "content": "Non è plausibile che i dipendenti dell'agenzia della T Corp l'abbiano inseguito a N Corp."
         },
         {
             "id": 41,
             "model": "뫼르소",
-            "content": "Which suggests this is a foreign substance attempting to breach into the fathoms of ego."
+            "content": "Il che suggerisce che questa sia una sostanza estranea che sta cercando di entrare nei meandri dell'ego."
         }
     ]
 }

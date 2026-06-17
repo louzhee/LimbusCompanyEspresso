@@ -2,22 +2,22 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Laboratorio della K Corp. Ricostruito",
-            "content": "As we approached the center of the Golden Bough's resonance, I noticed scattering piles of yellow."
+            "place": "Laboratorio della K Corp. in Ricostruzione",
+            "content": "Mentre ci approcciavamo al centro della risonanza del Ramo Dorato, notai delle pile gialle sparse."
         },
         {
             "id": 1,
-            "content": "With the twisting space, petals were wavering."
+            "content": "Grazie allo spazio contorto, i petali ondeggiavano."
         },
         {
             "id": 2,
             "model": "싱클레어",
-            "content": "So the fathoms of Yi Sang's ego are over there..."
+            "content": "E così i meandri dell'ego di Yi Sang sono lì..."
         },
         {
             "id": 3,
             "model": "단테",
-            "content": "<Come on, let's get in.>"
+            "content": "<Forza, entriamo.>"
         },
         {
             "id": 4,
@@ -30,36 +30,36 @@
             "model": "동랑",
             "teller": "???",
             "title": "???",
-            "content": "Wow, di certo non mi aspettavo di ritrovarmi qui. È per via del Ramo Dorato? O sei tu, Yi Sang?"
+            "content": "Wow, non avrei mai immaginato di tornare qui. È merito del Ramo Dorato? O forse è merito tuo, Yi Sang?"
         },
         {
             "id": 6,
-            "content": "When we got there, Dongrang greeted us merrily."
+            "content": "Quando entrammo, Dongrang ci salutò allegramente."
         },
         {
             "id": 7,
             "model": "로쟈",
-            "content": "How cozy... What place was this, Yi Sang?"
+            "content": "Com'è accogliente... Yi Sang, che posto era questo?"
         },
         {
             "id": 8,
             "model": "이상",
-            "content": "The only place where I may breathe... That's what this was."
+            "content": "L'unico luogo in cui mi fosse concesso respirare... Ecco cos'era."
         },
         {
             "id": 9,
             "model": "단테",
-            "content": "<...There are stacks of paper on the desk.>"
+            "content": "<...Ci sono pile di documenti sulla scrivania.>"
         },
         {
             "id": 10,
             "model": "로쟈",
-            "content": "Aha... Yes, you see, usually..."
+            "content": "Aha... Sì, vedi, di solito..."
         },
         {
             "id": 11,
             "model": "로쟈",
-            "content": "These are placed for visitors like us to read."
+            "content": "Questi vengono messi qui per visitatori come noi, per essere letti."
         },
         {
             "id": 12,
@@ -68,198 +68,198 @@
         },
         {
             "id": 13,
-            "content": "Yi Sang quietly picks up a stack. I couldn't begin to imagine what thoughts his face may have suggested as he silently read the letters on them."
+            "content": "Yi Sang prese discretamente una pila. Non riuscivo neanche ad immaginare quali pensieri potesse aver suggerito il suo volto, mentre leggeva silenziosamente le lettere sulla scrivania."
         },
         {
             "id": 14,
             "model": "이상",
-            "content": "A letter, I had written once... And its structure... follows that of a play's script."
+            "content": "Una lettera che scrissi tempo addietro... E la sua struttura... ricalca quella del copione di un'opera teatrale."
         },
         {
             "id": 15,
             "model": "뫼르소",
-            "content": "It's then reasonable to assume that each actor in the play was provided with one."
+            "content": "È ragionevole supporre che a ciascun attore ne sia stato fornito uno."
         },
         {
             "id": 16,
             "model": "이상",
-            "content": "If so... This may well have been a stage awaiting our arrival, rather than a simple emptiness."
+            "content": "Se è così... Questo potrebbe benissimo essere un palcoscenico in attesa del nostro arrivo, piuttosto che un semplice spazio vuoto."
         },
         {
             "id": 17,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Da quello che ho capito... Dovremo leggere questo copione, giusto?"
+            "content": "A giudicare dalla situazione... pare che dovremo leggere questo copione, dico bene?"
         },
         {
             "id": 18,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Magari Dongbaek si unirà a noi, Yi Sang."
+            "content": "Magari Dongbaek potrebbe persino presentarsi, Yi Sang."
         },
         {
             "id": 19,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Se Dongbaek è riuscita ad infilarsi qui... prima di morire... Haha, non saprei proprio che dire."
+            "content": "Se Dongbaek fosse giunta in questo... 'spazio' prima di morire... Ahah, non saprei nemmeno come definirlo."
         },
         {
             "id": 20,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "In ogni caso, se l'ingresso in questo luogo si è aperto mentre era ancora in vita... La sua coscienza potrebbe essere stata trascinata qui come è successo a noi."
+            "content": "Comunque, se l'ingresso si è aperto mentre era ancora in vita... la sua coscienza potrebbe essere rimasta intrappolata qui dentro, proprio come la nostra."
         },
         {
             "id": 21,
             "model": "이상",
-            "content": "...For what reason did you stab Dongbaek?"
+            "content": "...Per quale motivo hai pugnalato Dongbaek?"
         },
         {
             "id": 22,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Ha esitato troppo a lungo... Che c'è, ti aspettavi le dedicassi una sorta di elogio funebre?"
+            "content": "Esitava un po' troppo... Cosa volevi, una sorta di elogio funebre da parte mia?"
         },
         {
             "id": 23,
             "model": "이상",
-            "content": "...The reason, I'll hear it."
+            "content": "...Il motivo. Voglio udirlo."
         },
         {
             "id": 24,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "No, è solo... Lo sai già, Yi Sang. In quelle condizioni, la morte di Dongbaek era imminente... Se l'avessi lasciata stare, la sua vita si sarebbe spenta dolorosamente."
+            "content": "No, davvero... Lo sapevi anche tu, Yi Sang. In quello stato, la morte di Dongbaek era imminente... La sua vita si sarebbe spenta dolorosamente se l'avessi lasciata stare."
         },
         {
             "id": 25,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Ed è per questo che non puoi sfogarti su di me, nonostante la rabbia che ti ribolle dentro. Non avrebbe fatto quasi nessuna differenza."
+            "content": "Ecco perché non puoi scagliarti contro di me, nonostante la rabbia che ti ribolle dentro. Non avrebbe fatto molta differenza."
         },
         {
             "id": 26,
             "model": "파우스트",
-            "content": "This time, the fathoms of ego... might present themselves differently from the previous ones."
+            "content": "Questa volta, i meandri dell'ego... potrebbero manifestarsi in modo diverso rispetto alle precedenti."
         },
         {
             "id": 27,
             "model": "파우스트",
-            "content": "The fathoms of ego are places or images of someone's mind made manifest."
+            "content": "I meandri dell'ego sono luoghi o immagini generati dalla mente di qualcuno che prendono forma concreta."
         },
         {
             "id": 28,
             "model": "파우스트",
-            "content": "It releases a powerful and complex energy... It might draw in people other than the Sinners, like those deeply related to Yi Sang in this case."
+            "content": "Rilasciano un'energia potente e complessa... Potrebbero attirare persone diverse dai Peccatori, come coloro che, in questo caso, sono profondamente legati a Yi Sang."
         },
         {
             "id": 29,
             "model": "히스클리프",
-            "content": "...That so? To put it bluntly... It dragged in a bunch of clowns to act on stage, is that right?"
+            "content": "...Dici sul serio? In parole povere... Ha trascinato un gruppo di clown su un palco, dico bene?"
         },
         {
             "id": 30,
             "model": "파우스트",
-            "content": "Although this is merely a guess... Yes, I suppose that's about right. We'll have to do our best with our given roles."
+            "content": "Sebbene la mia sia solo un'ipotesi... Sì, suppongo sia corretto. Dovremo fare del nostro meglio nei ruoli che ci sono stati assegnati."
         },
         {
             "id": 31,
             "model": "료슈",
-            "content": "...And if we don't?"
+            "content": "...E se non lo facciamo?"
         },
         {
             "id": 32,
             "model": "파우스트",
-            "content": "The image displayed by the fathoms of ego will go awry... ultimately preventing our access to the Golden Bough. We must reenact the original's—in other words, Yi Sang's—actual memories as closely as possible."
+            "content": "L'immagine proiettata dalle profondità dell'EGO andrebbe in pezzi... impedendoci, in ultima analisi, l'accesso al Ramo Dorato. Dobbiamo rievocare i ricordi reali dell'originale—in altre parole, di Yi Sang—nel modo più fedele possibile."
         },
         {
             "id": 33,
             "model": "히스클리프",
-            "content": "Alright, I got that clear enough. So..."
+            "content": "D'accordo, quello l'ho capito bene. Quindi..."
         },
         {
             "id": 34,
             "model": "히스클리프",
-            "content": "What the-?! I almost jumped out of my skin!"
+            "content": "Ma che ca-?! Per poco non mi si accapponava la pelle!"
         },
         {
             "id": 35,
             "model": "이상",
-            "content": "I had people who accompanied me, either by caprice, coincidence... or fate."
+            "content": "C'erano persone che mi accompagnavano, per capriccio, per coincidenza... o per destino."
         },
         {
             "id": 36,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Che frase intrigante."
+            "content": "Che battuta affascinante."
         },
         {
             "id": 37,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "...Why did you stand in front of the door like a dork?"
+            "content": "...Perché te ne stai lì davanti alla porta come un ebete?"
         },
         {
             "id": 38,
             "model": "히스클리프",
-            "content": "...What did you call me? Wait... Aren't you the one that just..."
+            "content": "...Come mi hai chiamato? Aspetta... Tu non sei quella che è appena..."
         },
         {
             "id": 39,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "What are you staring at my face for, like you were looking at a dead person? Why, do I look cool?"
+            "content": "Perché mi fissi come se fossi un fantasma? Cosa c'è, ti sembro improvvisamente interessante?"
         },
         {
             "id": 40,
             "model": "싱클레어",
-            "content": "S-She's right, Gap-ryong, don't act like such a country bumpkin. Do you want your mannerisms to match your name?"
+            "content": "H-Ha ragione, Gap-ryong, non comportarti come uno zotico. Vuoi che le tue maniere si abbinino al tuo nome?"
         },
         {
             "id": 41,
             "model": "히스클리프",
-            "content": "...? The hell are you saying now... What is it?"
+            "content": "...? Ma che cazzo stai dicendo adesso... Che è 'sta roba?"
         },
         {
             "id": 42,
             "model": "싱클레어",
-            "content": "(Eep, I'm just reading from the script, Mr. Heathcliff. The script...! That's just what mine says.)"
+            "content": "(Eek, sto solo leggendo dal copione, Heathcliff. Il copione...! Il mio dice questo.)"
         },
         {
             "id": 43,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "What are you whispering like that?"
+            "content": "Cosa andate confabulando?"
         },
         {
             "id": 44,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Oh, nulla, Dongbaek. Gap-ryong stava ripensando a come siamo riusciti a radunarci qui a T Corp."
+            "content": "Sai, Dongbaek, Gap-ryong stava ripensando a come siamo riusciti a ritrovarci tutti qui a T Corp."
         },
         {
             "id": 45,
             "model": "히스클리프",
-            "content": "That really bugs me... Oi, don't call me by that name."
+            "content": "Che fastidio... Oi, non chiamarmi con quel nome."
         },
         {
             "id": 46,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Ottima intepretazione. Anche il vero Gap-ryong ci ha sempre chiesto di non chiamarlo col suo nome."
+            "content": "Ottima interpretazione. Anche il vero Gap-ryong ci implorava sempre di non chiamarlo per nome."
         },
         {
             "id": 47,
@@ -269,7 +269,7 @@
         {
             "id": 48,
             "model": "이상",
-            "content": "It is now your turn to speak, Sang-heo."
+            "content": "Ora tocca a te parlare, Sang-heo."
         },
         {
             "id": 49,
@@ -279,102 +279,102 @@
         {
             "id": 50,
             "model": "오티스",
-            "content": "Ah... So..."
+            "content": "Ah... Dunque..."
         },
         {
             "id": 51,
             "model": "오티스",
-            "content": "As one might know, our hometown, S Corp's district, was going through a turbulent time, many things breaking and changing."
+            "content": "Come forse sapete, la nostra città natale, il distretto di S Corp, stava attraversando un periodo turbolento, molte cose si stavano rompendo e ricomponendo."
         },
         {
             "id": 52,
             "model": "오티스",
-            "content": "Because of daydreaming higher-ups who tell sweet-sounding words with no substance and corrupt officials squeezing the people, the public's lives and economy teetered and twisted more and more each day..."
+            "content": "A causa di superiori illusi, che raccontano storielle fin troppo dolci senza alcuna sostanza, e ufficiali corrotti che spremono il pubblico fino al midollo, le vite del popolo e l'economia erano in bilico e venivano storpiate ogni giorno sempre di più..."
         },
         {
             "id": 53,
             "model": "오티스",
-            "content": "With no guarantees of arrangements between Wings or positions to apply for, researchers like us who pursued the studies of knowledge struggle to find even a simple bolt to help ourselves."
+            "content": "Senza garanzie di accordi tra le Ali o posti di lavoro a cui far domanda, dei ricercatori come noi, che hanno continuato a studiare, fanno fatica persino a trovare un appiglio che possa aiutarci."
         },
         {
             "id": 54,
             "model": "오티스",
-            "content": "That was when Brother Young-ji brought us together."
+            "content": "Lì è stato quando Fratello Young-ji ci ha fatti incontrare."
         },
         {
             "id": 55,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Ah... Sono stato io ad invitare Yi Sang e Dongbaek. Siamo cresciuti nella stessa cittadina."
+            "content": "Ah... Sono stato io ad invitare Yi Sang e Dongbaek. Siamo cresciuti nello stesso villaggio."
         },
         {
             "id": 56,
             "model": "오티스",
-            "content": "...Right, Brother Young-ji and Dongrang brought us together."
+            "content": "...Giusto, Fratello Young-ji e Dongrang ci hanno fatti incontrare."
         },
         {
             "id": 57,
             "model": "홍루",
-            "content": "There, I suggested:"
+            "content": "Allora, suggerii:"
         },
         {
             "id": 58,
             "model": "홍루",
-            "content": "The Wing called T Corp. is seeing remarkable technological growth nowadays, generously backing inventions of machines and technology."
+            "content": "L'Ala chiamata T Corp. sta assistendo ad una notevole crescita tecnologica in questo periodo, sostenendo generosamente l'invenzione di macchine e tecnologie."
         },
         {
             "id": 59,
             "model": "홍루",
-            "content": "So it should be no problem at all to get any part we need; there, all the people invent for a living."
+            "content": "Quindi non avremo problemi ad ottenere tutto quello di cui abbiamo bisogno; lì, tutte le persone sono inventori di lavoro."
         },
         {
             "id": 60,
             "model": "홍루",
-            "content": "So, the like-minded ones defected to the district empty-handed, risking everything."
+            "content": "E così, coloro che pensavano nella stessa maniera se ne andarono dal distretto a mani vuote, rischiando tutto."
         },
         {
             "id": 61,
             "model": "뫼르소",
-            "content": "As everyone wished... We were free to continue our research here."
+            "content": "Come tutti desideravano... Eravamo liberi di continuare la nostra ricerca qui."
         },
         {
             "id": 62,
             "model": "뫼르소",
-            "content": "Even though we had to yield the colors in them, making it so they didn't outwardly shine."
+            "content": "Anche se abbiamo dovuto cedere i colori dentro di loro, facendo sì che non brillassero all'esterno."
         },
         {
             "id": 63,
-            "content": "As Meursault, or the Lega dei Nove Letterati member he played, pointed out... I couldn't see any color in this place."
+            "content": "Come Meursault, o il membro della Lega dei Nove Letterati che interpretava, aveva accennato... Non potevo vedere alcun colore in questo posto."
         },
         {
             "id": 64,
-            "content": "Even the flower just outside the window was devoid of color, waving like a turbid blur."
+            "content": "Persino il fiore appena fuori dalla finestra era privo di colore, ondeggiando come una torbida sfocatura."
         },
         {
             "id": 65,
             "model": "파우스트",
-            "content": "In T Corp's district, having colors is a kind of privilege."
+            "content": "Nel distretto della T Corp., possedere dei colori è una sorta di privilegio."
         },
         {
             "id": 66,
             "model": "싱클레어",
-            "content": "They take away colors?"
+            "content": "Portano via i colori?"
         },
         {
             "id": 67,
             "model": "이스마엘",
-            "content": "Colors establish identity. There are few better ways to rob one of uniqueness than this. Isn't that right?"
+            "content": "I colori stabiliscono l'identità. Non ci sono molti modi migliori di spogliare qualcuno della propria unicità, dico bene?"
         },
         {
             "id": 68,
             "model": "파우스트",
-            "content": "For sure."
+            "content": "Certamente."
         },
         {
             "id": 69,
             "model": "히스클리프",
-            "content": "...And colors are some of the few little things the poor could normally have."
+            "content": "...E i colori sono una delle poche cose che i poveri hanno normalmente."
         },
         {
             "id": 70,
@@ -386,61 +386,61 @@
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "Hey, Aneung, are you gonna keep chatting away?"
+            "content": "Ehi, Aneung, hai intenzione di continuare a chiacchierare a vuoto?"
         },
         {
             "id": 72,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "The conference is today. Watch, I've made a vibrant amusement."
+            "content": "La conferenza è oggi. Guarda, ho creato un passatempo davvero formidabile."
         },
         {
             "id": 73,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "Look. It blows up better than before, doesn't it?"
+            "content": "Osserva. Esplodono meglio di prima, vero?"
         },
         {
             "id": 74,
             "model": "이스마엘",
-            "content": "I have to wonder what is up with your obsession with explosives... I mean, fireworks, Dongbaek..."
+            "content": "Mi chiedo cosa ti spinga ad essere così ossessionata dagli esplosivi... Cioè, i fuori d'artificio, Dongbaek..."
         },
         {
             "id": 75,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "Here, you can't see stars in the night sky thanks to blinding lights and smokestacks filling the air. The stars were so pretty in my hometown, it was fun watching them together."
+            "content": "Qui non si vedono stelle nel cielo notturno a causa delle luci accecanti e delle ciminiere che inquinano l'aria. Nel mio villaggio le stelle erano così belle, era un piacere guardarle insieme."
         },
         {
             "id": 76,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "What's more, there's no color here. Where we were, we could at least see the colors of flowers."
+            "content": "Inoltre, qui non c'è colore. Da dove venivamo, potevamo almeno vedere il colore dei fiori."
         },
         {
             "id": 77,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "So... I wanted to bring it back in some way."
+            "content": "Perciò... volevo riportarlo indietro in qualche modo."
         },
         {
             "id": 78,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "Look. Even if it's all black and white, you can still see it, right?"
+            "content": "Guarda. Anche se è tutto in bianco e nero, riesci comunque a vederlo, no?"
         },
         {
             "id": 79,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "Fire makes such a warm color."
+            "content": "Il fuoco ha un colore così caldo."
         },
         {
             "id": 80,
@@ -454,42 +454,42 @@
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "Is that really something to admit so merrily?"
+            "content": "È davvero qualcosa da ammettere con tanta allegria?"
         },
         {
             "id": 82,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Haha, medicare gli animali feriti per strada mi ha portato via gran parte del tempo."
+            "content": "Ahah, soccorrere gli animali feriti per le strade ha assorbito gran parte del mio tempo."
         },
         {
             "id": 83,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Non potevo lasciarli in quelle condizioni. Mi hanno fatto venire in mente il vitello che ho lasciato nella mia città natale."
+            "content": "Non potevo lasciarli soli. Mi ricordavano il vitellino fulvo che ho abbandonato al mio villaggio."
         },
         {
             "id": 84,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "It used to like you so much. I don't get what it saw in you."
+            "content": "Ti voleva così bene. Chissà cosa ci trovava in te."
         },
         {
             "id": 85,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Era stato abbandonato dalla madre. Come tutti gli essere viventi, segue l'istinto di cercare del calore a cui aggrapparsi."
+            "content": "Era stato abbandonato dalla madre. Cercare del calore a cui aggrapparsi è un istinto che appartiene a tutti gli esseri viventi."
         },
         {
             "id": 86,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "Well, by now, I guess it... has offspring?"
+            "content": "Beh, a quest'ora, immagino che... abbia della prole?"
         },
         {
             "id": 87,
@@ -508,8 +508,8 @@
         {
             "id": 89,
             "model": "해방연합대원",
-            "teller": "Revived? Liberation Alliance Member",
-            "title": "Alleanza per la Liberazione della Tecnologia",
+            "teller": "Membro dell'Alleanza per la Liberazione... Resuscitato?",
+            "title": "Alleanza per la Liberazione Tecnologica",
             "content": "Agh... Urrgiahh..."
         },
         {
@@ -522,53 +522,53 @@
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "Oh, bother... Here we go again."
+            "content": "Oh, cielo... Ci risiamo."
         },
         {
             "id": 92,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "Gap-ryong, looks like the bar owner is here to take the tab you owe again. Why don't you go outside and greet them?"
+            "content": "Gap-ryong, sembra che il proprietario del bar sia tornato a riscuotere il conto che hai lasciato in sospeso. Perché non vai fuori a salutarlo?"
         },
         {
             "id": 93,
             "model": "히스클리프",
-            "content": "What the, those crooks... How'd they get here?"
+            "content": "Ma che, quei delinquenti... Come sono arrivati qui?"
         },
         {
             "id": 94,
             "model": "파우스트",
-            "content": "The strong resonance of the Golden Bough with Yi Sang is affecting the entire laboratory building."
+            "content": "La forte risonanza del Ramo Dorato con Yi Sang sta influenzando l'intero edificio del laboratorio."
         },
         {
             "id": 95,
             "model": "파우스트",
-            "content": "They were caught up in it as well, but they have no ties to Yi Sang."
+            "content": "Anche loro ne sono rimasti coinvolti, ma non hanno alcun legame con Yi Sang."
         },
         {
             "id": 96,
             "model": "파우스트",
-            "content": "Since they weren't given any roles in the play... they'll instead try to ruin the stage. It'll only get worse as the fathoms grow unstable."
+            "content": "Poiché non è stato assegnato loro alcun ruolo nella rappresentazione... cercheranno invece di rovinare il palcoscenico. La situazione peggiorerà man mano che i meandri diventeranno instabili."
         },
         {
             "id": 97,
             "model": "이스마엘",
-            "content": "In other words, we have to be quick with moving the play's plot along."
+            "content": "In altre parole, dobbiamo sbrigarci a far avanzare la trama."
         },
         {
             "id": 98,
             "model": "이스마엘",
-            "content": "The more time we spend fooling around like a certain complete oaf instead of reading what the script says, the more enemies will attack us."
+            "content": "Più perdiamo tempo come un certo idiota, invece che leggere il copione, più nemici ci attaccheranno."
         },
         {
             "id": 99,
-            "content": "Ishmael began to lightly limber up, cracking her joints."
+            "content": "Ishmael iniziò a riscaldarsi leggermente, scrocchiando le nocche."
         },
         {
             "id": 100,
             "model": "이스마엘",
-            "content": "So let's focus on the foes on deck for now."
+            "content": "Quindi concentriamoci sui nemici sul ponte."
         }
     ]
 }

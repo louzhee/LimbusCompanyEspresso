@@ -2,7 +2,7 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Nido K - Interno della Filiale LC",
+            "place": "Nido K - Interno della Succursale LC",
             "model": "니코",
             "teller": "Niko",
             "title": "Officina Rosespanner",
@@ -13,19 +13,19 @@
             "model": "니코",
             "teller": "Niko",
             "title": "Officina Rosespanner",
-            "content": "Devono essere state le sardine per colazione... Il mio stomaco non reggerà a lungo."
+            "content": "Saranno state le sardine che ho mangiato stamattina... mi sta venendo un mal di pancia."
         },
         {
             "id": 2,
             "model": "장미스패너2",
             "teller": "Assistente Fixer",
             "title": "Officina Rosespanner",
-            "content": "Boss!"
+            "content": "Capo!"
         },
         {
             "id": 3,
             "model": "료슈",
-            "content": "No such thing. SYNC is up next."
+            "content": "Non succederà. Alla prossima <ruby=Ti Spezzo Il Collo Completamente>TSICC</ruby>."
         },
         {
             "id": 4,
@@ -37,14 +37,14 @@
         {
             "id": 5,
             "model": "료슈",
-            "content": "She what?"
+            "content": "Lei cosa?"
         },
         {
             "id": 6,
             "model": "장미스패너2",
             "teller": "Assistente Fixer",
             "title": "Officina Rosespanner",
-            "content": "Shrenne ci ha detto una cosa. Mentre siete lì dentro...  in qualsiasi circostanza, non dovete usare le ampolle rigenerative..."
+            "content": "Shrenne ci ha detto una cosa. Finché siamo qui dentro... non usate mai le ampolle rigenerative, per nessun motivo..."
         },
         {
             "id": 7,
@@ -58,12 +58,12 @@
             "model": "니코",
             "teller": "Niko",
             "title": "Officina Rosespanner",
-            "content": "Haah... Dirlo ad alta voce... significa infrangere il contratto, fesso..."
+            "content": "Haah... dirlo ad alta voce... significa violare il contratto, razza di idiota..."
         },
         {
             "id": 9,
             "model": "로쟈",
-            "content": "That so... Shrenne told you that? Why?"
+            "content": "E così... te l'ha detto Shrenne? Perché?"
         },
         {
             "id": 10,
@@ -77,15 +77,15 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Ebbene, dico che c'è un modo più semplice per capire il perché."
+            "content": "Beh, c'è un modo molto semplice per scoprirlo, non trovate?"
         },
         {
             "id": 12,
-            "content": "After fiddling with a regeneration ampule in his hand, Dongrang made a sudden move..."
+            "content": "Dopo aver armeggiato con un'ampolla rigenerativa, Dongrang fece un movimento brusco..."
         },
         {
             "id": 13,
-            "content": "He quickly jabbed the ampule into the unguarded Fixer's body like a dagger."
+            "content": "Conficcò velocemente l'ampolla nel corpo indifeso del Fixer, come se fosse un pugnale."
         },
         {
             "id": 14,
@@ -96,7 +96,7 @@
         },
         {
             "id": 15,
-            "content": "The Fixer tried to remove the ampule, but its content had already entered the system..."
+            "content": "Il Fixer provò a rimuovere l'ampolla, ma il suo contenuto era già entrato nel corpo..."
         },
         {
             "id": 16,
@@ -110,7 +110,7 @@
             "model": "장미스패너2",
             "teller": "Assistente Fixer",
             "title": "Officina Rosespanner",
-            "content": "...Perché fai quella faccia, boss? Che succede se la fiala viene ineittata...?"
+            "content": "...Perché fai quella faccia, capo? Che succede se l'ampolla viene ineittata...?"
         },
         {
             "id": 18,
@@ -121,7 +121,7 @@
         },
         {
             "id": 19,
-            "content": "The Fixer's limbs began to twist in strange angles..."
+            "content": "Gli arti del Fixer iniziarono a contorcersi ad angoli strani..."
         },
         {
             "id": 20,
@@ -132,32 +132,32 @@
         },
         {
             "id": 21,
-            "content": "Then some things started protruding through the flesh."
+            "content": "Poi delle... cose iniziarono a fuoriuscire dalla sua carne."
         },
         {
             "id": 22,
-            "content": "Collapsed on the floor, the Fixer tried to yell something, but failed to make any sound."
+            "content": "Collassato a terra, il Fixer tentò di urlare qualcosa, ma non ci riuscì."
         },
         {
             "id": 23,
             "model": "그레고르",
-            "content": "...Is it just me, or is this awfully familiar?"
+            "content": "...È una mia impressione, o questa situazione è terribilmente familiare?"
         },
         {
             "id": 24,
             "model": "로쟈",
-            "content": "Please. You don't really think you're the only one who remembers that bug den, do you, Greg babe?"
+            "content": "Ma per piacere. Non dirmi che pensi davvero di essere l'unico che si ricorda quel covo di insetti, vero Greg?"
         },
         {
             "id": 25,
-            "content": "Resembling larvas or snails..."
+            "content": "Assomigliavano a larve o lumache..."
         },
         {
             "id": 26,
             "model": "니코",
             "teller": "Niko",
             "title": "Officina Rosespanner",
-            "content": "...Oh cavolicchio."
+            "content": "...Oh, andiamo."
         },
         {
             "id": 27,
@@ -171,14 +171,14 @@
             "model": "니코",
             "teller": "Niko",
             "title": "Officina Rosespanner",
-            "content": "Ehhh... Accettare i tuoi soldi è stata una mia scelta."
+            "content": "Beh... è stata una mia decisione accettare l'incarico per soldi."
         },
         {
             "id": 29,
             "model": "니코",
             "teller": "Niko",
             "title": "Officina Rosespanner",
-            "content": "Che seccatura... A sapere che sarebbe finita così, avrei fatto più morti ieri."
+            "content": "Povero me... A sapere che sarebbe finita così, ieri sera mi sarei dato alla pazza gioia."
         }
     ]
 }

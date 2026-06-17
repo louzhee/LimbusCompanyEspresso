@@ -3,23 +3,23 @@
         {
             "id": 0,
             "model": "이상",
-            "content": "An overlong silence shrouded the passage of time."
+            "content": "Un silenzio fin troppo lungo avvolse lo scorrere del tempo."
         },
         {
             "id": 1,
             "model": "이상",
-            "content": "All my time during it was a mere adjunct."
+            "content": "Lungo la sua durata, la mia vita non fu che un avanzo."
         },
         {
             "id": 2,
             "model": "이상",
-            "content": "In the square wholly painted white, only two visitors came to see me."
+            "content": "All'interno di quel quadrato interamente dipinto di bianco, vennero a trovarmi solo due visitatori."
         },
         {
             "id": 3,
             "place": "Stanza Cubica della N Corp.",
             "model": "이상",
-            "content": "To supplement... One visited in the square within the square, and the other visited in the square within the square within the square."
+            "content": "Per essere più precisi... Uno mi visitò nel quadrato dentro il quadrato, e l'altro mi visitò nel quadrato dentro il quadrato dentro il quadrato."
         },
         {
             "id": 4,
@@ -33,124 +33,124 @@
             "model": "구보",
             "teller": "Gubo",
             "title": "N Corp.",
-            "content": "Assieme allo specchio che ti sta così a cuore."
+            "content": "Sullo specchio che ti sta così a cuore."
         },
         {
             "id": 6,
             "model": "구보",
             "teller": "Gubo",
             "title": "N Corp.",
-            "content": "Non dimenticare di consumare i pasti e prendere i tuoi integratori ogni giorno."
+            "content": "Non dimenticarti di mangiare e di assumere gli integratori ogni giorno."
         },
         {
             "id": 7,
             "model": "이상",
-            "content": "There was no one left to gaze at the mirror and enjoy its sight, and it ceased to be a tool of amusement..."
+            "content": "Non era rimasto più nessuno a scrutare lo specchio e a godere della sua vista, e aveva cessato di essere uno strumento di diletto..."
         },
         {
             "id": 8,
             "model": "이상",
-            "content": "Yet I still held on to it, for a reason..."
+            "content": "Eppure, continuavo a stringerlo a me, per un motivo..."
         },
         {
             "id": 9,
             "model": "상이",
             "teller": "Sang Yi",
             "title": "Yeonsim",
-            "content": "You wouldn't talk to even Gubo these days. You've been grasping at the mirror all day long."
+            "content": "Ultimamente non rivolgi la parola nemmeno a Gubo. Hai passato l'intera giornata aggrappato a quello specchio."
         },
         {
             "id": 10,
             "model": "상이",
             "teller": "Sang Yi",
             "title": "Yeonsim",
-            "content": "He just stared at your back before leaving. The expression on his face wasn't so good."
+            "content": "È rimasto a fissare la tua schiena in silenzio prima di andarsene. Non aveva affatto una bella espressione."
         },
         {
             "id": 11,
             "model": "이상",
-            "content": "It concerns me not. I would much rather face you and talk to you."
+            "content": "La cosa non mi tange. Preferirei di gran lunga guardare te e parlare con te."
         },
         {
             "id": 12,
             "model": "이상",
-            "content": "When I turn away, I would like you to do the same."
+            "content": "Quando volterò le spalle, vorrei che facessi lo stesso."
         },
         {
             "id": 13,
             "model": "상이",
             "teller": "Sang Yi",
             "title": "Yeonsim",
-            "content": "Yi Sang, Gubo genuinely cares about you. You know that, right?"
+            "content": "Yi Sang, Gubo tiene sinceramente a te. Lo sai, vero?"
         },
         {
             "id": 14,
             "model": "상이",
             "teller": "Sang Yi",
             "title": "Yeonsim",
-            "content": "I'm pretty sure you're the biggest reason he decided to join the League before it fell apart."
+            "content": "Sono quasi certo che tu sia stata la ragione principale per cui ha deciso di unirsi alla Lega prima che si sfaldasse."
         },
         {
             "id": 15,
             "model": "이상",
-            "content": "That is untrue. The one Gubo cares for the most... would be himself."
+            "content": "Non è vero. Colui che Gubo ha più a cuore... è se stesso."
         },
         {
             "id": 16,
             "model": "이상",
-            "content": "He simply happened to chance upon me while looking for things to make him stand out."
+            "content": "Si è semplicemente imbattuto in me mentre cercava qualcosa che potesse farlo risaltare."
         },
         {
             "id": 17,
             "model": "상이",
             "teller": "Sang Yi",
             "title": "Yeonsim",
-            "content": "Then... let him do that. You can be under the limelight as long as you're standing next to him."
+            "content": "E allora... lascia che lo faccia. Potrai stare sotto le luci della ribalta finché resterai al suo fianco."
         },
         {
             "id": 18,
             "model": "상이",
             "teller": "Sang Yi",
             "title": "Yeonsim",
-            "content": "Right now, N Corp's director has been trying to form a new League of Nine with you, Gubo, and Aseah."
+            "content": "In questo momento, la direttrice della N Corp. sta cercando di formare una nuova Lega dei Nove con te, Gubo e Aseah."
         },
         {
             "id": 19,
             "model": "이상",
-            "content": "I cannot bring myself to call that organization the League when its roots are entirely different. It has simply borrowed the name that will have to be returned one day."
+            "content": "Non riesco a convincermi a chiamare quell'organizzazione 'la Lega', quando le sue radici sono completamente diverse. Ne ha solo preso in prestito il nome, che un giorno dovrà essere restituito."
         },
         {
             "id": 20,
             "model": "이상",
-            "content": "...How go the affairs in the world outside? With your wings, you can be anywhere you'd like."
+            "content": "...Come vanno le cose nel mondo esterno? Con le tue ali, puoi andare ovunque desideri."
         },
         {
             "id": 21,
             "model": "상이",
             "teller": "Sang Yi",
             "title": "Yeonsim",
-            "content": "The outside... Haah. It's the same, tiring stuff. The world always flows along the same current."
+            "content": "L'esterno... Ah. È la solita solfa stancante. Il mondo scorre seguendo sempre la stessa corrente."
         },
         {
             "id": 22,
             "model": "상이",
             "teller": "Sang Yi",
             "title": "Yeonsim",
-            "content": "Isn't that the truth? The League used to be bound with such strong solidarity, but now it has disbanded..."
+            "content": "Non è forse così? Persino la Lega, che era unita da una solidarietà così forte, ora si è sciolta..."
         },
         {
             "id": 23,
             "model": "상이",
             "teller": "Sang Yi",
             "title": "Yeonsim",
-            "content": "There's no point in feeling joy or despair over every passing moment."
+            "content": "Non ha senso provare gioia o disperazione per ogni singolo istante che passa."
         },
         {
             "id": 24,
             "model": "상이",
             "teller": "Sang Yi",
             "title": "Yeonsim",
-            "content": "So I want you to stay here with me. Be someone I can talk with."
+            "content": "Quindi ti prego, resta qui con me. Sii qualcuno con cui io possa parlare."
         }
     ]
 }

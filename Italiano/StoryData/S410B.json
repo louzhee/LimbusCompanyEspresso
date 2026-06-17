@@ -11,7 +11,7 @@
         {
             "id": 1,
             "model": "기술해방연합기계2",
-            "teller": "Intimidating Machine",
+            "teller": "Macchina Minacciosa",
             "title": "???",
             "content": "……"
         },
@@ -41,14 +41,14 @@
             "model": "란",
             "teller": "???",
             "title": "???",
-            "content": "Stesso vecchio avviso d'emergenza. Vi siete mai chiesti perché la voce registrata è sempre così calma?"
+            "content": "Sempre lo stesso avviso d'emergenza. Vi siete mai chiesti perché la voce registrata è sempre così calma?"
         },
         {
             "id": 6,
             "model": "란",
             "teller": "???",
             "title": "???",
-            "content": "Magari un po' di panico e paura nel tono metterebbero del pepe al culo della gente in fuga."
+            "content": "Magari un po' di panico e paura nel tono metterebbero ansia alla gente in fuga."
         },
         {
             "id": 7,
@@ -69,33 +69,33 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "State tutti bene? Se non lo siete, prendetevi una fiala rigenerativa. Normalmente servivrebbe un test di compatibilità incrociata, ma date le circostanze..."
+            "content": "State tutti bene? Altrimenti, prendetevi un'ampolla rigenerativa. Normalmente servirebbe un test di compatibilità incrociata, ma date le circostanze..."
         },
         {
             "id": 10,
             "model": "그레고르",
-            "content": "...You look unfazed. Doesn't a terrorist attack usually throw everyone into chaos?"
+            "content": "...Non sembrate scossi. Di solito un attacco terroristico non dovrebbe gettare tutti nel panico?"
         },
         {
             "id": 11,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Il primo attacca ha mandato tutti nel panico. L'avviso automatico che rileva le esplosioni non esisteva nemmeno. Mister Samjo si era nascosto sotta la scrivania per un sacco di tempo..."
+            "content": "Il primo attacco ha mandato tutti nel panico. L'avviso automatico che rileva le esplosioni non esisteva nemmeno. Pensate che Samjo si è nascosto sotta la scrivania per un sacco di tempo..."
         },
         {
             "id": 12,
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Comunque, l'attentato era avvenuto nell'atrio. Io ovviamente ero sotto la scrivania solo perché mi era caduto un quadernetto."
+            "content": "L'attentato è avvenuto nell'atrio. Io ovviamente ero sotto la scrivania solo perché mi era caduto un quadernetto."
         },
         {
             "id": 13,
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Deve prendere la situazione seriamente, Mr. Dongrang. Un attacco al Laboratorio della K Corp. nel bel mezzo del Nido è una questione gravissima."
+            "content": "Deve prendere la situazione seriamente, Dongrang. Un attacco al laboratorio della K Corp. nel bel mezzo del Nido è una questione gravissima."
         },
         {
             "id": 14,
@@ -106,12 +106,12 @@
         },
         {
             "id": 15,
-            "content": "I watched as Samjo injected a regeneration ampule into Dongrang's body."
+            "content": "Guardai Samjo iniettare un'ampolla rigenerativa nel corpo di Dongrang."
         },
         {
             "id": 16,
             "model": "오티스",
-            "content": "Are they the terrorists that are occupying the Lobotomy Corp. branch?"
+            "content": "Sono i terroristi che occupano la succursale della Lobotomy Corp?"
         },
         {
             "id": 17,
@@ -123,12 +123,12 @@
         {
             "id": 18,
             "model": "싱클레어",
-            "content": "They're part of the Organizzazione Terroristica? They don't really look like well-trained combatants..."
+            "content": "Fanno parte dell'organizzazione terroristica? Non sembrano ben addestrati..."
         },
         {
             "id": 19,
             "model": "히스클리프",
-            "content": "Would you look at that, you got an eye for that now, kid?"
+            "content": "Ma guarda un po', adesso ci hai fatto l'occhio, ragazzino?"
         },
         {
             "id": 20,
@@ -142,42 +142,42 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Basta un'occhiata rapida a vedere che sono tutti secchi e fiacchi, proprio come Mr. Dongrang."
+            "content": "Basta un'occhiata rapida a vedere che sono tutti secchi e fiacchi, proprio come il signor Dongrang."
         },
         {
             "id": 22,
             "model": "히스클리프",
-            "content": "I've seen rich sods that don't get into fights still get body-enhancing augments just in case. You sure they aren't just acting weak?"
+            "content": "Ho visto ricconi che si sono fatti delle operazioni di potenziamento giusto in caso. Siete sicuri che non stiano bluffando?"
         },
         {
             "id": 23,
             "model": "파우스트",
-            "content": "It's not necessarily the case. As varied as ways to augment the body are, some may be repulsed by it, physically or mentally."
+            "content": "Non è detto che sia così. Esistono tante opzioni per potenziare il corpo, ma alcuni potrebbero sentirsi disgustati da esse, fisicamente o mentalmente."
         },
         {
             "id": 24,
             "model": "파우스트",
-            "content": "Some Nests even forbid their residents from getting procedures above a certain level of power if they aren't qualified."
+            "content": "Alcuni Nidi addirittura proibiscono ai propri residenti dal sottoporsi a procedure al di sopra di un certo livello, se non sono qualificati per averle."
         },
         {
             "id": 25,
             "model": "로쟈",
-            "content": "They don't want the lowly to rise up and topple the ruling class over, huh?"
+            "content": "Non vogliono che i poveri prendano e rovescino la classe dirigente, huh?"
         },
         {
             "id": 26,
             "model": "파우스트",
-            "content": "I couldn't deny those possibilities. Each Nest must have its own reasons."
+            "content": "Non nego queste possibilità. Ogni Nido deve avere le sue ragioni."
         },
         {
             "id": 27,
             "model": "파우스트",
-            "content": "But, fundamentally speaking, augmenting procedures are like high-performing vehicles. If an unqualified driver were to try and handle a vehicle with a power output above what they can handle..."
+            "content": "Ma, sostanzialmente, le procedure di potenziamento sono come veicoli ad alte prestazioni. Se un guidatore inesperto provasse ad operare un veicolo con una potenza superiore a quella che riesce a gestire..."
         },
         {
             "id": 28,
             "model": "파우스트",
-            "content": "Layers of order in the Nest would fall apart in no time, so they'd like to prevent that from happening."
+            "content": "L'ordine del Nido cadrebbe in pochissimo tempo, vorrebbero dunque evitare che ciò accada."
         },
         {
             "id": 29,
@@ -188,7 +188,7 @@
         },
         {
             "id": 30,
-            "content": "Soon enough, people wearing familiar outfits appeared, along with the unforgettable beats of footsteps."
+            "content": "Ben presto arrivarono persone che indossavano abiti familiari, accompagnate da quegli indimenticabili passi."
         },
         {
             "id": 31,
@@ -198,24 +198,24 @@
         {
             "id": 32,
             "model": "싱클레어",
-            "content": "T-The ones from the checkpoint..."
+            "content": "Q-Quelli della dogana..."
         },
         {
             "id": 33,
             "model": "이스마엘",
-            "content": "And now they're our reliable allies."
+            "content": "Ed ora sono nostri affidabili alleati."
         },
         {
             "id": 34,
             "model": "단테",
-            "content": "<Those robots... They look seriously hostile...>"
+            "content": "<Quei robot... Sembrano davvero ostili...>"
         },
         {
             "id": 35,
             "model": "마리르",
             "teller": "???",
             "title": "Organizzazione Terroristica?",
-            "content": "Emorraggia entro cinque secondi. Danni alla colonna vertebrale di almeno 12 centrimetri in lunghezza. Impatto diretto sull'arteria coronaria. Distruzione del cranio."
+            "content": "Emorragia entro cinque secondi. Danni alla colonna vertebrale di almeno 12 centrimetri in lunghezza. Impatto diretto sull'arteria coronaria. Distruzione del cranio."
         },
         {
             "id": 36,
@@ -250,7 +250,7 @@
             "model": "란",
             "teller": "???",
             "title": "Organizzazione Terroristica?",
-            "content": "Visto~ è come ti avevo detto. Per via del contraccolpo, non è andato oltre il lobo occipitale. Volevi proprio impararlo per tentativi, eh?"
+            "content": "Visto~ è come ti avevo detto. Per via del contraccolpo, non è andato oltre il lobo occipitale. Volevi proprio impararlo andando per tentativi, eh?"
         },
         {
             "id": 41,
@@ -271,19 +271,19 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Aha, eccolo qui! Il drone somministratore di fiale rigenerative."
+            "content": "Aha, eccolo qui! Il drone somministratore di ampolle rigenerative."
         },
         {
             "id": 44,
             "model": "이스마엘",
-            "content": "It must be pretty handy to have them. Do they inject the ampules right as the staff is injured?"
+            "content": "Dev'essere una gran bella comodità averli. Iniettano le ampolle non appena il personale viene ferito?"
         },
         {
             "id": 45,
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Esattamente, fintanto che non abbiano perso la testa... e le fiale vengano iniettate prima del punto di non ritorno ed il loro cervello smetta di funzionare... Sono essenzialmente immortali."
+            "content": "Esattamente, fintanto che non abbiano perso la testa... che le ampolle vengano iniettate prima del punto di non ritorno e che il loro cervello smetta di funzionare... Sono essenzialmente immortali."
         },
         {
             "id": 46,
@@ -296,7 +296,7 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Ferite come ad esempio fori negli organi interni..."
+            "content": "Ferite, come ad esempio fori negli organi interni..."
         },
         {
             "id": 48,
@@ -309,49 +309,49 @@
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Od ossa spezzate possono essere curate in pochi secondi."
+            "content": "...oppure delle ossa spezzate, possono essere curate in pochi secondi."
         },
         {
             "id": 50,
             "model": "이스마엘",
-            "content": "Even still... They wouldn't be immune to pain. How can they be so calm about it..."
+            "content": "Eppure... Sentiranno comunque dolore. Come fanno ad essere così calmi..."
         },
         {
             "id": 51,
             "model": "이스마엘",
-            "content": "They won't even bat an eye at a colleague right next to them being cut down."
+            "content": "Non sono turbati neanche dai loro colleghi che vengono mutilati."
         },
         {
             "id": 52,
             "model": "뫼르소",
-            "content": "Natural behavior."
+            "content": "Un comportamento naturale."
         },
         {
             "id": 53,
             "model": "뫼르소",
-            "content": "If all wounds can be healed up in seconds, all judgement regarding it will be secondary."
+            "content": "Se tutte le ferite possono essere curate in pochi secondi, ogni tipo di giudizio riguardo ciò diventa secondario."
         },
         {
             "id": 54,
             "model": "홍루",
-            "content": "If that's the case... Will we become like that eventually?"
+            "content": "Se è quello il caso... Diventeremo anche noi così?"
         },
         {
             "id": 55,
             "model": "뫼르소",
-            "content": "I don't see a reason to think about such things."
+            "content": "Non vedo motivo per cui pensare a queste cose."
         },
         {
             "id": 56,
             "model": "홍루",
-            "content": "I was just curious."
+            "content": "Ero solo curioso."
         },
         {
             "id": 57,
             "model": "란",
             "teller": "???",
             "title": "Organizzazione Terroristica?",
-            "content": "Ma che poi... Chi sono quelle facce nuove con quei vestiti strani? Vi piacerebbe presentarvi?"
+            "content": "Ma che poi... Chi sono quelle facce nuove con quei vestiti strani? Vi dispiace presentarvi?"
         },
         {
             "id": 58,
@@ -370,7 +370,7 @@
         {
             "id": 60,
             "model": "이스마엘",
-            "content": "...Why should we introduce ourselves to a organizzazione terroristica?"
+            "content": "...Perché mai dovremmo presentarci ad un'organizzazione terroristica?"
         },
         {
             "id": 61,
@@ -384,74 +384,74 @@
             "model": "란",
             "teller": "???",
             "title": "Organizzazione Terroristica?",
-            "content": "Non mi dispiace come suona. Si allinea a quello che credevo quando avevo quattro anni. Ho dovuto rispondere alla chiamata di una grande scuola perché l'articolo che ho scritto sugli atomi quando avevo undici anni era stato premiato..."
+            "content": "A me non dispiace. Si allinea a quello che credevo quando avevo quattro anni. Ho dovuto rispondere alla chiamata di una grande scuola perché l'articolo che ho scritto sugli atomi quando avevo undici anni era stato premiato..."
         },
         {
             "id": 63,
             "model": "마리르",
             "teller": "???",
-            "title": "Technology Liberation Alliance",
-            "content": "Ti ho detto di tacere. We are the technology liberation alliance."
+            "title": "Alleanza per la Liberazione Tecnologica",
+            "content": "Ti ho detto di tacere. Siamo l'alleanza per la liberazione tecnologica."
         },
         {
             "id": 64,
             "model": "홍루",
-            "content": "Liberate what technologies exactly? Does technology yearn for freedom?"
+            "content": "Liberare che tecnologie, esattamente? La tecnologia desidera la libertà?"
         },
         {
             "id": 65,
             "model": "싱클레어",
-            "content": "Maybe... they're talking about the animals in the lab... I think?"
+            "content": "Forse... stanno parlando degli animali nel laboratorio... Credo?"
         },
         {
             "id": 66,
             "model": "란",
             "teller": "???",
-            "title": "Technology Liberation Alliance",
-            "content": "Ma lo hai sentito? Crederà mica che siamo la protezione animali o roba del genere?"
+            "title": "Alleanza per la Liberazione Tecnologica",
+            "content": "Ma l'hai sentito? Crede sul serio che siamo la protezione animali o roba del genere?"
         },
         {
             "id": 67,
             "model": "란",
             "teller": "???",
-            "title": "Technology Liberation Alliance",
-            "content": "Mi spiace dirvelo, ma quella roba è passata di moda una vita fa. Credete davvero che ci piaccia passare il giorno e la notte ad assemblare macchine solo per combattere in nomi di polli felicemnte allevati e fritti in oli salutari?"
+            "title": "Alleanza per la Liberazione Tecnologica",
+            "content": "Mi spiace dirvelo, ma quella roba è passata di moda una vita fa. Pensate davvero che ci piaccia passare giorno e notte ad assemblare macchine solo per combattere in nomi di polli felicemente allevati e fritti in olio salutare?"
         },
         {
             "id": 68,
             "model": "란",
             "teller": "???",
-            "title": "Technology Liberation Alliance",
-            "content": "I bulloni tipo X-32 sono difficilissimi da reperire di 'sti tempi, ci tocca ordinarli da altri Nidi. Avete la più pallida idea di quante imposte ci siano da pagare?"
+            "title": "Alleanza per la Liberazione Tecnologica",
+            "content": "I bulloni tipo X-32 sono difficilissimi da reperire di 'sti tempi, ci tocca ordinarli da altri Nidi. Avete la più pallida idea di quante tasse ci siano da pagare?"
         },
         {
             "id": 69,
             "model": "파우스트",
-            "content": "You can substitute type X-32 bolts by casting a c-9 bolt and tempering it at an interval of two hours."
+            "content": "Potete sostituire i bulloni tipo X-32 fondendo un c-9 e temprandolo con un intervallo di due ore."
         },
         {
             "id": 70,
             "model": "마리르",
             "teller": "???",
-            "title": "Technology Liberation Alliance",
+            "title": "Alleanza per la Liberazione Tecnologica",
             "content": "Non puoi sviarci facendo la sapientona..."
         },
         {
             "id": 71,
             "model": "란",
             "teller": "???",
-            "title": "Technology Liberation Alliance",
+            "title": "Alleanza per la Liberazione Tecnologica",
             "content": "Oh... Huh... No, potrebbe aver ragione... Potrebbe funzionare."
         },
         {
             "id": 72,
             "model": "그레고르",
-            "content": "Could you tell us why you're offering advice to enemies, Ms. Faust?"
+            "content": "Faust, si può sapere perché offri consigli al nemico?"
         },
         {
             "id": 73,
             "model": "파우스트",
-            "content": "You wouldn't understand. Researchers have a creed more valuable than life."
+            "content": "Non lo capiresti. I ricercatori hanno un credo assai più prezioso della vita."
         }
     ]
 }

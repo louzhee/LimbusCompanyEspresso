@@ -2,7 +2,7 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Nest K’s Ruined Streets",
+            "place": "Strade Distrutte del Nido K",
             "model": "로쟈",
             "content": "E questa è l'ultima… Non ci faranno mica pagare i danni, vero?"
         },
@@ -83,7 +83,7 @@
         },
         {
             "id": 16,
-            "content": "Come osservato dai Peccatori, le Anormalità qui erano molto diverse da quelle che avevamo affrontato fino a quel punto."
+            "content": "Come osservato dai Peccatori, le Anormalità qui erano molto diverse da quelle che avevamo affrontato fino a questo punto."
         },
         {
             "id": 17,
@@ -91,7 +91,7 @@
         },
         {
             "id": 18,
-            "content": "Un liquido misterioso, con una sfumatura azzurra, trasudava dall'Anormalità."
+            "content": "Un liquido misterioso, con una sfumatura azzurra, che trasudava dall'Anormalità."
         },
         {
             "id": 19,
@@ -101,50 +101,50 @@
         {
             "id": 20,
             "model": "로쟈",
-            "content": "Yeesh~ No need to tell me. I’m not about to smudge myself with that."
+            "content": "Non c'è bisogno di dirmelo~ Non avevo intenzione di spalmarmi quella roba addosso."
         },
         {
             "id": 21,
             "model": "히스클리프",
-            "content": "Oi! Did these things eat bad food off the floor or what? It’s like they’ve got rabies—"
+            "content": "Oi! Ma che hanno mangiato del cibo andato a male? Sembra che abbiano la rabbia—"
         },
         {
             "id": 22,
             "model": "싱클레어",
-            "content": "Huh? Above you, Mr. Heathcliff!"
+            "content": "Huh? Heathcliff, sopra di te!"
         },
         {
             "id": 23,
-            "content": "Heathcliff was knocked to the ground, unable to resist."
+            "content": "Heathcliff svenne a terra, incapace di opporre resistenza."
         },
         {
             "id": 24,
             "model": "이스마엘",
-            "content": "Manager… It looks like you have your work cut out for you."
+            "content": "Manager… Sembra che questo sia proprio il lavoro fatto apposta per te."
         },
         {
             "id": 25,
             "model": "오티스",
-            "content": "…Please remember that I gave you my expostulation, Executive Manager."
+            "content": "…La prego di ricordare che l'avevo già avvertita, Manager Esecutivo."
         },
         {
             "id": 26,
             "model": "오티스",
-            "content": "All men, prepare for battle!"
+            "content": "Soldati, preparatevi alla battaglia!"
         },
         {
             "id": 27,
             "model": "단테",
-            "content": "<Figured it would come to this…>"
+            "content": "<E ti pareva che saremmo arrivati a questo…>"
         },
         {
             "id": 28,
-            "content": "I’ve come too far to be afraid of pulling dead Sinners back to life."
+            "content": "Ormai avevo superato la paura di riportare in vita i Peccatori."
         },
         {
             "id": 29,
             "model": "단테",
-            "content": "<Let’s beat ‘em and head back.>"
+            "content": "<Picchiamoli per bene e andiamocene.>"
         }
     ]
 }

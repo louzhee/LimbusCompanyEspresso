@@ -2,19 +2,19 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Nido K - Interno della Filiale LC",
+            "place": "Nido K - Interno della Succursale LC",
             "model": "단테",
-            "content": "<Looks like we're almost there.>"
+            "content": "<Sembra che siamo quasi arrivati.>"
         },
         {
             "id": 1,
             "model": "단테",
-            "content": "<I can sense the Golden Bough resonating nearby.>"
+            "content": "<Riuscivo a sentire il Ramo Dorato risuonare nelle vicinanze.>"
         },
         {
             "id": 2,
             "model": "파우스트",
-            "content": "...It appears we're nearing the target location."
+            "content": "...Pare che ci stiamo avvicinando al luogo d'interesse."
         },
         {
             "id": 3,
@@ -37,48 +37,48 @@
         },
         {
             "id": 6,
-            "content": "Yi Sang picks up an ampule Shrenne dropped from the floor and carefully examines it."
+            "content": "Yi Sang prese un'ampolla che Shrenne aveva lasciato a terra, esaminandola attentamente."
         },
         {
             "id": 7,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Molto educato da parte tua. Non c'era bisogno che la raccogliessi."
+            "content": "Gentile da parte tua. Non c'era bisogno che la raccogliessi."
         },
         {
             "id": 8,
             "model": "이상",
-            "content": "...It's the same."
+            "content": "...È la medesima."
         },
         {
             "id": 9,
             "model": "이상",
-            "content": "This regeneration ampule..."
+            "content": "Questa ampolla rigenerativa..."
         },
         {
             "id": 10,
             "model": "이상",
-            "content": "Its number abides by the same rule as the 'decay ampules' that was forcibly administered to Miss Ishmael in the earlier scuffle between K Corp's brawlers and invading machines."
+            "content": "Il suo numero segue la stessa regola delle 'ampolle di decadimento' che sono state somministrate a forza alla signorina Ishmael durante il precedente scontro tra i lottatori della K Corp e i macchinari infiltrati."
         },
         {
             "id": 11,
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Si tratta di un numero di serie. Una sequenza unica allo scopo di categorizzare le ampolle. Quelle che iniziano per \"O\" sono originali- Ehi, ma perché te lo sto spiegando?"
+            "content": "Si tratta di un codice seriale. È una stringa numerica univoca per categorizzare le ampolle. Quelle che iniziano per \"O\" sono le originali- Aspetta, perché te lo sto spiegando?"
         },
         {
             "id": 12,
             "model": "이상",
-            "content": "Original... Identical to the 'decay ampule' injected to Miss Ishmael... So it suggests that its essence was no different from that of the regeneration ampule."
+            "content": "Originale... Identica all'ampolla di \"decadimento\" iniettata alla signorina Ishmael... Ciò suggerisce che la sua essenza non fosse diversa da quella dell'ampolla rigenerativa."
         },
         {
             "id": 13,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Questa serie di ampolle rigenerative è, come potrei dirlo... è una soluzione non diluita. Non è esattamente come quelle disponibili sul mercato."
+            "content": "Questa serie di ampolle rigenerative è, beh, come dire... È una soluzione non diluita. Non è esattamente come quelle disponibili in commercio."
         },
         {
             "id": 14,
@@ -95,31 +95,31 @@
         {
             "id": 16,
             "model": "이상",
-            "content": "Nothing."
+            "content": "A nulla."
         },
         {
             "id": 17,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Qual è il momento in cui mi hai riconosciuto?"
+            "content": "Quando mi hai riconosciuto?"
         },
         {
             "id": 18,
             "model": "이상",
-            "content": "Since you showed us the chickens in captivity."
+            "content": "Da quando ci hai mostrato i polli in cattività."
         },
         {
             "id": 19,
             "model": "이상",
-            "content": "It would have sufficed to give your visitors a cursory tour, yet you insisted on showing your personal laboratory..."
+            "content": "Sarebbe bastato concedere ai tuoi visitatori un giro superficiale della struttura, eppure hai insistito per mostrarci persino il tuo laboratorio privato..."
         },
         {
             "id": 20,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Hai ragione. Non so nulla degli altri, volevo solo mostrare a te una prova tangibile del mio successo."
+            "content": "Esatto. Non mi importava degli altri, ma volevo che tu, più di chiunque altro, vedessi i frutti del mio lavoro e il mio innegabile successo."
         },
         {
             "id": 21,
@@ -131,36 +131,36 @@
         {
             "id": 22,
             "model": "이상",
-            "content": "It is my thought that I no longer have companions by my side."
+            "content": "Ritengo che non vi sia più alcun compagno rimasto al mio fianco."
         },
         {
             "id": 23,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Non sei cambiato."
+            "content": "Non sei cambiato affatto."
         },
         {
             "id": 24,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Ti è sempre piaciuto preservare le cose preziose in bottiglia ed osservarle."
+            "content": "Ti è sempre piaciuto preservare in bottiglia le cose preziose ed osservarle."
         },
         {
             "id": 25,
             "model": "이상",
-            "content": "And you were intent on releasing and showing them."
+            "content": "E tu eri intenzionato a liberarle e mostrarle."
         },
         {
             "id": 26,
             "model": "돈키호테",
-            "content": "Didst thou say \"companions\"? I must say, Yi Sang, many reunions with thy companions do await thee in this journey!"
+            "content": "Dichiaraste forse \"compagni\"? Ebbene, Yi Sang, vi annuncio che in questo periglioso viaggio vi attendono molti ricongiungimenti con i vostri compagni!"
         },
         {
             "id": 27,
             "model": "돈키호테",
-            "content": "In an expedition past, the, err...one wearing a tinted eyewear did confront thee!"
+            "content": "In una passata spedizione, colui che, ehm... celava lo sguardo dietro lenti oscurate vi aveva già affrontato!"
         },
         {
             "id": 28,
@@ -174,59 +174,59 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Aha. Hai già una riunione da celebrare. Non mi stupisce che tu sia così freddo nei miei confronti."
+            "content": "Aha. Quindi avevi già una riunione da festeggiare. Non mi stupisce che tu sia così freddo nei miei confronti."
         },
         {
             "id": 30,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Certo, per te è un bel grattacapo."
+            "content": "Che peccato per te, però."
         },
         {
             "id": 31,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Sembra che dovrai incontrare qualcun altro."
+            "content": "Sembra che ce ne sarà un altro che dovrai affrontare."
         },
         {
             "id": 32,
             "model": "단테",
-            "content": "<What do you mean?>"
+            "content": "<Che intendi?>"
         },
         {
             "id": 33,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Ho pensato che fossero tutti fuggiti grazie allo spionaggio di Shrenne..."
+            "content": "Pensavo che fossero scappati tutti grazie alla soffiata di Shrenne..."
         },
         {
             "id": 34,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Ma sembra che mi sbagliassi."
+            "content": "Ma suppongo che non sia stato così."
         },
         {
             "id": 35,
-            "content": "Someone walks in, exuding a suffocatingly thick scent of flowers."
+            "content": "Qualcuno si avvicinò, emanando un profumo floreale denso e soffocante."
         },
         {
             "id": 36,
-            "content": "Holding a bright golden branch in her hand, an object now familiar to me."
+            "content": "Stringeva in mano un ramo d'oro, un oggetto che ora mi è familiare."
         },
         {
             "id": 37,
-            "content": "She had a worn monochrome photograph in her other hand."
+            "content": "Nell'altra mano, la donna aveva una vecchia fotografia monocromatica."
         },
         {
             "id": 38,
             "model": "동백",
             "teller": "???",
             "title": "???",
-            "content": "It's a fine photograph. Only one of this shot remains in this world now."
+            "content": "È una bella fotografia. Ormai resta solo una copia al mondo di questo scatto."
         },
         {
             "id": 39,
@@ -240,53 +240,53 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Ti dispiacrebbe restituirmi quella foto? Potrebbe non sembrarlo, ma è un tesoretto che mi sta davvero a cuore."
+            "content": "Ti dispiacrebbe restituirmi quella foto? Potrebbe non sembrare, ma è un tesoro a cui tengo molto."
         },
         {
             "id": 41,
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Signor Dongrang, non dovrebbe avvicinarsi a lei! È pericoloso!"
+            "content": "Signor Dongrang, non si avvicini a lei! È pericoloso!"
         },
         {
             "id": 42,
             "model": "오티스",
-            "content": "All troops, do not carelessly approach her! The Golden Bough may be destroyed..."
+            "content": "Truppe, non avvicinatevi a lei incautamente! Il Ramo Dorato potrebbe venir distrutto..."
         },
         {
             "id": 43,
             "model": "뫼르소",
-            "content": "I agree with it."
+            "content": "Sono d'accordo."
         },
         {
             "id": 44,
             "model": "파우스트",
-            "content": "Faust will come up with a way to retrieve it in no time."
+            "content": "Faust troverà un modo per recuperarlo in un batter d'occhio."
         },
         {
             "id": 45,
             "model": "히스클리프",
-            "content": "Tch, why do we keep running into problems that a good pummeling can't solve! This is right infuriating..."
+            "content": "Tsk, ma perché incontriamo sempre problemi che non possono essere risolti con una cara e vecchia mazzata! Che fastidio..."
         },
         {
             "id": 46,
-            "content": "Everyone yells and shouts with their own goal in mind."
+            "content": "Tutti urlavano e gridavano, pensando al loro obiettivo."
         },
         {
             "id": 47,
-            "content": "Regardless of the noise, the person with the Golden Bough steadily walks this way."
+            "content": "Nonostante il rumore, la donna con il Ramo Dorato camminò fermamente verso di noi."
         },
         {
             "id": 48,
-            "content": "However, instead of going for Dongrang..."
+            "content": "Ma, invece di andare verso Dongrang..."
         },
         {
             "id": 49,
             "model": "동백",
             "teller": "???",
             "title": "???",
-            "content": "That piquant and fragrant smell made me feel as though the ground was sinking."
+            "content": "Quell'odore pungente e fragrante mi ha fatta sentire come se il suolo stesse sprofondando."
         },
         {
             "id": 50,
@@ -295,18 +295,18 @@
         },
         {
             "id": 51,
-            "content": "She plunged the Golden Bough in her hand into Yi Sang's chest..."
+            "content": "Conficcò il Ramo Dorato nella sua mano nel petto di Yi Sang..."
         },
         {
             "id": 52,
-            "content": "And Yi Sang collapses on the ground."
+            "content": "E lui collassò a terra."
         },
         {
             "id": 53,
             "model": "동백",
             "teller": "???",
             "title": "???",
-            "content": "I...didn't think you would end up choosing him before my eyes."
+            "content": "Non... non pensavo che avresti finito per scegliere lui proprio davanti ai miei occhi."
         },
         {
             "id": 54,
@@ -318,26 +318,26 @@
             "model": "동백",
             "teller": "???",
             "title": "???",
-            "content": "You can have this back."
+            "content": "Questo puoi riprendertelo."
         },
         {
             "id": 56,
             "model": "동백",
             "teller": "Dongbaek",
             "title": "???",
-            "content": "A photograph is nothing more than a taxidermied moment."
+            "content": "Una fotografia non è altro che un istante tassidermizzato."
         },
         {
             "id": 57,
-            "content": "Even while drenched in blood, the Golden Bough still glows."
+            "content": "Anche se inzuppato di sangue, il Ramo Dorato brillava ancora."
         },
         {
             "id": 58,
-            "content": "Contrasting the golden dazzle..."
+            "content": "Come a contastare lo splendore dorato..."
         },
         {
             "id": 59,
-            "content": "The faded monochrome photograph slowly falls to the floor."
+            "content": "La sbiadita fotografia monocromatica cadde lentamente a terra."
         }
     ]
 }

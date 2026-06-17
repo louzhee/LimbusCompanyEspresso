@@ -2,7 +2,7 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Nido K - Interno della Filiale LC",
+            "place": "Nido K - Interno della Succursale LC",
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
@@ -13,46 +13,46 @@
             "model": "슈렌느",
             "teller": "Shrenne",
             "title": "Laboratorio della K Corp.",
-            "content": "Rilassati. Ho portato parecchie ampolle rigenerative, quindi le loro macchine assassine possono fare tutto il danno che vogliono."
+            "content": "Rilassati. Ho portato parecchie ampolle rigenerative, quindi quelle macchine assassine possono scatenarsi quanto vogliono."
         },
         {
             "id": 2,
-            "content": "An ominous noise buzzed from the stopped machines."
+            "content": "Un rumore inquietante uscì dalle macchine spente."
         },
         {
             "id": 3,
             "model": "기술해방연합기계",
-            "teller": "Melted Machine",
-            "title": "Alleanza per la Liberazione della Tecnologia",
-            "content": "Allora, voi... Mi sentite bene?"
+            "teller": "Macchina Fusa",
+            "title": "Alleanza per la Liberazione Tecnologica",
+            "content": "Bene, ragazzi... mi sentite?"
         },
         {
             "id": 4,
             "model": "기술해방연합기계",
-            "teller": "Melted Machine",
-            "title": "Alleanza per la Liberazione della Tecnologia",
-            "content": "Avrete pensato che siamo scappati da voi, e la cosa mi irrita moltissimo, perciò vi ho lasciato questo messaggio."
+            "teller": "Macchina Fusa",
+            "title": "Alleanza per la Liberazione Tecnologica",
+            "content": "Non sopporto che ci crediate dei codardi in fuga, quindi eccovi un messaggio vocale."
         },
         {
             "id": 5,
             "model": "기술해방연합기계",
-            "teller": "Melted Machine",
-            "title": "Alleanza per la Liberazione della Tecnologia",
-            "content": "Sto per dirvi qualcosa di importante, quindi aprite bene le orecchie."
+            "teller": "Macchina Fusa",
+            "title": "Alleanza per la Liberazione Tecnologica",
+            "content": "Sto per dirvi qualcosa di importante, aprite bene le orecchie."
         },
         {
             "id": 6,
             "model": "기술해방연합기계",
-            "teller": "Melted Machine",
-            "title": "Alleanza per la Liberazione della Tecnologia",
+            "teller": "Macchina Fusa",
+            "title": "Alleanza per la Liberazione Tecnologica",
             "content": "……"
         },
         {
             "id": 7,
             "model": "기술해방연합기계",
-            "teller": "Melted Machine",
-            "title": "Alleanza per la Liberazione della Tecnologia",
-            "content": "Una pausa drammatica per generare tensione... Perfetto."
+            "teller": "Macchina Fusa",
+            "title": "Alleanza per la Liberazione Tecnologica",
+            "content": "Pausa drammatica per generare tensione... Perfetto."
         },
         {
             "id": 8,
@@ -62,46 +62,46 @@
         {
             "id": 9,
             "model": "기술해방연합기계",
-            "teller": "Melted Machine",
-            "title": "Alleanza per la Liberazione della Tecnologia",
+            "teller": "Macchina Fusa",
+            "title": "Alleanza per la Liberazione Tecnologica",
             "content": "Il punto è..."
         },
         {
             "id": 10,
             "model": "기술해방연합기계",
-            "teller": "Melted Machine",
-            "title": "Alleanza per la Liberazione della Tecnologia",
+            "teller": "Macchina Fusa",
+            "title": "Alleanza per la Liberazione Tecnologica",
             "content": "Che siete dei vermi schifosi."
         },
         {
             "id": 11,
             "model": "기술해방연합기계",
-            "teller": "Melted Machine",
-            "title": "Alleanza per la Liberazione della Tecnologia",
+            "teller": "Macchina Fusa",
+            "title": "Alleanza per la Liberazione Tecnologica",
             "content": "Esatto, avete sentito bene. Siete solo dei vermi!"
         },
         {
             "id": 12,
             "model": "그레고르",
-            "content": "Gimme a break. I was all ears for this load of nonsense."
+            "content": "Oh, dammi tregua. Ho aspettato per sentire stronzate..."
         },
         {
             "id": 13,
-            "content": "Gregor approached the speaker with a grumble, scratching the back of his head."
+            "content": "Gregor si avvicinò all'autoparlante borbottando, grattandosi dietro la testa."
         },
         {
             "id": 14,
             "model": "단테",
-            "content": "<Wait, Gregor!>"
+            "content": "<Gregor, aspetta!>"
         },
         {
             "id": 15,
-            "content": "After playing the voice, the machine suddenly starts to heat up and inflate."
+            "content": "Dopo aver riprodotto la voce, la macchina iniziò all'improvviso a scaldarsi e rigonfiarsi."
         },
         {
             "id": 16,
             "model": "파우스트",
-            "content": "The machine is heating to unnatural degrees, its components expanding."
+            "content": "La temperatura del macchinario sta salendo a livelli anomali; i componenti si stanno espandendo."
         },
         {
             "id": 17,
@@ -115,40 +115,40 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Molto vero, ciò significa..."
+            "content": "Proprio così, e questo significa..."
         },
         {
             "id": 19,
             "model": "히스클리프",
-            "content": "Wait a moment! Get away from that damned machine!"
+            "content": "Ma levati da davanti quella macchina del cazzo!"
         },
         {
             "id": 20,
-            "content": "Heathcliff kicked Gregor away from the machine."
+            "content": "Heathcliff calciò Gregor lontano dalla macchina."
         },
         {
             "id": 21,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Hmm... Devono aver utilizzato il poco tempo a disposizione per piazzare trappole simili."
+            "content": "Hmm... Devono aver sfruttato quel poco tempo che avevano a disposizione per piazzare trappole del genere."
         },
         {
             "id": 22,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Il loro impegno è ammirabile. Sono ansioso di conoscere la mente che si cela dietro tutto questo."
+            "content": "La loro dedizione è ammirevole. Sono proprio curioso di vedere chi sia la mente dietro tutto questo."
         },
         {
             "id": 23,
             "model": "단테",
-            "content": "<Are all researchers like that? This really doesn't feel like the time for admirations.>"
+            "content": "<Tutti i ricercatori sono così? Questo non sembra un buon momento per farsi i complimenti.>"
         },
         {
             "id": 24,
             "model": "파우스트",
-            "content": "Such is our fate."
+            "content": "È il nostro destino."
         }
     ]
 }

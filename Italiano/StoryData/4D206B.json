@@ -4,53 +4,53 @@
             "id": 0,
             "place": "Lega dei Nove Letterati in Declino",
             "model": "이상",
-            "content": "As it turned out, each of us wanted to protect a different point in time."
+            "content": "A quanto pare, ognuno di noi desiderava proteggere un momento diverso nel tempo."
         },
         {
             "id": 1,
             "model": "이상",
-            "content": "Some wished it to stop where it was,"
+            "content": "Alcuni volevano che si fermasse esattamente lì dov'era,"
         },
         {
             "id": 2,
             "model": "이상",
-            "content": "While some wished it to advance."
+            "content": "Mentre altri volevano che avanzasse."
         },
         {
             "id": 3,
             "model": "이상",
-            "content": "In my case..."
+            "content": "Nel mio caso..."
         },
         {
             "id": 4,
-            "content": "*Wham! Wham! Wham!*"
+            "content": "*Sbam! Sbam! Sbam!*"
         },
         {
             "id": 5,
-            "teller": "Class 2 Collector",
+            "teller": "Esattore di Classe 2",
             "title": "T Corp.",
-            "content": "Abbiamo ricevuto una segnalazione che siete in possesso di tecnologia non autorizzata."
+            "content": "Abbiamo ricevuto una segnalazione, siete in possesso di tecnologia non autorizzata."
         },
         {
             "id": 6,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "Ho già inviato una lettera a Young-ji dicendogli di darsi alla macchia."
+            "content": "Ho già inviato una lettera a Young-ji per dirgli di mettersi in salvo."
         },
         {
             "id": 7,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "We must hide the glass window and the mirror in the basement before they can take them."
+            "content": "Dobbiamo nascondere la finestra di vetro e lo specchio nel seminterrato prima che possano portarli via."
         },
         {
             "id": 8,
             "model": "과거동백",
             "teller": "Dongbaek",
             "title": "Lega dei Nove Letterati",
-            "content": "Dongrang and I will carry them to safety... I want the rest of you to hold the door while we do."
+            "content": "Io e Dongrang li porteremo al sicuro... Voi altri, nel frattempo, sbarrate la porta."
         }
     ]
 }

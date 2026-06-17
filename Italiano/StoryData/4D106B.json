@@ -2,82 +2,82 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Margine delle Periferie",
-            "teller": "Unknown Boy",
+            "place": "Margini della Periferia",
+            "teller": "Ragazzo Sconosciuto",
             "title": "???",
-            "content": "It's quiet."
+            "content": "C'è silenzio."
         },
         {
             "id": 1,
-            "teller": "Unknown Boy",
+            "teller": "Ragazzo Sconosciuto",
             "title": "???",
-            "content": "Nothing like the Outskirts..."
+            "content": "Non è per niente come la Periferia..."
         },
         {
             "id": 2,
             "teller": "Stephanette",
             "title": "???",
-            "content": "È proprio vero. Chi si immaginava che oltre le Periferie esistesse un luogo cosi incantevole e pacifico?"
+            "content": "Hai ragione. Chi avrebbe mai detto che il mondo oltre la Periferia fosse popolato da creature così belle e tranquille?"
         },
         {
             "id": 3,
-            "teller": "Unknown Boy",
+            "teller": "Ragazzo Sconosciuto",
             "title": "???",
-            "content": "Yeah, I guess that must be the reason everyone tried to keep quiet about it."
+            "content": "Sì, immagino sia per questo che cercavano tutti di non parlarne."
         },
         {
             "id": 4,
             "teller": "Stephanette",
             "title": "???",
-            "content": "Forse, ma dimmi, per caso... hai mai sentito della cosa che dimora oltre le Periferie? Si dice che questo luogo ospita qualcosa che... esaudisce i desideri di chi ci crede intensamente. Vuoi sentirla?"
+            "content": "Giusto. Per caso... conosci la storia di ciò che vive oltre la Periferia? Si dice che qui dimori una creatura... capace di esaudire i desideri di chi è sincero. Ti va di ascoltarla?"
         },
         {
             "id": 5,
-            "teller": "Unknown Boy",
+            "teller": "Ragazzo Sconosciuto",
             "title": "???",
-            "content": "Sure. I always look forward to your stories."
+            "content": "Certo. Non vedo l'ora di sentire le tue storie."
         },
         {
             "id": 6,
             "teller": "Stephanette",
             "title": "???",
-            "content": "Te la racconto tra un attimo. Ho visto qualcosa di carino laggiù."
+            "content": "Puoi aspettare solo un momento? Ho visto una cosa carina laggiù."
         },
         {
             "id": 7,
-            "teller": "Unknown Boy",
+            "teller": "Ragazzo Sconosciuto",
             "title": "???",
             "content": "……"
         },
         {
             "id": 8,
-            "teller": "Unknown Boy",
+            "teller": "Ragazzo Sconosciuto",
             "title": "???",
-            "content": "When we look up at our sky... all we see is a pinch of muddled light."
+            "content": "Quando guardiamo il nostro cielo... tutto ciò che vediamo è un barlume di luce torbida."
         },
         {
             "id": 9,
-            "teller": "Unknown Boy",
+            "teller": "Ragazzo Sconosciuto",
             "title": "???",
-            "content": "But here..."
+            "content": "Ma qui..."
         },
         {
             "id": 10,
-            "teller": "Unknown Boy",
+            "teller": "Ragazzo Sconosciuto",
             "title": "???",
-            "content": "I can see lone stars looking down at us."
+            "content": "Riesco a vedere stelle solitarie che ci osservano dall'alto."
         },
         {
             "id": 11,
-            "teller": "Unknown Boy",
+            "teller": "Ragazzo Sconosciuto",
             "title": "???",
-            "content": "Since the city I can see from here is filled with cries of pain and despair..."
+            "content": "Dato che la città che vedo da qui è piena di grida di dolore e disperazione..."
         },
         {
             "id": 12,
-            "teller": "Unknown Boy",
+            "teller": "Ragazzo Sconosciuto",
             "title": "???",
-            "content": "I'd rather... gaze down at people from the loneliness up in the sky and shed tears with them..."
+            "content": "Preferirei... osservare le persone dalla solitudine del cielo e versare le mie lacrime insieme a loro..."
         },
         {
             "id": 13
@@ -86,7 +86,7 @@
             "id": 14,
             "teller": "Stephanette",
             "title": "???",
-            "content": "Scusa, ci ho messo più del previsto. C'erano alcuni fiori che non ho mai visto prima, magari potremmo coglierli mentre ti racconto la storia..."
+            "content": "Scusa, ho fatto un po' tardi. C'erano dei fiori che non avevo mai visto prima, magari potremmo sentirne il profumo mentre ti racconto la storia..."
         },
         {
             "id": 15,
@@ -98,25 +98,25 @@
             "id": 16,
             "teller": "Stephanette",
             "title": "???",
-            "content": "Oh, vedo che... hai finalmente esaudito il tuo desiderio?"
+            "content": "Capisco, quindi... hai finalmente esaudito il tuo desiderio?"
         },
         {
             "id": 17,
             "teller": "Stephanette",
             "title": "???",
-            "content": "Da oggi in poi, anche se ci fossero solo una manciata di stelle nel cielo nottunro..."
+            "content": "Da oggi, anche se quel pugno di stelle non dovesse sorgere in un angolo del cielo notturno..."
         },
         {
             "id": 18,
             "teller": "Stephanette",
             "title": "???",
-            "content": "Quelle stelle basteranno ad illuminare l'oscurità della terra..."
+            "content": "Quelle stelle illumineranno l'oscurità delle terre sottostanti al suo posto..."
         },
         {
             "id": 19,
             "teller": "Stephanette",
             "title": "???",
-            "content": "Affinchè vada tutto bene."
+            "content": "Quindi andrà tutto bene."
         },
         {
             "id": 20,
@@ -126,42 +126,42 @@
             "id": 21,
             "place": "Lega dei Nove Letterati in Fiore",
             "model": "싱클레어",
-            "content": "What was that just now? It felt like a story from long ago."
+            "content": "E quello cos'era? Sembrava una storia davvero vecchia."
         },
         {
             "id": 22,
             "model": "파우스트",
-            "content": "As the Golden Bough generated the fathoms of ego in a frenzy... foreign matters were mixed into them."
+            "content": "Mentre il Ramo Dorato generava freneticamente i meandri dell'ego... degli elementi estranei si sono mescolati ad essi."
         },
         {
             "id": 23,
             "model": "파우스트",
-            "content": "K Corp's Singularity: Tears of the so-called 'Tearful Thing'."
+            "content": "La Singolarità della K Corp: le lacrime della cosiddetta 'Creatura Lacrimante'."
         },
         {
             "id": 24,
             "model": "그레고르",
-            "content": "Can sure see that... It's bringing back dead people to fight us."
+            "content": "Lo vedo benissimo... Sta riportando in vita i morti per combatterci."
         },
         {
             "id": 25,
             "model": "파우스트",
-            "content": "Yes, they seem to be relevant to the experiences... of melting down."
+            "content": "Sì, sembrano essere inerenti alle esperienze... di dissolvimento."
         },
         {
             "id": 26,
             "model": "홍루",
-            "content": "Did the mind of that Tearful Thing melt into this resonance as well, then?"
+            "content": "Allora anche la mente di quella Creatura Lacrimante si è sciolta in quella risonanza?"
         },
         {
             "id": 27,
             "model": "싱클레어",
-            "content": "That means... the Tearful Thing is... no different from people..."
+            "content": "Significa che... la Creatura Lacrimante non è... diversa dalle persone..."
         },
         {
             "id": 28,
             "model": "파우스트",
-            "content": "Dante, in this world... there are many who seek after stars."
+            "content": "Dante, in questo mondo... sono in molti a cercare le stelle."
         }
     ]
 }

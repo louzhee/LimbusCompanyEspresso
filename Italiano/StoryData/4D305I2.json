@@ -4,7 +4,7 @@
             "id": 0,
             "model": "다친에고동랑",
             "teller": "Dongrang",
-            "title": "Effloresced E.G.O::Gastaldo",
+            "title": "E.G.O Manifestato::Gastaldo",
             "content": "Yi... Sang..."
         },
         {
@@ -15,12 +15,12 @@
         {
             "id": 2,
             "model": "이상",
-            "content": "<color=#d4e1e8>I remember that spring day.</color>"
+            "content": "<color=#d4e1e8>Ricordo quel giorno di primavera.</color>"
         },
         {
             "id": 3,
             "model": "이상",
-            "content": "<color=#d4e1e8>Stars rose in our eyes.</color>"
+            "content": "<color=#d4e1e8>Delle stelle sorsero nei nostri occhi.</color>"
         },
         {
             "id": 4,
@@ -31,43 +31,43 @@
             "id": 5,
             "model": "다친에고동랑",
             "teller": "Dongrang",
-            "title": "Effloresced E.G.O::Gastaldo",
+            "title": "E.G.O Manifestato::Gastaldo",
             "content": "……."
         },
         {
             "id": 6,
             "model": "다친에고동랑",
             "teller": "Dongrang",
-            "title": "Effloresced E.G.O::Gastaldo",
+            "title": "E.G.O Manifestato::Gastaldo",
             "content": "Brillavano."
         },
         {
             "id": 7,
             "model": "다친에고동랑",
             "teller": "Dongrang",
-            "title": "Effloresced E.G.O::Gastaldo",
-            "content": "Luminosi... come le tue ali."
+            "title": "E.G.O Manifestato::Gastaldo",
+            "content": "Rifulgevano... proprio come le tue ali."
         },
         {
             "id": 8,
             "model": "다친에고동랑",
             "teller": "Dongrang",
-            "title": "Effloresced E.G.O::Gastaldo",
-            "content": "Ho sempre... sempre voluto..."
+            "title": "E.G.O Manifestato::Gastaldo",
+            "content": "Ho sempre... desiderato..."
         },
         {
             "id": 9,
             "model": "다친에고동랑",
             "teller": "Dongrang",
-            "title": "Effloresced E.G.O::Gastaldo",
+            "title": "E.G.O Manifestato::Gastaldo",
             "content": "Sfuggire all'ombra della Lega..."
         },
         {
             "id": 10,
             "model": "다친에고동랑",
             "teller": "Dongrang",
-            "title": "Effloresced E.G.O::Gastaldo",
-            "content": "E alla fine... è proprio quell'ombra... che mi accoglie."
+            "title": "E.G.O Manifestato::Gastaldo",
+            "content": "E alla fine... è proprio quell'ombra... ad accogliermi."
         }
     ]
 }

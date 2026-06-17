@@ -29,42 +29,42 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Ha, haha..."
+            "content": "Ah, ahah..."
         },
         {
             "id": 5,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "È vero, non mi riconosce più."
+            "content": "Hai ragione, non mi riconosce affatto."
         },
         {
             "id": 6,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Non mi rimangono altro che gusci vuoti in questo momento, ma so..."
+            "content": "Anche se ora sono pieno solo di gusci vuoti, lo so..."
         },
         {
             "id": 7,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "So che ci sono quasi. Presto... sarò capace di costruire una tecnologia con cui riempire quel vuoto."
+            "content": "So che ci sono quasi. Presto... creerò una tecnologia con cui riempire quel vuoto."
         },
         {
             "id": 8,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Formerò una nuova squadra di ricerca... assumerò un altro segretario... C'è molto da fare."
+            "content": "Formerò una nuova squadra di ricerca... assumerò un altro segretario... Ci sarà molto da fare."
         },
         {
             "id": 9,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Quindi... Non credo che avrò più bisogno di te."
+            "content": "Quindi... credo di non aver più bisogno di te."
         },
         {
             "id": 10,
@@ -72,14 +72,14 @@
             "model": "알폰소",
             "teller": "Alfonso",
             "title": "K Corp.",
-            "content": "...Dongrang? Quanto hai intenzione di farmi aspettare?"
+            "content": "...Dongrang? Quanto ancora hai intenzione di farmi aspettare?"
         },
         {
             "id": 11,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Ah, mi scuso per la distrazione. Mi sono ricordato di una cosa che ho lasciato nella mia città..."
+            "content": "Ah, scusi il ritardo. Mi è tornato in mente qualcosa che avevo lasciato nella mia città natale..."
         },
         {
             "id": 12,
@@ -93,49 +93,49 @@
             "model": "알폰소",
             "teller": "Alfonso",
             "title": "K Corp.",
-            "content": "Tutti pensiamo in modo stupido, di tanto in tanto."
+            "content": "Tutti possono avere un momento di stoltezza."
         },
         {
             "id": 14,
             "model": "알폰소",
             "teller": "Alfonso",
             "title": "K Corp.",
-            "content": "Per farla breve... Conosci un modo per generare un flusso di lacrime senza fine, dico bene?"
+            "content": "Dunque... dici di conoscere un modo per generare un flusso incessante di lacrime?"
         },
         {
             "id": 15,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Per raggiungere la quota prestabilita, le persone vengono torturate... e poi curate tramite le lacrime... e poi torturate di nuovo..."
+            "content": "Per raggiungere una certa quota, le persone vengono torturate... poi curate con le lacrime... e poi torturate di nuovo..."
         },
         {
             "id": 16,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "È imperdonabile sprecare delle lacrime in quella maniera."
+            "content": "È uno spreco continuare a consumare parte delle lacrime per questo processo."
         },
         {
             "id": 17,
             "model": "알폰소",
             "teller": "Alfonso",
             "title": "K Corp.",
-            "content": "Assolutamente vero, è per questo che ci procuriamo delle registrazioni da diverse Ali e Sindacati dei Vicoli in forma di surrogato."
+            "content": "Vero, infatti stiamo importando filmati da varie Ali e dai Sindacati dei Vicoli come sostituto."
         },
         {
             "id": 18,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Mi faccia indovinare, stanno chiedendo cifre sempre più alte in cambio delle riprese."
+            "content": "Stanno alzando sempre di più i prezzi per il materiale audiovisivo, non è così?"
         },
         {
             "id": 19,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Solo in piccola parte, ma i gruppi coinvolti stanno cominciando a notare il nostro disperato bisogno. Non che sappiano esattamente lo scopo riservato a quelle registrazioni qui a K Corp."
+            "content": "Altre fazioni stanno iniziando a notare, seppur vagamente, che ne abbiamo un evidente bisogno. Anche se non sanno esattamente per cosa venga usato nella K Corp."
         },
         {
             "id": 20,
@@ -147,14 +147,14 @@
             "id": 21,
             "teller": "Impiegato Stralunato",
             "title": "K Corp.",
-            "content": "Gentilmente, ora potreste... rompermi un dito?"
+            "content": "Potrebbe... potrebbe spezzarmi un dito ora, per favore?"
         },
         {
             "id": 22,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "A proposito... Sembra che anche il suo subordinato legato sulla sedia abbia perso il senno."
+            "content": "Guardi. Anche il suo subordinato legato a questa sedia sembra aver perso il senno."
         },
         {
             "id": 23,
@@ -166,75 +166,75 @@
         {
             "id": 24,
             "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, che Rinnega Ogni Cosa",
+            "teller": "Dongrang, che Nega Tutto",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Non dovrei chiudere gli occhi."
+            "content": "Non devo chiudere gli occhi."
         },
         {
             "id": 25,
             "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, che Rinnega Ogni Cosa",
+            "teller": "Dongrang, che Nega Tutto",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Miss Carmen... Non credo che le cose stiano così. La mia strada non è un vicolo cieco, finalmente vedo con chiarezza il percorso da seguire."
+            "content": "Signorina Carmen... credo che le cose non stiano esattamente così. Il cammino non è interrotto, e finalmente vedo chiaramente dove devo andare."
         },
         {
             "id": 26,
             "model": "이상",
-            "content": "Dongrang... after coming such a long way 'round... have you at last returned to this path?"
+            "content": "Dongrang... dopo aver percorso una strada così lunga e tortuosa... sei infine tornato su questo cammino?"
         },
         {
             "id": 27,
             "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, che Rinnega Ogni Cosa",
+            "teller": "Dongrang, che Nega Tutto",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Quando ti guardo negli occhi... Non provo più la compassione che provavo per te in passato."
+            "content": "Quando guardo quell'occhio... non provo più la compassione di un tempo."
         },
         {
             "id": 28,
             "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, che Rinnega Ogni Cosa",
+            "teller": "Dongrang, che Nega Tutto",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Piuttosto... te ne rendi conto? Una pallida imitazione della rinomata finestra specchio delle Lega, creata da parassiti incompetenti... È diventata lo stendardo che ha elevato a nuove vetta la fama della Singolarità della K Corp."
+            "content": "Invece... Lo vedi? Una mera imitazione della celebre finestra di vetro della Lega, creata parassitandola... È diventata lo stendardo che ha elevato il prestigio della Singolarità della K Corp."
         },
         {
             "id": 29,
             "model": "이상",
-            "content": "...Yes, I can see it well."
+            "content": "...Sì, lo vedo bene."
         },
         {
             "id": 30,
             "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, che Rinnega Ogni Cosa",
+            "teller": "Dongrang, che Nega Tutto",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Fratello Young-ji se n'è andato, Dongbaek giace nel letto di fiori..."
+            "content": "Fratello Young-ji se n'è andato, Dongbaek è tornata al suo letto di fiori..."
         },
         {
             "id": 31,
             "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, che Rinnega Ogni Cosa",
+            "teller": "Dongrang, che Nega Tutto",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Tutto quello che rimane è la mutazione parassita dello specchio di Young-ji..."
+            "content": "Tutto ciò che resta è una mutazione parassita del vetro di Young-ji..."
         },
         {
             "id": 32,
             "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, che Rinnega Ogni Cosa",
+            "teller": "Dongrang, che Nega Tutto",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "La mia copia da quattro soldi dello specchio, tanto poco originale quanto inutile."
+            "content": "La mia volgare copia del vetro, che non è riuscita a essere nulla."
         },
         {
             "id": 33,
             "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, che Rinnega Ogni Cosa",
+            "teller": "Dongrang, che Nega Tutto",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
             "content": "A cosa serve una tecnologia che non può cambiare il mondo?"
         },
         {
             "id": 34,
             "model": "뒤틀린다친동랑",
-            "teller": "Dongrang, che Rinnega Ogni Cosa",
-            "title": "Effloresced E.G.O::Gastaldo",
-            "content": "Voglio che tu smetta di preoccuparti, come ho fatto io. Lascia che pianga al posto nostro per la nostra agonia e disperazione."
+            "teller": "Dongrang, che Nega Tutto",
+            "title": "E.G.O Manifestato::Gastaldo",
+            "content": "Quindi voglio che tu smetta di curartene, proprio come ho fatto io. Lascia che sia lui a piangere al posto nostro per la nostra agonia e il nostro dolore."
         }
     ]
 }

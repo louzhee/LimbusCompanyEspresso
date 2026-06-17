@@ -2,11 +2,11 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Nido K - Interno della Filiale LC",
+            "place": "Nido K - Interno della Succursale LC",
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Shrenne, sembra che delle schegge ti abbiano ferita, sei sicura di non voler usare una fiala?"
+            "content": "Shrenne, sembra che delle schegge ti abbiano ferita, sei sicura di non voler usare un'ampolla?"
         },
         {
             "id": 1,
@@ -18,12 +18,12 @@
         {
             "id": 2,
             "model": "그레고르",
-            "content": "That Shrenne fella... She's looking kinda blank-faced, is she okay?"
+            "content": "Quella tipa, Shrenne... Sembra un po' assente, sta bene?"
         },
         {
             "id": 3,
             "model": "그레고르",
-            "content": "Blank-faced... Hah, of course not. She couldn't be so carefree."
+            "content": "Assente... Hah, certo che no. Non può essere così spensierata."
         },
         {
             "id": 4,
@@ -33,82 +33,82 @@
         {
             "id": 5,
             "model": "오티스",
-            "content": "This makes it evident."
+            "content": "Questo lo rende evidente."
         },
         {
             "id": 6,
             "model": "오티스",
-            "content": "The terrorists long since made their leave. All that's left were bloodthirsty murderers hellbent on killing us."
+            "content": "I terroristi se ne sono andati da parecchio. Ciò che è rimasto erano assassini assetati di sangue pronti ad ucciderci."
         },
         {
             "id": 7,
             "model": "오티스",
-            "content": "I've made my judgement. Hey, what do you think?"
+            "content": "Ho espresso il mio pensiero. Ehi, tu cosa ne pensi?"
         },
         {
             "id": 8,
-            "content": "Outis nudged her head at Meursault."
+            "content": "Outis fece un cenno con la testa a Meursault."
         },
         {
             "id": 9,
             "model": "뫼르소",
-            "content": "I agree with it."
+            "content": "Mi trovi d'accordo."
         },
         {
             "id": 10,
             "model": "싱클레어",
-            "content": "Wha, what are you two talking about?"
+            "content": "Ehi, di che state parlando?"
         },
         {
             "id": 11,
             "model": "뫼르소",
-            "content": "There's a traitor in our ranks. No doubt remains in the matter."
+            "content": "C'è un traditore tra di noi. Non abbiamo dubbi al riguardo."
         },
         {
             "id": 12,
             "model": "뫼르소",
-            "content": "It's thanks to this spy that our course and plans were leaked from the moment we departed."
+            "content": "È grazie a questa spia che il nostro percorso ed i nostri piani sono trapelati dal momento in cui siamo partiti."
         },
         {
             "id": 13,
             "model": "뫼르소",
-            "content": "To prevent further damage, it is right to dispose of them here and now."
+            "content": "Per prevenire altri danni, è bene occuparsene qui e ora."
         },
         {
             "id": 14,
-            "content": "Traitor."
+            "content": "Traditore."
         },
         {
             "id": 15,
-            "content": "I blankly watched as he brought up a concept foreign to me."
+            "content": "Guardai Meursault con sguardo assente, mentre parlava di un concetto a me estraneo."
         },
         {
             "id": 16,
             "model": "오티스",
-            "content": "As it's unlikely to be one of us, the rational course of action is to suspect your institute's lackeys."
+            "content": "Poiché è improbabile che si tratti di uno di noi, un corso d'azione razionale ci spinge a sospettare i tirapiedi della vostra istituzione."
         },
         {
             "id": 17,
             "model": "오티스",
-            "content": "This mission must be abandoned, Executive Manager. To allow ourselves to be involved in this nonsense is..."
+            "content": "Manager Esecutivo, questa missione dev'essere abbandonata. Lasciarci coinvolgerci in queste sciocchezze..."
         },
         {
             "id": 18,
             "model": "삼조",
             "teller": "Samjo",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Le vostre accuse mi disgustano. State davvero sospettando di noi? Vi assicuro che ci fidiamo molto l'uno dell altro rispetto a voi, voi che non siete nemmeno da un anno nella stessa azienda..."
+            "content": "Queste accuse mi disgustano. State veramente sospettando di noi? Posso assicurarvi che ci fidiamo l'uno dell'altro molto più di quanto facciate voi, che non siete nemmeno nella stessa azienda da un anno..."
         },
         {
             "id": 19,
-            "content": "Samjo argued, flashes of light furiously bouncing off his glasses."
+            "content": "Protestò Samjo, con dei lampi di luce che rimbalzavano furiosamente sui suoi occhiali."
         },
         {
             "id": 20,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "No, Samjo. La loro ipotesi è plasuibile. Avrei usato le stesse parole."
+            "content": "No, Samjo, la loro ipotesi sembra plausibile. Avrei detto la stessa cosa."
         },
         {
             "id": 21,
@@ -122,7 +122,7 @@
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Vuoi dire qualcosa, vero?"
+            "content": "Vuoi dire qualcosa, dico bene?"
         },
         {
             "id": 23,
@@ -134,76 +134,76 @@
         {
             "id": 24,
             "model": "오티스",
-            "content": "That group of Fixers haven't used regeneration ampules a single time since they came in here."
+            "content": "Quel gruppo di Fixer non hanno usato una singola ampolla rigenerativa da quando hanno messo piede qui dentro."
         },
         {
             "id": 25,
             "model": "오티스",
-            "content": "Any sane combatant would kill to have those."
+            "content": "Ogni soldato con un po' di sale in zucca ucciderebbe per averle a disposizione."
         },
         {
             "id": 26,
             "model": "뫼르소",
-            "content": "There is one more thing."
+            "content": "C'è un'altra cosa."
         },
         {
             "id": 27,
             "model": "뫼르소",
-            "content": "When we encountered Ran..."
+            "content": "Quando abbiamo incontrato Ran..."
         },
         {
             "id": 28,
             "model": "뫼르소",
-            "content": "They were distancing themselves from her in advance. The only explanation is that they knew there would be an explosion."
+            "content": "Si sono allontanati da lei in anticipo. L'unica spiegazione plausibile è che sapevano che ci sarebbe stata un'esplosione."
         },
         {
             "id": 29,
             "model": "니코",
             "teller": "Niko",
             "title": "Officina Rosespanner",
-            "content": "Oh, accidenti... Non potreste dare il beneficio del dubbio ai nostri sensi sopraffini?"
+            "content": "Oh, andiamo... E se fosse solo che ho un fiuto eccezionale? Non ci ha pensato nessuno?"
         },
         {
             "id": 30,
             "model": "니코",
             "teller": "Niko",
             "title": "Officina Rosespanner",
-            "content": "Magari non usiamo le ampolle perché io e i miei compari siamo forti come dei tori?"
+            "content": "E se non usassimo le ampolle solo perché io e i miei ragazzi siamo fatti di un'altra pasta?"
         },
         {
             "id": 31,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Hm... Mi sono portato delle pillole della verità per simili evenienze. Ti crederò quando ripeterai la precedente affermazione dopo averla presa."
+            "content": "Mh... Ho portato una compressa della verità, giusto per evenienza. Ti crederò se dirai la stessa cosa dopo averla presa."
         },
         {
             "id": 32,
             "model": "니코",
             "teller": "Niko",
             "title": "Officina Rosespanner",
-            "content": "Pillole della verità? Quella cosetta rossa? E ti aspetti che ingurgiti ogni droga che mi offri...?"
+            "content": "Compressa della verità? Quella roba rossa? Come posso fidarmi a prendere un farmaco così sospetto...?"
         },
         {
             "id": 33,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "Temo che non abbiate alternative. Che strano, se fossi in voi prenderei la pillola... o mi inventeri disperatamente altre frottole."
+            "content": "Scusami, hai forse scelta? Che strano, se fossi in te prenderei la compressa... o proverei a inventare scuse più convincenti."
         },
         {
             "id": 34,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "State gettando via un'occasione regalata per dimostrarvi sopra ogni sospetto, si direbbe quasi che vogliate essere uccisi."
+            "content": "Stai sprecando così allegramente l'occasione di scagionarti dai sospetti... sembra quasi che tu stia implorando di essere ucciso."
         },
         {
             "id": 35,
             "model": "동랑",
             "teller": "Dongrang",
             "title": "Dipartimento Ricerca Alimentare della K Corp.",
-            "content": "...O avete deciso di ucciderci tutti e passarla liscia?"
+            "content": "...O hai deciso di ucciderci tutti per farla franca?"
         },
         {
             "id": 36,
@@ -214,19 +214,19 @@
         },
         {
             "id": 37,
-            "content": "Niko raised his weapon and pointed it at us."
+            "content": "Niko alzò la sua arma, puntandola verso di noi."
         },
         {
             "id": 38,
             "model": "히스클리프",
-            "content": "Showing your true selves now that you're cornered, eh?"
+            "content": "Vi mostrate per quello che siete adesso che avete le spalle al muro, eh?"
         },
         {
             "id": 39,
             "model": "니코",
             "teller": "Niko",
             "title": "Officina Rosespanner",
-            "content": "Vi ho persino insegnato il mio trucco per vincere alle slot machines, ed è così che mi ripagate il favore?"
+            "content": "Vi ho persino insegnato il mio trucco per vincere alle slot e mi ripagate così?"
         }
     ]
 }
