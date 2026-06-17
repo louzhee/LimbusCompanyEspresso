@@ -2,33 +2,33 @@
     "dataList": [
         {
             "id": 9007701,
-            "name": "A Crab-eat-crab World",
-            "desc": "At less than 70% PV, targets another ally with the least current PV.\nWhen attacking an ally, heals PV by the damage dealt.\nWhen defeating an ally, heals PV by double the damage dealt."
+            "name": "La Legge del più Granchio",
+            "desc": "A meno del 70% dei PV, bersaglia l'alleato con meno PV.\nQuando attacca un alleato, recupera PV in base al danno inflitto.\nQuando sconfigge un alleato, recupera PV pari al doppio del danno inflitto."
         },
         {
             "id": 9007801,
-            "name": "A Crab-eat-crab World",
-            "desc": "At less than 70% PV, targets another ally with the least current PV.\nWhen attacking an ally, heals PV by the damage dealt.\nWhen defeating an ally, heals PV by double the damage dealt."
+            "name": "La Legge del più Granchio",
+            "desc": "A meno del 70% dei PV, bersaglia l'alleato con meno PV.\nQuando attacca un alleato, recupera PV in base al danno inflitto.\nQuando sconfigge un alleato, recupera PV pari al doppio del danno inflitto."
         },
         {
             "id": 9007901,
-            "name": "A Crab-eat-crab World",
-            "desc": "At less than 70% PV, targets another ally with the least current PV.\nWhen attacking an ally, heals PV by the damage dealt.\nWhen defeating an ally, heals PV by double the damage dealt."
+            "name": "La Legge del più Granchio",
+            "desc": "A meno del 70% dei PV, bersaglia l'alleato con meno PV.\nQuando attacca un alleato, recupera PV in base al danno inflitto.\nQuando sconfigge un alleato, recupera PV pari al doppio del danno inflitto."
         },
         {
             "id": 9008001,
-            "name": "A Crab-eat-crab World",
-            "desc": "At less than 70% PV, targets another ally with the least current PV.\nWhen attacking an ally, heals PV by the damage dealt.\nWhen defeating an ally, heals PV by double the damage dealt."
+            "name": "La Legge del più Granchio",
+            "desc": "A meno del 70% dei PV, bersaglia l'alleato con meno PV.\nQuando attacca un alleato, recupera PV in base al danno inflitto.\nQuando sconfigge un alleato, recupera PV pari al doppio del danno inflitto."
         },
         {
             "id": 9008101,
-            "name": "A Crab-eat-crab World",
-            "desc": "At less than 70% PV, targets another ally with the least current PV.\nWhen attacking an ally, heals PV by the damage dealt.\nWhen defeating an ally, heals PV by double the damage dealt."
+            "name": "La Legge del più Granchio",
+            "desc": "A meno del 70% dei PV, bersaglia l'alleato con meno PV.\nQuando attacca un alleato, recupera PV in base al danno inflitto.\nQuando sconfigge un alleato, recupera PV pari al doppio del danno inflitto."
         },
         {
             "id": 9008102,
-            "name": "Molted Shell Shot",
-            "desc": "Encounter Start: Gain 1 Molted Shell Shot"
+            "name": "Proiettile Crostaceo",
+            "desc": "A inizio Incontro, ottiene 1 [Bullet_Crab]"
         }
     ]
 }

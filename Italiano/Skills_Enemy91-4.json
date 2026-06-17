@@ -11,14 +11,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                                    "desc": "[OnSucceedAttackHead] Infligge 3 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                                    "desc": "[OnSucceedAttackHead] Infligge 3 [Burst]"
                                 }
                             ]
                         }
@@ -31,16 +31,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Shell Tackle!",
+                    "name": "Colpo di Guscio!",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Rupture Count next turn"
+                                    "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst] il turno successivo"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Slash Fragility next turn"
+                                    "desc": "[OnSucceedAttack] Infligge 1 [SlashTakeDamageUp] il turno successivo"
                                 }
                             ]
                         }
@@ -59,21 +59,21 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                                    "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                                    "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                                    "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                                 }
                             ]
                         }
@@ -86,13 +86,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Foaming",
+                    "name": "Schiuma",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                                    "desc": "[OnSucceedAttack] Infligge +5 Conteggio [Burst]"
                                 }
                             ]
                         }
@@ -105,8 +105,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hermit Crab",
-                    "desc": "[StartBattle] When attacked while this unit has Shield PV, deal 4 Slash damage to the attacker",
+                    "name": "Paguroidea",
+                    "desc": "[StartBattle] Quando viene colpito mentre ha Scudo, infligge 4 danni Taglienti sull'attaccante",
                     "coinlist": [
                         {}
                     ]
@@ -124,14 +124,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                                    "desc": "[OnSucceedAttackHead] Infligge 3 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                                    "desc": "[OnSucceedAttackHead] Infligge 3 [Burst]"
                                 }
                             ]
                         }
@@ -144,16 +144,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Shell Tackle!",
+                    "name": "Colpo di Guscio!",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Rupture Count next turn"
+                                    "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst] il turno successivo"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Pierce Fragility next turn"
+                                    "desc": "[OnSucceedAttack] Infligge 1 [PenetrateTakeDamageUp] il turno successivo"
                                 }
                             ]
                         }
@@ -172,21 +172,21 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                                    "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                                    "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                                    "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                                 }
                             ]
                         }
@@ -199,13 +199,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Foaming",
+                    "name": "Schiuma",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                                    "desc": "[OnSucceedAttack] Infligge +5 Conteggio [Burst]"
                                 }
                             ]
                         }
@@ -218,8 +218,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hermit Crab",
-                    "desc": "[StartBattle] When attacked while this unit has Shield PV, deal 4 Pierce damage to the attacker",
+                    "name": "Paguroidea",
+                    "desc": "[StartBattle] Quando viene colpito mentre ha Scudo, infligge 4 danni Perforanti sull'attaccante",
                     "coinlist": [
                         {}
                     ]
@@ -237,14 +237,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                                    "desc": "[OnSucceedAttackHead] Infligge 3 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                                    "desc": "[OnSucceedAttackHead] Infligge 3 [Burst]"
                                 }
                             ]
                         }
@@ -257,16 +257,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Shell Tackle!",
+                    "name": "Colpo di Guscio!",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Rupture Count next turn"
+                                    "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst] il turno successivo"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Blunt Fragility next turn"
+                                    "desc": "[OnSucceedAttack] Infligge 1 [HitTakeDamageUp] il turno successivo"
                                 }
                             ]
                         }
@@ -285,21 +285,21 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                                    "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                                    "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                                    "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                                 }
                             ]
                         }
@@ -318,7 +318,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                                    "desc": "[OnSucceedAttack] Infligge +5 Conteggio [Burst]"
                                 }
                             ]
                         }
@@ -332,7 +332,7 @@
                 {
                     "level": 1,
                     "name": "Hermit Crab",
-                    "desc": "[StartBattle] When attacked while this unit has Shield PV, deal 4 Blunt damage to the attacker",
+                    "desc": "[StartBattle] Quando viene colpito mentre ha Scudo, infligge 4 danni Contundenti sull'attaccante",
                     "coinlist": [
                         {}
                     ]
@@ -344,13 +344,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Thwack",
+                    "name": "Sbam!",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                                    "desc": "[OnSucceedAttack] Infligge 5 [Burst]"
                                 }
                             ]
                         }
@@ -363,27 +363,27 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Thwack Thwack Thwack",
+                    "name": "Sbam, Sbam, Sbam!",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                                    "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                                    "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                                    "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                                 }
                             ]
                         }
@@ -396,20 +396,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Foaming",
+                    "name": "Schiuma",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                                    "desc": "[OnSucceedAttack] Infligge +5 Conteggio [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                                    "desc": "[OnSucceedAttack] Infligge +5 Conteggio [Burst]"
                                 }
                             ]
                         }
@@ -422,13 +422,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Delicious Crab Guts!",
-                    "desc": "[CantIdentify] \nDeal +15% damage per 5 Rupture on target\n[EndSkill] Lose PV by 8% of Max PV",
+                    "name": "Fegato di Granchio Delizioso!",
+                    "desc": "[CantIdentify]\nInfligge +15% danni per ogni 5 [Burst] sul bersaglio\n[EndSkill] Perde PV pari all'8% dei PV max",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 10 Rupture"
+                                    "desc": "[OnSucceedAttack] Infligge 10 [Burst]"
                                 }
                             ]
                         }
@@ -447,21 +447,21 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                                    "desc": "[OnSucceedAttackHead] Infligge 2 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                                    "desc": "[OnSucceedAttackHead] Infligge 2 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                                    "desc": "[OnSucceedAttackHead] Infligge 2 [Burst]"
                                 }
                             ]
                         }
@@ -474,13 +474,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Thwack",
+                    "name": "Sbam!",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                                    "desc": "[OnSucceedAttack] Infligge 5 [Burst]"
                                 }
                             ]
                         }
@@ -493,27 +493,27 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Thwack Thwack Thwack",
+                    "name": "Sbam, Sbam, Sbam!",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                                    "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                                    "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                                    "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                                 }
                             ]
                         }
@@ -526,20 +526,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Foaming",
+                    "name": "Schiuma",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                                    "desc": "[OnSucceedAttack] Infligge +5 Conteggio [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                                    "desc": "[OnSucceedAttack] Infligge +5 Conteggio [Burst]"
                                 }
                             ]
                         }
@@ -552,13 +552,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Shell Tackle!!!",
+                    "name": "Colpo di Guscio!!!",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Pierce Fragility next turn"
+                                    "desc": "[OnSucceedAttack] Infligge 3 Fragilità Perforante il turno successivo"
                                 }
                             ]
                         }
@@ -571,13 +571,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Firing Molted Shell Shot",
-                    "desc": "[CantIdentify]\nDeal +15% damage per 5 Rupture on target",
+                    "name": "Sparare il Proiettile Crostaceo",
+                    "desc": "[CantIdentify]\nInfligge +15% danni per ogni 5 [Burst] sul bersaglio",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Spend 1 Molted Shell Shot"
+                                    "desc": "[OnSucceedAttack] Spende 1 [Bullet_Crab]"
                                 }
                             ]
                         }
@@ -596,21 +596,21 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                                    "desc": "[OnSucceedAttackHead] Infligge 2 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                                    "desc": "[OnSucceedAttackHead] Infligge 2 [Burst]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                                    "desc": "[OnSucceedAttackHead] Infligge 2 [Burst]"
                                 }
                             ]
                         }
