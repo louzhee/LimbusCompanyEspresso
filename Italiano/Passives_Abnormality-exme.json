@@ -25,7 +25,12 @@
     {
       "id": 144803,
       "name": "Lanciando la Catena Ohra",
-      "desc": "Sul colpo, se il bersaglio è Stordito, infligge 2 [Binding] il turno successivo"
+      "desc": "Sul colpo, se il bersaglio è Stordito, infligge 2 [Binding] il turno successivo (una volta per turno)"
+    },
+    {
+      "id": 144805,
+      "name": "Undertake Orders",
+      "desc": "Gain [SlaveHunersPower] for this Encounter"
     },
     {
       "id": 145201,
@@ -36,6 +41,11 @@
       "id": 145202,
       "name": "Fissare i Chiodi",
       "desc": "Quando innesca [VibrationExplosion] su un nemico, alza la Soglia di Stordimento del bersaglio di (Stack [LensmanNail])"
+    },
+        {
+      "id": 145204,
+      "name": "Undertake Orders",
+      "desc": "Gain [LensmanPower] for this Encounter"
     },
     {
       "id": 145001,
@@ -97,7 +107,7 @@
     {
       "id": 146001,
       "name": "Distorsione di Tipo Ambientale: Laboratorio Fotografico",
-      "desc": "Quest'unità non può essere uccisa e subisce danni solo dalle Abilità che la bersagliano come bersaglio principale\n\nLa Velocità di quest'unità è fissata a 1\n\nA inizio turno, ottiene 3 [PhotoTransitionChoiCamera] dopo essere entrato nell'Incontro\n\nA fine turno, <color=#ff6000><mark color=#ff000040><b><u>se [PhotoTransitionChoiCamera] scende a 0, o se i PV di quest'unità scendono a 1</color></mark></b></u>, attiva i seguenti effetti nel turno successivo:\n- Rimuove sé stessa e Personale di Classe 2 della N Corp dall'Incontro\n- Fa tornare Im Gyeong-eop\n- Cambia il terreno"
+      "desc": "Quest'unità non può essere uccisa e subisce danni solo dalle Abilità che la bersagliano come bersaglio principale\n\nLa Velocità di quest'unità è fissata a 1\n\nA inizio turno, ottiene 3 [PhotoTransitionChoiCamera] dopo essere entrato nell'Incontro\n\n<color=#ff6000><mark color=#ff000040><b><u>Se i PV di questa unità arrivano a 1, o se [PhotoTransitionChoiCamera] arriva a 0 Stack</color></mark></b></u>, attiva i seguenti effetti:\n- Rimuove sé stessa e Personale di Classe 2 della N Corp dall'Incontro\n- Fa tornare Im Gyeong-eop\n- Cambia il terreno"
     },
     {
       "id": 146002,
