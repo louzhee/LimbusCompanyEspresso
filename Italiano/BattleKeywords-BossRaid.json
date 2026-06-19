@@ -141,19 +141,19 @@
     {
       "id": "FavorBuff5012HardOne",
       "name": "Tribolazione",
-      "desc": "- PV Max +25%\n- SP does not drop below 0\n- [Im Gyeong-eop Exclusive Effect] When using \"Sword of the Homeland [Sal] - Reassume Stance\" and \"Sword of the Homeland [Sal] - Swordhoning\", if this unit is at 5 or fewer Poise Count, gain +2 Poise Count",
+      "desc": "- PV Max +25%\n- I PS non scendono al di sotto di 0\n- [Effetto Esclusivo di Im Gyeong-eop] Quando usa \"Sword of the Homeland [Sal] - Reassume Stance\" e \"Sword of the Homeland [Sal] - Swordhoning\", se questa unità ha 5 o meno Conteggio Equilibrio, ottiene +2 Conteggio Equilibrio",
       "summary": ""
     },
     {
       "id": "FavorBuff5012HardTwo",
       "name": "Tribolazione",
-      "desc": "- PV Max +25%\n- SP does not drop below 0\n- [Im Gyeong-eop Exclusive Effect] When using \"Sword of the Homeland [Sal] - Reassume Stance\" and \"Sword of the Homeland [Sal] - Swordhoning\", if this unit is at 5 or fewer Poise Count, gain +2 Poise Count\n- [Phase 2 Exclusive Effect] When Swordplay of the Homeland [Sal] resets to 5 due to the effects of \"Swordplay of the Homeland [Sal] - Shift Battleform\" Passive, gain or lose 2 Swordplay of the Homeland [Sal] Stack based on Battleform of the Homeland on self\n· When in Battleform of the Homeland - Bearhunt: Gain Stack\n· When in Battleform of the Homeland - Tigerhunt: Lose Stack",
+      "desc": "- PV Max +25%\n- I PS non scendono al di sotto di 0\n- [Effetto Esclusivo di Im Gyeong-eop] Quando usa \"Sword of the Homeland [Sal] - Reassume Stance\" o \"Sword of the Homeland [Sal] - Swordhoning\", se questa unità ha 5 o meno Conteggio Equilibrio, ottiene +2 Conteggio Equilibrio\n- [Effetto Esclusivo della Fase 2] Quando Swordplay of the Homeland [Sal] torna a 5 per gli effetti della Passiva \"Swordplay of the Homeland [Sal] - Shift Battleform\", ottiene o perde 2 Stack di Swordplay of the Homeland [Sal] in base a Battleform of the Homeland su di sé\n· Quando è nella Battleform of the Homeland - Bearhunt: Ottiene Stack\n· Quando è nella Battleform of the Homeland - Tigerhunt: Perde Stack",
       "summary": ""
     },
     {
       "id": "FavorBuff5012AllyOneForUI",
-      "name": "Ombra della Riflessione [Bearhunt]",
-      "desc": "- The Identities' Attack Skills that are <color=#f8c200>Wrath Skills or Skills that inflict Burn or 'Unique Burn'</color> deal +25% damage (for E.G.O Skills, deal +100% damage instead)\n- When raising Stagger threshold via <color=#f8c200>Tremor Burst</color> against enemy Shield, deal <color=#f8c200>Wrath damage</color> instead\n· When dealing <color=#f8c200>Wrath damage</color> via the above effect against target, or when target takes <color=#f8c200>Burn or 'Unique Burn'</color> damage, target's <color=#f8c200>Shield</color> takes +50% damage (rounded down)\n- Upon Reson., gain 1 random least-owned E.G.O resource and 1 E.G.O resource of the Affinity used for Reson. (2 times per turn)",
+      "name": "Ombra della Riflessione [Caccia all'Orso]",
+      "desc": "- Le Abilità Attacco delle Identità con <color=#f8c200>Affinità Ira o che infliggono Bruciatura o 'Bruciatura Speciale'</color> infliggono +25% danni (le Abilità E.G.O infliggono invece +100% danni)\n- Quando la Soglia di Stordimento aumenta tramite <color=#f8c200>Scoppio Vibrazione</color> contro uno Scudo Nemico, infligge invece <color=#f8c200>danno Ira</color>\n· Quando si infligge <color=#f8c200>danno Ira</color> con l'effetto sovracitato al bersaglio, o quando il bersaglio subisce danno da <color=#f8c200>Bruciatura o 'Bruciatura Speciale'</color>, <color=#f8c200>lo Scudo</color> del bersaglio subisce +50% danni (arrotondato per difetto)\n- Quando si concatene una Risonanza, ottiene 1 risorsa E.G.O casuale tra quelle meno possedute e 1 risorsa E.G.O dell'Affinità della Risonanza (2 volte per turno)",
       "summary": ""
     },
     {
@@ -164,7 +164,7 @@
     {
       "id": "FavorBuff5012HardTwoForUI",
       "name": "Tribolazione",
-      "desc": "- <color=#ff0000>Max HP</color> +25%\n- SP does not drop below 0\n- [Im Gyeong-eop Exclusive Effect] When using \"Sword of the Homeland [Sal] - Reassume Stance\" or \"Sword of the Homeland [Sal] - Swordhoning\", if this unit is at <color=#ff0000>5- Poise Count</color>, gain +2 Poise Count\n- [Phase 2 Exclusive Effect] When Swordplay of the Homeland [Sal] <color=#ff0000>resets to 5</color> due to the effects of \"Swordplay of the Homeland [Sal] - Shift Battleform\" Passive, <color=#ff0000>gain or lose an additional 2</color> Swordplay of the Homeland [Sal] Stack based on Battleform of the Homeland on self\n· When in Battleform of the Homeland - Bearhunt: Gain Stack\n· When in Battleform of the Homeland - Tigerhunt: Lose Stack",
+      "desc": "- <color=#ff0000>PV Max</color> +25%\n- I PS non scendono al di sotto di 0\n- [Effetto Esclusivo di Im Gyeong-eop] Quando usa \"Sword of the Homeland [Sal] - Reassume Stance\" o \"Sword of the Homeland [Sal] - Swordhoning\", e questa unità è ha <color=#ff0000>5 o meno Conteggio Equilibrio</color>, ottiene +2 Conteggio Equilibrio\n- [Effetto Esclusivo della Fase 2] Quando Swordplay of the Homeland [Sal] <color=#ff0000>torna a 5</color> per gli effetti della Passiva \"Swordplay of the Homeland [Sal] - Shift Battleform\", <color=#ff0000>ottiene o perde 2 Stack in più</color> di Swordplay of the Homeland [Sal] in base a Battleform of the Homeland su di sé\n· Quando è nella Battleform of the Homeland - Bearhunt: Ottiene Stack\n· Quando è nella Battleform of the Homeland - Tigerhunt: Perde Stack",
       "summary": ""
     }
   ]
