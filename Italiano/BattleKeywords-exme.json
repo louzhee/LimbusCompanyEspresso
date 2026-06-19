@@ -2,51 +2,51 @@
   "dataList": [
     {
       "id": "ScratchesHurt",
-      "name": "Avulsion Wound",
-      "desc": "- Max Stack: 3\n- Turn Start: Gain 2 Bleed for every Stack\n• At max Stack, gain +1 Bleed Count\n- Turn End: Gain Bind equal to Stack next turn\n• At Max Stack, gain 1 Attack Power Down as well next turn\n- Turn End: If this unit did not take any Critical Hit this turn, lose 1 Stack",
+      "name": "Ferita da Avulsione",
+      "desc": "- Max Stack: 3\n- Inizio Turno: Ottiene 2 Sanguinamento per ogni Stack\n• A max Stack, ottiene +1 Conteggio Sanguinamento\n- Fine Turno: Ottiene Lentezza pari alle Stack il turno successivo\n• A Max Stack, ottiene anche 1 Potere Attacco Diminuito il turno successivo\n- Fine Turno: Se questa unità non ha subito alcun Colpo Critico in questo turno, perde 1 Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TiedRope",
-      "name": "Trussed",
-      "desc": "- Base Stack: 3\n- Fix this unit's Speed to 1\n- Fix this unit's Base Skills' Coin Power to 0\n- Turn End: Lose 1 Stack\n- If the \"Prisoner Transport Arrangements\" buff on the inflicter expires, this effect expires as well",
+      "name": "Incatenamento",
+      "desc": "- Stack Base: 3\n- Fissa la Velocità di questa unità a 1\n- Fissa il Potere Moneta delle Abilità Base di questà unità a 0\n- Fine Turno: Perde 1 Stack\n- Se l'effetto \"Ordini di Trasporto del Prigioniero\" termina su chi l'ha inflitto, anche questo effetto scade",
       "summary": "",
       "undefined": "-",
       "flavor": "Look how the baseborn hunt the other baseborn to serve them up to the powers that be."
     },
     {
       "id": "TiedWithRope",
-      "name": "Prisoner Transport Arrangements",
-      "desc": "- Base Stack: 1\n- Fix this unit's Speed to 1\n- If the Trussed effect this unit inflicted on target expires, or if this unit is defeated or Staggered, lose this effect\n- If the target this unit inflicted \"Trussed\" on is defeated this turn, lose the \"Prisoner Transport Arrangements\" effect",
+      "name": "Ordini di Trasporto del Prigioniero",
+      "desc": "- Stack Base: 1\n- Fissa la Velocità di questa unità a 1\n- Questo effetto scade se \"Incatenamento\" inflitto da questa unità termina, o se questa unità viene sconfitta o Stordita\n- Se il bersaglio su cui questa unità ha inflitto \"Incatenamento\" viene sconfitto questo turno, perde \"Ordini di Trasporto del Prigioniero\"",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RegretSCorp",
-      "name": "Headsplitting Memory",
-      "desc": "- Max Stack: 1\n- Turn End: Gain 1 Bind next turn\n- Turn End: Gain (current turn count / 4) Clash Power Up (rounded down, max 3)\n- Expires at Turn End",
+      "name": "Ricordo Spaccacranio",
+      "desc": "- Max Stack: 1\n- Fine Turno: Ottiene 1 Lentezza il turno successivo\n- Fine Turno: Ottiene (conteggio turni corrente / 4) Clash Power Up (rounded down, max 3)\n- Expires at Fine Turno",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TakePicture",
       "name": "Intelligence Gathering",
-      "desc": "- When using a Skill of identical rank to the Skill photographed, Clash Power -5\n(※ Defense Skills and E.G.O Skills are counted separately)\n- Expires at Turn End",
+      "desc": "- When using a Skill of identical rank to the Skill photographed, Clash Power -5\n(※ Defense Skills and E.G.O Skills are counted separately)\n- Expires at Fine Turno",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "LensmanNail",
       "name": "Pinning Nail",
-      "desc": "- Max Stack: 10\n- Turn Start: Gain 1 Offense Level Down for every 2 Bind (max 3)\n- Turn Start: Gain Bleed equal to Stack\n- On Tremor Burst, gain Bleed Count equal to Stack (once per turn)\n- Turn End: Gain Bind equal to Stack next turn (max 6), then lose 1 Stack",
+      "desc": "- Max Stack: 10\n- Turn Start: Gain 1 Offense Level Down for every 2 Bind (max 3)\n- Turn Start: Gain Bleed equal to Stack\n- On Tremor Burst, gain Bleed Count equal to Stack (once per turn)\n- Fine Turno: Gain Bind equal to Stack next turn (max 6), then lose 1 Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "PhotoTransition",
       "name": "Memory Transition",
-      "desc": "- Base Stack: 3\n- Turn End: Lose 1 Stack. If this unit has 0 Stacks of this effect at Turn Start, certain units and effects transform\n(when Staggered, recover from Stagger)\n\n- Once the above effect activates, reset Memory Transition Stack to Base Stack",
+      "desc": "- Base Stack: 3\n- Fine Turno: Lose 1 Stack. If this unit has 0 Stacks of this effect at Turn Start, certain units and effects transform\n(when Staggered, recover from Stagger)\n\n- Once the above effect activates, reset Memory Transition Stack to Base Stack",
       "summary": "",
       "undefined": "-"
     },
@@ -61,7 +61,7 @@
     {
       "id": "WindBlade",
       "name": "Mook Workshop - Ye [銳] Type II Bladedraw / Thrust Force: Dokkaebi Fire",
-      "desc": "- Max Stack: 20\n- Deal +1% Slash damage for every Stack (max 10%)\n- Defense Skills lose 1 Clash Power for every 2 Stacks (max 5)\n- Turn End: Gain 1 Haste next turn for every 5 Stacks (max 3)",
+      "desc": "- Max Stack: 20\n- Deal +1% Slash damage for every Stack (max 10%)\n- Defense Skills lose 1 Clash Power for every 2 Stacks (max 5)\n- Fine Turno: Gain 1 Haste next turn for every 5 Stacks (max 3)",
       "summary": "",
       "undefined": "-",
       "flavor": "\"Hm? You like that model? Ooh, new girl's got an eye for quality! Excuse me~! Can we try this model? Oh, c'mon, relax! I know the deal—'You break it, you buy it.' Thanks! Hehe... See? Told ya I'm a regular here~ Okay, so the sword and the scabbard come as a set, so grab 'em both and feel the weight. How's that? Not as heavy as they look, huh?\"\n\"Oho...\"\n\"So there's this particle? Powder? Thingy in that scabbard under patent by Mook Workshop! Every time you sheathe and unsheathe the sword, for a brief moment, its blade comes out way sharper and lighter! And that model you're holding happens to focus on the <i>sharpness</i>! So it's like, *Ding!* and voila, you get a nice buff on your weapon!\"\n\"I think it's one of the Ye [銳] series models—that's Mook Workshop's classic lineup, by the way. Check out the finish here, it's... What the heck?! Hey, this is the Ye [銳] 'Type II' model that went out of production! You know what, this stuff really isn't easy to come by—we're lucky we found one here!\"\n\"If it's such a rarity, Lady Ezra, perhaps you ought to wield it instead...\"\n\"Hnngh... No, it's fine... Well, I can see it's literally made for you! And it'll work real nice with those boosters on your new prosthetic arms. It'll need some getting used to, but you'll be one heck of a fighter once you get the hang of it! Anyway, consider it a gift from yours truly—you're officially one of us now. Officially our new girl! No more temp ID.\"\n\"Then... I shall accept with gratitude.\"\n\"By the way... Remember that 'classic lineup' part? It's super durable, but there <i>are</i> delicate parts that you should watch out not to break—okay, you know what, let 'em break if it really comes to that. Just...\"\n\"Just don't die on us.\"\n\"... I shall take your words to heart.\""
@@ -97,14 +97,14 @@
     {
       "id": "Aengdu_Lowmorale",
       "name": "Resentment",
-      "desc": "- Turn Start: Gain 1 Attack Power Up and 1 Defense Power Down\n- Turn End: Gain 2 Haste next turn",
+      "desc": "- Turn Start: Gain 1 Attack Power Up and 1 Defense Power Down\n- Fine Turno: Gain 2 Haste next turn",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Aengdu_Panic",
       "name": "Resentment",
-      "desc": "- Turn Start: Gain 2 Attack Power Up and 2 Defense Power Down\n- Turn End: Gain 2 Haste next turn",
+      "desc": "- Turn Start: Gain 2 Attack Power Up and 2 Defense Power Down\n- Fine Turno: Gain 2 Haste next turn",
       "summary": "",
       "undefined": "-"
     },
@@ -162,21 +162,21 @@
     {
       "id": "ChoiSwordsmanshipShield",
       "name": "Dujeong Brigandine [Sal]",
-      "desc": "- Max Stack: 5\n- When gaining this effect, gain Shield equal to 10% of this unit's max HP for every Stack (min 1, rounded down; Shield gained due to this effect does not expire at Turn End)\n- Combat Start: Gain 1 Defense Level Down for every 2 Stack (rounded up)\n- Deal +(Stack x 2.5)% Slash damage\n- <color=#ff6000><mark color=#ff000040><b><u>Lose 1 Stack when taking Shield damage equal to 10% of this unit's max HP</color></mark></b></u>",
+      "desc": "- Max Stack: 5\n- When gaining this effect, gain Shield equal to 10% of this unit's max HP for every Stack (min 1, rounded down; Shield gained due to this effect does not expire at Fine Turno)\n- Combat Start: Gain 1 Defense Level Down for every 2 Stack (rounded up)\n- Deal +(Stack x 2.5)% Slash damage\n- <color=#ff6000><mark color=#ff000040><b><u>Lose 1 Stack when taking Shield damage equal to 10% of this unit's max HP</color></mark></b></u>",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "PhotoTransitionChoi",
       "name": "Memory Transition",
-      "desc": "- Base Stack: 3\n- Turn End: Lose 1 Stack\n- <color=#ff6000><mark color=#ff000040><b><u>Turn Start: At 0 Stack, Retreat and transition into a different location</color></mark></b></u>\n- When Returning to the field, based on current Battleform of the Homeland, gain or lose (# of turns spent in Retreat) Swordplay of the Homeland [Sal] Stack\n· When in Battleform of the Homeland - Bearhunt: Gain Stack\n· When in Battleform of the Homeland - Tigerhunt: Lose Stack",
+      "desc": "- Base Stack: 3\n- Fine Turno: Lose 1 Stack\n- <color=#ff6000><mark color=#ff000040><b><u>Turn Start: At 0 Stack, Retreat and transition into a different location</color></mark></b></u>\n- When Returning to the field, based on current Battleform of the Homeland, gain or lose (# of turns spent in Retreat) Swordplay of the Homeland [Sal] Stack\n· When in Battleform of the Homeland - Bearhunt: Gain Stack\n· When in Battleform of the Homeland - Tigerhunt: Lose Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "PhotoTransitionChoiCamera",
       "name": "Memory Transition",
-      "desc": "- Base Stack: 3\n- Turn End: Lose 1 Stack\n- <color=#ff6000><mark color=#ff000040><b><u>Turn Start: At 0 Stack, remove this unit and transition to a different location</color></mark></b></u>\n- When Returning to the field, based on Im Gyeong-eop's current Battleform of the Homeland, Im Gyeong-eop gains or loses (# of turns Im Gyeong-eop spent in Retreat) Swordplay of the Homeland [Sal] Stack \n· When in Battleform of the Homeland - Bearhunt: Gain Stack\n· When in Battleform of the Homeland - Tigerhunt: Lose Stack",
+      "desc": "- Base Stack: 3\n- Fine Turno: Lose 1 Stack\n- <color=#ff6000><mark color=#ff000040><b><u>Turn Start: At 0 Stack, remove this unit and transition to a different location</color></mark></b></u>\n- When Returning to the field, based on Im Gyeong-eop's current Battleform of the Homeland, Im Gyeong-eop gains or loses (# of turns Im Gyeong-eop spent in Retreat) Swordplay of the Homeland [Sal] Stack \n· When in Battleform of the Homeland - Bearhunt: Gain Stack\n· When in Battleform of the Homeland - Tigerhunt: Lose Stack",
       "summary": "",
       "undefined": "-"
     },
