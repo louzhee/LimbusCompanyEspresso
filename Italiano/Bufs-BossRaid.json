@@ -122,49 +122,49 @@
     },
     {
       "id": "FavorBuff5012AllyOne",
-      "name": "Shade of Reflection [Bearhunt]",
-      "desc": "- The Identities' Attack Skills that are Wrath Skills or Skills that inflict Burn or 'Unique Burn' deal +25% damage (for E.G.O Skills, deal +100% damage instead)\n- When raising Stagger threshold via Tremor Burst against enemy Shield, deal Wrath damage instead\n· When dealing Wrath damage via the above effect, deal +50% damage against Shield (rounded down)\n- Upon Reson., gain 1 random least-owned E.G.O resource and 1 E.G.O resource of the Affinity used for Reson. (2 times per turn)",
-      "summary": "Burn Skills and 'Unique Burn' Skills deal more damage; raising Stagger threshold deals Wrath damage"
+      "name": "Ombra della Riflessione [Caccia all'Orso]",
+      "desc": "- Le Abilità Attacco delle Identità con Affinità Ira o che infliggono Bruciatura o 'Bruciatura Speciale' infliggono +25% danni (le Abilità E.G.O infliggono invece +100% danni)\n- Quando la Soglia di Stordimento aumenta tramite Scoppio Vibrazione contro uno Scudo Nemico, infligge invece danno Ira\n· Quando si infligge danno Ira con l'effetto sovracitato, infligge +50% danni agli Scudi (arrotondato per difetto)\n- Quando si concatene una Risonanza, ottiene 1 risorsa E.G.O casuale tra quelle meno possedute e 1 risorsa E.G.O dell'Affinità della Risonanza (2 volte per turno)",
+      "summary": "Le Abilità Bruciatura e 'Bruciatura Speciale' infliggono più danno; aumentare la Soglia di Stordimento infligge danno Ira"
     },
     {
       "id": "FavorBuff5012EnemyOne",
-      "name": "Shade of Reflection [Bearhunt]",
-      "desc": "- Shield takes +50% damage from Burn and 'Unique Burn' (rounded down)",
+      "name": "Ombra della Riflessione [Caccia all'Orso]",
+      "desc": "- Lo Scudo subisce +50% danni da Bruciatura e 'Bruciatura Speciale' (arrotondato per difetto)",
       "summary": ""
     },
     {
       "id": "FavorBuff5012AllyTwo",
-      "name": "Shade of Reflection [Tigerhunt]",
-      "desc": "- The Identities' Attack Skills that are Pride Skills, or Attack Skills that apply, gain, or consume Poise deal +25% damage (for E.G.O Skills, deal +100% damage instead)\n- When using Pride Skills, gain (Skill's Rank) Poise Potency and +2 Poise Count (2 times per turn per Sinner; E.G.O Skills are considered Skill 3 for this purpose)\n- For Blade Lineage Identities, apply the following effects:\n· Remove this unit's first Stagger Threshold\n· Final Power +2\n· Deal +30% damage to and take -15% damage from enemies",
-      "summary": "Poise Skills and Pride Skills deal more damage; gain Poise when using Pride Skills"
+      "name": "Ombra della Riflessione [Caccia alla Tigre]",
+      "desc": "- Le Abilità Attacco delle Identità con Affinità Superbia o che applicano, fanno ottenere o consumano Equilibrio infliggono +25% danni (le Abilità E.G.O infliggono invece +100% danni)\n- Quando si usano Abilità Superbia, ottiene (Rango Abilità) Potenza Equilibrio e +2 Conteggio Equilibrio (2 volte per turno per Peccatore; le Abilità E.G.O vengono considerate come Abilità 3)\n- Applica i seguenti effetti alle Identità dei Discendenti della Spada:\n· La prima Soglia di Stordimento viene rimossa\n· Potere Finale +2\n· Infligge +30% danni e subisce -15% danni dai nemici",
+      "summary": "Le Abilità Equilibrio e Superbia infliggono più danni; ottiene Equilibrio quando usa le Abilità Superbia"
     },
     {
       "id": "FavorBuff5012HardOne",
-      "name": "Tribulation",
-      "desc": "- Max HP +25%\n- SP does not drop below 0\n- [Im Gyeong-eop Exclusive Effect] When using \"Sword of the Homeland [Sal] - Reassume Stance\" and \"Sword of the Homeland [Sal] - Swordhoning\", if this unit is at 5 or fewer Poise Count, gain +2 Poise Count",
+      "name": "Tribolazione",
+      "desc": "- PV Max +25%\n- I PS non scendono al di sotto di 0\n- [Effetto Esclusivo di Im Gyeong-eop] Quando usa \"Sword of the Homeland [Sal] - Reassume Stance\" e \"Sword of the Homeland [Sal] - Swordhoning\", se questa unità ha 5 o meno Conteggio Equilibrio, ottiene +2 Conteggio Equilibrio",
       "summary": ""
     },
     {
       "id": "FavorBuff5012HardTwo",
-      "name": "Tribulation",
-      "desc": "- Max HP +25%\n- SP does not drop below 0\n- [Im Gyeong-eop Exclusive Effect] When using \"Sword of the Homeland [Sal] - Reassume Stance\" and \"Sword of the Homeland [Sal] - Swordhoning\", if this unit is at 5 or fewer Poise Count, gain +2 Poise Count\n- [Phase 2 Exclusive Effect] When Swordplay of the Homeland [Sal] resets to 5 due to the effects of \"Swordplay of the Homeland [Sal] - Shift Battleform\" Passive, gain or lose 2 Swordplay of the Homeland [Sal] Stack based on Battleform of the Homeland on self\n· When in Battleform of the Homeland - Bearhunt: Gain Stack\n· When in Battleform of the Homeland - Tigerhunt: Lose Stack",
+      "name": "Tribolazione",
+      "desc": "- PV Max +25%\n- I PS non scendono al di sotto di 0\n- [Effetto Esclusivo di Im Gyeong-eop] Quando usa \"Sword of the Homeland [Sal] - Reassume Stance\" o \"Sword of the Homeland [Sal] - Swordhoning\", se questa unità ha 5 o meno Conteggio Equilibrio, ottiene +2 Conteggio Equilibrio\n- [Effetto Esclusivo della Fase 2] Quando Swordplay of the Homeland [Sal] torna a 5 per gli effetti della Passiva \"Swordplay of the Homeland [Sal] - Shift Battleform\", ottiene o perde 2 Stack di Swordplay of the Homeland [Sal] in base a Battleform of the Homeland su di sé\n· Quando è nella Battleform of the Homeland - Bearhunt: Ottiene Stack\n· Quando è nella Battleform of the Homeland - Tigerhunt: Perde Stack",
       "summary": ""
     },
     {
       "id": "FavorBuff5012AllyOneForUI",
-      "name": "Shade of Reflection [Bearhunt]",
-      "desc": "- The Identities' Attack Skills that are <color=#f8c200>Wrath Skills or Skills that inflict Burn or 'Unique Burn'</color> deal +25% damage (for E.G.O Skills, deal +100% damage instead)\n- When raising Stagger threshold via <color=#f8c200>Tremor Burst</color> against enemy Shield, deal <color=#f8c200>Wrath damage</color> instead\n· When dealing <color=#f8c200>Wrath damage</color> via the above effect against target, or when target takes <color=#f8c200>Burn or 'Unique Burn'</color> damage, target's <color=#f8c200>Shield</color> takes +50% damage (rounded down)\n- Upon Reson., gain 1 random least-owned E.G.O resource and 1 E.G.O resource of the Affinity used for Reson. (2 times per turn)",
+      "name": "Ombra della Riflessione [Caccia all'Orso]",
+      "desc": "- Le Abilità Attacco delle Identità con <color=#f8c200>Affinità Ira o che infliggono Bruciatura o 'Bruciatura Speciale'</color> infliggono +25% danni (le Abilità E.G.O infliggono invece +100% danni)\n- Quando la Soglia di Stordimento aumenta tramite <color=#f8c200>Scoppio Vibrazione</color> contro uno Scudo Nemico, infligge invece <color=#f8c200>danno Ira</color>\n· Quando si infligge <color=#f8c200>danno Ira</color> con l'effetto sovracitato al bersaglio, o quando il bersaglio subisce danno da <color=#f8c200>Bruciatura o 'Bruciatura Speciale'</color>, <color=#f8c200>lo Scudo</color> del bersaglio subisce +50% danni (arrotondato per difetto)\n- Quando si concatene una Risonanza, ottiene 1 risorsa E.G.O casuale tra quelle meno possedute e 1 risorsa E.G.O dell'Affinità della Risonanza (2 volte per turno)",
       "summary": ""
     },
     {
       "id": "FavorBuff5012AllyTwoForUI",
-      "name": "Shade of Reflection [Tigerhunt]",
-      "desc": "- The Identities' <color=#f8c200>Attack Skills that are Pride Skills, or Attack Skills that apply, gain, or consume Poise</color> deal +25% damage (for E.G.O Skills, deal +100% damage instead)\n- When using Pride Skills, <color=#f8c200>gain (Skill's Rank) Poise Potency</color> and +2 Poise Count (2 times per turn per Sinner; E.G.O Skills are considered Skill 3 for this purpose)\n- For <color=#f8c200>Blade Lineage Identities</color>, apply the following effects:\n· Remove this unit's first Stagger Threshold\n· Final Power +2\n· Deal +30% damage to and take -15% damage from enemies"
+      "name": "Ombra della Riflessione [Caccia alla Tigre]",
+      "desc": "- Le <color=#f8c200>Abilità Attacco delle Identità con Affinità Superbia o che applicano, fanno ottenere o consumano Equilibrio</color> infliggono +25% danni (le Abilità E.G.O infliggono invece +100% danni)\n- Quando si usano Abilità Superbia, <color=#f8c200>ottiene (Rango Abilità) Potenza Equilibrio</color> e +2 Conteggio Equilibrio (2 volte per turno per Peccatore; le Abilità E.G.O vengono considerate come Abilità 3)\n- Applica i seguenti effetti alle <color=#f8c200>Identità dei Discendenti della Spada</color>:\n· La prima Soglia di Stordimento viene rimossa\n· Potere Finale +2\n· Infligge +30% danni e subisce -15% danni dai nemici"
     },
     {
       "id": "FavorBuff5012HardTwoForUI",
-      "name": "Tribulation",
-      "desc": "- <color=#ff0000>Max HP</color> +25%\n- SP does not drop below 0\n- [Im Gyeong-eop Exclusive Effect] When using \"Sword of the Homeland [Sal] - Reassume Stance\" and \"Sword of the Homeland [Sal] - Swordhoning\", if this unit is at <color=#ff0000>5 or fewer Poise Count</color>, gain +2 Poise Count\n- [Phase 2 Exclusive Effect] When Swordplay of the Homeland [Sal] <color=#ff0000>resets to 5</color> due to the effects of \"Swordplay of the Homeland [Sal] - Shift Battleform\" Passive, <color=#ff0000>gain or lose an additional 2</color> Swordplay of the Homeland [Sal] Stack based on Battleform of the Homeland on self\n· When in Battleform of the Homeland - Bearhunt: Gain Stack\n· When in Battleform of the Homeland - Tigerhunt: Lose Stack",
+      "name": "Tribolazione",
+      "desc": "- <color=#ff0000>PV Max</color> +25%\n- I PS non scendono al di sotto di 0\n- [Effetto Esclusivo di Im Gyeong-eop] Quando usa \"Sword of the Homeland [Sal] - Reassume Stance\" o \"Sword of the Homeland [Sal] - Swordhoning\", e questa unità è ha <color=#ff0000>5 o meno Conteggio Equilibrio</color>, ottiene +2 Conteggio Equilibrio\n- [Effetto Esclusivo della Fase 2] Quando Swordplay of the Homeland [Sal] <color=#ff0000>torna a 5</color> per gli effetti della Passiva \"Swordplay of the Homeland [Sal] - Shift Battleform\", <color=#ff0000>ottiene o perde 2 Stack in più</color> di Swordplay of the Homeland [Sal] in base a Battleform of the Homeland su di sé\n· Quando è nella Battleform of the Homeland - Bearhunt: Ottiene Stack\n· Quando è nella Battleform of the Homeland - Tigerhunt: Perde Stack",
       "summary": ""
     }
   ]
