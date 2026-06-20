@@ -4150,7 +4150,7 @@
                   "desc": "[OnSucceedAttack] Se il bersaglio ha 3+ [Binding], infligge +20% danni"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Se quest'Abilità fa vacillare o uccide un bersaglio, quest'unità cura sé stessa e l'alleato con i PV minori del 10% dei PV Max"
+                  "desc": "[OnSucceedAttack] Se quest'Abilità Stordisce o uccide un bersaglio, quest'unità cura sé stessa e l'alleato con i PV minori del 10% dei PV Max"
                 }
               ]
             }
@@ -4168,7 +4168,7 @@
                   "desc": "[OnSucceedAttack] Se il bersaglio ha 3+ [Binding], infligge +40% danni"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Se quest'Abilità fa vacillare o uccide un bersaglio, quest'unità cura sé stessa e l'alleato con i PV minori del 10% dei PV Max"
+                  "desc": "[OnSucceedAttack] Se quest'Abilità Stordisce o uccide un bersaglio, quest'unità cura sé stessa e l'alleato con i PV minori del 10% dei PV Max"
                 }
               ]
             }
@@ -4206,7 +4206,7 @@
                   "desc": "[OnSucceedAttack] Se il bersaglio ha 3+ [Binding], infligge +30% danni"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Se quest'Abilità fa vacillare o uccide un bersaglio, quest'unità cura sé stessa e l'alleato con i PV minori del 10% dei PV Max"
+                  "desc": "[OnSucceedAttack] Se quest'Abilità Stordisce o uccide un bersaglio, quest'unità cura sé stessa e l'alleato con i PV minori del 10% dei PV Max"
                 }
               ]
             }
@@ -4224,7 +4224,7 @@
                   "desc": "[OnSucceedAttack] Se il bersaglio ha 3+ [Binding], infligge +50% danni"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Se quest'Abilità fa vacillare o uccide un bersaglio, quest'unità cura sé stessa e l'alleato con i PV minori del 10% dei PV Max"
+                  "desc": "[OnSucceedAttack] Se quest'Abilità Stordisce o uccide un bersaglio, quest'unità cura sé stessa e l'alleato con i PV minori del 10% dei PV Max"
                 }
               ]
             }
