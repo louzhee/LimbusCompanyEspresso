@@ -8,7 +8,7 @@
     {
       "id": 9014201,
       "name": "Prestito Temporale Di Emergenza",
-      "desc": "A Inizio Turno: Se questa unità vacilla, ottiene +3 conteggio di [TimeRentalTwo]"
+      "desc": "A Inizio Turno: Se questa unità è Stordita, ottiene +3 conteggio di [TimeRentalTwo]"
     },
     {
       "id": 9014202,
