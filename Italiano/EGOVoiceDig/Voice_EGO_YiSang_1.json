@@ -3,7 +3,7 @@
     {
       "id": "battle_awaken_20101_1",
       "desc": "Attivazione E.G.O",
-      "dlg": "Mi sapresti descrivere l'ideale?"
+      "dlg": "Dimmi cosa pensi che sia l'ideale"
     },
     {
       "id": "battle_upgrade_20101_1",
@@ -23,17 +23,17 @@
     {
       "id": "battle_erosion_20102_1",
       "desc": "Corrosione E.G.O",
-      "dlg": "Ridurrò… tutto in cenere."
+      "dlg": "Ridurrà… tutto in cenere."
     },
     {
       "id": "battle_awaken_20103_1",
       "desc": "Attivazione E.G.O",
-      "dlg": "Se vuoi benedizioni—prega sinceramente."
+      "dlg": "Se cerchi la buona sorte, prega con la massima sincerità."
     },
     {
       "id": "battle_erosion_20103_1",
       "desc": "Corrosione E.G.O",
-      "dlg": "Dimmi il tuo desiderio… Tutta la verità…"
+      "dlg": "Rivelami il tuo desiderio… Dai voce al tuo ardore…"
     },
     {
       "id": "battle_awaken_20104_1",
@@ -43,7 +43,7 @@
     {
       "id": "battle_erosion_20104_1",
       "desc": "Corrosione E.G.O",
-      "dlg": "Invero, il vicolo è aperto."
+      "dlg": "Di fatti, il vicolo è aperto."
     },
     {
       "id": "battle_awaken_20105_1",
@@ -53,7 +53,7 @@
     {
       "id": "battle_erosion_20105_1",
       "desc": "Corrosione E.G.O",
-      "dlg": "L'aria è così fredda... e le goccie diventano sempre più grandi."
+      "dlg": "L'aria è così fredda... e le gocce diventano sempre più grandi."
     },
     {
       "id": "battle_awaken_20106_1",
