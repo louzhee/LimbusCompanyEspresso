@@ -2,32 +2,32 @@
   "dataList": [
     {
       "id": 90077,
-      "name": "Granchio Ciarpame Tagliente",
+      "name": "Pagumiera Tagliente",
       "desc": "Unità Nemica"
     },
     {
       "id": 90078,
-      "name": "Granchio Ciarpame Appuntito",
+      "name": "Pagumiera Appuntita",
       "desc": "Unità Nemica"
     },
     {
       "id": 90079,
-      "name": "Granchio Ciarpame Coriaceo",
+      "name": "Pagumiera Resistente",
       "desc": "Unità Nemica"
     },
     {
       "id": 90080,
-      "name": "Granchio Cannoniere",
+      "name": "Paguro Cannoniere",
       "desc": "Unità Nemica"
     },
     {
       "id": 90081,
-      "name": "Granchio Lanciere-Artigliere",
+      "name": "Paguro Baionetta-Artigliere",
       "desc": "Unità Nemica"
     },
     {
       "id": 8063,
-      "name": "Re Granchio Ciarpame",
+      "name": "Pagumiera Reale",
       "desc": "Nucleo"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "id": 8070,
-      "name": "Granchio Ciarpame Tagliente",
+      "name": "Pagumiera Tagliente",
       "desc": "Nucleo"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "id": 8071,
-      "name": "Granchio Ciarpame Appuntito",
+      "name": "Pagumiera Appuntita",
       "desc": "Nucleo"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "id": 8072,
-      "name": "Granchio Ciarpame Coriaceo",
+      "name": "Pagumiera Resistente",
       "desc": "Nucleo"
     },
     {
@@ -72,7 +72,7 @@
     },
     {
       "id": 8073,
-      "name": "Granchio Cannoniere",
+      "name": "Paguro Cannoniere",
       "desc": "Nucleo"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "id": 8074,
-      "name": "Granchio Lanciere-Artigliere",
+      "name": "Paguro Baionetta-Artigliere",
       "desc": "Nucleo"
     },
     {
