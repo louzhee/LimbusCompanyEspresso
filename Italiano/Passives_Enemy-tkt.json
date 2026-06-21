@@ -8,7 +8,7 @@
     {
       "id": 9014201,
       "name": "Prestito Temporale Di Emergenza",
-      "desc": "A Inizio Turno: Se questa unità è Stordita, ottiene +3 conteggio di [TimeRentalTwo]"
+      "desc": "A Inizio Turno: Se questa unità è Stordita, ottiene +3 Conteggio [TimeRentalTwo]"
     },
     {
       "id": 9014202,
@@ -23,12 +23,12 @@
     {
       "id": 9014204,
       "name": "Pronto Al Prestito Temporale",
-      "desc": "A Inizio Turno: Se questa unità non possiede [TimeRentalTwo], ottiene +5 Conteggio di Vibrazione"
+      "desc": "A Inizio Turno: Se questa unità non possiede [TimeRentalTwo], ottiene +5 Conteggio Vibrazione"
     },
     {
       "id": 9014301,
       "name": "Momento D'Oro II",
-      "desc": "A Fine Turno, Se i PV sono fra il 10% e il 20%, recupera istanteamente fino all'80% dei PV massimi, e si riprende dallo Stordimento. (max 1 volta)"
+      "desc": "A Fine Turno, Se i PV sono fra il 10% e il 20%, recupera istanteamente fino all'80% dei PV massimi e si riprende dallo Stordimento. (max 1 volta)"
     },
     {
       "id": 9014302,
@@ -38,7 +38,7 @@
     {
       "id": 9014303,
       "name": "Prestito Temporale",
-      "desc": "A Inzio Incontro: Ottiene +4 Conteggio di [TimeRentalTwo]"
+      "desc": "A Inzio Incontro: Ottiene +4 Conteggio [TimeRentalTwo]"
     }
   ]
 }

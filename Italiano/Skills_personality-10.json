@@ -2375,7 +2375,7 @@
         {
           "level": 4,
           "name": "Deviazione [回]",
-          "desc": "[StartBattle] Ottiene uno Scudo pari alle Stack di [LittleFingerID] (una volta per turno)\n[StartBattle] Ottiene +4 Conteggio di [Breath] (una volta per turno)\n<style=\"highlight\">[OnSucceedEvade] Ottiene 1 [CriticalDamageUp] il turno successivo (max 2 volte per turno)</style>",
+          "desc": "[StartBattle] Ottiene uno Scudo pari alle Stack di [LittleFingerID] (una volta per turno)\n[StartBattle] Ottiene +4 Conteggio [Breath] (una volta per turno)\n<style=\"highlight\">[OnSucceedEvade] Ottiene 1 [CriticalDamageUp] il turno successivo (max 2 volte per turno)</style>",
           "coinlist": [
             {
               "coindescs": [
