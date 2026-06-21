@@ -43,12 +43,12 @@
     {
       "id": "battle_awaken_20605_1",
       "desc": "Attivazione E.G.O",
-      "dlg": "Brucierà~ Non andrà via con quei i tagli."
+      "dlg": "Brucierà~ Non andrà via una volta che ti avrò tagliato."
     },
     {
       "id": "battle_erosion_20605_1",
       "desc": "Corrosione E.G.O",
-      "dlg": "Contengo lo sporco... per trasformarlo in qualcosa di utile."
+      "dlg": "Lo sporco si annida in me... per rinascere in qualcosa di utile."
     },
     {
       "id": "battle_awaken_20606_1",
