@@ -433,7 +433,7 @@
     },
     {
       "id": 9256,
-      "name": "Occhio Divinatorio Imperfetto",
+      "name": "Occhio della Precognizione Imperfetto",
       "desc": "Abilità a Monetà Positiva degli alleati: Ottengono Potere Moneta +(8 / n° di Monete) (viene ottenuto almeno 1 Potere Moneta, Abilità E.G.O incluse; arrotondato per difetto)\n\nAbilità a Moneta Negativa degli alleati: Ottengono Potere Finale +(8 / n° di Monete) (viene ottenuto almeno 1 Potere Finale, Abilità E.G.O incluse; arrotondato per difetto)\n\n[Gli effetti si applicano solo alla 1° Identità Schierata]\n- Durante uno Scontro, ottieni 1 [LookingFutureMirror] per ogni Scontro. Infliggi 2 [Vibration] e [Combustion] al bersaglio (10 volte per Abilità)\n- A Scontro Vinto, attiva [Switch_Vibration] in [VibrationIgnition] e innesca [VibrationExplosion] sul bersaglio principale. Il bersaglio perde 1 Conteggio [Vibration]\n- Per Colpo con un'Abilità, se il bersaglio è Stordito, infliggi +30% di danni\n- Per Critico, innesca [VibrationExplosion]. Il bersaglio perde 1 Conteggio [Vibration] (2 volte per Abilità)",
       "simpleDesc": [
         {}
