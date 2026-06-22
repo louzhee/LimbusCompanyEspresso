@@ -4,27 +4,27 @@
       "id": 101001,
       "name": "Human Offering",
       "subDesc": "Vedi delle bambole d'argilla in lontananza.",
-      "desc": "Vedi delle bambole d'argilla in lontananza.\nFrugano tra i cadaveri, cercando qualcosa.\nNelle tue orecchie rimbombano continue richieste di tributi.\nDanno l'impressione che possano assalirvi in un qualsiasi momento.\n\nVedi una persona morente lì vicino, ancora ansimante.\nDovresti offrire questa persona?\nOppure…",
+      "desc": "Vedete delle bambole d'argilla in lontananza.\nFrugano tra i cadaveri, cercando qualcosa.\nNelle tue orecchie rimbombano continue richieste di tributi.\nDanno l'impressione che possano assalirvi in un qualsiasi momento.\n\nNoti una persona morente lì vicino, ancora ansimante.\nDovresti offrire questa persona?\nOppure…",
       "options": [
         {
           "message": "Offri la persona.",
           "messageDesc": "Tutti gli alleati perdono PS. Ottieni un Dono E.G.O.",
           "result": [
-            "Soddisfatti, le bambole d'argilla trascinano quel che diverrà un cadavere nell'orizzonte."
+            "Soddisfatte, le bambole d'argilla trascinano quel che diverrà un cadavere nell'orizzonte."
           ]
         },
         {
           "message": "Non offrire la persona.",
           "messageDesc": "Inizia un combattimento. Vinci per ottenere un Dono E.G.O migliore.",
           "result": [
-            "Frustrati dalla vostra impassibilità, le bambole d'argilla vi attaccano."
+            "Frustrate dalla vostra impassibilità, le bambole d'argilla vi attaccano."
           ]
         },
         {
           "message": "Offri un Peccatore.",
           "messageDesc": "……",
           "result": [
-            "“Hai qualche rotella fuori posto, Manager?”\n\nI Peccatori sembrano agitati dalla tua scelta."
+            "“Hai qualche rotella fuori posto, Manager?”\n\nI Peccatori sembrano turbati dalla tua scelta."
           ]
         }
       ]
@@ -33,20 +33,20 @@
       "id": 10100101,
       "name": "Human Offering",
       "subDesc": "Vedi delle bambole d'argilla in lontananza.",
-      "desc": "Pare che offrire i Peccatori sia fuori questione.\n\nDovresti offrire questa persona?\nOppure…",
+      "desc": "Offrire i Peccatori pare sia fuori questione.\n\nOffrirai questa persona?\nOppure…",
       "options": [
         {
           "message": "Offri la persona.",
           "messageDesc": "Tutti gli alleati perdono PS. Ottieni un Dono E.G.O.",
           "result": [
-            "Soddisfatti, le bambole d'argilla trascinano quel che diverrà un cadavere nell'orizzonte."
+            "Soddisfatte, le bambole d'argilla trascinano quel che diverrà un cadavere nell'orizzonte."
           ]
         },
         {
           "message": "Non offrire la persona.",
           "messageDesc": "Inizia un combattimento. Vinci per ottenere un Dono E.G.O migliore.",
           "result": [
-            "Frustrati dalla vostra impassibilità, le bambole d'argilla vi attaccano."
+            "Frustrate dalla vostra impassibilità, le bambole d'argilla vi attaccano."
           ]
         }
       ]
@@ -648,7 +648,7 @@
       "desc": "Come fanno quei cyborg a tornare su?\nDiscutevano i Peccatori.\n\n“Forse quegli esseri non sono vivi.\nIn tal modo, non sarebbero capaci di morire.”\n\n“No, non mettiamoci a fare i filosofi adesso.”\n\n“Hmm~ Per me, sembra come ricostruire un muro di mattoni.”\n\n“…Credo di sentire qualcosa provenire da quella fabbrica laggiù.”\n\nIl gruppo volta il loro sguardo verso la fabbrica dietro ai cyborg.\nTintinnii metallici si fanno sentire dal posto che fino a qualche momento fa era silenzioso.\n\nVuoi dare un occhiata a quella struttura sospetta?",
       "options": [
         {
-          "message": "Investiga la fabbrica.",
+          "message": "Indaga sulla fabbrica.",
           "result": [
             "Hai deciso di controllare la fabbrica.\nMa, forse fareste meglio prima a far qualcosa con quei cyborg, per sicurezza.\n\nMagari potreste guadagnare abbastanza tempo per oltrepassarli incapacitando il più grande di tutti?"
           ]

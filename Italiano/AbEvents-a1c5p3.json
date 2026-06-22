@@ -41,21 +41,21 @@
         },
         {
             "id": 1050101,
-            "title": "Controllare sotto la nave",
-            "eventDesc": "\"Sì, certo che dovremmo.\"\n\nNon appena abbiamo deciso di controllare sotto la barca, un potente urto ha scosso la poppa.\n\n\"Sirene! Dei nemici stanno risalendo dal fondo della nave...\"\n\n\"Possiamo minimizzare le perdite mandando uno di noi a scaraventarle giù prima che si aggancino.\"\n\nNon appena è stato deciso, due Peccatori sono scattati dai loro posti e si sono avvicinati a me.\n\n\"Andrò io, Manager Esecutivo!\"\n\n\"No. Io sono più adatto a questo compito.\"\n\nI due Peccatori iniziano a battibeccare.",
+            "title": "Check underneath the ship",
+            "eventDesc": "\"Sì, certo che dovremmo.\"\n\nNon appena abbiamo deciso di controllare sotto la barca, un potente urto ha scosso la poppa.\n\n\"Sirene! Dei nemici stanno risalendo dal fondo della nave...\"\n\n\"Possiamo minimizzare le perdite mandando uno di noi a scaraventarle giù prima che si aggancino.\"\n\nNon appena è stato deciso, due Peccatori sono scattati dai loro posti e si sono avvicinati a me.\n\n\"Andrò io, Manager Esecutivo!\"\n\n\"No. Io sono più adatta per questo compito.\"\n\nI due Peccatori iniziano a battibeccare.",
             "prevDesc": "",
             "behaveDesc": "... Non sappiamo cosa succederà laggiù. Scegliamo qualcuno senza paura.",
             "successDesc": [
-                "[{0}] ha colpito una Sirena che strisciava su dalle acque.",
-                "Non appena ho scelto [{0}] per il compito, il Peccatore è corso e ha fracassato la testa della Sirena.\n\n\"Non possiamo lasciare che queste Sirene ci facciano perdere altro tempo.\"\n\nL'impatto del colpo ha fatto cadere qualcosa dalla Sirena.\n\n\"…….\"\n\nÈ un tesserino da dipendente della LCCB... proprio come quello che indossava Pilot.\n\nÈ terribile. ...Ma dobbiamo continuare a muoverci."
+                "[{0}] ha colpito una Sirena che strisciava su dalle acque.\n\nL'impatto del colpo ha fatto cadere qualcosa dalla Sirena.\n\n\"…….\"\n\nÈ un tesserino da dipendente della LCCB... proprio come quello che indossava Pilot.\n\nÈ terribile. ...Ma dobbiamo continuare a muoverci.",
+                "Non appena ho scelto [{0}] per il compito, la Peccatrice è corsa e ha fracassato la testa della Sirena.\n\n\"Non possiamo lasciare che queste Sirene ci facciano perdere altro tempo.\"\n\nL'impatto del colpo ha fatto cadere qualcosa dalla Sirena.\n\n\"…….\"\n\nÈ un tesserino da dipendente della LCCB... proprio come quello che indossava Pilot.\n\nÈ terribile. ...Ma dobbiamo continuare a muoverci."
             ],
             "failureDesc": [
-                "[{0}] si bloccò nel vedere la Sirena strisciare lungo la fiancata della nostra nave.\n\n\"…….\"\n\nQualcosa in quella Sirena deve aver causato esitazione.\n\n\"Che diavolo stai facendo?!\"\n\n\"Stanno salendo sulla nave!\"\n\n…Dobbiamo prima respingere le sirene.\n\nChiederemo spiegazioni più tardi."
+                "[{0}] si paralizzò nel vedere la Sirena arrampicarsi lungo la fiancata della nostra nave.\n\n\"…….\"\n\nQualcosa in quella Sirena deve aver causato l'esitazione.\n\n\"Che diavolo stai facendo?!\"\n\n\"Stanno salendo sulla nave!\"\n\n…Dobbiamo prima respingere le sirene.\n\nChiederemo delle spiegazioni più tardi."
             ]
         },
         {
             "id": 10502,
-            "title": "Sinistra o Destra",
+            "title": "Left or Right",
             "prevDesc": "",
             "eventDesc": "Siamo entrati in una sorta di stretto canale.\n\n\"... Manager Esecutivo.\"\n\nVedo Sirene nuotare sotto la nave.\n\nAnche le Sirene attaccate alle pareti ci stanno fissando.\n\n\"Questo posto, difficile timonare. Timonare e seguire la rotta, difficile fare entrambi contemporaneamente.\"\n\nQualcuno dovrà tenere d'occhio la direzione.",
             "behaveDesc": "Chi dovrebbe tenere traccia della direzione?",
@@ -69,13 +69,13 @@
         },
         {
             "id": 1050201,
-            "title": "Destra o Sinistra",
+            "title": "Right or Left",
             "prevDesc": "",
             "eventDesc": "\"Uscita. Ancora lontana.\"",
             "behaveDesc": "Qualcuno dovrà continuare a tenere traccia delle direzioni. Continuiamo con lo stesso metodo?",
             "successDesc": [
-                "\"Vai dritto!\n\n\"... Ora! Tutto a dritta!\"\n\nGrazie alle indicazioni rapide e chiare di [{0}], stavamo attraversando i canali velocemente.\n\n\"... Non finiscono mai, eh?\"\n\nMa l'orda di Sirene che attacca la nostra nave non sembra diminuita rispetto a quando siamo entrati.",
-                "\"Mantenere la rotta!\"\n\n\"... Ora! Tutto a dritta!\"\n\nGrazie alle indicazioni rapide e chiare di [{0}], stavamo attraversando i canali velocemente.\n\n\"... È da un po' che non facevamo una cosa del genere insieme.\"\n\n\"Sì. Ricordi? Starbuck al timone. Tu, io, a urlare a Starbuck...\"\n\n\"Sì...\"\n\n\"... Cavolo, non finiscono mai.\"\n\nMa l'orda di Sirene che attacca la nostra nave non sembra diminuita rispetto a quando siamo entrati nei canali."
+                "\"Vai dritto!\n\n\"... Ora! Tutto a destra!\"\n\nGrazie alle indicazioni rapide e chiare di [{0}], stavamo attraversando i canali velocemente.\n\n\"... Non finiscono mai, eh?\"\n\nMa l'orda di Sirene che attacca la nostra nave non sembra diminuita rispetto a quando siamo entrati.",
+                "\"Mantenere la rotta!\"\n\n\"... Ora! Timone a destra!\"\n\nGrazie alle indicazioni rapide e chiare di [{0}], stavamo attraversando i canali velocemente.\n\n\"... È da un po' che non facevamo una cosa del genere insieme.\"\n\n\"Sì. Ricordi? Starbuck al timone. Tu, io, a urlare a Starbuck...\"\n\n\"Sì...\"\n\n\"... Cavolo, non finiscono mai.\"\n\nMa l'orda di Sirene che attacca la nostra nave non sembra diminuita rispetto a quando siamo entrati nei canali."
             ],
             "failureDesc": [
                 "\"… Andare avanti è l'unica opzione?\"\n\n\"A-aspetta! C'era un altro sentiero! ... Sembra che l'abbiamo mancato, però…\"\n\n[{0}] deve aver avuto qualche problema con le direzioni...\n\n\"Tsk, preparatevi alla battaglia...!\"\n\n... e le conseguenze sono state immediate."
@@ -83,13 +83,13 @@
         },
         {
             "id": 1050202,
-            "title": "Destra o Sinistra",
+            "title": "Right or Left",
             "prevDesc": "",
             "eventDesc": "\"Quasi arrivati. Scappiamo presto. Alla prossima area.\"\n\nCi siamo quasi.",
             "behaveDesc": "Siamo quasi fuori, ma non abbassiamo ancora la guardia.",
             "successDesc": [
-                "\"Si sta aprendo—aspetta! È una cascata! Mantenere la rotta!\"\n\n\"Fiuuu... Oh! Rocce in vista! Tenere la sinistra, tenere la sinistra... A tutta dritta!\"\n\nGrazie alle direzioni rapide e dirette di [{0}], siamo riusciti a seminare le Sirene e a fuggire dal canale.",
-                "\"Si sta aprendo—aspetta! C'è un salto! Mantenere la rotta!\"\n\n\"Fiuuu... Oh! Altre rocce in vista! Timone a sinistra di 10 gradi, stabili... A tutta dritta!\"\n\nGrazie alle direzioni rapide e dirette di [{0}], siamo riusciti a seminare le Sirene e a fuggire dal canale.\n\n\"... È da un po' che non facevamo una cosa del genere insieme.\"\n\n\"Sì. Ricordi? Starbuck al timone. Tu, io, a urlare a Starbuck...\"\n\n\"Sì...\"\n\nLa nave era coperta di sangue e olio delle Sirene che avevamo ucciso nel canale.\n\n\"Questo, utile. Mettilo in un barile.\"\n\nLa barca ha navigato tranquillamente verso l'area successiva mentre passavamo il tempo a raccogliere l'olio di Sirena dalla nave. Ce n'era così tanto che il ponte era quasi allagato."
+                "\"Si sta aprendo—aspetta! È una cascata! Mantenere la rotta!\"\n\n\"Fiuuu... Oh! Rocce in vista! Tenere la sinistra, tenere la sinistra... A tutta a destra!\"\n\nGrazie alle direzioni rapide e dirette di [{0}], siamo riusciti a seminare le Sirene e a fuggire dal canale.",
+                "\"Si sta aprendo—aspetta! C'è un salto! Mantenere la rotta!\"\n\n\"Fiuuu... Oh! Altre rocce in vista! Timone a sinistra di 10 gradi, stabili... A tutta a destra!\"\n\nGrazie alle direzioni rapide e dirette di [{0}], siamo riusciti a seminare le Sirene e a fuggire dal canale.\n\n\"... È da un po' che non facevamo una cosa del genere insieme.\"\n\n\"Sì. Ricordi? Starbuck al timone. Tu, io, a urlare a Starbuck...\"\n\n\"Sì...\"\n\nLa nave era coperta di sangue e olio delle Sirene che avevamo ucciso nel canale.\n\n\"Questo, utile. Mettilo in un barile.\"\n\nLa barca ha navigato tranquillamente verso l'area successiva mentre passavamo il tempo a raccogliere l'olio di Sirena dalla nave. Ce n'era così tanto che il ponte era quasi allagato."
             ],
             "failureDesc": [
                 "\"...? A-aspetta! C'è un salto?! U-uh, cosa facciamo...?\"\n\n\"Ah, ah... N-non ci vedo molto bene qui...\"\n\n[{0}] stava facendo del suo meglio, ma la stanchezza sembra aver avuto la meglio; le sue indicazioni erano molto confuse.\n\n\"Agh... Ed eravamo così vicini all'uscita...!\"\n\nDovremo farci strada combattendo fino alla fine, allora..."
@@ -97,7 +97,7 @@
         },
         {
             "id": 10503,
-            "title": "Verso le Arterie",
+            "title": "To the Arteries",
             "prevDesc": "",
             "eventDesc": "Dopo aver sconfitto l'Anormalità, abbiamo navigato per un po' senza troppi incidenti. Fu allora che...\n\n\"Un muro...\"\n\n... un muro spesso e solido apparve davanti a noi.\n\n\"Arteria. Oltre questo muro.\"\n\n\"Il muro si apre. Si chiude. L'apertura è molto breve. Non farti afferrare dalle Sirene lì. Tagliati a metà, se afferrati dalle sirene.\"\n\nE con un pesante rombo, il muro iniziò immediatamente ad aprirsi.\n\n\"Tenete le Sirene lontane dalla nave. Ci rallentano, verremo tagliati a metà.\"\n\nLe Sirene devono aver percepito il rombo. Iniziano a scagliarsi contro la nostra nave.",
             "behaveDesc": "Chi andrà in prima fila per tenere le Sirene fuori dalla nostra nave?",
@@ -106,12 +106,12 @@
                 "[{0}] si mette in prima fila, scaraventando le Sirene fuori dalla barca.\n\n\"Può bastare.\"\n\n\"Bene, ce l'abbiamo fatta...\"\n\n\"Non adagiatevi. Dobbiamo restare all'erta.\"\n\n\"Fiuuu. Ehi, il muro sta tremando. Come se stesse per—\"\n\nNemmeno un secondo dopo che la poppa della nostra barca ha superato il muro, la porta si è richiusa con violenza.\n\n... Continuiamo a muoverci verso l'arteria."
             ],
             "failureDesc": [
-                "[{0}] si mette in prima fila, scaraventando le Sirene fuori dalla barca.\n\nMa...\n\n\"C-credo che ce ne siano più di quante ci aspettassimo...\"\n\n\"Ehi! Date una mano!\"\n\n\"Aagh, a-aspetta...!\"\n\nAlla fine siamo riusciti a scrollarci di dosso le Sirene e a superare l'apertura, ma...\n\n\"Ah...\"\n\nQuesto trambusto ha sfinìto tutti e ha lasciato alcuni di noi feriti.\n\n... Non abbiamo altra scelta che continuare il nostro cammino verso l'arteria."
+                "[{0}] si mette in prima fila, scaraventando le Sirene fuori dalla barca.\n\nMa...\n\n\"C-credo che ce ne siano più di quante ci aspettassimo...\"\n\n\"Ehi! Date una mano!\"\n\n\"Aagh, a-aspetta...!\"\n\nAlla fine siamo riusciti a scrollarci di dosso le Sirene e a superare l'apertura, ma...\n\n\"Ah...\"\n\nQuesto trambusto ha sfinito tutti e ha lasciato alcuni di noi feriti.\n\n... Non abbiamo altra scelta che continuare il nostro cammino verso l'arteria."
             ]
         },
         {
             "id": 1050401,
-            "title": "L'Arteria",
+            "title": "The Artery",
             "prevDesc": "",
             "eventDesc": "\"Questa è molto più dura di quanto mi aspettassi...\"\n\nL'arteria appariva molto più robusta di quanto avessimo inizialmente ipotizzato.\n\nAprirla con un solo colpo non sarà un compito facile... ma se indugiamo troppo qui, non riusciremo ad arrivare all'area d'incontro in tempo.",
             "behaveDesc": "Chi può riuscire a reciderla con un colpo solo?",
@@ -124,7 +124,7 @@
         },
         {
             "id": 1050501,
-            "title": "Cassa di Scorte 1",
+            "title": "Supply Crate 1",
             "prevDesc": "",
             "eventDesc": "Ci siamo fermati davanti a una cassa con il logo dei Pirati Doppiouncino.\n\n\"Questa cassa sembra chiusa a chiave.\"\n\n\"È tutta arrugginita... non credo che possiamo nemmeno provare a scassinare la serratura.\"\n\n\"Allora sfondiamola!\"\n\n... Ma la scatola stessa sembra piuttosto fragile. Rischiamo di distruggere anche il suo contenuto.",
             "behaveDesc": "Chi saprà colpire la cassa con la giusta forza?",
@@ -137,7 +137,7 @@
         },
         {
             "id": 1050502,
-            "title": "Cassa di Scorte 2",
+            "title": "Supply Crate 2",
             "prevDesc": "",
             "eventDesc": "Questa cassa ha il logo della LCCB.\n\nQuesta sembra abbastanza robusta... probabilmente non riusciremo a sfondarla.\n\n\"Questa sembra essere stata sigillata da un intricato meccanismo di chiusura.\"\n\n\"Dubito che riuscirò semplicemente a sfondarla...\"\n\n\"Aspetta, credo di ricordare qualcosa...\"\n\nForse un Peccatore che ha usato un'Identità LCCB in passato potrebbe sapere qualcosa al riguardo.",
             "behaveDesc": "Chi tenterà di forzare la serratura?",
