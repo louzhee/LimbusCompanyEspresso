@@ -2,74 +2,74 @@
     "dataList": [
         {
             "id": 837101,
-            "name": "Casual Opportunity",
-            "desc": "Turn Start: if this unit's Speed is faster than the target's, gain 1 [PenetrateDamageUp]"
+            "name": "Opportunità Casuale",
+            "desc": "A inizio turno, Se la Velocità di questa unità è maggiore di quella del bersaglio, ottiene 1 [PenetrateDamageUp]"
         },
         {
             "id": 837102,
             "name": "Leisurely Breathing",
-            "desc": "Turn End: Heal 7 PS\nTurn End: Gain [Agility] equal to ([Breath] on self/4) next turn (max 3)"
+            "desc": "A fine turno, recupera 7 PS\nA fine turno, ottiene ([Breath] su di sé/4) [Agility] il turno successivo (max 3)"
         },
         {
             "id": 837103,
-            "name": "Single Combat",
-            "desc": "Use Salut if the target is Staggered"
+            "name": "Combattimento Singolo",
+            "desc": "Se il bersaglio è Stordito, usa 'Salut'"
         },
         {
             "id": 837104,
-            "name": "Focused Attack",
-            "desc": "When using a Skill against the same Slot this unit successfully hit last turn, gain the following effects based on the number of consecutive turns it successfully hit the Slot\nResets if this unit failed to attack last turn.\n- 1 Consecutive hit: Clash Power +1\n- 2 Consecutive hits: Base Power +1\n- 3 Consecutive hits: Base Power +1, Coin Power +1"
+            "name": "Attacco Mirato",
+            "desc": "Se usa un'Abilità sullo stesso Slot colpito nel turno precedente, ottiene i seguenti effetti in base al numero di turni in cui ha colpito lo stesso Slot\nQuesto effetto si resetta se questa unità non è riuscita ad attaccare nel turno precedente.\n- 1 colpo consecutivo: Potere Scontro +1\n- 2 colpi consecutivi: Potere Base +1\n- 3 colpi consecutivi: Potere Base +1, Potere Moneta +1"
         },
         {
             "id": 837201,
-            "name": "I'll Cut You First!",
-            "desc": "Prioritizes [LineCutting]."
+            "name": "Ti Taglierò Per Primo!",
+            "desc": "Dà priorità al [LineCutting]."
         },
         {
             "id": 837202,
-            "name": "Hardblood Scissor",
-            "desc": "On Clash Win, if the target has [Laceration], heal this unit's Part & Core by 40% of the PV damage dealt.\nAttack End: If this unit healed at least 100 PV, heal 10 PS\nThis effect does not activate On Hit with an Unbreakable Coin Skill if it loses the Clash.",
-            "summary": "Heal when attacking enemies with Bleed. When this unit heals 100 PV, heal PS as well."
+            "name": "Lamaforbice Rossosangue",
+            "desc": "A Scontro vinto, se il bersaglio ha [Laceration], recupera PV pari al 40% del danno inflitto.\nA fine attacco, se ha recuperato almeno 100 PV, recupera 10 PS\nQuesto effetto non si attiva sulle Monete Infrante.",
+            "summary": "Recupera PV quando colpisce un nemico con Sanguinamento. Se ha recuperato 100 PV, recupera PS."
         },
         {
             "id": 837203,
-            "name": "I Don't Need Ugly Things!!",
-            "desc": "If there are any enemies with 30% or less PV, use 'I Don't Need Ugly Things!!' Skill."
+            "name": "Non Mi Servono Le Cose Brutte!!",
+            "desc": "Se ci sono nemici con 30% o meno PV, usa l'Abilità 'Non Mi Servono Le Cose Brutte!!'."
         },
         {
             "id": 837204,
-            "name": "It's Not Over Yet",
-            "desc": "Gains a new pattern at 40% of this unit's max PV\nUpon pattern change, gain 10 [Laceration] and 2 [BloodScissor]."
+            "name": "Non È Ancora Finita",
+            "desc": "Quando i PV scendono al 40%, ottiene un nuovo pattern\nQuando cambia pattern, ottiene 10 [Laceration] e 2 [BloodScissor]."
         },
         {
             "id": 837205,
             "name": "Emofagia",
-            "desc": "If this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit. \nWhen this unit enters the field, the sleeping blood drenching the battlefield will rise above the surface."
+            "desc": "Se questa unità è sul campo, o è una delle unità che possono scendere in Campo, aumenta la quantità di [BloodDinner] in base a quanti danni da [Laceration] sono stati subiti da tutte le unità.\nQuando questa unità va sul campo, il sangue dormiente che bagna il campo di battaglia salirà in superfice."
         },
         {
             "id": 837206,
-            "name": "Bloodsteeped Scissors",
-            "desc": "Combat Start: gain 10 [BloodScissor]\n- [BloodScissor] cannot drop below 1\n- At 10+ [BloodScissor], convert them to [BloodScissorTwo].\n- At 20+ [BloodScissor], convert them to [BloodScissorThree].\nIf this unit consumes [BloodScissor] and drops below the above thresholds, convert them accordingly."
+            "name": "Forbici Immerse nel Sangue",
+            "desc": "A inizio Incontro, ottiene 10 [BloodScissor]\n- Il livello di [BloodScissor] non può scendere sotto 1\n- A 10+ [BloodScissor], diventa [BloodScissorTwo].\n- A 20+ [BloodScissor], diventa [BloodScissorThree].\nQuando consuma [BloodScissor] e scende sotto queste soglie, ritorna allo stadio precedente."
         },
         {
             "id": 837207,
-            "name": "Starved and Withered",
-            "desc": "Combat Start: gain [StarvingBarberTwo]"
+            "name": "Affamata e Avvizzita",
+            "desc": "A inizio Incontro, ottiene [StarvingBarberTwo]"
         },
         {
             "id": 837208,
-            "name": "Blood... Blood... Blood...!",
-            "desc": "Turn End: If Panicked, recover from Panic at the next Turn Start and reset PS to 0.\nWhen recovering from Panic:\n- Consume 30 [BloodDinner] to gain 2 [Enhancement] and 1 [BloodScissor] next turn, and heal 20 PS.\n- If this unit failed to consume [BloodDinner], gain 30 [Laceration], immediately take the damage from [Laceration], then lose 3 [Laceration] Count. Then, gain 2 [Enhancement], 2 [AttackDmgUp], and heal 20 PS next turn."
+            "name": "Sangue... Sangue... Sangue...!",
+            "desc": "A fine turno: Se in panico, riporta i PS a 0 e si riprende dal Panico.\nQuando si riprende dal Panico:\n- Consuma 30 [BloodDinner] per ottenere 2 [Enhancement] e 1 [BloodScissor] il turno successivo e recupera 20 PS.\n- Se non riesce a consumare [BloodDinner], ottiene 30 [Laceration], attiva [Laceration] su di sé e perde 3 Conteggio [Laceration]. Poi, ottiene 2 [Enhancement], 2 [AttackDmgUp] e recupera 20 PS il turno successivo."
         },
         {
             "id": 9999997,
             "name": "Ripresa dal Panico",
-            "desc": "A Fine Turno: se è in stato di Panico, riporta i PS a 0."
+            "desc": "A Fine Turno: se in Panico, riporta i PS a 0."
         },
         {
             "id": 9999996,
             "name": "Panico Fisso",
-            "desc": "Il tipo di Panico di questa Unità non può essere cambiato da effetti esterni.\n- Gli status che dovrebbero cambiare il tipo di Panico attivano incece gli effetti delle Unità senza PS."
+            "desc": "Il tipo di Panico di questa Unità non può essere cambiato da effetti esterni.\n- Gli status che dovrebbero cambiare il tipo di Panico attivano invece gli effetti delle Unità senza PS."
         }
     ]
 }

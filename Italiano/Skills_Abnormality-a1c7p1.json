@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Allez",
-          "desc": "[WhenUse] Inflict [DuelDeclaration_Camille]\n[WhenUse] Gain 5 [Breath]\n[WinDuel] Gain +2 [Breath] Count",
+          "desc": "[WhenUse] Infligge [DuelDeclaration_Camille]\n[WhenUse] Ottiene 5 [Breath]\n[WinDuel] Ottiene +2 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -25,25 +25,25 @@
         {
           "level": 1,
           "name": "Coup Droit",
-          "desc": "[WhenUse] Gain 2 [Breath]",
+          "desc": "[WhenUse] Ottiene 2 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Ottiene +2 Conteggio [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] A 7+ Velocità, infligge 3 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 3 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] A 7+ Velocità, infligge 3 [Burst]"
                 }
               ]
             }
@@ -57,18 +57,18 @@
         {
           "level": 1,
           "name": "Fente",
-          "desc": "[WhenUse] At 7+ [Breath], Coin Power +2\n[WinDuel] Gain +2 [Breath] Count",
+          "desc": "[WhenUse] A 7+ [Breath], Potere Moneta +2\n[WinDuel] Ottiene +2 Conteggio [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 3 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] A 7+ Velocità, infligge 3 Conteggio [Burst]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] +50% Damage on Critical Hit"
+                  "desc": "[CriticalOnSucceedAttack] +50% danni su Colpo Critico"
                 }
               ]
             }
@@ -82,45 +82,45 @@
         {
           "level": 1,
           "name": "Salut",
-          "desc": "[WhenUse] If this unit's Speed is faster than the target's, Coin Power +1 (Coin Power +1 for every 2 Speed difference; max 3)",
+          "desc": "[WhenUse] Se la Velocità di questa unità è maggiore di quella del bersaglio, Potere Moneta +1 per ogni 2 differenza di Velocità (max 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Ottiene +4 Conteggio [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst] and +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] A 7+ Velocità, infligge 3 [Burst] e +1 Conteggio [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 5 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 5 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst] and +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] A 7+ Velocità, infligge 3 [Burst] e +1 Conteggio [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 5 [Breath]"
+                  "desc": "[OnSucceedAttack] Ottiene 5 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst] and +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] A 7+ Velocità, infligge 3 [Burst] e +1 Conteggio [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] +100% Damage on Critical Hit"
+                  "desc": "[CriticalOnSucceedAttack] +100% danni su COlpo Critico"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +5% damage for every [Burst] on the target (Max 50%)"
+                  "desc": "[OnSucceedAttack] Infligge +5% danni per ogni [Burst] sul bersaglio (Max 50%)"
                 }
               ]
             }
@@ -133,13 +133,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Parry",
-          "desc": "[WinDuel] Deal more damage based on number of Clashes (+10% damage for every Clash, max 50%)\n[WinDuel] Gain 2 [Agility] next turn\n[DefeatDuel] Gain 2 [Binding] next turn",
+          "name": "Parata",
+          "desc": "[WinDuel] Infligge più danni in base al numero di Scontri (+10% danno per ogni Scontro, max 50%)\n[WinDuel] Ottiene 2 [Agility] il turno successivo\n[DefeatDuel] Ottiene 2 [Binding] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Vulnerable] il turno successivo"
                 }
               ]
             }
@@ -153,7 +153,7 @@
         {
           "level": 1,
           "name": "Défensive",
-          "desc": "[OnSucceedEvade] Gain 1 [Agility] next turn",
+          "desc": "[OnSucceedEvade] Ottiene 1 [Agility] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
@@ -171,16 +171,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Cut You Up All Pretty!",
-          "desc": "[WhenUse] If the target has 6+ [Laceration], Clash Power +1\n[WhenUse] Coin Power +1 for every 5 [Laceration] on self (max 3)",
+          "name": "Ti Taglierò A Pezzettini Tutti Belli!",
+          "desc": "[WhenUse] Se il bersaglio ha 6+ [Laceration], Potere Scontro +1\n[WhenUse] Potere Moneta +1 per ogni 5 [Laceration] su di sé (max 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reuse Coin ([BloodScissor] Stage - 1) times (max 2)"
+                  "desc": "[OnSucceedAttack] Riusa questa Moneta (Livello di [BloodScissor] - 1) volte (max 2)"
                 }
               ]
             }
@@ -193,20 +193,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Even Sharper",
-          "desc": "[WhenUse] Consume up to 20 [BloodDinner]; gain 1 [BloodScissor] and heal 3 PS for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner] with this Skill, gain 30 [Laceration]\n[WhenUse] If the target has 6+ [Laceration], Clash Power +1\n[WhenUse] Coin Power +1 for every 5 [Laceration] on self (max 2)",
+          "name": "Più Affilate",
+          "desc": "[WhenUse] Consuma fino a 20 [BloodDinner]; ottiene 1 [BloodScissor] e recupera 3 PS per ogni 10 [BloodDinner] consumata\n- Se quest'unità non riesce a consumare [BloodDinner], ottiene 30 [Laceration]\n[WhenUse] Se il bersaglio ha 6+ [Laceration], Potere Scontro +1\n[WhenUse] Potere Moneta +1 per ogni 5 [Laceration] su di sé (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                 }
               ]
             }
@@ -219,27 +219,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "SNIP!!",
-          "desc": "[WhenUse] Consume up to 30 [BloodDinner]; gain 1 [BloodScissor] and heal 3 PS for every 10 [BloodDinner] consumed\n[WhenUse] If the target has [LineCutting], Clash Power +5\nHeal 5 PS on every hit against [LineCutting]",
+          "name": "ZAC ZAC!!",
+          "desc": "[WhenUse] Consuma fino a 30 [BloodDinner]; ottiene 1 [BloodScissor] e recupera 3 PS per ogni 10 [BloodDinner] consumata\n[WhenUse] Se il bersaglio ha [LineCutting], Potere Scontro +5\nRecupera 5 PS per ogni colpo sul [LineCutting]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Laceration]"
                 }
               ]
             }
@@ -252,8 +252,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Cut You Up Too!",
-          "desc": "[BeforeAttack] Atk Weight +1 for every Stage of [BloodScissor] (max 2)\n[WhenUse] Consume up to 30 [BloodDinner]; gain 1 [BloodScissor] and heal 3 PS for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 6+ [Laceration], Clash Power +2",
+          "name": "Taglierò Anche Te!",
+          "desc": "[BeforeAttack] Portata Attacco +1 per ogni livello di [BloodScissor] (max 2)\n[WhenUse] Consuma fino a 30 [BloodDinner]; ottiene 1 [BloodScissor] e recupera 3 PS per ogni 10 [BloodDinner] consumata\n[WhenUse] Se il bersaglio ha 6+ [Laceration], Potere Scontro +2",
           "coinlist": [
             {
               "coindescs": [
@@ -261,10 +261,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [BloodScissorScars] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [BloodScissorScars] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttackHead] Infligge 5 [Laceration] e +2 Conteggio [Laceration]"
                 }
               ]
             }
@@ -277,8 +277,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Now, It's Your Turn",
-          "desc": "[WhenUse] If the target has 6+ [Laceration], Coin Power +1",
+          "name": "E Ora Tocca A Te",
+          "desc": "[WhenUse] Se il bersaglio ha 6+ [Laceration], Potere Moneta +1",
           "coinlist": [
             {},
             {
@@ -287,10 +287,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [BloodScissorScars] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [BloodScissorScars] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [LineCutting] next turn"
+                  "desc": "[OnSucceedAttack] Infligge [LineCutting] il turno successivo"
                 }
               ]
             }
@@ -303,8 +303,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Cut You Together!",
-          "desc": "[BeforeAttack] Atk Weight +1 for every Stage of [BloodScissor]\n[WhenUse] Consume up to 100 [BloodDinner]; gain 1 [BloodScissor] and heal 3 PS for every 10 [BloodDinner] consumed\n[WhenUse] If the target has 6+ [Laceration], Clash Power +2\n[EndSkill] Consume 10 [BloodScissor]",
+          "name": "Vi Taglierò Tutti Insieme!",
+          "desc": "[BeforeAttack] Portata Attacco +1 per ogni livello di [BloodScissor]\n[WhenUse] Consuma fino a 100 [BloodDinner]; ottiene 1 [BloodScissor] e recupera 3 PS per ogni 10 [BloodDinner] consumata\n[WhenUse] Se il bersaglio ha 6+ [Laceration], Potere Scontro +2\n[EndSkill] Consuma 10 [BloodScissor]",
           "coinlist": [
             {
               "coindescs": [
@@ -312,10 +312,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Laceration]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate the target's [Laceration] (max 10). The target loses 1 [Laceration] Count"
+                  "desc": "[WinDuelAttack] Attiva il [Laceration] del bersaglio (max 10). Il bersaglio perde 1 Conteggio [Laceration]"
                 }
               ]
             },
@@ -325,10 +325,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Laceration]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate the target's [Laceration] (max 10). The target loses 1 [Laceration] Count"
+                  "desc": "[WinDuelAttack] Attiva il [Laceration] del bersaglio (max 10). Il bersaglio perde 1 Conteggio [Laceration]"
                 }
               ]
             },
@@ -338,20 +338,20 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Laceration]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate the target's [Laceration] (max 10). The target loses 1 [Laceration] Count"
+                  "desc": "[WinDuelAttack] Attiva il [Laceration] del bersaglio (max 10). Il bersaglio perde 1 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal +40% damage for every [BloodScissor] Stage (max 120%)"
+                  "desc": "[OnSucceedAttack] Infligge +40% danni per ogni livello di [BloodScissor] (max 120%)"
                 },
                 {
-                  "desc": "[EnemyKill] If this Coin effect killed the target, heal by 50% of the damage dealt against the killed target."
+                  "desc": "[EnemyKill] Se questo effetto ha ucciso il bersaglio, recupera PV pari al 50% del danno inflitto sul bersaglio ucciso."
                 }
               ]
             }
@@ -364,13 +364,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "How Discourteous!",
-          "desc": "[DuelCounter]\n[WhenUse] Clash Power +1 for every [BloodScissor] Stage (max 3)\n[WhenUse] Coin Power +1 for every 5 [Laceration] on self (max 3)",
+          "name": "Così Scortese!",
+          "desc": "[DuelCounter]\n[WhenUse] Potere Scontro +1 per ogni livello di [BloodScissor] (max 3)\n[WhenUse] Potere Moneta +1 per ogni 5 [Laceration] su di sé (max 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration] and +4 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Laceration] e +4 Conteggio [Laceration]"
                 }
               ]
             }
@@ -383,19 +383,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I Don't Need Ugly Things!!",
-          "desc": "[CantChangeTarget]\nPrioritizes targets with the least PV percentage",
+          "name": "Non Mi Servono Le Cose Brutte!!",
+          "desc": "[CantChangeTarget]\nDà priorità ai bersagli con la percentuale di PV minore",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target is at 30%- PV, kill the target"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha 30%- PV, uccide il bersaglio"
                 },
                 {
-                  "desc": "[EnemyKill] Increase [BloodDinner] by 30% of the defeated enemy's max PV"
+                  "desc": "[EnemyKill] Aumenta l'[BloodDinner] del 30% dei PV max del bersaglio ucciso"
                 },
                 {
-                  "desc": "[EnemyKill] gain 4 [Vulnerable] next turn"
+                  "desc": "[EnemyKill] Ottiene 4 [Vulnerable] il turno successivo"
                 }
               ]
             }

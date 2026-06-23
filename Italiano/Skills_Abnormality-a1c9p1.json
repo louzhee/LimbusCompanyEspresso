@@ -109,7 +109,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sezionatura del Cervo",
+          "name": "Sezionatura di Cervo",
           "desc": "[CantChangeTarget]\nNon può essere Stordito fino all'uso\n\nPotere Finale -2 e Portata Attacco -1 <color=#ff6000><mark color=#ff000040><b><u> per ogni Abilità Attacco di quest'unità che ha perso uno Scontro in questo turno</color></mark></b></u>\n(Portata Attaco minima: 1)\n\n[DefeatDuel] Infligge -90% danni; Il danno inflitto da quest'Abilità non può Stordire il bersaglio\n[DefeatDuel] Perde 15 PS; ottiene 6 [AttackDown] il turno successivo",
           "coinlist": [
             {

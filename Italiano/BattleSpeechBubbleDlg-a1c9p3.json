@@ -533,12 +533,12 @@
     {
       "id": "9SV-BAT7-00-04",
       "desc": "Lucio - Missing line",
-      "dlg": "Ammira una dimostrazione della tecnica di smantellamento Palermitano. Sezionatura del Cervo!"
+      "dlg": "Ammira una dimostrazione della tecnica di smantellamento Palermitano. Sezionatura di Cervo!"
     },
 	  {
       "id": "9SV-BAT7-00-05",
       "desc": "Lucio - Missing line",
-      "dlg": "Ammira una dimostrazione della tecnica di smantellamento Palermitano. Sezionatura del Cervo!"
+      "dlg": "Ammira una dimostrazione della tecnica di smantellamento Palermitano. Sezionatura di Cervo!"
     },
     {
       "id": "9SV-BAT7-00-01",
@@ -552,7 +552,7 @@
     },
 	  {
       "id": "9SV-BAT7-00-02",
-      "desc": "Lucio - Sezionatura del Cervo",
+      "desc": "Lucio - Sezionatura di Cervo",
       "dlg": "Osserva attentamente l'angolo, la velocità e la traiettoria precisa con cui muovo la mia spada. Lascia che ciò ti rinfreschi la memoria."
     },
     {
@@ -572,7 +572,7 @@
     },
     {
       "id": "9SV-BAT8-BR4-1",
-      "desc": "Valencina - Sezionatura del Cervo",
+      "desc": "Valencina - Sezionatura di Cervo",
       "dlg": "Fottiti!"
     },
 	  {
@@ -597,12 +597,12 @@
     },
     {
       "id": "9SV-BAT8-BR4-2",
-      "desc": "Valencina - Sezionatura del Cervo start",
+      "desc": "Valencina - Sezionatura di Cervo start",
       "dlg": "Ti senti forte, eh? Allora blocca questo, testa di cazzo!"
     },
     {
       "id": "9SV-BAT8-BR4-4",
-      "desc": "Valencina - Sezionatura del Cervo end",
+      "desc": "Valencina - Sezionatura di Cervo end",
       "dlg": "Senti il mio odio."
     },
     {

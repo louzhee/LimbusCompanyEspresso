@@ -81,7 +81,7 @@
         {
             "id": 9999998,
             "name": "Panico Fisso",
-            "desc": "Il tipo di Panico di questa Unità non può essere cambiato da effetti esterni.\n- Gli status che dovrebbero cambiare il tipo di Panico attivano incece gli effetti delle Unità senza PS.",
+            "desc": "Il tipo di Panico di questa Unità non può essere cambiato da effetti esterni.\n- Gli status che dovrebbero cambiare il tipo di Panico attivano invece gli effetti delle Unità senza PS.",
             "summary": ""
         }
     ]

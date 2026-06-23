@@ -52,37 +52,37 @@
     },
     {
       "id": "9SV-BAT7-01-1",
-      "desc": "Lucio - Sezionatura del Cervo 1",
-      "dlg": "Ammira una dimostrazione della tecnica di smantellamento Palermitano. Sezionatura del Cervo!"
+      "desc": "Lucio - Sezionatura di Cervo 1",
+      "dlg": "Ammira una dimostrazione della tecnica di smantellamento Palermitano. Sezionatura di Cervo!"
     },
     {
       "id": "9SV-BAT7-01-2",
-      "desc": "Lucio - Sezionatura del Cervo 2",
+      "desc": "Lucio - Sezionatura di Cervo 2",
       "dlg": "Dimostrazione completata."
     },
     {
       "id": "9SV-BAT7-01-3",
-      "desc": "Lucio - Sezionatura del Cervo 3",
+      "desc": "Lucio - Sezionatura di Cervo 3",
       "dlg": "Osserva attentamente l'angolo, la velocità e la traiettoria precisa con cui muovo la mia spada. Lascia che ciò ti rinfreschi la memoria."
     },
     {
       "id": "9SV-BAT7-02",
-      "desc": "Lucio - Sezionatura del Cervo (Clash lose)",
+      "desc": "Lucio - Sezionatura di Cervo (Clash lose)",
       "dlg": "Chiedo venia... Sono ancora incompleto."
     },
     {
       "id": "9SV-BAT7-03",
-      "desc": "Lucio - Sezionatura del Cervo (Turn Start) 1",
+      "desc": "Lucio - Sezionatura di Cervo (Turn Start) 1",
       "dlg": "In duelli uno contro uno, il mio Stile Palermitano ha il vantaggio."
     },
     {
       "id": "9SV-BAT7-03-01",
-      "desc": "Lucio - Sezionatura del Cervo (Turn Start) 2",
+      "desc": "Lucio - Sezionatura di Cervo (Turn Start) 2",
       "dlg": "Con Calma, uno alla volta."
     },
     {
       "id": "9SV-BAT7-04",
-      "desc": "Lucio - After Sezionatura del Cervo Clash Lose",
+      "desc": "Lucio - After Sezionatura di Cervo Clash Lose",
       "dlg": "Tecnica Eccellente, ma questo scontro sta diventando fin troppo prevedibile."
     },
     {
