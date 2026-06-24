@@ -28,6 +28,11 @@
       "desc": "Sul colpo, se il bersaglio è Stordito, infligge 2 [Binding] il turno successivo"
     },
     {
+      "id": 144805,
+      "name": "Eseguire gli Ordini",
+      "desc": "Ottiene [SlaveHunersPower] per il resto dell'Incontro"
+    },
+    {
       "id": 145201,
       "name": "Organizza Informazioni",
       "desc": "Se quest'unità ha inflitto [TakePicture] su un nemico, recupera 10 PS"
@@ -36,6 +41,11 @@
       "id": 145202,
       "name": "Fissare i Chiodi",
       "desc": "Quando innesca [VibrationExplosion] su un nemico, alza la Soglia di Stordimento del bersaglio di (Stack [LensmanNail])"
+    },
+    {
+      "id": 145204,
+      "name": "Eseguire gli Ordini",
+      "desc": "Ottiene [LensmanPower] per il resto dell'Incontro"
     },
     {
       "id": 145001,
