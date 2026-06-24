@@ -264,7 +264,7 @@
     {
       "id": 9720,
       "name": "Vecchia Tunica Dopo",
-      "desc": "Inizio dell'Incontro: Gli effetti si applicano quando sono presenti 3 o più Identità dei Discendenti della Spada (vengono contate solo le Identità in campo)\n\nTutti gli alleati infliggono 50% danni Taglienti in più\n\nPer le Identità dei Discendenti della Spada: l'Abilità 1 ottiene Potere Moneta Positivo +1; le Abilità 1 a Moneta Singola ottengono Potere Moneta Positivo +3\n\n[Solo per il Mentore dei Discendenti della Spada Meursault] Non può essere Stordito nel turno in cui questa unità equipaggia 'Cedo la Carne'. L'Abilità 'Cedo la Carne' ottiene Potere Scontro Finale -36; 'Per Strappare le Ossa' infligge 50% danni in più",
+      "desc": "Inizio dell'Incontro: Gli effetti si applicano quando sono presenti 3 o più Identità dei Discendenti della Spada (vengono contate solo le Identità in campo)\n\nTutti gli alleati infliggono 50% danni Taglienti in più\n\nPer le Identità dei Discendenti della Spada: l'Abilità 1 ottiene Potere Moneta Positivo +1; le Abilità 1 a Moneta Singola ottengono Potere Moneta Positivo +3\n\n[Solo per il Mentore dei Discendenti della Spada Meursault] Non può essere Stordito nel turno in cui questa unità equipaggia 'Sacrifico la Carne'. L'Abilità 'Sacrifico la Carne' ottiene Potere Scontro Finale -36; 'Per Reclamare le Ossa' infligge 50% danni in più",
       "simpleDesc": [
         {
           "abilityID": 9720,
@@ -276,7 +276,7 @@
         },
         {
           "abilityID": 97202,
-          "simpleDesc": "Potere Scontro Finale dell'Abilità 'Cedo la Carne' -36; 'Per Strappare le Ossa' infligge +50% danni"
+          "simpleDesc": "Potere Scontro Finale dell'Abilità 'Per Reclamare le Ossa' -36; 'Per Strappare le Ossa' infligge +50% danni"
         }
       ]
     },

@@ -123,7 +123,7 @@
         {
             "id": 2035,
             "name": "Vecchia Tunica Dopo",
-            "desc": "Inizio dell'Incontro: Gli effetti si applicano quando sono presenti 3 o più Identità dei Discendenti della Spada (conta solo le Identità sul campo di battaglia).\n\nTutti gli alleati infliggono il 50% di danno Tagliente in più.\n\nPer le Identità dei Discendenti della Spada: L'Abilità 1 ottiene Potere Moneta Positivo +1. Le Abilità 1 con Moneta Singola ottengono Potere Moneta Positivo +3.\n\n[Esclusivo a Mentore dei Discendenti della Spada Meursault] l'Abilità 'Cedo la Carne' ottiene Potere Scontro Finale -12; 'Per Strappare le Ossa' infligge il 50% in più di danni aggiuntivi",
+            "desc": "Inizio Turno: si attiva quando ci sono 3 o più Identità dei Discendenti dela Spada (contano solo le Identità sul campo).\n\nTutti gli alleati infliggono +50% di danni Taglienti.\n\nPer le Identità dei Discendenti della Spada: l'Abilità 1 ottiene Potere Moneta +1; le Abilità 1 a Moneta Singola ottengono Potere Moneta +3.\n\n[Solo per il Mentore dei Discendenti della Spada Meursault] L'Abilità 'Sacrifico la Carne' ottiene Potere Scontro Finale -12; l'Abilità 'Per Reclamare le Ossa' infligge +50% di danni.",
             "simpleDesc": [
                 {
                     "abilityID": 2035,
@@ -135,7 +135,7 @@
                 },
                 {
                     "abilityID": 20352,
-                    "simpleDesc": "Abilità 'Cedo la Carne': Potere Scontro Finale -12; 'Per Strappare le Ossa' infligge il 50% di danni aggiuntivi"
+                    "simpleDesc": "Abilità 'Sacrifico la Carne': Potere Scontro Finale -12; 'Per Reclamare le Ossa' infligge il 50% di danni in più"
                 }
             ]
         }
