@@ -25,12 +25,7 @@
     {
       "id": 144803,
       "name": "Lanciando la Catena Ohra",
-      "desc": "Sul colpo, se il bersaglio è Stordito, infligge 2 [Binding] il turno successivo (una volta per turno)"
-    },
-    {
-      "id": 144805,
-      "name": "Undertake Orders",
-      "desc": "Gain [SlaveHunersPower] for this Encounter"
+      "desc": "Sul colpo, se il bersaglio è Stordito, infligge 2 [Binding] il turno successivo"
     },
     {
       "id": 145201,
@@ -42,15 +37,10 @@
       "name": "Fissare i Chiodi",
       "desc": "Quando innesca [VibrationExplosion] su un nemico, alza la Soglia di Stordimento del bersaglio di (Stack [LensmanNail])"
     },
-        {
-      "id": 145204,
-      "name": "Undertake Orders",
-      "desc": "Gain [LensmanPower] for this Encounter"
-    },
     {
       "id": 145001,
       "name": "Spada della Patria [Sal] - Grande Hwando",
-      "desc": "A inizio incontro, ottiene 5 [ChoiSwordsmanship]\n\n<color=#ff6000><mark color=#ff000040><b><u>Assume una Forma da Battaglia della Patria diversa ogni 3 turni</color></mark></b></u>\n\nA fine turno, se quest'unità ha Scudo, ottiene 5 [Breath] e +2 Conteggio [Breath] il turno successivo\n\nUsa un pattern che include l'Abilità \"Arco della Patria [Sal] - Freccialibera\" se una delle seguenti condizioni viene soddisfatta:\n- Se quest'unità ha perso tutti gli Scontri per 2 turni di fila (non considera gli Attacchi Incontrastati)\n- Nel turno successivo a quello in cui quest'unità era Stordita\n- Se in Panico o Morale Basso",
+      "desc": "A inizio incontro, ottiene 5 [ChoiSwordsmanship]\n\n<color=#ff6000><mark color=#ff000040><b><u>Assume una Forma da Battaglia della Patria diversa ogni 3 turni</color></mark></b></u>\n\nA fine turno, se quest'unità ha Scudo, ottiene 5 [Breath] e +2 Conteggio [Breath] il turno successivo\n\nUsa un pattern che include l'Abilità \"Arco della Patria <noparse>[Sal]</noparse> - Freccialibera\" se una delle seguenti condizioni viene soddisfatta:\n- Se quest'unità ha perso tutti gli Scontri per 2 turni di fila (non considera gli Attacchi Incontrastati)\n- Nel turno successivo a quello in cui quest'unità era Stordita\n- Se in Panico o Morale Basso",
       "flavor": "La Spada della Patria, l'arte tradizionale della S Corp nell'uso della lama, è divisa in tre scuole: Sal, Pi e Ppyeo.\nNei loro insegnamenti, esistono tecniche per tagliare o dividere creature dalla stazza colossale come i Sangun.\nPer usarle alla loro piena potenza, uno spadaccino deve adoperare una grande hwando della qualità e dimensione tale da sopportare lo sforzo della tecnica."
     },
     {
@@ -84,7 +74,7 @@
     {
       "id": 145101,
       "name": "Spada della Patria [Sal] - Dividere Carne dalla Carne",
-      "desc": "Encounter Start: Gain 5 [ChoiSwordsmanship]\n\nAssume una Forma da Battaglia della Patria diversa ogni 3 turni\n\nSe colpisce con un'Abilità Tagliente, ottiene 1 Potenza [Breath] (una volta per Abilità)\n\nUsa un pattern che include l'Abilità \"Arco della Patria [Sal] - Freccialibera\" se una delle seguenti condizioni viene soddisfatta:\n- Se quest'unità ha perso tutti gli Scontri per 2 turni di fila (non considera gli Attacchi Incontrastati)\n- Nel turno successivo a quello in cui quest'unità era Stordita\n- Se in Panico o Morale Basso\n\nA inizio turno, a Min o Max Stack di [ChoiSwordsmanship], usa un'Abilità potente\nSe ha usato \"Arco della Patria [Sal] - Freccialibera\" nel turno precedente, usa un'Abilità potente a prescindere dagli Stack di [ChoiSwordsmanship] su di sé\nA 55% o meno PV, usa un'Abilità potente a prescindere dagli Stack di [ChoiSwordsmanship] su di sé",
+      "desc": "Encounter Start: Gain 5 [ChoiSwordsmanship]\n\nAssume una Forma da Battaglia della Patria diversa ogni 3 turni\n\nSe colpisce con un'Abilità Tagliente, ottiene 1 Potenza [Breath] (una volta per Abilità)\n\nUsa un pattern che include l'Abilità \"Arco della Patria <noparse>[Sal]</noparse> - Freccialibera\" se una delle seguenti condizioni viene soddisfatta:\n- Se quest'unità ha perso tutti gli Scontri per 2 turni di fila (non considera gli Attacchi Incontrastati)\n- Nel turno successivo a quello in cui quest'unità era Stordita\n- Se in Panico o Morale Basso\n\nA inizio turno, a Min o Max Stack di [ChoiSwordsmanship], usa un'Abilità potente\nSe ha usato \"Arco della Patria <noparse>[Sal]</noparse> - Freccialibera\" nel turno precedente, usa un'Abilità potente a prescindere dagli Stack di [ChoiSwordsmanship] su di sé\nA 55% o meno PV, usa un'Abilità potente a prescindere dagli Stack di [ChoiSwordsmanship] su di sé",
       "flavor": "La Spada della Patria tramandata nel Circolo di Corte Sal non è, nella sua essenza, un'arte dell'uccisione.\nTagliare ancora e ancora fin quando il sangue non smette di scorrere e le ossa sono totalmente esposte, quella è l'essenza di questa arte che rende la carne dell'avversario\nQuesto è lo Scherma della Patria praticato dai \"Sal.\""
     },
     {
@@ -107,7 +97,7 @@
     {
       "id": 146001,
       "name": "Distorsione di Tipo Ambientale: Laboratorio Fotografico",
-      "desc": "Quest'unità non può essere uccisa e subisce danni solo dalle Abilità che la bersagliano come bersaglio principale\n\nLa Velocità di quest'unità è fissata a 1\n\nA inizio turno, ottiene 3 [PhotoTransitionChoiCamera] dopo essere entrato nell'Incontro\n\n<color=#ff6000><mark color=#ff000040><b><u>Se i PV di questa unità arrivano a 1, o se [PhotoTransitionChoiCamera] arriva a 0 Stack</color></mark></b></u>, attiva i seguenti effetti:\n- Rimuove sé stessa e Personale di Classe 2 della N Corp dall'Incontro\n- Fa tornare Im Gyeong-eop\n- Cambia il terreno"
+      "desc": "Quest'unità non può essere uccisa e subisce danni solo dalle Abilità che la bersagliano come bersaglio principale\n\nLa Velocità di quest'unità è fissata a 1\n\nA inizio turno, ottiene 3 [PhotoTransitionChoiCamera] dopo essere entrato nell'Incontro\n\nA fine turno, <color=#ff6000><mark color=#ff000040><b><u>se [PhotoTransitionChoiCamera] scende a 0, o se i PV di quest'unità scendono a 1</color></mark></b></u>, attiva i seguenti effetti nel turno successivo:\n- Rimuove sé stessa e Personale di Classe 2 della N Corp dall'Incontro\n- Fa tornare Im Gyeong-eop\n- Cambia il terreno"
     },
     {
       "id": 146002,
