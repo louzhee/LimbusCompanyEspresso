@@ -2563,7 +2563,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Per Strappare le Ossa",
+          "name": "Per Reclamare le Loro Ossa",
           "desc": "[CantDuel]\nQuesta Abilità non attiva Abilità Difensive\nOttiene +0.5% danni per ogni 1% PV mancanti su sè (max 20%)\nInfligge +3% danni su Colpo Critico per ogni [Agility] su sè (max 15%)",
           "coinlist": [
             {
@@ -2590,7 +2590,7 @@
         },
         {
           "level": 2,
-          "name": "Per Strappare le Ossa",
+          "name": "Per Reclamare le Loro Ossa",
           "desc": "[CantDuel]\nQuesta Abilità non attiva Abilità Difensive\nInfligge +0.5% danni per ogni 1% PV mancanti su sè (max 20%)\nInfligge +3% danni su Colpo Critico per ogni [Agility] su sè (max 15%)\n<style=\"highlight\">[WhenUse] Infligge +1% danni per ogni [WindBladeIshmael] su sè (max 15%)</style>",
           "coinlist": [
             {
@@ -2617,7 +2617,7 @@
         },
         {
           "level": 4,
-          "name": "Per Strappare le Ossa",
+          "name": "Per Reclamare le Loro Ossa",
           "desc": "[CantDuel]\nQuesta Abilità non attiva Abilità Difensive\nInfligge +0.5% danni per ogni 1% PV mancanti su sè (max 20%)\nInfligge +3% danni su Colpo Critico per ogni [Agility] su sè (max 15%)\n[WhenUse] Infligge +1% danni per ogni [WindBladeIshmael] su sè (max 15%)\n<style=\"highlight\">[WhenUse] Infligge +1.5% danni su Colpo Critico per ogni [Breath] su sè (max 30%)</style>",
           "coinlist": [
             {

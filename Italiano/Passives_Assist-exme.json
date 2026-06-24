@@ -10,7 +10,7 @@
     {
       "id": 40003802,
       "name": "Fendi-Vertebre del Fuoco Demoniaco",
-      "desc": "A fine attacco, ottiene 1 [WindBlade] per ogni 3 [Breath] (max 5, 2 volte per turno)\n\nA Fine Attacco con Abilità Base, se questa unità ha 15+ [WindBlade], attiva \"Stabilizzazione - Fiamma Lucente Increspata\" sul nemico (una volta per turno)\n\nQuando perde uno Scontro con un Abilità Difensiva, se questa unità ha 3+ [Agility], questa unità non può essere stordita fino alla fine dell'Abilità Difensiva e usa l'Abilità \"Per Strappare le Ossa\" dopo essere stata colpita (2 volte per turno, esclude gli Stordimenti forzati)",
+      "desc": "A fine attacco, ottiene 1 [WindBlade] per ogni 3 [Breath] (max 5, 2 volte per turno)\n\nA Fine Attacco con Abilità Base, se questa unità ha 15+ [WindBlade], attiva \"Stabilizzazione - Fiamma Lucente Increspata\" sul nemico (una volta per turno)\n\nQuando perde uno Scontro con un Abilità Difensiva, se questa unità ha 3+ [Agility], questa unità non può essere stordita fino alla fine dell'Abilità Difensiva e usa l'Abilità \"Per Reclamare le Loro Ossa\" dopo essere stata colpita (2 volte per turno, esclude gli Stordimenti forzati)",
       "summary": "Attiva un'Abilità bonus sotto certi requisiti"
     },
     {
@@ -47,8 +47,8 @@
     },
     {
       "id": 40004005,
-      "name": "Cedo la Carne per Strappare le Ossa",
-      "desc": "Quando questa unità subisce danni fatali, annulla quei danni. Poi, i PV di questa unità non possono scendere sotto 1 per il resto del turno (una volta per Incontro)\n\nA inizio turno, se ha 30+ Potenza [Breath], porta la sua Velocità 20 ed equipaggia l'Abilità \"Cedo la Carne\" sullo Slot più a sinistra\n- Se \"Cedo la Carne\" è inaccessible, questo effetto non viene attivato"
+      "name": "Sacrifico la Carne Per Reclamare le Loro Ossa",
+      "desc": "Quando questa unità subisce danni fatali, annulla quei danni. Poi, i PV di questa unità non possono scendere sotto 1 per il resto del turno (una volta per Incontro)\n\nA inizio turno, se ha 30+ Potenza [Breath], porta la sua Velocità 20 ed equipaggia l'Abilità \"Sacrifico la Carne\" sullo Slot più a sinistra\n- Se \"Sacrifico la Carne\" è inaccessible, questo effetto non viene attivato"
     },
     {
       "id": 40004006,

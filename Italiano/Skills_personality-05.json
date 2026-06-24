@@ -427,16 +427,16 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Cedo la Carne",
-          "desc": "[WhenUse] Ottiene +3 [Aggro] per questo Slot Abilità il turno successivo\n[WhenUse] Finché quest'Abilità non è finita, questa unità non può essere Stordita dai danni subiti\n[WinDuel] Ottiene 5 [Breath]\n[DefeatDuel] Dopo aver subito un colpo, usa l'Abilità 'Per Strappare Le Ossa'\n[CriticalActivated] Infligge +2% danni sul Colpo Critico per ogni Potenza [Breath] su di sé (Max 50%)\n+15% Danni sul Colpo Critico\nInfligge +0.5% danni per ogni 1% dei propri PV mancanti (Max 25%)",
+          "name": "Sacrifico la Carne",
+          "desc": "[WhenUse] Ottiene +3 [Aggro] per questo Slot Abilità il turno successivo\n[WhenUse] Finché quest'Abilità non è finita, questa unità non può essere Stordita dai danni subiti\n[WinDuel] Ottiene 5 [Breath]\n[DefeatDuel] Dopo aver subito un colpo, usa l'Abilità 'Per Reclamare le Loro Ossa'\n[CriticalActivated] Infligge +2% danni sul Colpo Critico per ogni Potenza [Breath] su di sé (Max 50%)\n+15% Danni sul Colpo Critico\nInfligge +0.5% danni per ogni 1% dei propri PV mancanti (Max 25%)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Cedo la Carne",
-          "desc": "[WhenUse] Ottiene +3 [Aggro] per questo Slot Abilità il turno successivo\n[WhenUse] Finché quest'Abilità non è finita, questa unità non può essere Stordita dai danni subiti\n[WinDuel] Ottiene 5 [Breath]\n[DefeatDuel] Dopo aver subito un colpo, usa l'Abilità 'Per Strappare Le Ossa'\n[CriticalActivated] Infligge +3% danni sul Colpo Critico per ogni Potenza [Breath] su di sé (Max 75%)\n+30% Danni sul Colpo Critico\nInfligge +0.5% danni per ogni 1% dei propri PV mancanti (Max 25%)",
+          "name": "Sacrifico la Carne",
+          "desc": "[WhenUse] Ottiene +3 [Aggro] per questo Slot Abilità il turno successivo\n[WhenUse] Finché quest'Abilità non è finita, questa unità non può essere Stordita dai danni subiti\n[WinDuel] Ottiene 5 [Breath]\n[DefeatDuel] Dopo aver subito un colpo, usa l'Abilità 'Per Reclamare le Loro Ossa'\n[CriticalActivated] Infligge +3% danni sul Colpo Critico per ogni Potenza [Breath] su di sé (Max 75%)\n+30% Danni sul Colpo Critico\nInfligge +0.5% danni per ogni 1% dei propri PV mancanti (Max 25%)",
           "coinlist": [
             {}
           ]
@@ -481,7 +481,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Per Strappare Le Ossa",
+          "name": "Per Reclamare le Loro Ossa",
           "desc": "[BeforeAttack] A 10+ [Breath], Portata Attacco +1\n[WhenUse] Finché quest'Abilità non è finita, questa unità non può essere Stordita dai danni subiti\n[WhenUse] Infligge +2% danni sul Colpo Critico per ogni Potenza [Breath] su di sé (Max 50%)\n+20% Danni sul Colpo Critico\nInfligge +0.5% danni per ogni 1% dei propri PV mancanti (Max 25%)",
           "coinlist": [
             {},
@@ -501,7 +501,7 @@
         },
         {
           "level": 4,
-          "name": "Per Strappare Le Ossa",
+          "name": "Per Reclamare le Loro Ossa",
           "desc": "<style=\"highlight\">[BeforeAttack] Per ogni 7 [Breath] su di sé, Portata Attacco +1 (Max +2)</style>\n[WhenUse] Finché quest'Abilità non è finita, questa unità non può essere Stordita dai danni subiti\n[WhenUse] Infligge +2% danni sul Colpo Critico per ogni Potenza [Breath] su di sé (Max 50%)\n+<style=\"highlight\">30</style>% Danni sul Colpo Critico\nInfligge +0.5% danni per ogni 1% dei propri PV mancanti (Max 25%)\n<style=\"highlight\">Se questa Abilità bersaglia un solo nemico, infligge +100% danni (Negli Incontri Mirati, una Sola Parte)</style>",
           "coinlist": [
             {},

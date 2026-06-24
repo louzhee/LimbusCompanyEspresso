@@ -3070,13 +3070,13 @@
     {
       "id": 1081503,
       "name": "Fendi-Vertebre del Fuoco Demoniaco",
-      "desc": "Quando perde uno scontro con un Abilità Difensiva, se questa unità possiede 3+ [Agility], questa unità non può essere stordita prendendo danni fino alla fine dell'abilità difensiva, e attiva \"Per Strappare le Ossa\" dopo essere stata colpita (2 volte per turno, escludendo stordimenti forzati)",
+      "desc": "Quando perde uno scontro con un Abilità Difensiva, se questa unità possiede 3+ [Agility], questa unità non può essere stordita prendendo danni fino alla fine dell'abilità difensiva, e attiva \"Per Reclamare le Loro Ossa\" dopo essere stata colpita (2 volte per turno, escludendo stordimenti forzati)",
       "summary": "Activate additional Skill when conditions are met"
     },
     {
       "id": 1081513,
       "name": "Fendi-Vertebre del Fuoco Demoniaco",
-      "desc": "<style=\"highlight\">A Fine Attacco con Abilità Base, se questa unità ha 15+ [WindBladeIshmael], attiva \" Stabilizzazione - Fiamma Lucente Increspata\" (una volta per turno)</style>\n\nQuando perde uno scontro con un Abilità Difensiva, se questa unità possiede 3+ [Agility], questa unità non può essere stordita prendendo danni fino alla fine dell'abilità difensiva, e attiva \"Per Strappare le Ossa\" dopo essere stata colpita (2 volte per turno, escludendo stordimenti forzati)",
+      "desc": "<style=\"highlight\">A Fine Attacco con Abilità Base, se questa unità ha 15+ [WindBladeIshmael], attiva \" Stabilizzazione - Fiamma Lucente Increspata\" (una volta per turno)</style>\n\nQuando perde uno scontro con un Abilità Difensiva, se questa unità possiede 3+ [Agility], questa unità non può essere stordita prendendo danni fino alla fine dell'abilità difensiva, e attiva \"Per Reclamare le Loro Ossa\" dopo essere stata colpita (2 volte per turno, escludendo stordimenti forzati)",
       "summary": "Activate additional Skill when conditions are met"
     },
     {

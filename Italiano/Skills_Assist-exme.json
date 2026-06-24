@@ -161,7 +161,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Per Strappare le Ossa",
+          "name": "Per Reclamare le Loro Ossa",
           "desc": "[CantDuel]\nNon attiva le Abilità Difensive\nInfligge +0.5% damage per ogni 1% dei PV mancanti su di sé (max 25%)\nInfligge +10% danni sul Colpo Critico per ogni [Agility] su di sé (max 50%)\n[WhenUse] Potere Base +1 per ogni 4 ([Breath] su di sé + [Laceration] sul bersaglio) (max 4)",
           "coinlist": [
             {
@@ -329,8 +329,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cedo la Carne",
-          "desc": "Bersaglia lo Slot Abilità col Potere Massimo più alto\n[WhenUse] Fino alla fine dell'attacco:\n- Subisce -2% danni dagli Attacchi per ogni [Breath] su di sé (min -80%)\n- Potere Scontro -1 per ogni [Breath] su di sé (min -30)\n- Non può essere Stordito\n[WinDuel] Ottiene 5 [Breath]\n[DefeatDuel] Usa \"per Strappare le Ossa\" dopo essere stato colpito\n[EndBattle] Non può usare \"Cedo la Carne\" fino al turno successivo",
+          "name": "Sacrifico la Carne",
+          "desc": "Bersaglia lo Slot Abilità col Potere Massimo più alto\n[WhenUse] Fino alla fine dell'attacco:\n- Subisce -2% danni dagli Attacchi per ogni [Breath] su di sé (min -80%)\n- Potere Scontro -1 per ogni [Breath] su di sé (min -30)\n- Non può essere Stordito\n[WinDuel] Ottiene 5 [Breath]\n[DefeatDuel] Usa \"Per Reclamare le Loro Ossa\" dopo essere stato colpito\n[EndBattle] Non può usare \"Sacrifico la Carne\" fino al turno successivo",
           "coinlist": [
             {
               "coindescs": [
@@ -354,7 +354,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Per Strappare le Ossa",
+          "name": "Per Reclamare le Loro Ossa",
           "desc": "[WhenUse] A 10+ [Breath], Potere Moneta +1\n[WhenUse] Infligge +40% danni per ogni Portata Attacco in eccesso al numero dei bersagli (negli Incontri Mirati, le Parti)\n[WhenUse] Ottiene +4 Conteggio [Breath]\n[EndSkill] Consuma ogni [Breath] su di sé",
           "coinlist": [
             {
