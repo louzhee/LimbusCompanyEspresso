@@ -76,7 +76,7 @@
         {
           "level": 1,
           "name": "Contrattacco",
-          "desc": "[WhenUse] Se il bersaglio ha 5+ [Combustion], Coin Power +2",
+          "desc": "[WhenUse] Se il bersaglio ha 5+ [Combustion], Potere Moneta +2",
           "coinlist": [
             {
               "coindescs": [
