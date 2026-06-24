@@ -2,27 +2,27 @@
   "dataList": [
     {
       "id": 90110,
-      "name": "Determined Kurokumo Henchman",
+      "name": "Scagnozzo Determinato del Clan Kurokumo",
       "desc": "Nucleo"
     },
     {
       "id": 90111,
-      "name": "Tense Kurokumo Henchman",
+      "name": "Scagnozzo Teso del Clan Kurokumo",
       "desc": "Nucleo"
     },
     {
       "id": 90112,
-      "name": "Adept Kurokumo Henchwoman",
+      "name": "Scagnozza Capace del Clan Kurokumo",
       "desc": "Nucleo"
     },
     {
       "id": 90113,
-      "name": "Tired Kurokumo Henchwoman",
+      "name": "Scagnozza Stanca del Clan Kurokumo",
       "desc": "Nucleo"
     },
     {
       "id": 91013,
-      "name": "Kurokumo Clan Captain Jun",
+      "name": "Jun, Capitano del Clan Kurokumo",
       "desc": "Nucleo"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "id": 8153,
-      "name": "Distorting Bamboo-hatted Kim",
+      "name": "Kim Cappello di Bambù in Distorsione",
       "desc": "Nucleo"
     },
     {
       "id": 8154,
-      "name": "Distorted Bamboo-hatted Kim",
+      "name": "Kim Cappello di Bambù Distorto",
       "desc": "Nucleo"
     }
   ]
