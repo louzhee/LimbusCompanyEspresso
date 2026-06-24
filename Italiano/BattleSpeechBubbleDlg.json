@@ -883,22 +883,22 @@
     {
       "id": "battle_s3_10508_1_1-01",
       "desc": "BL Meursault - S3",
-      "dlg": "Cedo la carne!"
+      "dlg": "Sacrifico la carne!"
     },
     {
       "id": "battle_s3_10508_1_1-02",
       "desc": "BL Meursault - Counter-2 start",
-      "dlg": "Cedo la carne..."
+      "dlg": "Sacrifico la carne..."
     },
     {
       "id": "battle_s3_10508_1_4",
       "desc": "BL Meursault - Counter-2 end",
-      "dlg": "per strappare le ossa!"
+      "dlg": "Per reclamare le loro ossa!"
     },
     {
       "id": "battle_s3_10508_1_4-03",
       "desc": "BL Meursault - Counter-2 premature kill",
-      "dlg": "... Per strappare le ossa."
+      "dlg": "... Per reclamare le loro ossa."
     },
     {
       "id": "battle_s3_10908_1_2",
@@ -3393,12 +3393,12 @@
     {
       "id": "battle_special_10815_3_1",
       "desc": "Ishdu - S2-2 start",
-      "dlg": "Cedo la carne..."
+      "dlg": "Sacrifico la carne..."
     },
     {
       "id": "battle_special_10815_3_2",
       "desc": "Ishdu - S2-2 end",
-      "dlg": "per strappare le ossa!"
+      "dlg": "Per reclamare le loro ossa!"
     },
     {
       "id": "battle_s3_10615_1_1",

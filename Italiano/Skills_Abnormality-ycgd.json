@@ -325,7 +325,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Per Strappare le Ossa",
+          "name": "Per Reclamare le Loro Ossa",
           "desc": "[StartBattle] Ottiene 50 Scudo\n[WhenUse] Se lo Scudo non è stato distrutto, Potere Scontro +5",
           "coinlist": [
             {
@@ -380,7 +380,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cedo la Carne",
+          "name": "Sacrifico la Carne",
           "desc": "Ottiene X [Grudge] il turno successivo (X = Danno inflitto dall'Abilità che ha innescato questa Abilità)",
           "coinlist": [
             {
@@ -399,7 +399,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Per Strappare le Ossa",
+          "name": "Per Reclamare le Loro Ossa",
           "desc": "[StartBattle] Ottiene 200 Scudo\n[WhenUse] Ottiene +3 Conteggio [Breath]\n[WhenUse] Se lo scudo non è stato distrutto, Potere Scontro +10",
           "coinlist": [
             {
@@ -457,7 +457,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Per Strappare le Ossa",
+          "name": "Per Reclamare le Loro Ossa",
           "desc": "[CantChangeTarget]\nDà priorità al nemico con meno PV\n[EnemyKill] Raddoppia il [Grudge].\n[EnemyKill] Recupera PV pari al valore del [Grudge]",
           "coinlist": [
             {},
