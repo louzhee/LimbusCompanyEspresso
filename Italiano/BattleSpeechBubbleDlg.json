@@ -842,7 +842,7 @@
     },
     {
       "id": "battle_s3_10808_1_2",
-      "desc": "Ahab - S3 continue",
+      "desc": "Ahab - S3 mid",
       "dlg": "La determinazione ardente...!"
     },
     {
@@ -1677,7 +1677,7 @@
     },
     {
       "id": "battle_s3_10114_1_2",
-      "desc": "Wu Yisang - S3 continue",
+      "desc": "Wu Yisang - S3 mid",
       "dlg": "E il secondo."
     },
     {
@@ -1692,12 +1692,12 @@
     },
     {
       "id": "battle_s3_10114_1_2-01",
-      "desc": "Wu Yisang - S3-2 continue",
+      "desc": "Wu Yisang - S3-2 mid",
       "dlg": "Superano tre."
     },
     {
       "id": "battle_s3_10114_1_3-01",
-      "desc": "Wu Yisang - S3-2 continue",
+      "desc": "Wu Yisang - S3-2 mid",
       "dlg": "Supera l'insuperabile."
     },
     {
@@ -1732,12 +1732,12 @@
     },
     {
       "id": "battle_s3_11014_1_5",
-      "desc": "You Sinclair - S3 continue",
+      "desc": "You Sinclair - S3 mid",
       "dlg": "Sì!"
     },
     {
       "id": "battle_s3_11014_1_7-01",
-      "desc": "You Sinclair - S3 continue",
+      "desc": "You Sinclair - S3 mid",
       "dlg": "Sì, sì, sì! Haha!"
     },
     {
@@ -1947,12 +1947,12 @@
     },
     {
       "id": "battle_special_10813_5",
-      "desc": "Jeong Ishmael - Goko (5 bright) continue",
+      "desc": "Jeong Ishmael - Goko (5 bright) mid",
       "dlg": "Tenda."
     },
     {
       "id": "battle_special_10813_6",
-      "desc": "Jeong Ishmael - Goko (5 bright) continue",
+      "desc": "Jeong Ishmael - Goko (5 bright) mid",
       "dlg": "Luna e Ono no Tōfū..."
     },
     {
@@ -2002,17 +2002,17 @@
     },
     {
       "id": "battle_special_11213_4",
-      "desc": "Night Awl gregor - S3-2 continue",
+      "desc": "Night Awl gregor - S3-2 mid",
       "dlg": "Gola."
     },
     {
       "id": "battle_special_11213_5",
-      "desc": "Night Awl gregor - S3-2 continue",
+      "desc": "Night Awl gregor - S3-2 mid",
       "dlg": "Cuore."
     },
     {
       "id": "battle_special_11213_7",
-      "desc": "Night Awl gregor - S3-2 continue",
+      "desc": "Night Awl gregor - S3-2 mid",
       "dlg": "Perforerò..."
     },
     {
@@ -2042,7 +2042,7 @@
     },
     {
       "id": "battle_special_10714_2-01",
-      "desc": "You Heathcliff - S3-2 continue",
+      "desc": "You Heathcliff - S3-2 mid",
       "dlg": "<i><size=140%>HAHAHAHAHAHAHA!!</size></i>"
     },
     {
@@ -2327,32 +2327,32 @@
     },
     {
       "id": "battle_s2_10814_1_2-02",
-      "desc": "Middle Ishmael - S2 continue",
+      "desc": "Middle Ishmael - S2 mid",
       "dlg": "Due!"
     },
     {
       "id": "battle_s2_10814_1_2-03",
-      "desc": "Middle Ishmael - S2 continue",
+      "desc": "Middle Ishmael - S2 mid",
       "dlg": "Due!"
     },
     {
       "id": "battle_s2_10814_1_2-04",
-      "desc": "Middle Ishmael - S2 continue",
+      "desc": "Middle Ishmael - S2 mid",
       "dlg": "Due!"
     },
     {
       "id": "battle_s2_10814_1_2-05",
-      "desc": "Middle Ishmael - S2 continue",
+      "desc": "Middle Ishmael - S2 mid",
       "dlg": "Due!"
     },
     {
       "id": "battle_s2_10814_1_2-06",
-      "desc": "Middle Ishmael - S2 continue",
+      "desc": "Middle Ishmael - S2 mid",
       "dlg": "Due!"
     },
     {
       "id": "battle_s2_10814_1_2-07",
-      "desc": "Middle Ishmael - S2 continue",
+      "desc": "Middle Ishmael - S2 mid",
       "dlg": "Due!"
     },
     {
@@ -2902,7 +2902,7 @@
     },
     {
       "id": "battle_special_10915_1_2",
-      "desc": "Ring Rodya - S3-2 continue",
+      "desc": "Ring Rodya - S3-2 mid",
       "dlg": "Ahahahahahaha!"
     },
     {
@@ -3062,7 +3062,7 @@
     },
     {
       "id": "battle_special_10415_10",
-      "desc": "HoS Ryoshu - Rend Space Echoshear continue",
+      "desc": "HoS Ryoshu - Rend Space Echoshear mid",
       "dlg": "<color=#c5adf7>Ho sopportato senza fiato.\nHo desiderato tristemente.\nHo maledetto, ignorando ogni giudizio.</color>"
     },
     {
@@ -3082,7 +3082,7 @@
     },
     {
       "id": "battle_s3_11115_1_2",
-      "desc": "Obama - S3 continue",
+      "desc": "Obama - S3 mid",
       "dlg": "... non sono più..."
     },
     {
@@ -3362,7 +3362,7 @@
     },
     {
       "id": "battle_s3_10815_1_3-02",
-      "desc": "Ishdu - S3-2 continue",
+      "desc": "Ishdu - S3-2 mid",
       "dlg": "Stabilizzazione (相戰)."
     },
     {
@@ -3444,6 +3444,136 @@
       "id": "battle_dead_30501_1",
       "desc": "Distorted BL Meursault - Morte",
       "dlg": "Quest'Oscurità non cede... nemmeno a distanza del palmo..."
+    },
+    {
+      "id": "battle_special_10916_1",
+      "desc": "Thumb Rodya - Evade",
+      "dlg": "Che c'è, non riesci a colpirmi?"
+    },
+    {
+      "id": "battle_special_10916_1_2",
+      "desc": "Thumb Rodya - Evade",
+      "dlg": "Sei lento come la fame."
+    },
+    {
+      "id": "battle_special_10916_1_3",
+      "desc": "Thumb Rodya - Evade",
+      "dlg": "L'ho vista arrivare da un miglio~"
+    },
+    {
+      "id": "battle_special_10916_1_4",
+      "desc": "Thumb Rodya - Evade",
+      "dlg": "Ti sto leggendo come un libro."
+    },
+    {
+      "id": "battle_special_10916_1_5",
+      "desc": "Thumb Rodion - Evade",
+      "dlg": "Te l'ho detto. Sei troppo lento!"
+    },
+    {
+      "id": "battle_special_10916_2",
+      "desc": "Thumb Rodya - Overheat",
+      "dlg": "... Tsk. Si sta già surriscaldando?"
+    },
+    {
+      "id": "battle_special_10916_3",
+      "desc": "Thumb Rodion - Evade FuA",
+      "dlg": "Hah! Tocca a me ora, pezzo di merda."
+    },
+    {
+      "id": "battle_special_10916_4",
+      "desc": "Thumb Rodion - After attack while Heathcliff is dead",
+      "dlg": "Visto, Manuale? Era davvero così difficile?"
+    },
+    {
+      "id": "battle_special_10916_5",
+      "desc": "Thumb Rodion - Disposal 1",
+      "dlg": "Ne ho abbastanza di quella puttana ingrata di Yoshihide— e anche di te! Vai a fanculo!"
+    },
+    {
+      "id": "battle_special_10916_5_2",
+      "desc": "Thumb Rodion - Disposal 2",
+      "dlg": "Vi odio! Vi odio tutti! Odio voi e odio quella fottuta Famiglia del cazzo!"
+    },
+    {
+      "id": "battle_special_10916_6",
+      "desc": "Thumb Rodion - Game Target killed last turn",
+      "dlg": "E ora a chi tocca? Su... tanto sappiamo già come andrà a finire."
+    },
+    {
+      "id": "battle_special_10916_7",
+      "desc": "Thumb Rodion - Stagger Recovery",
+      "dlg": "Mi rifiuto di tirare le cuoia in questo porcile di merda."
+    },
+    {
+      "id": "battle_special_10916_8",
+      "desc": "Thumb Rodion - Heathcliff dead",
+      "dlg": "Hah... Come no... Idiota.\nPotevi resistere un po' di più..."
+    },
+    {
+      "id": "battle_special_10916_9",
+      "desc": "Thumb Rodion - Heathcliff FuA order",
+      "dlg": "Punta al cuore! Al cuore!!"
+    },
+    {
+      "id": "battle_s2_10916_1_3",
+      "desc": "Thumb Rodion - S2-1",
+      "dlg": "Le distrazioni ti faranno finire 2 metri sotto terra!"
+    },
+    {
+      "id": "battle_s3_10916_1_1",
+      "desc": "Thumb Rodion - S3 start",
+      "dlg": "Hahahahaha!"
+    },
+    {
+      "id": "battle_s3_10916_1_1-01",
+      "desc": "Thumb Rodion - S3 end 1",
+      "dlg": "Così volge al termine la nostra caccia."
+    },
+    {
+      "id": "battle_s3_10916_1_1-02",
+      "desc": "Thumb Rodion - S3 end 2",
+      "dlg": "Vi ridurrò in poltiglia!!"
+    },
+    {
+      "id": "battle_special_10716_1",
+      "desc": "Thumb Heathcliff - S3-2 Clash start",
+      "dlg": "Siamo solo io e te, ora...\nUn duello..."
+    },
+    {
+      "id": "battle_special_10716_2",
+      "desc": "Thumb Heathcliff - Assist Defense",
+      "dlg": "... Non mi supererai."
+    },
+    {
+      "id": "battle_special_10716_4",
+      "desc": "Thumb Heathcliff - S3-2 end",
+      "dlg": "Nemico smantellato. Non mi faccio fregare due volte."
+    },
+    {
+      "id": "battle_s3_10716_1_1",
+      "desc": "Thumb Heathcliff - S3-1",
+      "dlg": "Ti mostrerò un'approssimazione infinitesimalmente vicina della tua velocità e traiettoria."
+    },
+    {
+      "id": "battle_s3_10716_1_1-02",
+      "desc": "Thumb Heathcliff - S3-1",
+      "dlg": "Il Cacciatore!"
+    },
+    {
+      "id": "battle_s3_10716_1_2",
+      "desc": "Thumb Heathcliff - S3-2 start",
+      "dlg": "Ammira una dimostrazione della tecnica di smantellamento Palermitano."
+    },
+    {
+      "id": "battle_s3_10716_1_2-01",
+      "desc": "Thumb Heathcliff - S3-2 mid",
+      "dlg": "Sezionatura di Cervo!"
+    },
+    {
+      "id": "battle_s3_10716_1_2-02",
+      "desc": "Thumb Heathcliff - S3-2 end",
+      "dlg": "Dimostrazione completata."
     }
   ]
 }
