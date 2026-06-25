@@ -48,12 +48,12 @@
       {
         "id": "neglect_10716_1",
         "desc": "Idle",
-        "dlg": "Maybe I can kill her now. Maybe this is my chance."
+        "dlg": "Forse dovrei ucciderla ora. Forse è il mio momento."
       },
       {
         "id": "gacksung_10716_1",
         "desc": "Uptying",
-        "dlg": "In one-on-one duels, my Palermitan Style has the advantage."
+        "dlg": "Nei duelli uno contro uno, il mio Stile Palermitano ha il vantaggio."
       },
       {
         "id": "formation_10716_1",
@@ -73,7 +73,7 @@
       {
         "id": "battle_endcommand_10716_1",
         "desc": "Commencing Attack",
-        "dlg": "Observe the arcs of my blade and let them jog your memories."
+        "dlg": "Osserva attentamente l'angolo della mia spada. Lascia che ti rinfreschi la memoria."
       },
       {
         "id": "battle_enemy_break_10716_1",
