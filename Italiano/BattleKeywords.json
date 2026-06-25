@@ -2465,14 +2465,14 @@
     {
       "id": "ProtectStanceRyoshu",
       "name": "Posa della Protettrice",
-      "desc": "- Max Stack: 2\n- Subisce il (Stack x 10)% di danni in meno\n- Inizio Turno: Ottiene Scudo in base alla quantità di Equilibrio su di sé (max 20)\n- Fine Turno: Ottiene 3 Potenza Equilibrio e +1 Conteggio Equilibrio: lo Slot Abilità posizionato più a sinistra di quest'unità ottiene +5 Aggro il turno successivo\n- Fine Turno: Perde 1 Stack",
+      "desc": "- Stack Max: 2\n- Subisce il (Stack x 10)% di danni in meno\n- Inizio Turno: Ottiene Scudo in base alla quantità di Equilibrio su di sé (max 20)\n- Fine Turno: Ottiene 3 Potenza Equilibrio e +1 Conteggio Equilibrio: lo Slot Abilità posizionato più a sinistra di quest'unità ottiene +5 Aggro il turno successivo\n- Fine Turno: Perde 1 Stack",
       "summary": "Take less damage",
       "undefined": "-"
     },
     {
       "id": "TheUdjatOutis",
       "name": "Udjat [Avanguardia]",
-      "desc": "- Max Stack: 2\n- Velocità Min & Max +3\n- Inizio Combattimento: gain 1 Protezione\n- Ottiene i seguenti effetti durante la Fase di Combattimento (una volta per Abilità, 3 volte per turno)\n· Quando quest'unità è il bersaglio di un Attacco Incontrastato, dimezza la chance per la prima Moneta dell'Abilità di ottenere Testa\n· Inizio Scontro: Nel primo Scontro, dimezza la chance del bersaglio di ottere Testa per tutte le sue Monete\n· Per entrambi gli effetti sovracitati, se il bersaglio ha Monete Negative, dimezza invece la sua chance di ottenere Croce\n- Fine Turno: si riduce di 1 Stack",
+      "desc": "- Stack Max: 2\n- Velocità Min & Max +3\n- Inizio Combattimento: gain 1 Protezione\n- Ottiene i seguenti effetti durante la Fase di Combattimento (una volta per Abilità, 3 volte per turno)\n· Quando quest'unità è il bersaglio di un Attacco Incontrastato, dimezza la chance per la prima Moneta dell'Abilità di ottenere Testa\n· Inizio Scontro: Nel primo Scontro, dimezza la chance del bersaglio di ottere Testa per tutte le sue Monete\n· Per entrambi gli effetti sovracitati, se il bersaglio ha Monete Negative, dimezza invece la sua chance di ottenere Croce\n- Fine Turno: si riduce di 1 Stack",
       "summary": "",
       "undefined": "-"
     },
@@ -2486,7 +2486,7 @@
     {
       "id": "SheutFracture",
       "name": "Frattura Sheut",
-      "desc": "- Max Stack: 10\n- Annegamento Speciale\n- Per ogni Stack, subisce +1% danni in più dalle Abilità Accidia e Tristezza\n- A Stack max, ottiene 1 Fragilità Tristezza (una volta per turno), subisce danno da Tristezza pari alla Potenza Annegamento su di sé (perde 1 Conteggio Annegamento), poi scade\n- Se l'unità con quest'effetto muore, trasferisce metà delle sue Stack all'alleato con i PS più alti (arrotondato per difetto)\n- Inizio Turno: Se non ci sono Identità della LCA sul campo, scade",
+      "desc": "- Stack Max: 10\n- Annegamento Speciale\n- Per ogni Stack, subisce +1% danni in più dalle Abilità Accidia e Tristezza\n- A Stack max, ottiene 1 Fragilità Tristezza (una volta per turno), subisce danno da Tristezza pari alla Potenza Annegamento su di sé (perde 1 Conteggio Annegamento), poi scade\n- Se l'unità con quest'effetto muore, trasferisce metà delle sue Stack all'alleato con i PS più alti (arrotondato per difetto)\n- Inizio Turno: Se non ci sono Identità della LCA sul campo, scade",
       "summary": "",
       "undefined": "-"
     },
@@ -2507,7 +2507,7 @@
     {
       "id": "IDMicroChip",
       "name": "Resident Reg. Microchip",
-      "desc": "- Max Stack: 2\n- Take +10% damage from Wrath and Envy Skills\n- On Clash Lose, gain 1 Burn (3 times per turn)\n- Turn End: Lose 1 Stack",
+      "desc": "- Stack Max: 2\n- Take +10% damage from Wrath and Envy Skills\n- On Clash Lose, gain 1 Burn (3 times per turn)\n- Turn End: Lose 1 Stack",
       "summary": "",
       "undefined": "-"
     },
@@ -2541,7 +2541,7 @@
     {
       "id": "LanternGregBigBird",
       "name": "Lampada",
-      "desc": "- Max Stack: 8\n- Fine Turno: Ottiene 1 Rallentamento al turno successivo per ogni 2 Stack (max 4)\n- Fine Turno: Al massimo delle Stack, se sono presenti nemici in campo, consuma tutte le Stack per attivare i seguenti effetti al turno successivo:\n• Ottiene +10 Provocazione nello Slot più a sinistra\n• Infligge 3 Abbaglio al nemico (Nucleo) con più PV attuali",
+      "desc": "- Stack Max: 8\n- Fine Turno: Ottiene 1 Rallentamento al turno successivo per ogni 2 Stack (max 4)\n- Fine Turno: Al massimo delle Stack, se sono presenti nemici in campo, consuma tutte le Stack per attivare i seguenti effetti al turno successivo:\n• Ottiene +10 Provocazione nello Slot più a sinistra\n• Infligge 3 Abbaglio al nemico (Nucleo) con più PV attuali",
       "summary": "Ottiene Rallentamento nel turno successivo",
       "undefined": "-"
     },
@@ -2629,7 +2629,7 @@
     {
       "id": "StackYisangSpecialSkill",
       "name": "Attuazione [Hermes]",
-      "desc": "- Inizio Turno: A 9 Stack, diventa disponibile un’Abilità potente\n- L’effetto può essere ottenuto fino a (livello di Sprigiona + 2) Stack per turno\n- Max Stack: 9\n· A meno di Sprigiona - II, le Stack di questo effetto sono limitate a 8",
+      "desc": "- Inizio Turno: A 9 Stack, diventa disponibile un’Abilità potente\n- L’effetto può essere ottenuto fino a (livello di Sprigiona + 2) Stack per turno\n- Stack Max: 9\n· A meno di Sprigiona - II, le Stack di questo effetto sono limitate a 8",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -2749,35 +2749,35 @@
     {
       "id": "ThatIsRhythm",
       "name": "Ritmo",
-      "desc": "- Max Stack: 5\n- Infligge +2% danni per ogni Stack (max 10%)\n- Livello Offensivo +1 per ogni Stack (max 5)\n- Livello Difensivo -1 per ogni Stack (max -5)\n- Fine Turno: Questo Effetto Scade",
+      "desc": "- Stack Max: 5\n- Infligge +2% danni per ogni Stack (max 10%)\n- Livello Offensivo +1 per ogni Stack (max 5)\n- Livello Difensivo -1 per ogni Stack (max -5)\n- Fine Turno: Questo Effetto Scade",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "MeursaultBeeSpore",
       "name": "Spore",
-      "desc": "- Max Stack: 15\n- Fine Turno: Ottiene +1 Conteggio Bruciatura per ogni 5 Stack\n- Ottiene 1 Rallentamento il turno successivo",
+      "desc": "- Stack Max: 15\n- Fine Turno: Ottiene +1 Conteggio Bruciatura per ogni 5 Stack\n- Ottiene 1 Rallentamento il turno successivo",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "MeursaultWorkerBee",
       "name": "Feromoni Della Lealtà",
-      "desc": "- Max Stack: 3\n- Ottiene i seguenti effetti in base alle Stack a Fine Turno:\n1+ Stack: 1 Protezione\n2+ Stack: 1 Rapidità\n3 Stack: 1 Potere Scontro Aumentato",
+      "desc": "- Stack Max: 3\n- Ottiene i seguenti effetti in base alle Stack a Fine Turno:\n1+ Stack: 1 Protezione\n2+ Stack: 1 Rapidità\n3 Stack: 1 Potere Scontro Aumentato",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "MeursaultSporeBulletLong",
       "name": "Proiettili Spora [Base]",
-      "desc": "- Munizione Speciale\n- Max Stack: 10\n- Usati da certe Abilità\n- Alcuni attacchi verranno cancellati se le Munizioni non sono sufficenti\n- Quando viene usato, infligge 2 Spore al bersaglio Sul Colpo",
+      "desc": "- Munizione Speciale\n- Stack Max: 10\n- Usati da certe Abilità\n- Alcuni attacchi verranno cancellati se le Munizioni non sono sufficenti\n- Quando viene usato, infligge 2 Spore al bersaglio Sul Colpo",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "MeursaultSporeBulletShort",
       "name": "Proiettili Spora [Pallettoni]",
-      "desc": "- Munizione Speciale\n- Max Stack: 6\n- Usati da certe Abilità\n- Alcuni attacchi verranno cancellati se le Munizioni non sono sufficenti\n- Quando viene usato, infligge 3 Spore al bersaglio Sul Colpo",
+      "desc": "- Munizione Speciale\n- Stack Max: 6\n- Usati da certe Abilità\n- Alcuni attacchi verranno cancellati se le Munizioni non sono sufficenti\n- Quando viene usato, infligge 3 Spore al bersaglio Sul Colpo",
       "summary": "",
       "undefined": "-"
     },
@@ -2862,21 +2862,21 @@
     {
       "id": "SelfChargeAlly",
       "name": "Carica-Autonoma",
-      "desc": "- Potere Finale +2\n- Ottiene Conteggio Carica pari alle Stack perse\n- Perde le Stack a:\n· Fine Attacco con Abilità che colpiscono questa unità (perde 1 Stack)\n· Fine Attacco (perde 3 Stack)\n· Fine Turno (perde 5 Stack)\n- Max Stack: 20\n- I PV di questa unità non possono scendere al di sotto di 1 prima che questo effetto scada",
+      "desc": "- Potere Finale +2\n- Ottiene Conteggio Carica pari alle Stack perse\n- Perde le Stack a:\n· Fine Attacco con Abilità che colpiscono questa unità (perde 1 Stack)\n· Fine Attacco (perde 3 Stack)\n· Fine Turno (perde 5 Stack)\n- Stack Max: 20\n- I PV di questa unità non possono scendere al di sotto di 1 prima che questo effetto scada",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "HighVoltageExoshell",
       "name": "Esoscheletro Ad Alto Voltaggio",
-      "desc": "- Ottiene (Stack x 5) Scudo\n- Se questa unità perde (Stack x 5) Scudo, perde 1 Stack\n- Fine Turno: Ottiene Conteggio Carica pari alle Stack; scadono sia Esoscheletro Ad Alto Voltaggio che Scudo ottenuti da questo effetto\n- Max Stack: 20",
+      "desc": "- Ottiene (Stack x 5) Scudo\n- Se questa unità perde (Stack x 5) Scudo, perde 1 Stack\n- Fine Turno: Ottiene Conteggio Carica pari alle Stack; scadono sia Esoscheletro Ad Alto Voltaggio che Scudo ottenuti da questo effetto\n- Stack Max: 20",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ChargedSting",
       "name": "Pungiglione Caricato",
-      "desc": "- Per ogni Stack, ottiene +4% danni sulle Abilità che ottengono o usano Conteggio Carica ('Carica Speciale' compresa) (max 20%)\n· Se sono Abilità Invidia, ottiene invece +8% danni per ogni Stack (max 40%)\n- Max Stack: 5\n- Perde 1 Stack a Fine Attacco o Fine Turno dopo che l'unità è stata colpita da delle Abilità che rientrano nelle condizioni di attivazione dell'effetto sopracitate (Abilità Attacco Base che infliggono Pungiglione Caricato escluse)",
+      "desc": "- Per ogni Stack, ottiene +4% danni sulle Abilità che ottengono o usano Conteggio Carica ('Carica Speciale' compresa) (max 20%)\n· Se sono Abilità Invidia, ottiene invece +8% danni per ogni Stack (max 40%)\n- Stack Max: 5\n- Perde 1 Stack a Fine Attacco o Fine Turno dopo che l'unità è stata colpita da delle Abilità che rientrano nelle condizioni di attivazione dell'effetto sopracitate (Abilità Attacco Base che infliggono Pungiglione Caricato escluse)",
       "summary": "",
       "undefined": "-"
     },
@@ -2980,49 +2980,49 @@
     {
       "id": "BoldBrushstrokesRodion",
       "name": "Touche Hardie",
-      "desc": "- Max Stack: 2\n- Per ogni Stack, subisce +10% danni ai PV e PS dagli effetti di Sangunamento ed Annegamento (max 20%, arrotondato per difetto)\n- Fine Turno: Perde 1 Stack",
+      "desc": "- Stack Max: 2\n- Per ogni Stack, subisce +10% danni ai PV e PS dagli effetti di Sangunamento ed Annegamento (max 20%, arrotondato per difetto)\n- Fine Turno: Perde 1 Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IntenseColorsRodion",
       "name": "Palette Vibrante",
-      "desc": "- Max Stack: 4\n- Subisce +(Stack x 2.5)% danni dalle Identità dell'Anulare\n· Se l'attaccante è sia un'Identità dell'Anulare che della Scuola del Fauvismo, subisce invece +(Stack x 5)% danni\n- Inizio Combattimento: ottiene casualmente 1 Sangiunamento, 1 Annegamento, 1 Conteggio Sanguinamento o 1 Conteggio Annegamento (Stack) volte\n- Fine Combattimento: Questo effetto scade. Dimezza le Stack di Colore Sbranato [Rouge] e Colore Sbranato [Bleu] su questa unità (arrotondato per difetto)",
+      "desc": "- Stack Max: 4\n- Subisce +(Stack x 2.5)% danni dalle Identità dell'Anulare\n· Se l'attaccante è sia un'Identità dell'Anulare che della Scuola del Fauvismo, subisce invece +(Stack x 5)% danni\n- Inizio Combattimento: ottiene casualmente 1 Sangiunamento, 1 Annegamento, 1 Conteggio Sanguinamento o 1 Conteggio Annegamento (Stack) volte\n- Fine Combattimento: Questo effetto scade. Dimezza le Stack di Colore Sbranato [Rouge] e Colore Sbranato [Bleu] su questa unità (arrotondato per difetto)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ThankyouDocentRodion",
       "name": "L'Hommage",
-      "desc": "- Max Stack: 3\n- Inizio Turno: ottiene casualmente 1 Livello Offensivo Aumentato o 1 Livello Difensivo Aumentato per ogni Stack (max 3 volte)\n- Fine Turno: Questo effetto scade",
+      "desc": "- Stack Max: 3\n- Inizio Turno: ottiene casualmente 1 Livello Offensivo Aumentato o 1 Livello Difensivo Aumentato per ogni Stack (max 3 volte)\n- Fine Turno: Questo effetto scade",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TestWaitDocentRodion",
       "name": "Réflexion",
-      "desc": "- Max Stack: 2\n- Non può usare \"Critique\" durante il turno in cui l'unità ha questo effetto\n- Inizio Turno: Recupera 5 PS\n- Fine Turno: Perde 1 Stack\n- Quando questo effetto scade, il turno successivo ottiene Stack di L'Hommage pari al numero di Identità Studenti dell'Anulare in campo",
+      "desc": "- Stack Max: 2\n- Non può usare \"Critique\" durante il turno in cui l'unità ha questo effetto\n- Inizio Turno: Recupera 5 PS\n- Fine Turno: Perde 1 Stack\n- Quando questo effetto scade, il turno successivo ottiene Stack di L'Hommage pari al numero di Identità Studenti dell'Anulare in campo",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BearClawWoundAlly",
       "name": "Colore Sbranato [Rouge]",
-      "desc": "- Max Stack: 9\n- Quando colpita, ottiene 1 Potenza Sanguinamento per ogni 3 Stack (una volta per turno)\n- Inizio Turno: Ottiene 1 Livello Difensivo Diminuito il turno successivo per ogni 4 Stack (max 2)\n- Fine Turno: Perde 1 Stack",
+      "desc": "- Stack Max: 9\n- Quando colpita, ottiene 1 Potenza Sanguinamento per ogni 3 Stack (una volta per turno)\n- Inizio Turno: Ottiene 1 Livello Difensivo Diminuito il turno successivo per ogni 4 Stack (max 2)\n- Fine Turno: Perde 1 Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "EagleClawWoundAlly",
       "name": "Colore Sbranato [Bleu]",
-      "desc": "- Max Stack: 9\n- Quando colpita, ottiene 1 Potenza Annegamento per ogni 3 Stack (once per turn)\n- Fine Turno: A 5+ Stack, perde 5 PS\n- Fine Turno: Perde 1 Stack",
+      "desc": "- Stack Max: 9\n- Quando colpita, ottiene 1 Potenza Annegamento per ogni 3 Stack (once per turn)\n- Fine Turno: A 5+ Stack, perde 5 PS\n- Fine Turno: Perde 1 Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "VengeanceBookHeathcliff",
       "name": "Libro Della Vendetta [Heathcliff]",
-      "desc": "- Max Stack: 30\n- Livello Offensivo +1, Livello Difensivo +1 per ogni 5 Stack",
+      "desc": "- Stack Max: 30\n- Livello Offensivo +1, Livello Difensivo +1 per ogni 5 Stack",
       "summary": "",
       "undefined": "-",
       "flavour": ""
@@ -3030,7 +3030,7 @@
     {
       "id": "MiddleFingerTattooID",
       "name": "Tatuaggi Vendicativi",
-      "desc": "- Max Stack: 20\n- Le Abilità Base infliggono +1% danni per ogni Stack",
+      "desc": "- Stack Max: 20\n- Le Abilità Base infliggono +1% danni per ogni Stack",
       "summary": "",
       "undefined": "-",
       "flavour": ""
@@ -3038,7 +3038,7 @@
     {
       "id": "ScarletMothRodion",
       "name": "Falena Scarlatta",
-      "desc": "- Max Stack: 3\n- Fine Turno: Recupera (Stack)% PV (PV minimi recuperati: 1)\n- Fine Turno: Recupera PS pari alle Stack\n- Fine Turno: Perde 1 Stack",
+      "desc": "- Stack Max: 3\n- Fine Turno: Recupera (Stack)% PV (PV minimi recuperati: 1)\n- Fine Turno: Recupera PS pari alle Stack\n- Fine Turno: Perde 1 Stack",
       "summary": "",
       "undefined": "-",
       "flavour": ""
@@ -3046,7 +3046,7 @@
     {
       "id": "SojiRyoshuEchoPast",
       "name": "Groviglio",
-      "desc": "- Max Stack: 4\n- Abilità ed effetti delle Passive possono aumentare le Stack Min & max di questo effetto rispettivamente a 5 e 9",
+      "desc": "- Stack Max: 4\n- Abilità ed effetti delle Passive possono aumentare le Stack Min & max di questo effetto rispettivamente a 5 e 9",
       "summary": "",
       "undefined": "-",
       "flavor": "I fili del destino si intrecciano ad ogni incontro, e dalla quantità di tempo dedicata ad altri\nLa miriade di momenti nei quali il tempo di un individuo e un alto si sovrappongono, che siano felici o cattivi, leggeranno i loro fili in un intreccio spietato\nIl tempo che è già stato condiviso non può essere revocato."
@@ -3054,7 +3054,7 @@
       {
       "id": "SojiRyoshuEchoFuture",
       "name": "Traccia Fantasma",
-      "desc": "- Max Stack: 1\n- Subisce +5% danni dalle Abilità Attacco Base di Lama del Nido dei Ragni Ryōshū",
+      "desc": "- Stack Max: 1\n- Subisce +5% danni dalle Abilità Attacco Base di Lama del Nido dei Ragni Ryōshū",
       "summary": "",
       "undefined": "-",
       "flavor": "Una traccia fantasma (殘影) non è semplicemente una debole ombra lasciata durante il passaggio. È il ricordo di tempi passati, disegnata crudelmente tra giorni andati"
@@ -3062,7 +3062,7 @@
     {
       "id": "SojiRyoshuEntangle",
       "name": "Recisione del Filo [絕緣]",
-      "desc": "- Max Stack: 4\n- Ottiene 1 Stack per ogni Identità Precettore del Nido dei Ragni sconfitta\n- Ottiene un effetto speciale in base a quale alleato del Nido dei Ragni è stato sconfitto\n- Subisce -7.5% danni per ogni Stack",
+      "desc": "- Stack Max: 4\n- Ottiene 1 Stack per ogni Identità Precettore del Nido dei Ragni sconfitta\n- Ottiene un effetto speciale in base a quale alleato del Nido dei Ragni è stato sconfitto\n- Subisce -7.5% danni per ogni Stack",
       "summary": "",
       "undefined": "-",
       "flavor": "E dunque, che venga tagliato e reciso. Anche a costo di deviare dal destino."
@@ -3078,7 +3078,7 @@
     {
       "id": "PhantomIncisionID",
       "name": "Traccia della Lama [Immagine Residua]",
-      "desc": "- Max Stack: 100\n- Subisce +1% danni dalle Abilità Taglienti per ogni 10 Stack",
+      "desc": "- Stack Max: 100\n- Subisce +1% danni dalle Abilità Taglienti per ogni 10 Stack",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3086,7 +3086,7 @@
     {
       "id": "PhantomIncisionTotalID",
       "name": "Spada della Stella Dihui",
-      "desc": "- Max Stack: 70\n- Somma totale delle Stack di Traccia della Lama inflitte da questa unità\n- Può ottenere fino a 25 Stack per turno",
+      "desc": "- Stack Max: 70\n- Somma totale delle Stack di Traccia della Lama inflitte da questa unità\n- Può ottenere fino a 25 Stack per turno",
       "summary": "",
       "undefined": "-",
       "flavor": "Incidere un marchio sulla terra. Questo è lo scopo per cui questa lama è stata creata\nIn questa spada è stata versata la luce di una stella, così che possa rimanere qualcosa su questa terra"
@@ -3102,7 +3102,7 @@
     {
       "id": "ResentmentSpiderOutis",
       "name": "Il Medio - Rancore",
-      "desc": "- Max Stack: 15\n- Se il bersaglio ha Marchio della Vendetta, infligge +20% danni",
+      "desc": "- Stack Max: 15\n- Se il bersaglio ha Marchio della Vendetta, infligge +20% danni",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3110,7 +3110,7 @@
     {
       "id": "ReinforcedTattooSpiderOutis",
       "name": "Il Medio - Tatuaggi Vendicativi [<s>Sorella Maggiore</s>]",
-      "desc": "- Max Stack: 10\n- Potere Finale +1 per le Abilità Base per ogni 5 Stack (max 2)\n- Le Abilità Invidia e Contundenti infliggono +5% danni per ogni Stack (max 50%)",
+      "desc": "- Stack Max: 10\n- Potere Finale +1 per le Abilità Base per ogni 5 Stack (max 2)\n- Le Abilità Invidia e Contundenti infliggono +5% danni per ogni Stack (max 50%)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3118,7 +3118,7 @@
     {
       "id": "DaughterEducationSpiderOutis",
       "name": "Guarda Questo, Piccoletta!",
-      "desc": "- Max Stack: 10\n- Ridotto di 1 quando questa unità viene colpita da 2 Abilità\n- A 5+ Stack, le Abilità Base ottengono Potere Finale +1\n- Le Abilità Contundenti infliggono +1% danni per ogni Stack (max 10%)",
+      "desc": "- Stack Max: 10\n- Ridotto di 1 quando questa unità viene colpita da 2 Abilità\n- A 5+ Stack, le Abilità Base ottengono Potere Finale +1\n- Le Abilità Contundenti infliggono +1% danni per ogni Stack (max 10%)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3126,7 +3126,7 @@
     {
       "id": "GotAComplimentIshmael",
       "name": "Sono Stata Brava!",
-      "desc": "- Max Stack: 10\n- Ridotto di 1 quando questa unità viene colpita da 2 Abilità\n- A 5+ Stack, le Abilità Base ottengono Potere Finale +1\n- Le Abilità Contundenti infliggono +1% dann per ogni Stack (max 10%)",
+      "desc": "- Stack Max: 10\n- Ridotto di 1 quando questa unità viene colpita da 2 Abilità\n- A 5+ Stack, le Abilità Base ottengono Potere Finale +1\n- Le Abilità Contundenti infliggono +1% dann per ogni Stack (max 10%)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3134,7 +3134,7 @@
     {
       "id": "MiddleFatherGutsOutis",
       "name": "Tenacia Ridicola",
-      "desc": "- Max Stack: 3\n- Fissa qualsiasi tipo di Resistenza che supera \"Normale\" (1.0) a \"Normale\" (tranne se Stordita)\n- Subisce -(30 + (Il Medio - Stack di Tatuaggi Vendicativi [<s>Sorella Maggiore</s>] x 4))% danni dalle Abilità (max 50%, arrotondato per difetto)\n- A Scontro Vinto, recupera (numero Scontri x 5) PS in più (max 15)\n- Fine Turno: Se questa unità ha perso PS in questo turno a causa degli effetti delle sue Abilità, infligge +10% danno il turno successivo usando le Abilità Base (una volta per turno)\n- Fine Turno: Perde 1 Stack",
+      "desc": "- Stack Max: 3\n- Fissa qualsiasi tipo di Resistenza che supera \"Normale\" (1.0) a \"Normale\" (tranne se Stordita)\n- Subisce -(30 + (Il Medio - Stack di Tatuaggi Vendicativi [<s>Sorella Maggiore</s>] x 4))% danni dalle Abilità (max 50%, arrotondato per difetto)\n- A Scontro Vinto, recupera (numero Scontri x 5) PS in più (max 15)\n- Fine Turno: Se questa unità ha perso PS in questo turno a causa degli effetti delle sue Abilità, infligge +10% danno il turno successivo usando le Abilità Base (una volta per turno)\n- Fine Turno: Perde 1 Stack",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3198,7 +3198,7 @@
     {
       "id": "ScratchesHurtID",
       "name": "Ferita da Avulsione",
-      "desc": "- Max Stack: 3\n- Inizio Turno: Ottiene 2 Sanguinamento\n- Fine Turno: Ottiene 1 Rallentamento il prossimo turno\n- Fine Turno: perde 1 Stack",
+      "desc": "- Stack Max: 3\n- Inizio Turno: Ottiene 2 Sanguinamento\n- Fine Turno: Ottiene 1 Rallentamento il prossimo turno\n- Fine Turno: perde 1 Stack",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3229,28 +3229,28 @@
     {
       "id": "BladelineagePride",
       "name": "Portamento di un Salsu",
-      "desc": "- Max Stack: 3\n- Ottiene Livello Offensivo per ogni Stack\n- Sul colpo con attacchi che usano Abilità Taglienti, ottiene 1 Equilibrio (2 volte per turno) \n- Perde 1 Stack quando un Identità alleata che appartiene ai Discendenti della Spada viene sconfitta",
+      "desc": "- Stack Max: 3\n- Ottiene Livello Offensivo per ogni Stack\n- Sul colpo con attacchi che usano Abilità Taglienti, ottiene 1 Equilibrio (2 volte per turno) \n- Perde 1 Stack quando un Identità alleata che appartiene ai Discendenti della Spada viene sconfitta",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "WindBladeIshmael",
       "name": "Officina Mook - Ye[銳] Seconda Forma Sguainata / Propulsione : Fuoco Dokkaebi",
-      "desc": "- Max Stack: 20\n- Puo Ottenere fino a 10 stack per turno\n- Le Abilità Base Taglienti infliggono +1% danni per ogni Stack (max 10%)\n- Le Abilità Difensive perdono 1 Potere Scontro per ogni 2 Stack (max 5)\n- Fine Turno: Ottiene 1 Rapidità il turno successivo per ogni 5 Stack (max 3)",
+      "desc": "- Stack Max: 20\n- Puo Ottenere fino a 10 stack per turno\n- Le Abilità Base Taglienti infliggono +1% danni per ogni Stack (max 10%)\n- Le Abilità Difensive perdono 1 Potere Scontro per ogni 2 Stack (max 5)\n- Fine Turno: Ottiene 1 Rapidità il turno successivo per ogni 5 Stack (max 3)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AlcoholKimPersonal",
       "name": "Brindisi ai Caduti",
-      "desc": "- Max Stack: 4\n- Inizio Turno: Ottiene 1 Equilibrio per ogni Stack\n· Mentore dei Discendenti della Spada Meursault Ottiene invece 2 Equilibrio per ogni Stack\n- Le Abilità Base infliggono +(Equilibrio su sè x 1.5)% danni sui colpi critici (max 15%)\n- Le Abilità Base che ottengono Equilibrio e Conteggio Equilibrio ottengono Potere Scontro +1\n- Fine Turno: Perde 1 Stack",
+      "desc": "- Stack Max: 4\n- Inizio Turno: Ottiene 1 Equilibrio per ogni Stack\n· Mentore dei Discendenti della Spada Meursault Ottiene invece 2 Equilibrio per ogni Stack\n- Le Abilità Base infliggono +(Equilibrio su sè x 1.5)% danni sui colpi critici (max 15%)\n- Le Abilità Base che ottengono Equilibrio e Conteggio Equilibrio ottengono Potere Scontro +1\n- Fine Turno: Perde 1 Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "GrudgePersonal",
       "name": "Rancore Crescente",
-      "desc": "- Max Stack: 999\n- \"Per Reclamare le Loro Ossa\" Ottiene (Stack / 100) Potere Finale (max 6; Arrotondato per eccesso)\n- Sul colpo usando la moneta finale di \"Sacrifico la Carne\" o \"Per Reclamare le Loro Ossa\", infligge +(Stack / 10)% danni; poi, questo effetto scade",
+      "desc": "- Stack Max: 999\n- \"Per Reclamare le Loro Ossa\" Ottiene (Stack / 100) Potere Finale (max 6; Arrotondato per eccesso)\n- Sul colpo usando la moneta finale di \"Sacrifico la Carne\" o \"Per Reclamare le Loro Ossa\", infligge +(Stack / 10)% danni; poi, questo effetto scade",
       "summary": "",
       "undefined": "-"
     },
@@ -3278,60 +3278,60 @@
     {
       "id": "BongukGiftEnhance",
       "name": "Scherma della Patria - Folgorante",
-      "desc": "- Max Stack: 1\n- Potere Monete Positive +1, infligge +15% danni su Colpo Critico\n- Scade a Fine Turno",
+      "desc": "- Stack Max: 1\n- Potere Monete Positive +1, infligge +15% danni su Colpo Critico\n- Scade a Fine Turno",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DuelEdgeAlly",
-      "name": "The Duel Escalates",
-      "desc": "- Affects The House of Spiders: The Thumb Apprentice Heathcliff's Skills and Passive effects\n- Can gain up to 3 Stacks per turn\n- Max Stack: 5",
-      "summary": "Affects The House of Spiders: The Thumb Apprentice Heathcliff's Skills and Passive effects"
+      "name": "Il Duello si Intensifica",
+      "desc": "- Influenza gli effetti delle Passive e Abilità di Il Nido dei Ragni: Apprendista del Pollice Heathcliff\n-  Può ottenere fino a 3 Stack per turno\n- Stack Max: 5",
+      "summary": "Influenza gli effetti delle Passive e Abilità di Il Nido dei Ragni: Apprendista del Pollice Heathcliff"
     },
     {
       "id": "SeveredTendonAlly",
-      "name": "Severed Tendon",
-      "desc": "- Base Power -1\n- Expires at Turn End\n- Max Stack: 1",
-      "summary": "Base Power -1"
+      "name": "Tendine Reciso",
+      "desc": "- Potere Base -1\n- Scade a Fine Turno\n- Stack Max: 1",
+      "summary": "Potere Base -1"
     },
     {
       "id": "EvolvingManual",
-      "name": "Maturing Textbook",
-      "desc": "- Base Skills deal +(10 + (Stack x 5))% damage\n- Can gain up to 2 Stacks per turn\n- Max Stack: 3",
-      "summary": "Base Skills deal more damage"
+      "name": "Manuale in Maturazione",
+      "desc": "- Le Abilità Base infliggono +(10 + (Stack x 5))% danni\n- Può ottenere fino a 2 Stack per turno\n- Stack Max: 3",
+      "summary": "Le Abilità Base infliggono più danni"
     },
     {
       "id": "ObsessionAndGreedRodion",
-      "name": "Shin (心) - Disgrace",
-      "desc": "- Min & Max Speed +1\n- Base Skills inflict +1 more Tremor and Burn Potency and Count\n- Deal +3% damage for every 3 Poise Potency on self (max 15%)",
+      "name": "Shin (心) - Disgrazia",
+      "desc": "- Velocità Min & Max +1\n- Le Abilità Base infliggono +1 Potenza e Conteggio Vibrazione e Bruciatura in più\n- Infligge +3% danni per ogni 3 Potenza Equilibrio su di sé (max 15%)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FutureEyeOnRodion",
-      "name": "Eye of Precognition",
-      "desc": "- Max Stack: 30\n- Can lose up to 10 Stacks per turn",
+      "name": "Occhio della Precognizione",
+      "desc": "- Stack Max: 30\n- Può perdere fino a 10 Stack per turno",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FutureEyeOffRodion",
-      "name": "Eye of Precognition - Overheat",
-      "desc": "- Max Stack: 30\n- Offense Level +3, Defense Level -3\n- Turn Start: Gain 10 Stacks\n- At 30 Stacks, convert into \"Eye of Precognition\"",
+      "name": "Occhio della Precognizione - Surriscaldamento",
+      "desc": "- Stack Max: 30\n- Livello Offensivo +3, Livello Difensivo -3\n- Inizio Turno: Ottiene 10 Stack\n- A 30 Stack, diventa \"Occhio della Precognizione\"",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "LookingFutureRodion",
-      "name": "Accelerating Future",
-      "desc": "- Max Stack: 5\n- Base Skills deal +3% damage for every Stack (max 15%)\n- Base Skill Clash Power +1 for every 2 Stacks\n- At 5 Stacks, Base Skill Coin Power +1\n- Expires at Skill End",
+      "name": "Futuro Accelerato",
+      "desc": "- Stack Max: 5\n- Le Abilità Base infliggono +3% danni per ogni (max 15%)\n- Potere Scontro delle Abilità Base +1 per ogni 2 Stack\n- A 5 Stack, Potere Moneta delle Abilità Base +1\n- Questo effetto scade a Fine Abilità",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TeachersPreyRodion",
-      "name": "Game Target",
-      "desc": "- Take +15% damage from Base Skills used by The House of Spiders: The Thumb Nursefather Rodion",
+      "name": "Bersaglio",
+      "desc": "- Subisce +15% danni dalle Abilità Base Skills usate da Il Nido dei Ragni: Il Precettore del Pollice Rodion",
       "summary": "",
       "undefined": "-"
     }

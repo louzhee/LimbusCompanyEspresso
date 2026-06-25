@@ -3087,67 +3087,67 @@
     {
       "id": 1071602,
       "name": "Duello Disperato",
-      "desc": "At Base Skill End against an enemy:\n- If the target is defeated while having [DuelEdgeAlly] (on any of its Parts), gain 1 [EvolvingManual]\n- If the main target isn't defeated, inflict 1 [DuelEdgeAlly] on the main target; if there was a Clash against the said main target using the said Base Skill, inflict 2 [DuelEdgeAlly] on the main target instead\n\nAt Clash Start against a target that has [DuelEdgeAlly], heal SP equal to [DuelEdgeAlly] Stack on target (max 5 per turn)",
+      "desc": "A Fine Abilità Base contro un nemico:\n- A Fine Abilità Base contro un nemico: [DuelEdgeAlly] (su qualsiasi delle sue Parti), ottiene 1 [EvolvingManual]\n- Se il bersaglio principale non è stato sconfitto, infligge 1 [DuelEdgeAlly] sul bersaglio principale; se c'è stato uno Scontro verso quel bersaglio usando quella determinata Abilità Base, infligge invece 2 [DuelEdgeAlly] sul bersaglio principale\n\nAd Inizio Scontro contro un bersaglio che ha [DuelEdgeAlly], recupera PS pari alle Stack di [DuelEdgeAlly] sul bersaglio (max 5 per turno)",
       "summary": "",
       "flavor": ""
     },
     {
       "id": 1071603,
-      "name": "Desperate Struggle",
-      "desc": "If The House of Spiders: The Thumb Nursefather Rodion is on the field, activate the following:\n(Does not activate in turns where this unit is Panicked or Staggered)\n- When The Thumb Nursefather Rodion (that has [FutureEyeOnRodion]) hits an enemy with a Base Skill, at its Attack End, follow up with \"La Spada di Palermo\" as an Unopposed Attack against the target (once per turn)\n- Combat Start: When The Thumb Nursefather Rodion (that has [FutureEyeOffRodion]) is targeted by an enemy's Unopposed Skill, The Thumb Apprentice Heathcliff gains 1 [SupportProtect]\n(This [SupportProtect] activates only for The House of Spiders: The Thumb Nursefather Rodion)",
+      "name": "Lotta Disperata",
+      "desc": "Se Il Nido dei Ragni: Il Precettore del Pollice Rodion è in campo, attiva i seguenti effetti:\n(Non si attivano nei turni dove questa unità è in Panico o Stordita)\n- Quando Il Precettore del Pollice Rodion (che ha [FutureEyeOnRodion]) colpisce un nemico con un'Abilità Base a Fine Attacco, usa \"La Spada di Palermo\" come Attacco Incontrastato contro il bersaglio (una volta per turno)\n- Inizio Combattimento: Quando Il Precettore del Pollice Rodion (che ha [FutureEyeOffRodion]) viene bersagliata da un'Abilità Incontrastata di un nemico, L'Apprendista del Pollice Heathcliff ottiene 1 [SupportProtect]\n(Questa [SupportProtect] si attiva solo per Il Nido dei Ragni: Il Precettore del Pollice Rodion)",
       "summary": "",
       "flavor": ""
     },
     {
       "id": 1071604,
-      "name": "Saikai [再会] - The Thumb",
-      "desc": "If this unit is defeated at Encounter Start, or if this unit is defeated during the Encounter, Blade of the House of Spiders Ryōshū gains the following effects:\n- Gain 1 [SojiRyoshuEchoPast]\n- On Clash Win using a Base Skill, inflict 2 [Vibration] and trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1 (2 times per turn)",
+      "name": "Saikai [再会] - Il Pollice",
+      "desc": "Se questa unità viene sconfitta ad Inizio Incontro, o se questa unità viene sconfitta durante l'Incontro, Lama del Nido di Ragni Ryōshū ottiene i seguenti effetti\n- Ottiene 1 [SojiRyoshuEchoPast]\n- A Scontro Vinto usando un'Abilità Base, infligge 2 [Vibration] e innesca [VibrationExplosion]; poi riduce il Conteggio [Vibration] sul bersaglio di 1 (2 volte per turno)",
       "summary": "",
       "flavor": ""
     },
     {
       "id": 1071601,
-      "name": "Palermitan Style",
-      "desc": "Gain the following effects based on ([EvolvingManual] on self + [DuelEdgeAlly] on the main target)\n- Base Skills deal +3% damage for every combined Stack (max 15%)\n- 1+ Stack: Clash Power +1\n- 2+ Stack: Base Skills gain Base Power +1\n- 3+ Stack: On Hit using a Base Skill, inflict 1 [SeveredTendonAlly] next turn\n- 4+ Stack: Base Skills gain Final Power +1\n- 5+ Stack: Base Skills deal +15% damage\n\nTake -3% damage for every ([EvolvingManual] on self + [DuelEdgeAlly] on the enemy attacking this unit) (max -15%)",
+      "name": "Stile Palermitano",
+      "desc": "Ottiene i seguenti effetti in base a ([EvolvingManual] su di sé + [DuelEdgeAlly] sul bersaglio principale)\n- Le Abilità Base infliggono più danno per ogni Stack combinata (max 15%)\n- 1+ Stack: Ottiene Potere Scontro +1\n- 2+ Stack: Potere Base delle Abilità Attacco +1\n- 3+ Stack: Sul Colpo usando un'Abilità Base, infligge 1 [SeveredTendonAlly] il turno successivo\n- 4+ Stack: le Abilità Base ottengono Potere Finale +1\n- 5+ le Abilità Base infliggono +15% danni\n\nSubisce -3% danni per ogni ([EvolvingManual] su di sé + [DuelEdgeAlly] sul nemico che sta attaccando questa unità) (max -15%)",
       "summary": "",
       "flavor": ""
     },
     {
       "id": 1071621,
-      "name": "In One-on-one Duels...",
-      "desc": "1 ally with the fastest Speed: On Clash Win using Base Attack Skills, inflict +1 [Combustion] Count on target (once per turn)\n- Prioritizes \"The Thumb\" Identities\n- If the ally is \"The Thumb\" Identity, inflict +1 [Combustion] Count and [Vibration] Count instead\n- Combat Start: If there is only 1 enemy on the field, (for Abnormalities, a Core), this effect inflicts +1 more [Combustion] Count and [Vibration] Count",
+      "name": "Nei Duelli Uno contro Uno...",
+      "desc": "1 alleato con la Velocità più alta: A Scontro Vinto usando le Abilità Attacco Base, infligge +1 Conteggio [Combustion] sul bersaglio (una volta per turno)\n- Priorità alle Identità del \"Pollice\"\n- Se l'alleato è un'Identità del \"Pollice\", infligge invece +1 Conteggio [Combustion] e Conteggio [Vibration]\n- Inizio Combattimento: Se c'è solo 1 nemico in campo, (per le Anormalità, un Nucleo), questo effetto infligge +1 Conteggio [Combustion] e Conteggio [Vibration] in più",
       "summary": "",
       "flavor": ""
     },
     {
       "id": 1091601,
       "name": "La Spada di Palermo",
-      "desc": "If this unit has 1+ [AccelBullet], Skill 3 gains Coin Power +1 and deals +25% damage\n\nBase Skills deal +1% damage for every 2 [Combustion] on the main target (max 15%)\n- If the main target has Shield, Base Skills deal +3% damage instead (max 45%)"
+      "desc": "Se questa unità ha 1+ [AccelBullet], l'Abilità 3 ottiene Potere Moneta +1 e infligge +25% danno\n\nLe Abilità Base infliggono +1% danni per ogni 2 [Combustion] sul bersaglio principale (max 15%)\n- Se il bersaglio principale ha uno Scudo, le Abilità Base infliggono invece +3% danni (max 45%)"
     },
     {
       "id": 1091602,
-      "name": "The Eye of Precognition",
-      "desc": "Upon entering the Encounter for the first time, gain 30 [FutureEyeOnRodion]\nAt 0 [FutureEyeOnRodion] Stack, convert [FutureEyeOnRodion] into [FutureEyeOffRodion]\n\nWhile this unit has [FutureEyeOnRodion], activate the following effects:\n- In a Clash, gain 1 [LookingFutureRodion] with every Clash (5 times per Skill)\n- When attacked by an Unopposed Attack, [SuperCoin] Attack, or losing a Clash against an Attack Skill, activate the \"Precognition\" Skill (once per turn)\n\nThe following causes this unit to lose [FutureEyeOnRodion] Stack:\n- Lose 1 [FutureEyeOnRodion] with every Clash\n- When this unit activates the \"Precognition\" Skill via Passive effect due to being attacked by an Unopposed Attack or [SuperCoin] Attack, lose 3 [FutureEyeOnRodion]\n- When this unit activates the \"Precognition\" Skill via Passive effect due to losing a Clash, lose 5 [FutureEyeOnRodion]\n\nThe following causes this unit to gain [ObsessionAndGreedRodion] next turn:\n- If this unit's [FutureEyeOnRodion] Stack drops to 0\n- If this unit is Staggered\n- If The House of Spiders: The Thumb Apprentice Heathcliff is defeated (if the said Identity is already defeated when this unit Substitutes in, gain [ObsessionAndGreedRodion] at Turn Start)\n\nTurn End: When Staggered for the first time in this Encounter, recover from Stagger (excluding forced Staggers)"
+      "name": "L'Occhio della Precognizione",
+      "desc": "Quando entra nell'Incontro per la prima volta, ottiene 30 [FutureEyeOnRodion]\nA 0 Stack di [FutureEyeOnRodion], trasforma [FutureEyeOnRodion] in [FutureEyeOffRodion]\n\nFinché questa unità ha [FutureEyeOnRodion], sono attivi i seguenti effetti:\n- In uno Scontro, ottiene 1 [LookingFutureRodion] con ogni Scontro (5 volte per Abilità)\n- Quando viene attaccata da un Attacco Unilaterale, Attacco con [SuperCoin] o quando perde uno Scontro contro un'Abilità Attacco, attiva l'Abilità \"Precognizione\" (una volta per turno)\n\nL'unità perde Stack di [FutureEyeOnRodion] nei seguenti modi:\n- Perde 1 Stack di [FutureEyeOnRodion] con ogni Scontro\n- Quando questa unità usa l'Abilità \"Precognizione\" tramite l'effetto della Passiva perché è stata attaccata da un Attacco Unilaterale o da un Attacco con [SuperCoin], perde 3 [FutureEyeOnRodion]\n- Quando questa unità usa l'Abilità \"Precognizione\" tramite l'effetto della Passiva perché ha perso uno Scontro, perde 5 [FutureEyeOnRodion]\n\nL'unità ottiene [ObsessionAndGreedRodion] il turno successivo:\n- Se le Stack di [FutureEyeOnRodion] arrivano a 0\n- Se questa unità viene Stordita\n- Se l'unità Il Nido dei Ragni: Apprendista del Pollice Heathcliff viene sconfitta (se la suddetta Identità è già stata sconfitta quando questa Identità entra in campo dalle Riserve, ottiene [ObsessionAndGreedRodion] ad Inizio Turno)\n\nFine Turno: Quando l'unità viene Storita per la prima volta nell'Incontro, si riprende dallo Stordimento (Stordimenti forzati esclusi)"
     },
     {
       "id": 1091612,
-      "name": "The Eye of Precognition",
-      "desc": "Upon entering the Encounter for the first time, gain 30 [FutureEyeOnRodion]\nAt 0 [FutureEyeOnRodion] Stack, convert [FutureEyeOnRodion] into [FutureEyeOffRodion]\n\nWhile this unit has [FutureEyeOnRodion], activate the following effects:\n- In a Clash, gain 1 [LookingFutureRodion] with every Clash (5 times per Skill)\n- When attacked by an Unopposed Attack, [SuperCoin] Attack, or losing a Clash against an Attack Skill, activate the \"Precognition\" Skill (once per turn)\n\nThe following causes this unit to lose [FutureEyeOnRodion] Stack:\n- Lose 1 [FutureEyeOnRodion] with every Clash\n- When this unit activates the \"Precognition\" Skill via Passive effect due to being attacked by an Unopposed Attack or [SuperCoin] Attack, lose 3 [FutureEyeOnRodion]\n- When this unit activates the \"Precognition\" Skill via Passive effect due to losing a Clash, lose 5 [FutureEyeOnRodion]\n\n<style=\"highlight\">At the end of the turn this unit's [FutureEyeOnRodion] is converted into [FutureEyeOffRodion], activate the following effects:\n- [FullReload] (once per Encounter)\n- At the start of the next turn, if this unit has no \"Disposal\" on its Dashboard, replace a Base Skill with \"Disposal\" (prioritizes the Skill on the leftmost Slot's top row)</style>\n\nThe following causes this unit to gain [ObsessionAndGreedRodion] next turn:\n- If this unit's [FutureEyeOnRodion] Stack drops to 0\n- If this unit is Staggered\n- If The House of Spiders: The Thumb Apprentice Heathcliff is defeated (if the said Identity is already defeated when this unit Substitutes in, gain [ObsessionAndGreedRodion] at Turn Start)\n\nTurn End: When Staggered due to damage for the first time in this Encounter, recover from Stagger (excluding forced Staggers)"
+      "name": "L'Occhio della Precognizione",
+      "desc": "Quando entra nell'Incontro per la prima volta, ottiene 30 [FutureEyeOnRodion]\nA 0 Stack di [FutureEyeOnRodion], trasforma [FutureEyeOnRodion] in [FutureEyeOffRodion]\n\nFinché questa unità ha [FutureEyeOnRodion], sono attivi i seguenti effetti:\n- In uno Scontro, ottiene 1 [LookingFutureRodion] con ogni Scontro (5 volte per Abilità)\n- Quando viene attaccata da un Attacco Unilaterale, Attacco con [SuperCoin] o quando perde uno Scontro contro un'Abilità Attacco, attiva l'Abilità \"Precognizione\" (una volta per turno)\n\nL'unità perde Stack di [FutureEyeOnRodion] nei seguenti modi:\n- Perde 1 Stack di [FutureEyeOnRodion] con ogni Scontro\n- Quando questa unità usa l'Abilità \"Precognizione\" tramite l'effetto della Passiva perché è stata attaccata da un Attacco Unilaterale o da un Attacco con [SuperCoin], perde 3 [FutureEyeOnRodion]\n-  Quando questa unità usa l'Abilità \"Precognizione\" tramite l'effetto della Passiva perché ha perso uno Scontro, perde 5 Stack di [FutureEyeOnRodion]\n\n<style=\"highlight\">lla fine del turno, l'[FutureEyeOnRodion] di questa unità diventa [FutureEyeOffRodion], e attiva i seguenti effetti:\n- [FullReload] (una volta per Incontro)\n- All'inizio del turno successivo, se l'unità non ha \"Liquidare\" sul Pannello di Controllo, rimpiazza un'Abilità Base con \"Liquidare\" (priorità all'Abilità nella riga in alto a sinistra)</style>\n\nI seguenti effetti fanno sì che l'unità ottenga [ObsessionAndGreedRodion] il turno successivo:\n- Se le Stack di [FutureEyeOnRodion] arrivano a 0\n- Se questa unità è Stordita\n- Se l'unità Il Nido dei Ragni: Apprendista del Pollice Heathcliff viene sconfitta (se la suddetta Identità è già stata sconfitta quando questa Identità entra in campo dalle Riserve, ottiene [ObsessionAndGreedRodion] ad Inizio Turno)\n\nFine Turno: Quando l'unità viene Storita per la prima volta nell'Incontro, si riprende dallo Stordimento (Stordimenti forzati esclusi)"
     },
     {
       "id": 1091603,
-      "name": "The Shame of Famiglia Bognatelli",
-      "desc": "Gain 2 [Breath] and +2 [Breath] Count for every [AccelBullet] spent\nWhen flipping a Coin that spends [AccelBullet], the attack does not get canceled even when this unit is out of [AccelBullet]\n\nThis Identity counts only as an \"Identity that inflicts [Combustion] and [Vibration]\"\n\nTurn Start: If this unit has \"Disposal\" on its Dashboard, inflict [TeachersPreyRodion] on the enemy this unit attacked last in the previous turn (in Focused Encounters, the Parts count for this purpose)\n- If there are no targets that satisfy the condition above, inflict [TeachersPreyRodion] on the enemy that has the lowest HP"
+      "name": "La Vergogna della Famiglia Bognatelli",
+      "desc": "Ottiene 2 [Breath] e +2 Conteggio [Breath] per ogni [AccelBullet] usato\nQuando lancia una Moneta che usa [AccelBullet], l'attacco non viene cancellato anche quando questa unità non ha più [AccelBullet]\n\nQuesta Identità viene considerata come \"Unità che infligge [Combustion] e [Vibration]\"\n\nInizio Turno: Se questa unità ha \"Liquidare\" nel Pannello di Controllo, applica [TeachersPreyRodion]al nemico che questa unità ha attaccato nel turno precedente (negli Incontri Mirati, vengono considerate le Parti)\n- Se non ci sono bersagli che soddisfano la condizione sovracitata, applica [TeachersPreyRodion] al nemico con i PV minori"
     },
     {
       "id": 1091604,
-      "name": "Saikai [再会] - The Thumb",
-      "desc": "If this unit is defeated at Encounter Start, or if this unit is defeated during the Encounter, Blade of the House of Spiders Ryōshū gains the following effects:\n- Gain 1 [SojiRyoshuEchoPast]\n- Defense Skill Coin Power +1, Base Attack Skills deal +10% damage against targets that have Shield"
+      "name": "Saikai [再会] - Il Pollice",
+      "desc": "Se questa unità viene sconfitta ad Inizio Incontro o durante l'Incontro, Lama del Nido dei Ragni Ryōshū ottiene i seguenti effetti:\n- Ottiene 1 [SojiRyoshuEchoPast]\n- Potere Moneta delle Abilità Difensive +1, le Abilità Attacco Base infliggono +10% danni contro i bersagli che hanno degli Scudi"
     },
     {
       "id": 1091621,
-      "name": "Weaklings, Not Worth Shit",
-      "desc": "1 ally with the fastest Speed: When triggering [VibrationExplosion] on the enemy, gain 2 Offense Level Up next turn (once per turn)\n- If the said ally is \"The Thumb\" Identity, gain 1 [Agility] as well (once per turn)"
+      "name": "Rammolliti, Non Valete un Cazzo",
+      "desc": "1 alleato con la Velocità maggiore: Quando innesca [VibrationExplosion] sul nemico, ottiene 2 [MDHcFbBa] il turno successivo (una volta per turno)\n- Se l'alleato è un'Identità del \"Pollice\", ottiene anche 1 [Agility] (una volta per turno)"
     }
   ]
 }

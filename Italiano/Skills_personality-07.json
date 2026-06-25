@@ -2729,8 +2729,419 @@
       ]
     },
     {
-      "id": "WinDuelEndSkill",
-      "name": "[Attack End After Clash Win]"
+      "id": 1071601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "La Spada di Palermo",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 1 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "La Spada di Palermo",
+          "desc": "<style=\"highlight\">[WhenUse] Se il bersaglio ha 6+ ([Combustion] + [Vibration]), Potere Moneta +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "La Spada di Palermo",
+          "desc": "[WhenUse] <style=\"highlight\">Potere Moneta +1 per ogni 6 ([Combustion] + [Vibration]) sul bersaglio (max 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 1 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Colpi Sottani",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Vibration]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Colpi Sottani",
+          "desc": "<style=\"highlight\">[WhenUse] Se il bersaglio ha 6+ ([Combustion] + [Vibration]), Potere Moneta +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge +<style=\"highlight\">2</style> Conteggio [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge +<style=\"highlight\">2</style> Conteggio [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Se questa unità ha [EvolvingManual] o se il bersaglio ha [DuelEdgeAlly], innesca [VibrationExplosion]; poi, riduce il Conteggio [Vibration] del bersaglio di 1</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Colpi Sottani",
+          "desc": "[WhenUse] <style=\"highlight\">Potere Moneta +1 per ogni 6 ([Combustion] + [Vibration]) sul bersaglio (max 2)\n[WinDuel] Se il bersaglio ha [DuelEdgeAlly], infligge +1 Conteggio [Vibration]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge <style=\"highlight\">2 [Combustion] e</style> +2 Conteggio [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge <style=\"highlight\">2 [Vibration] e</style> +2 Conteggio [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Se questa unità ha [EvolvingManual] o se il bersaglio ha [DuelEdgeAlly], innesca [VibrationExplosion]; poi, riduce il Conteggio [Vibration] del bersaglio di 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Il Cacciatore",
+          "desc": "[BeforeUse] Se il bersaglio ha 5 [DuelEdgeAlly], usa \"Sezionatura di Cervo\" al posto di questa Abilità (una volta per turno)\n[WhenUse] Se il bersaglio ha 6+ ([Combustion] + [Vibration]), Potere Moneta +1\n[WhenUse] Ottiene i seguenti effetti in base alle Stack di [DuelEdgeAlly] presenti sul bersaglio:\n- 1+ [DuelEdgeAlly]: Infligge +1 Potenza [Vibration] in più\n- 2+ [DuelEdgeAlly]: Infligge +1 Conteggio [Vibration] in più\n- 3+ [DuelEdgeAlly]: Infligge +1 Potenza [Combustion] in più\n- 4+ [DuelEdgeAlly]: Infligge +1 Conteggio [Combustion] in più\n[WhenUse] Se questa unità ha [EvolvingManual] o se il bersaglio ha 3+ [DuelEdgeAlly], converte tutte le Monete di questa Abilità in [SuperCoin](i)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 2 [Combustion] e +2 Conteggio [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 2 [Vibration] e +2 Conteggio [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Infligge +10% danni per ogni [EvolvingManual] su di sé (max 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trasforma [Switch_Vibration] in [VibrationIgnition]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Innesca [VibrationExplosion]; poi riduce il Conteggio [Vibration] del bersaglio di 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Se questa unità ha [EvolvingManual] o se il bersaglio ha 3+ [DuelEdgeAlly], innesca [VibrationExplosion]; poi riduce il Conteggio [Vibration] di 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Il Cacciatore",
+          "desc": "[BeforeUse] Se il bersaglio ha 5 [DuelEdgeAlly], usa \"Sezionatura di Cervo\" al posto di questa Abilità (una volta per turno)\n[WhenUse] <style=\"highlight\">Potere Moneta +1 per ogni 6 ([Combustion] + [Vibration]) sul bersaglio (max 2)</style>\n[WhenUse] Ottiene i seguenti effetti in base alle Stack di [DuelEdgeAlly] presenti sul bersaglio:\n- <style=\"highlight\">Infligge +6% danni per ogni Stack (max 30%)</style>\n- 1+ [DuelEdgeAlly]: Infligge +1 Potenza [Vibration] in più\n- 2+ [DuelEdgeAlly]: Infligge +1 Conteggio [Vibration] in più\n- 3+ [DuelEdgeAlly]: Infligge +1 Potenza [Combustion] in più\n- 4+ [DuelEdgeAlly]: Infligge +1 Conteggio [Combustion] in più\n[WhenUse] e questa unità ha [EvolvingManual] o se il bersaglio ha 3+ [DuelEdgeAlly], converte tutte le Monete di questa Abilità in [SuperCoin](i)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge <style=\"highlight\">3</style> [Combustion] e +2 Conteggio [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge <style=\"highlight\">3</style> [Vibration] e +2 Conteggio [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Infligge <style=\"highlight\">+25%</style> danni per ogni [EvolvingManual] su di sé (max <style=\"highlight\">75%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trasforma [Switch_Vibration] in [VibrationIgnition]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Innesca [VibrationExplosion]; poi riduce il Conteggio [Vibration] del bersaglio di 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Se questa unità ha [EvolvingManual], o se il bersaglio ha 3+ [DuelEdgeAlly], innesca [VibrationExplosion] <style=\"highlight\">2 volte</style>; poi riduce il Conteggio [Vibration] del bersaglio di <style=\"highlight\">2</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Misurare la Portata della Lama",
+          "desc": "[DuelCounter]\nInfligge +10% danni per ogni [DuelEdgeAlly] sul bersaglio (max 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 1 [Combustion] (2 )"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 1 [Vibration] (2 volte per turno)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Misurare la Portata della Lama",
+          "desc": "[DuelCounter]\nInfligge +<style=\"highlight\">20</style>% danni per ogni [DuelEdgeAlly] sul bersaglio (max <style=\"highlight\">100</style>%)\n<style=\"highlight\">[WhenUse] Potere Finale +1 per ogni 4 ([Combustion] + [Vibration]) sul bersaglio (max 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 1 [Combustion] (2 volte per turno)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Infligge 1 [Vibration] (2 volte per turno)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I Will Protect.",
+          "desc": "[CanDuelGuard]\nAbilità esclusiva di [SupportProtect]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "I Will Protect.",
+          "desc": "[CanDuelGuard]\nAbilità esclusiva di [SupportProtect]\n<style=\"highlight\">[WhenUse]\n- Ottiene 2 [Protection] (una volta per turno)\n- Recupera 5 PS per ogni unità protetta da [SupportProtect]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071606,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Sezionatura di Cervo",
+          "desc": "[WhenUse]\n- Ottiene +([EvolvingManual] - 1) Portata Attacco (max 2)\n- Potere Moneta +1 per ogni 6 ([Combustion] + [Vibration]) sul bersaglio principale (max 2)\n- Quando attacca solo 1 bersaglio, infligge +15% danni (per gli Incontri Mirati, 1 Parte)\n- Infligge +15% danni per ogni # Portata Attacco oltre il numero di bersagli in campo (per gli Incontri Mirati, le Parti)\n\n[EndSkill]\n- Consuma tutte le Stack di [DuelEdgeAlly] sul bersaglio principale\n- Ottiene 1 [EvolvingManual]. Se il bersaglio principale viene sconfitto, ottiene invece 2 [EvolvingManual]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge 3 [Combustion] e +3 Conteggio [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge 3 [Vibration] e +3 Conteggio [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Questa Moneta ottiene Potere Moneta +1 per ogni [EvolvingManual] (max 3)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trasforma [Switch_Vibration] in [VibrationIgnition]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Innesca [VibrationExplosion] 2 volte; poi riduce il Conteggio [Vibration] del bersaglio di 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sezionatura di Cervo",
+          "desc": "[WhenUse]\n- Ottiene +([EvolvingManual] - 1) Portata Attacco (max 2)\n- Potere Moneta +1 per ogni 6 ([Combustion] + [Vibration]) sul bersaglio principale (max <style=\"highlight\">3</style>)\n- Quando attacca solo 1 bersaglio, innesca +<style=\"highlight\">25</style>% danni (per gli Incontri Mirati, 1 Parte)\n- Infligge +<style=\"highlight\">25</style>% danni per ogni # Portata Attacco oltre il numero di bersagli in campo (per gli Incontri Mirati, le Parti)\n\n[EndSkill]\n- Consuma tutte le Stack di [DuelEdgeAlly] sul bersaglio principale\n- Ottiene 1 [EvolvingManual]. Se il bersaglio principale viene sconfitto, ottiene invece 2 [EvolvingManual]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge <style=\"highlight\">4</style> [Combustion] e +3 Conteggio [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Infligge <style=\"highlight\">4</style> [Vibration] e +3 Conteggio [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Questa Moneta ottiene Potere Moneta +1 per ogni [EvolvingManual] (max 3)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trasforma [Switch_Vibration] in [VibrationIgnition]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Innesca [VibrationExplosion] <style=\"highlight\">3 volte</style>; tpoi riduce il Conteggio [Vibration] del bersaglio di <style=\"highlight\">3</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

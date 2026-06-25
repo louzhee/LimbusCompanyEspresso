@@ -397,8 +397,8 @@
     },
     {
       "id": "LookingFuture",
-      "name": "Accelerating Future",
-      "desc": "- Max Stack: 10\n- Clash Power +1 for every Stack\n- Coin Power +1 for every 5 Stack\n- Expires at Skill End",
+      "name": "Futuro Accelerato",
+      "desc": "- Stack Max: 10\n- Potere Scontro +1 per ogni Stack\n- Potere Moneta +1 per ogni 5 Stack\n- Scade a Fine Abilità",
       "summary": "",
       "undefined": "-",
       "flavor": "The Palermitan Style is known to accelerate the longer a duel lasts."
@@ -412,15 +412,15 @@
     },
     {
       "id": "AccelBullet",
-      "name": "Acceleration Round",
-      "desc": "- Max Capacity: 10\n- Unique Ammo\n- Spent by certain Skills",
+      "name": "Proiettile Acceleratore",
+      "desc": "- Capienza Max: 10\n- Munizione Speciale\n- Usato da determinate Abilità",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TeachersPrey",
-      "name": "Game Target",
-      "desc": "Fix this unit's Speed to 1; all Attack Skills of \"The Thumb Nursefather - Valencina\" targets this unit",
+      "name": "Bersaglio",
+      "desc": "Fissa la Velocità di questa unità ad 1; tutte le Abilità del \"Precettore del Pollice - Valentina\" bersagliano questa unità",
       "summary": "",
       "undefined": "-",
       "flavor": "Prey marked by Famiglia Bognatelli will be hunted down without fail."
