@@ -497,6 +497,14 @@
     {
       "id": "SpiderHouse11115",
       "desc": "Il Nido dei Ragni: Precettore del Medio Outis: Subisce -20% danni; quando viene colpita, ottiene 1 Livello Offensivo Aumentato (2 volte per turno)"
+    },
+    {
+      "id": "SpiderHouse10916",
+      "desc": "The House of Spiders: The Thumb Nursefather Rodion: Defense Skill Coin Power +1, Base Attack Skills deal +10% damage against targets that have Shield"
+    },
+    {
+      "id": "SpiderHouse10716",
+      "desc": "The House of Spiders: The Thumb Apprentice Heathcliff: On Clash Win using a Base Skill, inflict 2 Tremor and trigger Tremor Burst; then, reduce target's Tremor Count by 1 (2 times per turn)"
     }
   ]
 }

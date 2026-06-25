@@ -2727,6 +2727,10 @@
           ]
         }
       ]
+    },
+    {
+      "id": "WinDuelEndSkill",
+      "name": "[Attack End After Clash Win]"
     }
   ]
 }
