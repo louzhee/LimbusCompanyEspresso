@@ -158,7 +158,7 @@
     {
       "id": "8SV-031",
       "desc": "Lei Heng - Savage Tigerslayer's Perfected Flurry of Blades",
-      "dlg": "La caccia alle tigri non è adatta a chi non\nè pronto a farsi sbranare dalle loro fauci!"
+      "dlg": "La caccia alle tigri non è adatta a chi non è pronto a farsi sbranare dalle loro fauci!"
     },
     {
       "id": "8SV-032",
@@ -3447,38 +3447,38 @@
     },
     {
       "id": "battle_special_10916_1",
-      "desc": "Thumb Rodya - Evade",
+      "desc": "Thumb Rodion - Evade",
       "dlg": "Che c'è, non riesci a colpirmi?"
     },
     {
       "id": "battle_special_10916_1_2",
-      "desc": "Thumb Rodya - Evade",
+      "desc": "Thumb Rodion - Evade",
       "dlg": "Sei lento come la fame."
     },
     {
       "id": "battle_special_10916_1_3",
-      "desc": "Thumb Rodya - Evade",
+      "desc": "Thumb Rodion - Evade",
       "dlg": "L'ho vista arrivare da un miglio~"
     },
     {
       "id": "battle_special_10916_1_4",
-      "desc": "Thumb Rodya - Evade",
+      "desc": "Thumb Rodion - Evade",
       "dlg": "Ti sto leggendo come un libro."
     },
     {
       "id": "battle_special_10916_1_5",
       "desc": "Thumb Rodion - Evade",
-      "dlg": "Te l'ho detto. Sei troppo lento!"
+      "dlg": "Te l'ho detto.\nSei troppo lento!"
     },
     {
       "id": "battle_special_10916_2",
-      "desc": "Thumb Rodya - Overheat",
+      "desc": "Thumb Rodion - Overheat",
       "dlg": "... Tsk. Si sta già surriscaldando?"
     },
     {
       "id": "battle_special_10916_3",
       "desc": "Thumb Rodion - Evade FuA",
-      "dlg": "Hah! Tocca a me ora, pezzo di merda."
+      "dlg": "Hah! Tocca a me,\npezzo di merda."
     },
     {
       "id": "battle_special_10916_4",
@@ -3493,7 +3493,7 @@
     {
       "id": "battle_special_10916_5_2",
       "desc": "Thumb Rodion - Disposal 2",
-      "dlg": "Vi odio! Vi odio tutti! Odio voi e odio quella fottuta Famiglia del cazzo!"
+      "dlg": "Vi odio! Vi odio tutti!\nOdio voi e odio quella fottuta Famiglia del cazzo!"
     },
     {
       "id": "battle_special_10916_6",
@@ -3528,7 +3528,7 @@
     {
       "id": "battle_s3_10916_1_1-01",
       "desc": "Thumb Rodion - S3 end 1",
-      "dlg": "Così volge al termine la nostra caccia."
+      "dlg": "Così volge al termine\nla nostra caccia."
     },
     {
       "id": "battle_s3_10916_1_1-02",

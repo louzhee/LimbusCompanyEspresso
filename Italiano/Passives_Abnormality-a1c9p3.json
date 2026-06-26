@@ -182,59 +182,59 @@
     },
     {
       "id": 132601,
-      "name": "Grueling Battle",
-      "desc": "Begins battle with 20% missing HP\nFor the first 3 turns of the Encounter, gain 2 [ResultReduction]",
+      "name": "Battaglia Estenuante",
+      "desc": "Inizia l'Incontro col 20% dei PV in meno\nOttiene 2 [ResultReduction] nei primi 3 turni dell'Incontro",
       "summary": "",
       "undefined": "-",
-      "flavor": "Meeting a Color Fixer in battle is doubtless an experience that will elevate his skills to the next level.\nIf he survives this battle, that is."
+      "flavor": "Affrontare un Colore in battaglia è un esperienza che eleverà le sue doti al livello successivo...\nSe riuscirà a sopravvivere."
     },
     {
       "id": 132602,
-      "name": "Crumbling Form",
-      "desc": "Gain the following effects based on the target's [DuelEdge] Stack\n- For every Stack, deal +10% damage against and take -10% damage from the target with [DuelEdge]\n- At 3+ Stack, in a Clash against targets with [DuelEdge], gain Clash Power +1\n- At 5+ Stack, in a Clash against targets with [DuelEdge], gain Base Power +1\n- At 7+ Stack, in a Clash against targets with [DuelEdge], gain Coin Power +1\n- At 10+ Stack, in a Clash against targets with [DuelEdge], gain Final Power +1",
+      "name": "Postura Instabile",
+      "desc": "Ottiene i seguenti effetti in base agli Stack di [DuelEdge] sul bersaglio\n- 1+ Stack: Infligge +10% danni sul bersaglio e subisce -10% danni dal bersaglio per ogni Stack di [DuelEdge]\n- 3+ Stack: Potere Scontro +1 negli Scontri con un bersaglio che ha [DuelEdge]\n- 5+ Stack: Potere Base +1 negli Scontri con un bersaglio che ha [DuelEdge]\n- 7+ Stack: Quando si Scontra con un bersaglio che ha [DuelEdge], Potere Moneta +1\n- At 10+ Stack: Potere Finale +1 negli Scontri con un bersaglio che ha [DuelEdge]",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": 132603,
-      "name": "Desperate Struggle",
-      "desc": "After the Thumb Nursefather enters the field, deactivate the \"Hunter's Mark\" Passive and gain the following effects instead:\n- At less than 30 SP, heal up to 30 SP\n- Turn Start: Gain 3 [SupportProtect]\n<color=#ff6000><mark=#ff000040><b><u>- Can Clash regardless of Speed\n- Prioritize Clashing against Vergilius</u></b></mark></color>\n- When the Thumb Nursefather wins a Clash, and uses an Attack against the target, follow up with \"Colpi Sottani\" as an Unopposed Attack against the same target (2 times per turn)",
+      "name": "Lotta Disperata",
+      "desc": "Quando il Precettore del Pollice entra nell'Incontro, disattiva la Passiva \"Marchio del Cacciatore\" e attiva i seguenti effetti:\n- A meno di 30 PS, porta i PS a 30\n- A inizio turno, ottiene 3 [SupportProtect]\n<color=#ff6000><mark=#ff000040><b><u>- Può Scontrarsi con qualsiasi unità a prescindere dalla Velocità\n- Dà priorità a Vergilius</u></b></mark></color>\n- Quando il Precettore del Pollice colpisce un nemico dopo aver vinto uno Scontro, usa \"Colpi Sottani\" come Attacco Incontrastato sullo stesso bersaglio (2 volte per turno)",
       "summary": "",
       "undefined": "",
       "flavor": "'Forse dovrei ucciderla ora. Forse è il mio momento.'\n\nAncora una volta, lo stesso pensiero affiora la mente di Lucio, mentre osserva la sua maestra assopita.\nMa questo impulso rimane un pensiero senza seguito, data la paura nata dalla sua esperienza, e la gratitudine che prova verso la donna che lo ha tirato fuori dalle Backstreets (non ricordo come le aabbiamo tradotte).\nPerò, il suo risentimento è fin troppo forte. Lucio, quindi, fa una promessa a se stesso, anche se proclama questo giuramento senza traccia di inganno:\n'Quando questa battaglia si sarà conclusa, la ucciderò. Le caverò l'occhio che le rimane e la sgozzerò e pugnalerò ancora ed ancora, fin quando non smette di muoversi.'\nPer la prima volta, del fuoco vivo riecheggia negli occhi del ragazzo il cui corpo è cosparso di ferite."
     },
     {
       "id": 132604,
-      "name": "Hunter's Mark",
-      "desc": "Randomly select an enemy, reduce their Speed to 1, and target it with all of this unit's Skills\nActivates every 4 turns after the initial activation",
+      "name": "Marchio del Cacciatore",
+      "desc": "Sceglie un nemico casuale, riduce la sua Velocità ad 1 e lo bersaglia con tutte le sue Abilità\nquesto effetto si riattiva ogni 4 turni.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": 132606,
       "name": "Duello Disperato",
-      "desc": "After Clashing, inflict 1 [DuelEdge] against the target this unit Clashed against\nIn a Clash against targets with [DuelEdge], heal 2 SP for every [DuelEdge] Stack on target (max 10)"
+      "desc": "Dopo uno Scontro, infligge 1 [DuelEdge] sul bersaglio\nSe il bersaglio in questione ha [DuelEdge], recupera 2 PS per ogni Stack di [DuelEdge] sul bersaglio (max 10)"
     },
     {
       "id": 131401,
-      "name": "The Eye of Precognition",
-      "desc": "When this unit enters the Encounter, gain 30 [FutureEyeOn]\nAt 0 [FutureEyeOn] Stack, convert [FutureEyeOn] to [FutureEyeOff]",
+      "name": "L'Occhio della Precognizione",
+      "desc": "Quando entra nell'Incontro per la prima volta, ottiene 30 [FutureEyeOn]\nA 0 [FutureEyeOn], trasforma [FutureEyeOn] in [FutureEyeOff]",
       "summary": "",
       "undefined": "-",
       "flavor": "Quella Reliquia, l'Occhio di Odino, è soltanto un pezzo della Reliquia ormai divisa in tre parti."
     },
     {
       "id": 131402,
-      "name": "Accelerating Future",
-      "desc": "In a Clash, <color=#ff6000><mark=#ff000040><b><u>gain 1 [LookingFuture] with every Clash</u></b></mark></color>\nCan gain up to ([FutureEyeOn] Stack at Turn Start / 3) [LookingFuture] per turn\nWhile this unit has [FutureEyeOn], <color=#ff6000><mark=#ff000040><b><u>getting attacked by Unopposed Attacks or losing a Clash activates the \"Precognition\" Skill</u></b></mark></color>",
+      "name": "Futuro Accelerato",
+      "desc": "In uno Scontro, <color=#ff6000><mark=#ff000040><b><u>ottiene 1 [LookingFuture] con ogni Scontro</u></b></mark></color>\nPuò ottenere fino a ([FutureEyeOn] Stack a inizio turno / 3) [LookingFuture] per turno\nFinché ha [FutureEyeOn], <color=#ff6000><mark=#ff000040><b><u>attiva l'Abilità \"Precognizione\" quando viene attaccata da un Attacco Incontrastato o quando perde uno Scontro</u></b></mark></color>",
       "summary": "",
       "undefined": "-",
       "flavor": "\"Più a lungo ci scontriamo, più calda diventa la mia lama... e più in fretta arriviamo al futuro previsto.\""
     },
     {
       "id": 131408,
-      "name": "Overloaded",
-      "desc": "The following causes this unit to lose [FutureEyeOn] Stack:\n- If this unit fails to gain [LookingFuture], lose 1 [FutureEyeOn] with every Clash\n- When this unit is attacked by an Unopposed Attack, lose 1 [FutureEyeOn]\n- On Clash Lose, lose 3 [FutureEyeOn]",
+      "name": "Sovraccarico",
+      "desc": "Mentre ha [FutureEyeOn]:\n- Se questa unità non può ottenere [LookingFuture], perde 1 [FutureEyeOn] con ogni Scontro\n- Quando viene attaccata da un Attacco Incontrastato, perde 1 [FutureEyeOn]\n- A Scontro perso, perde 3 [FutureEyeOn]",
       "summary": "",
       "undefined": "-",
       "flavor": "'L'occhio si sta surriscaldando, la cavità inizia a bruciare, e la mia vista sta diventando sempre più rossa.'"
@@ -264,15 +264,15 @@
     },
     {
       "id": 131406,
-      "name": "Lucio, you useless little shit!",
-      "desc": "When \"The Thumb Apprentice - Lucio\" is defeated, activate \"Time to Hunt\" Passive",
+      "name": "Lucio, rammollito del cazzo che non sei altro!",
+      "desc": "Quando \"L'Apprendista del Pollice - Lucio\" viene sconfitto, attiva la Passiva \"Ora Della Caccia\"",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": 131410,
-      "name": "Time to Hunt",
-      "desc": "Turn Start: If this unit is Staggered, recover from Stagger\n\nSelect a random Sinner and inflict [TeachersPrey]\n- Activates every 4 turns after the initial activation\n- If this unit kills the target with the Skill \"Disposal,\" activate it again next turn",
+      "name": "Ora Della Caccia",
+      "desc": "A inizio turno, se è Stordita, si riprende dallo Stordimento\n\nSceglie un Peccatore casuale e gli infligge [TeachersPrey]\n- Questo effetto si riattiva ogni 4 turni\n- Se questa unità uccide un bersagli con l'Abilità \"Liquidare,\" la riattiva il turno successivo",
       "summary": "",
       "undefined": "-",
       "flavor": "Lo Stile Palermitano ha molto in comune con la sua origine: La Famiglia Bognatelli.\nLa Famiglia e la sua tecnica sono note per la loro abilità nell'attaccare una preda senza sosta, concludendo la \"caccia\" con un Coup de Grâce comparabile a una sezionatura. Queste esecuzioni non vengono nascoste, ma bensì messe in mostra con orgoglio dalla Famiglia da cui origina.\nQuesto stile straordinario e formidabile ha portato grande onore alla Famiglia Bognatelli, che si assicurò un posto tra le Sette Famiglie dei Vicoli.\nValentina, esperta dello Stile Palermitano, lo usò per cacciare e sterminare molti soldati durante la Guerra del Fumo, diventando una vera e propria \"Eroina di guerra.\"\nMa nessuno poteva immaginare che sarebbe caduta alla stessa velocità della sua ascesa alla fama."
