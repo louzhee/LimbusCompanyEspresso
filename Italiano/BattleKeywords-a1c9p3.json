@@ -458,7 +458,7 @@
     {
       "id": "ThreeMirrorpartYiSang",
       "name": "Mondo Frantumato",
-      "desc": "- Max Stack: 1\n- Scade a Fine Turno\n- Subisce x1.2 danni da from Bruciatura (arrotondato per difetto, <noparse>Bruciatura</noparse> Speciale esclusa)\n- Subisce +10% danni dalle Abilità Attacco Base Ira e Tristezza di Yi Sang",
+      "desc": "- Max Stack: 1\n- Scade a Fine Turno\n- Subisce x1.2 danni da Bruciatura (arrotondato per difetto, <noparse>Bruciatura</noparse> Speciale esclusa)\n- Subisce +10% danni dalle Abilità Attacco Base Ira e Tristezza di Yi Sang",
       "summary": "",
       "undefined": "-"
     },
