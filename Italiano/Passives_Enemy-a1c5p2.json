@@ -2,28 +2,28 @@
     "dataList": [
         {
             "id": 9008801,
-            "name": "Ineffable Shape",
-            "desc": "When killed in combat, deal 10 PS damage to the unit that attacked it last"
+            "name": "Forma Indescrivibile",
+            "desc": "Quando muore, infligge 10 danni ai PS all'ultima unità che l'ha colpita"
         },
         {
             "id": 9008901,
-            "name": "Pallidification",
-            "desc": "Gain 2 Offense Level and Defense Level for every living Pallidified ally (not counting this unit)"
+            "name": "Pallidificazione",
+            "desc": "Ottiene 2 Livelli Offensivi e Difensivi per ogni alleato Pallidificato in vita (esclude sé stessa)"
         },
         {
             "id": 9008902,
-            "name": "Crashing Filth",
-            "desc": "At 10% of Max PV, inflict 20 PS damage On Hit, inflict 1 Pallid Noise next turn, then dies."
+            "name": "Schianto della Feccia",
+            "desc": "Al 10% dei PV, infligge 20 danni ai PS sul Colpo, infligge 1 [AaCePbBa] nel turno successivo e muore."
         },
         {
             "id": 9008903,
             "name": "Spreading Flames",
-            "desc": "If there are surviving Pallidified allies at Turn End, all enemies with 20 or more PS lose 1 PS for every surviving Pallidified ally (not counting this unit)"
+            "desc": "A fine turno, se ci sono alleati Pallidificati in vita, tutti i nemici con 20 o più PS perdono 1 PS per ogni alleato Pallidificato in vita (esclude sé stessa)"
         },
         {
             "id": 9009001,
             "name": "Spreading Flames",
-            "desc": "If there are surviving Pallidified allies at Turn End, all enemies with 20 or more PS lose 1 PS for every surviving Pallidified ally (not counting this unit)"
+            "desc": "A fine turno, se ci sono alleati Pallidificati in vita, tutti i nemici con 20 o più PS perdono 1 PS per ogni alleato Pallidificato in vita (esclude sé stessa)"
         },
         {
             "id": 9009101,

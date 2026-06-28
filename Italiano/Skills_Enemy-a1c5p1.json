@@ -5,20 +5,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Vomit Froth",
+                    "name": "Vomita Schiuma",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Sinking"
+                                    "desc": "[OnSucceedAttackHead] Infligge 2 [Sinking]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Sinking"
+                                    "desc": "[OnSucceedAttackHead] Infligge 2 [Sinking]"
                                 }
                             ]
                         }
@@ -31,20 +31,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Claw",
-                    "desc": "If target has 5+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, deal +20% damage.",
+                    "name": "Artiglio",
+                    "desc": "Se il bersaglio ha 5+ [Sinking], infligge +20% danni.",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal by 30% of damage dealt"
+                                    "desc": "[OnSucceedAttack] Recupera PV pari al 30% del danno inflitto"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal by 30% of damage dealt"
+                                    "desc": "[OnSucceedAttack] Recupera PV pari al 30% del damage inflitto"
                                 }
                             ]
                         }
@@ -57,13 +57,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Water Jet",
+                    "name": "Getto d'Acqua",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +5 Sinking Count"
+                                    "desc": "[OnSucceedAttack] Infligge +5 Conteggio [Sinking]"
                                 }
                             ]
                         }
@@ -76,8 +76,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Mucous Skin",
-                    "desc": "If attacked while Shielded, inflict 1 Sinking on the attacker",
+                    "name": "Pelle Mucosa",
+                    "desc": "Se colpita mentre ha scudo, infligge 1 [Sinking] sull'attaccante",
                     "coinlist": [
                         {}
                     ]
@@ -89,13 +89,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hook Slice",
+                    "name": "Tagli d'Uncino",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 3 Bleed"
+                                    "desc": "[OnSucceedAttackHead] Infligge 3 [Laceration]"
                                 }
                             ]
                         }
@@ -108,20 +108,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Consecutive Hook Slice",
+                    "name": "Serie di Tagli d'Uncino",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 5 Bleed"
+                                    "desc": "[OnSucceedAttack] Infligge 5 [Laceration]"
                                 }
                             ]
                         }
@@ -134,8 +134,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Battle Cry",
-                    "desc": "[WhenUse] Gain 2 Poise next turn.\nTurn End: Heal PV equal to the Shield PV.",
+                    "name": "Grido di Battaglia",
+                    "desc": "[WhenUse] Ottiene 2 [Breath] il turno successivo.\nA fine turno, recupera PV pari allo Scudo su di sé.",
                     "coinlist": [
                         {}
                     ]
@@ -147,20 +147,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Tear the Gap",
-                    "desc": "Coin effects activate when this unit has <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</link></u></color>.",
+                    "name": "Recidi le Debolezze",
+                    "desc": "Gli effetti delle Monete si attivano solo se ha [Breath].",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] Deal +30% damage"
+                                    "desc": "[OnSucceedAttackTail] Infligge +30% danni"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] Deal +30% damage"
+                                    "desc": "[OnSucceedAttackTail] Infligge +30% danni"
                                 }
                             ]
                         }
@@ -173,13 +173,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hook Snag",
+                    "name": "Strappo d'Uncino",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict +2 Bleed Count"
+                                    "desc": "[OnSucceedAttackHead] Infligge +2 Conteggio [Laceration]"
                                 }
                             ]
                         }
@@ -192,20 +192,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hook Punch",
+                    "name": "Colpo d'Uncino",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Laceration]"
                                 }
                             ]
                         }
@@ -218,8 +218,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Battle Cry",
-                    "desc": "[WhenUse] Gain 2 Poise next turn.\nTurn End: Heal PV equal to the Shield PV.",
+                    "name": "Grido di Battaglia",
+                    "desc": "[WhenUse] Ottiene 2 [Breath] il turno successivo.\nA fine turno, recupera PV pari allo Scudo su di sé.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -237,20 +237,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Tear the Gap",
-                    "desc": "Coin effects activate when this unit has <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</link></u></color>.",
+                    "name": "Recidi le Debolezze",
+                    "desc": "Gli effetti delle Monete si attivano solo se ha [Breath].",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] Deal +30% damage"
+                                    "desc": "[OnSucceedAttackTail] Infligge +30% danni"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] Deal +30% damage"
+                                    "desc": "[OnSucceedAttackTail] Infligge +30% danni"
                                 }
                             ]
                         }
@@ -263,16 +263,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Tear the Flesh",
+                    "name": "Strappa la Carne",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 3 Bleed"
+                                    "desc": "[OnSucceedAttackHead] Infligge 3 [Laceration]"
                                 }
                             ]
                         }
@@ -285,14 +285,14 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Going In",
+                    "name": "Vado Io",
                     "desc": "",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 4 Bleed and +3 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Infligge 4 [Laceration] e +3 Conteggio [Laceration]"
                                 }
                             ]
                         }
@@ -305,20 +305,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Faster",
-                    "desc": "[EndSkill] Gain 1 Damage Up next turn",
+                    "name": "Più Veloce",
+                    "desc": "[EndSkill] Ottiene 1 [AttackDmgUp] il turno successivo",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 4 Poise next turn"
+                                    "desc": "[OnSucceedAttack] Ottiene 4 [Breath] il turno successivo"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Fragile next turn"
+                                    "desc": "[OnSucceedAttack] Infligge 2 [Fragile] il turno successivo"
                                 }
                             ]
                         }
@@ -331,8 +331,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Battle Cry",
-                    "desc": "[WhenUse] Gain 2 Poise next turn.\nTurn End: Heal PV equal to the Shield PV.",
+                    "name": "Grido di Battaglia",
+                    "desc": "[WhenUse] Ottiene 2 [Breath] il turno successivo.\nA fine turno, recupera PV pari allo Scudo su di sé.",
                     "coinlist": [
                         {}
                     ]
@@ -344,8 +344,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Looting",
-                    "desc": "[WinDuel] Copies the target's 1~3 Skill Coin Power and Coin Count and uses them as its own",
+                    "name": "Saccheggiare",
+                    "desc": "[WinDuel] Replica il Potere Moneta e il Numero delle Monete dell'Abilità 3 del bersaglio",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -363,16 +363,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hit Me Harder",
-                    "desc": "[WhenUse] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain 1 Protection",
+                    "name": "Colpisci Più Forte",
+                    "desc": "[WhenUse] Se il bersaglio ha [Laceration], ottiene 1 [Protection]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                                    "desc": "[OnSucceedAttack] Infligge 2 [Binding] il turno successivo"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                                 }
                             ]
                         }
@@ -385,26 +385,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hit Me Right here",
-                    "desc": "[WhenUse] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain 1 Protection",
+                    "name": "Colpiscimi Qui",
+                    "desc": "[WhenUse] Se il bersaglio ha [Laceration], ottiene 1 [Protection]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                                    "desc": "[OnSucceedAttack] Infligge 1 [Paralysis] il turno successivo"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Damage Down next turn"
+                                    "desc": "[OnSucceedAttack] Infligge 2 [AttackDmgDown] il turno successivo"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                                 }
                             ]
                         }
@@ -417,23 +417,23 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Even Harder",
-                    "desc": "[EndSkill] Gain 1 Damage Up next turn",
+                    "name": "Ancora Più Forte!",
+                    "desc": "[EndSkill] Ottiene 1 [AttackDmgUp] il turno successivo",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 2 Protection"
+                                    "desc": "[OnSucceedAttack] Ottiene 2 [Protection]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 2 Protection next turn"
+                                    "desc": "[OnSucceedAttack] Ottiene 2 [Protection] il turno successivo"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 4 Poise next turn"
+                                    "desc": "[OnSucceedAttack] Ottiene 4 [Breath] il turno successivo"
                                 }
                             ]
                         }
@@ -446,8 +446,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Defend",
-                    "desc": "[WhenUse] Gain 2 Poise next turn.\nTurn End: Heal PV equal to the Shield PV.",
+                    "name": "Blocco",
+                    "desc": "[WhenUse] Ottiene 2 [Breath] il turno successivo.\nA fine turno, recupera PV pari allo Scudo su di sé.",
                     "coinlist": [
                         {}
                     ]
@@ -459,8 +459,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Looting",
-                    "desc": "[WinDuel] Copies the target's 1~3 Skill Coin Power and Coin Count and uses them as its own",
+                    "name": "Saccheggiare",
+                    "desc": "[WinDuel] Replica il Potere Moneta e il Numero delle Monete dell'Abilità 3 del bersaglio",
                     "coinlist": [
                         {}
                     ]
@@ -472,20 +472,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Water Jet",
+                    "name": "Getto d'Acqua",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                                    "desc": "[OnSucceedAttack] Infligge 3 [Sinking]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                                    "desc": "[OnSucceedAttack] Infligge 3 [Sinking]"
                                 }
                             ]
                         }
@@ -498,19 +498,19 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Damp Strike",
+                    "name": "Botta Umida",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Sinking Fragility"
+                                    "desc": "[OnSucceedAttack] Infligge 2 [SinkingVulnerable]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal by 50% of damage dealt"
+                                    "desc": "[OnSucceedAttack] Recupera PV pari al 50% del danno inflitto"
                                 }
                             ]
                         }
@@ -523,26 +523,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Clutch of the Waves",
+                    "name": "Frizione delle Onde",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                                    "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Sinking]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttackHead] Infligge 2 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                                    "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Sinking]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttackHead] Infligge 2 [Laceration]"
                                 }
                             ]
                         }
@@ -555,13 +555,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Shrieking Waves",
-                    "desc": "Damage +20% per 5 Sinking Potency on target\nIf target's PS is below 0, deal +10% damage",
+                    "name": "Onde Stridenti",
+                    "desc": "Infligge +20% danni per ogni 5 [Sinking] sul bersaglio\nSe i PS del bersaglio sono sotto 0, infligge +10% danni",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Sinking Deluge"
+                                    "desc": "[OnSucceedAttack] [SinkingSurge]"
                                 }
                             ]
                         }
@@ -574,8 +574,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Mucous Skin",
-                    "desc": "If attacked while Shielded, inflict 1 Sinking on the attacker",
+                    "name": "Pelle Mucosa",
+                    "desc": "Se colpita mentre ha scudo, infligge 1 [Sinking] sull'attaccante",
                     "coinlist": [
                         {}
                     ]
@@ -587,13 +587,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "There, There They Are",
+                    "name": "Eccoli! Eccoli Lì!",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                                    "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                                 }
                             ]
                         }
@@ -606,26 +606,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "We've Got Company, Boys",
+                    "name": "Ragazzi, Abbiamo Visite",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttackHead] Infligge 2 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 4 Bleed"
+                                    "desc": "[OnSucceedAttackHead] Infligge 4 [Laceration]"
                                 }
                             ]
                         }
@@ -638,14 +638,14 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Battle Command",
-                    "desc": "[WhenUse] Gain 5 Poise this turn",
+                    "name": "Impartire Ordini",
+                    "desc": "[WhenUse] Ottiene 5 [Breath]",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Apply 2 Protection, 1 Attack Power Up to all other allies next turn"
+                                    "desc": "[OnSucceedAttack] Applica 2 [Protection] e 1 [Enhancement] su ogni alleato il turno successivo"
                                 }
                             ]
                         }
@@ -658,26 +658,26 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Weakness Spotted! Fire!",
-                    "desc": "If target has 5+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, Clash Power +2",
+                    "name": "Debolezze in Vista! Fuoco!",
+                    "desc": "Se il bersaglio ha 5+ [Laceration], Potere Scontro +2",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 4 Bleed"
+                                    "desc": "[OnSucceedAttack] Infligge 4 [Laceration]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 4 Bleed"
+                                    "desc": "[OnSucceedAttackHead] Infligge 4 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 Bleed Count\nDeal bonus damage equal to <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> on target"
+                                    "desc": "[OnSucceedAttack] Infligge 3 Conteggio [Laceration]\nInfligge danni bonus pari al [Laceration] sul bersaglio"
                                 },
                                 {
-                                    "desc": "Spend 1 Ammo"
+                                    "desc": "Spende 1 [Bullet]"
                                 }
                             ]
                         }
@@ -691,7 +691,7 @@
                 {
                     "level": 1,
                     "name": "Evasione",
-                    "desc": "[OnSucceedEvade] Gain 5 Poise next turn.\n[OnSucceedEvade] Apply 2 Poise to all allies next turn.",
+                    "desc": "[OnSucceedEvade] Ottiene 5 [Breath] il turno successivo.\n[OnSucceedEvade] Applica 2 [Breath] su ogni alleato il turno successivo.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -709,8 +709,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Looting",
-                    "desc": "[WinDuel] Copies the target's Skill 3 Coin Power and Coin Count and uses them as its own",
+                    "name": "Saccheggiare",
+                    "desc": "[WinDuel] Replica il Potere Moneta e il Numero delle Monete dell'Abilità 3 del bersaglio",
                     "coinlist": [
                         {
                             "coindescs": [
