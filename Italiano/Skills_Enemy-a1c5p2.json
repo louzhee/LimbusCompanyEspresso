@@ -342,20 +342,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "-- . -.-",
+                    "name": ".- -.",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Infligge 3 Tremor"
+                                    "desc": "[OnSucceedAttack] Infligge 3 [Vibration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Infligge 3 Tremor"
+                                    "desc": "[OnSucceedAttack] Infligge 3 [Vibration]"
                                 }
                             ]
                         }
@@ -368,13 +368,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "-... .-",
-                    "desc": "[WhenUse] Apply 1 [Protection] to 1 other random ally il turno successivo. If the ally is a Pallidified ally, apply 1 additional [Protection].",
+                    "name": "-.. .. .-",
+                    "desc": "[WhenUse] Applica 1 [Protection] su 1 altro alleato il turno successivo. Se questo alleato è Pallidificato, applica 1 [Protection] in più.",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Infligge +4 Tremor Count"
+                                    "desc": "[OnSucceedAttack] Infligge +4 Conteggio [Vibration]"
                                 }
                             ]
                         }
@@ -387,16 +387,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "-.-. ..-",
+                    "name": "-- --- -.-.",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                                    "desc": "[OnSucceedAttack] Innesca [VibrationExplosion]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Reduce Tremor Count by 2"
+                                    "desc": "[OnSucceedAttack] Riduce il Conteggio [Vibration] sul bersaglio di 2"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Infligge 1 [AaCePbBa]"
@@ -406,7 +406,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Infligge 10 Rupture and +4 Rupture Count"
+                                    "desc": "[OnSucceedAttack] Infligge 10 [Burst] e +4 Conteggio [Burst]"
                                 }
                             ]
                         }
@@ -419,8 +419,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": ".--. .",
-                    "desc": "[StartBattle] Ottiene 1 [Protection] for every 2 Pallidified ally (not counting this unit)\nWhen attacked while this unit has Shield, infligge 1 Tremor to the attacker",
+                    "name": ". -. .",
+                    "desc": "[StartBattle] Ottiene 1 [Protection] per ogni 2 alleati Pallidificati (esclude sé stessa)\nSe colpita mentre ha scudo, infligge 1 [Vibration] sull'attaccante",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -438,7 +438,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "..-. .",
+                    "name": "...- .. .-",
                     "desc": "",
                     "coinlist": [
                         {
@@ -457,8 +457,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": ".-.. .",
-                    "desc": "[WhenUse] Apply 1 Damage Up to 1 other random Pallidified ally il turno successivo",
+                    "name": "-.. .-",
+                    "desc": "[WhenUse] Applica 1 [AttackDmgUp] su 1 altro alleato Pallidificato casuale il turno successivo",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -479,7 +479,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": ".-.. .-",
+                    "name": "--.- ..- ..",
                     "desc": "[WhenUse] Applica 1 [AttackDmgUp] su 1 alleato Pallidificato casuale il turno successivo",
                     "coinlist": [
                         {
@@ -508,7 +508,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "... .- .-..",
+                    "name": ".- .. ..-",
                     "desc": "Se il bersaglio ha [AaCePbBa], infligge 1 danno ai PS to target per ogni altro alleato in vita",
                     "coinlist": [
                         {
@@ -530,7 +530,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "...- .-",
+                    "name": "- .-",
                     "desc": "",
                     "coinlist": [
                         {
@@ -604,7 +604,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "-.-. .... .",
+                    "name": "-.-. --- ...",
                     "desc": "",
                     "coinlist": [
                         {

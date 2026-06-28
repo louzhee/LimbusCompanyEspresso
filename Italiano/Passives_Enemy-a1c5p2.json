@@ -17,48 +17,48 @@
         },
         {
             "id": 9008903,
-            "name": "Spreading Flames",
-            "desc": "A fine turno, se ci sono alleati Pallidificati in vita, tutti i nemici con 20 o più PS perdono 1 PS per ogni alleato Pallidificato in vita (esclude sé stessa)"
+            "name": "Propagazione delle Fiamme",
+            "desc": "A fine turno, tutti i nemici con 20 o più PS perdono 1 PS per ogni alleato Pallidificato in vita (esclude sé stessa)"
         },
         {
             "id": 9009001,
-            "name": "Spreading Flames",
-            "desc": "A fine turno, se ci sono alleati Pallidificati in vita, tutti i nemici con 20 o più PS perdono 1 PS per ogni alleato Pallidificato in vita (esclude sé stessa)"
+            "name": "Propagazione delle Fiamme",
+            "desc": "A fine turno, tutti i nemici con 20 o più PS perdono 1 PS per ogni alleato Pallidificato in vita (esclude sé stessa)"
         },
         {
             "id": 9009101,
-            "name": "Healing Resentment",
-            "desc": "If there are surviving Pallidified allies at Turn End, all other Pallidified allies heal (# of other Pallidified allies * 3) PV"
+            "name": "Guarigione del Risentimento",
+            "desc": "A fine turno, ogni altro alleato recupera (# di altri alleati pallidificati * 3) PV"
         },
         {
             "id": 9009201,
-            "name": "Cumulating Organic Material",
-            "desc": "Defense Level +1 for every surviving ally (not counting this unit)"
+            "name": "Raccogli la Materia Organica",
+            "desc": "Livello Difensivo +1 per ogni alleato in vita (esclude sé stessa)"
         },
         {
             "id": 9009202,
-            "name": "Disintegrating Inorganic Material",
-            "desc": "Gain 1 Fragile next turn if an ally dies"
+            "name": "Disintegra la Materia Inorganica",
+            "desc": "Se un alleato muore, ottiene 1 [Fragile] il turno successivo"
         },
         {
             "id": 9009301,
-            "name": "Intertwined Organic Material",
-            "desc": "Offense Level +1 for every surviving ally (not counting this unit)"
+            "name": "Materia Organica Intrecciata",
+            "desc": "Livello Offensivo +1 per ogni alleato in vita (esclude sé stessa)"
         },
         {
             "id": 9009302,
-            "name": "Scattered Inorganic Material",
-            "desc": "Gain 1 Attack Power Down next turn if an ally dies"
+            "name": "Materia Inorganica Sparsa",
+            "desc": "Se un alleato muore, ottiene 1 [Reduction] il turno successivo"
         },
         {
             "id": 9009401,
-            "name": "Organic Breathing",
-            "desc": "If this unit dealt the final blow, apply 5 Poise to all Pallidified allies. Apply 1 Poise Count"
+            "name": "Respiri Organici",
+            "desc": "Se uccide, applica 5 [Breath] su ogni alleato Pallidificato. Applica 1 Conteggio [Breath]"
         },
         {
             "id": 9009501,
-            "name": "Organic Hardening",
-            "desc": "If this unit dealt the final blow, apply 1 Protection and 2 Defense Level Up to all allies."
+            "name": "Indurimento Organico",
+            "desc": "Se uccide, applica 1 [Protection] e 2 [DefenseUp] su ogni alleato."
         },
         {
             "id": 9009601,
