@@ -129,7 +129,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Time to Get Boxed",
+                    "name": "È Ora di Farsi Impacchettare",
                     "desc": "Se lo Scudo viene distrutto, viene Stordito nel turno successivo.\nSe rimane ancora dello Scudo, ottiene 2 [Enhancement] nel turno successivo",
                     "coinlist": [
                         {}
