@@ -943,7 +943,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Infligge (([Breath] su di sé x 10)% dei danni finali di questa Moneta) danni Taglienti (max 100%)"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge (([Laceration] sul bersaglio x 10)% dei danni finali di questa Moneta) danni Taglienti (max 100%)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge (([Laceration] sul bersaglio x 10)% dei danni finali di questa Moneta) danni Lussuria (max 100%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Attiva [Laceration] sul bersaglio una volta. Il bersaglio perde 1 Conteggio [Laceration]"

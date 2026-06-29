@@ -386,16 +386,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bearspine Breaker",
-          "desc": "[WhenUse] At 8+ [Breath], deal +40% damage on Critical Hit\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>At 7+ [ChoiSwordsmanship], convert all Coins into [SuperCoin]s and deal +100% damage on Critical Hit</color></mark></b></u>\n[DefeatDuel]\n- Deal -80% damage\n- Does not hit Critically\n- Damage dealt by this Skill cannot Stagger the target",
+          "name": "Rompi-Vertebra D'Orso",
+          "desc": "[WhenUse] A 8+ [Breath], infligge +40% danni sul Colpo Critico\n[WhenUse] Potere Finale +1 per ogni 4 [Laceration] sul bersaglio (max 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>A 7+ [ChoiSwordsmanship], converte ogni Moneta in [SuperCoin] e infligge +100% danni sul Colpo Critico</color></mark></b></u>\n[DefeatDuel]\n- Infligge -80% danni\n- Non può eseguire Colpi Critici\n- Quest'Abilità non può Stordire il bersaglio",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [SlashResistDown] this turn and next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [SlashResistDown] questo turno e il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration] and +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Laceration] e +3 Conteggio [Laceration]"
                 }
               ]
             }
@@ -408,34 +408,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tigersplitter",
-          "desc": "[WhenUse] At 8+ [Breath], deal +40% damage on Critical Hit\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>At 3 or fewer [ChoiSwordsmanship], convert all Coins into [SuperCoin]s and deal +100% damage on Critical Hit</color></mark></b></u>\n[DefeatDuel]\n- Deal -80% damage\n- Does not hit Critically\n- Damage dealt by this Skill cannot Stagger the target",
+          "name": "Spezza-Tigri",
+          "desc": "[WhenUse] A 8+ [Breath], infligge +40% danni sul Colpo Critico\n[WhenUse] Potere Finale +1 per ogni 4 [Laceration] sul bersaglio (max 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>A 3 o meno [ChoiSwordsmanship], converte ogni Moneta in [SuperCoin] e infligge +100% danni sul Colpo Critico</color></mark></b></u>\n[DefeatDuel]\n- Infligge -80% danni\n- Non può eseguire Colpi Critici\n- Quest'Abilità non può Stordire il bersaglio",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration] e +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration] e +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Binding] il turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [SlashResistDown] this turn and next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [SlashResistDown] questo turno e il turno successivo"
                 }
               ]
             }
@@ -448,8 +448,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sword of the Homeland [Sal] - Reassume Stance",
-          "desc": "Unaffected by [ChoiSwordsmanship]\nIf target's Skill is [SupportProtect] Exclusive Skill, convert into [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Lose 3 [ChoiSwordsmanship]</color></mark></b></u>\n- If target's Skill is [SupportProtect] Exclusive Skill, this effect does not activate\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>On Hit as an Unopposed Attack, or On Hit against target that used [SupportProtect] Exclusive Skill, gain 2 [ChoiSwordsmanship]</color></mark></b></u>",
+          "name": "Spada della Patria [Sal] - Riacquisire Postura",
+          "desc": "Quest'Abilità non è affetta da [ChoiSwordsmanship]\nSe l'Abilità del bersaglio è esclusiva alla [SupportProtect], converte la Moneta in [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Perde 3 [ChoiSwordsmanship]</color></mark></b></u>\n- Se l'Abilità del bersaglio è esclusiva alla [SupportProtect], questo effetto non viene attivato\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Se ha colpito come Attacco Incontrastato, o se ha colpito un'unità che ha usato un'Abilità esclusiva alle [SupportProtect], ottiene 2 [ChoiSwordsmanship]</color></mark></b></u>",
           "coinlist": [
             {}
           ]
@@ -461,8 +461,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sword of the Homeland [Sal] - Swordhoning",
-          "desc": "Unaffected by [ChoiSwordsmanship]\nIf target's Skill is [SupportProtect] Exclusive Skill, convert into [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Gain 3 [ChoiSwordsmanship]</color></mark></b></u>\n- If target's Skill is [SupportProtect] Exclusive Skill, this effect does not activate\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>On Hit as an Unopposed Attack, or On Hit against target that used [SupportProtect] Exclusive Skill, lose 2 [ChoiSwordsmanship]</color></mark></b></u>",
+          "name": "Spada della Patria [Sal] - Affilalama",
+          "desc": "Quest'Abilità non è affetta da [ChoiSwordsmanship]\nSe l'Abilità del bersaglio è esclusiva alla [SupportProtect], converte la Moneta in [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Ottiene 3 [ChoiSwordsmanship]</color></mark></b></u>\n- Se l'Abilità del bersaglio è esclusiva alla [SupportProtect], questo effetto non viene attivato\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Se ha colpito come Attacco Incontrastato, o se ha colpito un'unità che ha usato un'Abilità esclusiva alle [SupportProtect], perde 2 [ChoiSwordsmanship]</color></mark></b></u>",
           "coinlist": [
             {}
           ]
@@ -474,16 +474,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bearspine Breaker",
-          "desc": "[WhenUse] At 8+ [Breath], deal +40% damage on Critical Hit\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)\n[WhenUse] At more than 6 [ChoiSwordsmanship], gain Final Power for every excess [ChoiSwordsmanship] Stack (max 3)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>At 7+ [ChoiSwordsmanship], convert all Coins into [SuperCoin]s and deal +100% damage on Critical Hit</color></mark></b></u>\n[DefeatDuel]\n- Deal -80% damage\n- Does not hit Critically\n- Damage dealt by this Skill cannot Stagger the target",
+          "name": "Rompi-Vertebra D'Orso",
+          "desc": "[WhenUse] A 8+ [Breath], infligge +40% danni sul Colpo Critico\n[WhenUse] Potere Finale +1 per ogni 4 [Laceration] sul bersaglio (max 2)\n[WhenUse] A più di 6 [ChoiSwordsmanship], ottiene Potere Finale per ogni Stack di [ChoiSwordsmanship] in eccesso (max 3)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>A 7+ [ChoiSwordsmanship], converte ogni Moneta in [SuperCoin] e infligge +100% danni sul Colpo Critico</color></mark></b></u>\n[DefeatDuel]\n- Infligge -80% danni\n- Non può eseguire Colpi Critici\n- Quest'Abilità non può Stordire il bersaglio",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [SlashResistDown] this turn and next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [SlashResistDown] questo turno e il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration] and +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Laceration] e +3 Conteggio [Laceration]"
                 }
               ]
             }
@@ -496,8 +496,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Even Sanguns Shall Be Cleft Under This Sword",
-          "desc": "Targets the enemy that has the most [Laceration]\n[WhenUse] Cannot be Staggered from taking damage until this Skill ends\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 3)\n[WhenUse] At more than 6 [ChoiSwordsmanship], gain Final Power +2 for every excess [ChoiSwordsmanship] Stack (max 6)\n[WinDuel] <color=#ff6000><mark color=#ff000040><b><u>This Skill always flips Head, hits Critically, and does not consume [Breath] Count</color></mark></b></u>\n[BeforeAttack] Deal +30% damage on Critical Hit for every 2 [ChoiSwordsmanship] on self (max 120%)\n[DefeatDuel]\n- Deal -80% damage\n- Does not hit Critically\n- Damage dealt by this Skill cannot Stagger the target",
+          "name": "Persino i Sangun Cadranno Sotto Questa Lama",
+          "desc": "Bersaglia il nemico con più [Laceration]\n[WhenUse] Non può essere Stordita fino alla fine di quest'Abilità\n[WhenUse] Potere Finale +1 per ogni 4 [Laceration] sul bersaglio (max 3)\n[WhenUse] A più di 6 [ChoiSwordsmanship], ottiene Potere Finale +2 per ogni Stack di [ChoiSwordsmanship] in eccesso (max 6)\n[WinDuel] <color=#ff6000><mark color=#ff000040><b><u>Le Monete di quest'Abilità cadranno sempre su Testa, eseguiranno un Colpo Critico, e non consumano Conteggio [Breath]</color></mark></b></u>\n[BeforeAttack] Infligge +30% danni sul Colpo Critico per ogni 2 [ChoiSwordsmanship] su di sé (max 120%)\n[DefeatDuel]\n- Infligge -80% danni\n- Non può eseguire Colpi Critici\n- Quest'Abilità non può Stordire il bersaglio",
           "coinlist": [
             {
               "coindescs": [
@@ -505,13 +505,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Deal (([Breath] on self x 10)% of this Coin's final damage) Slash damage (max 100%)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge (([Breath] su di sé x 10)% dei danni finali di questa Moneta) danni Taglienti (max 100%)"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Deal (([Laceration] on target x 10)% of this Coin's final damage) Lust damage (max 100%)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge (([Laceration] sul bersaglio x 10)% dei danni finali di questa Moneta) danni Lussuria (max 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Attiva [Laceration] sul bersaglio una volta. Il bersaglio perde 1 Conteggio [Laceration]"
                 }
               ]
             }
@@ -524,34 +524,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tigersplitter",
-          "desc": "[WhenUse] At 8+ [Breath], deal +40% damage on Critical Hit\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>At 3 or fewer [ChoiSwordsmanship], convert all Coins into [SuperCoin]s and deal +100% damage on Critical Hit</color></mark></b></u>\n[DefeatDuel]\n- Deal -80% damage\n- Does not hit Critically\n- Damage dealt by this Skill cannot Stagger the target",
+          "name": "Spezza-Tigri",
+          "desc": "[WhenUse] A 8+ [Breath], infligge +40% danni sul Colpo Critico\n[WhenUse] Potere Finale +1 per ogni 4 [Laceration] sul bersaglio (max 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>A 3 o meno [ChoiSwordsmanship], converte ogni Moneta in [SuperCoin] e infligge +100% danni sul Colpo Critico</color></mark></b></u>\n[DefeatDuel]\n- Infligge -80% danni\n- Non può eseguire Colpi Critici\n- Quest'Abilità non può Stordire il bersaglio",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration] e +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration] e +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Binding] il turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [SlashResistDown] this turn and next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [SlashResistDown] questo turno e il turno successivo"
                 }
               ]
             }
@@ -564,8 +564,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "No Tiger's Flesh Shall Be Left Uncloven",
-          "desc": "Targets the enemy that has the most [Laceration]\n<color=#ff6000><mark color=#ff000040><b><u>Can Clash with this Skill regardless of Speed</color></mark></b></u>\n[WhenUse] Cannot be Staggered from taking damage until this Skill ends\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 3)\n[WinDuel] <color=#ff6000><mark color=#ff000040><b><u>This Skill always flips Head, hits Critically, and does not consume [Breath] Count</color></mark></b></u>\n[BeforeAttack] Deal +30% damage on Critical Hit for every 2 [Breath] on self (max 120%)\n[DefeatDuel]\n- Deal -80% damage\n- Does not hit Critically\n- Damage dealt by this Skill cannot Stagger the target",
+          "name": "Le Carni di Nessuna Tigre Sarà Lasciata Intatta",
+          "desc": "Bersaglia il nemico con più [Laceration]\n<color=#ff6000><mark color=#ff000040><b><u>Ci si può Scontrare con quest'Abilità a prescindere dalla Velocità</color></mark></b></u>\n[WhenUse] Non può essere Stordita fino alla fine di quest'Abilità\n[WhenUse] Potere Finale +1 per ogni 4 [Laceration] sul bersaglio (max 3)\n[WinDuel] <color=#ff6000><mark color=#ff000040><b><u>Le Monete di quest'Abilità cadranno sempre su Testa, eseguiranno un Colpo Critico, e non consumano Conteggio [Breath]</color></mark></b></u>\n[BeforeAttack] Infligge +30% danni sul Colpo Critico per ogni 2 [Breath] su di sé (max 120%)\n[DefeatDuel]\n- Infligge -80% danni\n- Non può eseguire Colpi Critici\n- Quest'Abilità non può Stordire il bersaglio",
           "coinlist": [
             {
               "coindescs": [
@@ -573,10 +573,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Attiva [Laceration] sul bersaglio una volta. Il bersaglio perde 1 Conteggio [Laceration]"
                 }
               ]
             },
@@ -586,10 +586,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Attiva [Laceration] sul bersaglio una volta. Il bersaglio perde 1 Conteggio [Laceration]"
                 }
               ]
             },
@@ -599,10 +599,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Attiva [Laceration] sul bersaglio una volta. Il bersaglio perde 1 Conteggio [Laceration]"
                 }
               ]
             },
@@ -612,10 +612,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the main target has 10+ [Laceration], inflict +8 [Laceration] Count on targets hit by this Coin"
+                  "desc": "[OnSucceedAttack] Se il bersaglio principale ha 10+ [Laceration], infligge +8 Conteggio [Laceration] su ogni bersaglio colpito da questa Moneta"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +8 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Infligge +8 Conteggio [Laceration]"
                 }
               ]
             }
@@ -628,8 +628,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sword of the Homeland [Sal] - Reassume Stance",
-          "desc": "Unaffected by [ChoiSwordsmanship]\nIf target's Skill is [SupportProtect] Exclusive Skill, convert into [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Lose 3 [ChoiSwordsmanship]</color></mark></b></u>\n- If target's Skill is [SupportProtect] Exclusive Skill, this effect does not activate\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>On Hit as an Unopposed Attack, or On Hit against target that used [SupportProtect] Exclusive Skill, gain 2 [ChoiSwordsmanship]</color></mark></b></u>",
+          "name": "Spada della Patria [Sal] - Riacquisire Postura",
+          "desc": "Quest'Abilità non è affetta da [ChoiSwordsmanship]\nSe l'Abilità del bersaglio è esclusiva alla [SupportProtect], converte la Moneta in [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Perde 3 [ChoiSwordsmanship]</color></mark></b></u>\n- Se l'Abilità del bersaglio è esclusiva alla [SupportProtect], questo effetto non viene attivato\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Se ha colpito come Attacco Incontrastato, o se ha colpito un'unità che ha usato un'Abilità esclusiva alle [SupportProtect], ottiene 2 [ChoiSwordsmanship]</color></mark></b></u>",
           "coinlist": [
             {}
           ]
@@ -641,8 +641,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sword of the Homeland [Sal] - Swordhoning",
-          "desc": "Unaffected by [ChoiSwordsmanship]\nIf target's Skill is [SupportProtect] Exclusive Skill, convert into [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Gain 3 [ChoiSwordsmanship]</color></mark></b></u>\n- If target's Skill is [SupportProtect] Exclusive Skill, this effect does not activate\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>On Hit as an Unopposed Attack, or On Hit against target that used [SupportProtect] Exclusive Skill, lose 2 [ChoiSwordsmanship]</color></mark></b></u>",
+          "name": "Spada della Patria [Sal] - Affilalama",
+          "desc": "Quest'Abilità non è affetta da [ChoiSwordsmanship]\nSe l'Abilità del bersaglio è esclusiva alla [SupportProtect], converte la Moneta in [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Ottiene 3 [ChoiSwordsmanship]</color></mark></b></u>\n- Se l'Abilità del bersaglio è esclusiva alla [SupportProtect], questo effetto non viene attivato\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Se ha colpito come Attacco Incontrastato, o se ha colpito un'unità che ha usato un'Abilità esclusiva alle [SupportProtect], perde 2 [ChoiSwordsmanship]</color></mark></b></u>",
           "coinlist": [
             {}
           ]

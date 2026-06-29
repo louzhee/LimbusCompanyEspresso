@@ -52,8 +52,8 @@
     },
     {
       "id": 501401,
-      "name": "Location-type Distortion: Photo Lab",
-      "desc": "This unit cannot be killed, and does not take any damage from sources other than Skill damage from Skills attacking this unit as the main target\n\nThis unit's Speed is fixed to 1\n\nTurn Start after entering the Encounter: Gain 3 [PhotoTransitionChoiCamera]\n\n<color=#ff6000><mark color=#ff000040><b><u>If this unit's HP reaches 1, or if [PhotoTransitionChoiCamera] reaches 0 Stack at Turn Start</color></mark></b></u>, activate the following:\n- Remove self and N Corp. Class 2 Staff from the Encounter\n- Return Im Gyeong-eop to the Encounter\n- Move the battle to a different location"
+      "name": "Distorsione di Tipo Ambientale: Laboratorio Fotografico",
+      "desc": "Quest'unità non può essere uccisa e subisce danni solo dalle Abilità che la bersagliano come bersaglio principale\n\nLa Velocità di quest'unità è fissata a 1\n\nA inizio turno, ottiene 3 [PhotoTransitionChoiCamera] dopo essere entrato nell'Incontro\n\nA fine turno, <color=#ff6000><mark color=#ff000040><b><u>se [PhotoTransitionChoiCamera] scende a 0, o se i PV di quest'unità scendono a 1</color></mark></b></u>, attiva i seguenti effetti nel turno successivo:\n- Rimuove sé stessa e Personale di Classe 2 della N Corp dall'Incontro\n- Fa tornare Im Gyeong-eop\n- Cambia il terreno"
     },
     {
       "id": 501201,
