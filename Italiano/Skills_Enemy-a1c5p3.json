@@ -5,13 +5,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Stab",
+                    "name": "Trafiggi",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict 4 Bleed"
+                                    "desc": "[OnSucceedAttackHead] Infligge 4 [Laceration]"
                                 }
                             ]
                         }
@@ -24,27 +24,27 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Tear Up Wound",
-                    "desc": "[WinDuel] Heal 5 PS.\nDeal +5% damage per [Laceration] on target",
+                    "name": "Apri Ferita",
+                    "desc": "[WinDuel] Recupera 5 PS.\nInfligge +5% danni per ogni [Laceration] sul bersaglio",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                                    "desc": "[OnSucceedAttack] Infligge 2 [Laceration]"
                                 }
                             ]
                         }
@@ -57,46 +57,46 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Protect the Town!",
-                    "desc": "[WhenUse] Gain 5 Poise",
+                    "name": "Proteggete il Villaggio!",
+                    "desc": "[WhenUse] Ottiene 5 [Breath]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 PS"
+                                    "desc": "[OnSucceedAttack] Recupera 4 PS"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 PS"
+                                    "desc": "[OnSucceedAttack] Recupera 4 PS"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 PS"
+                                    "desc": "[OnSucceedAttack] Recupera 4 PS"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 PS"
+                                    "desc": "[OnSucceedAttack] Recupera 4 PS"
                                 }
                             ]
                         }
@@ -109,13 +109,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Javelin",
-                    "desc": "[WhenUse] Gain 5 Poise and +2 Poise Count",
+                    "name": "Lancio Dell'Arpione",
+                    "desc": "[WhenUse] Ottiene 5 [Breath] e +2 Conteggio [Breath]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bind and 2 Damage Down next turn"
+                                    "desc": "[OnSucceedAttack] Infligge 2 [Binding] e 2 [AttackDmgDown] il turno successivo"
                                 }
                             ]
                         }
@@ -129,7 +129,7 @@
                 {
                     "level": 1,
                     "name": "Blocco",
-                    "desc": "When attacked while this unit has Shield, gain 1 Offense Level Up next turn",
+                    "desc": "When attacked while this unit has Scudo, ottiene 1 [AttackUp] il turno successivo",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -147,20 +147,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Quick Jabs",
+                    "name": "Colpi Rapidi",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict +2 Bleed Count"
+                                    "desc": "[OnSucceedAttackHead] Infligge +2 Conteggio [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                                    "desc": "[OnSucceedAttackHead] Infligge +1 Conteggio [Laceration]"
                                 }
                             ]
                         }
@@ -173,34 +173,34 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Carve Wound",
-                    "desc": "[WinDuel] Heal 5 PS.\nDeal +5% damage per [Laceration] on target",
+                    "name": "Sfregia Ferite",
+                    "desc": "[WinDuel] Recupera 5 PS.\nInfligge +5% danni per ogni [Laceration] sul bersaglio",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                                    "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Laceration]"
                                 }
                             ]
                         }
@@ -213,46 +213,46 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Protect the Town!",
-                    "desc": "[WhenUse] Gain 5 Poise",
+                    "name": "Proteggete il Villaggio!",
+                    "desc": "[WhenUse] Ottiene 5 [Breath]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 PS"
+                                    "desc": "[OnSucceedAttack] Recupera 4 PS"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 PS"
+                                    "desc": "[OnSucceedAttack] Recupera 4 PS"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 PS"
+                                    "desc": "[OnSucceedAttack] Recupera 4 PS"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                                    "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Breath]"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Heal 4 PS"
+                                    "desc": "[OnSucceedAttack] Recupera 4 PS"
                                 }
                             ]
                         }
@@ -265,13 +265,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Javelin",
-                    "desc": "[WhenUse] Gain 5 Poise and +2 Poise Count",
+                    "name": "Lancio Dell'Arpione",
+                    "desc": "[WhenUse] Ottiene 5 [Breath] e +2 Conteggio [Breath]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 2 Bind and 2 Fragile next turn"
+                                    "desc": "[OnSucceedAttack] Infligge 2 [Binding] e 2 [Fragile] il turno successivo"
                                 }
                             ]
                         }
@@ -285,7 +285,7 @@
                 {
                     "level": 1,
                     "name": "Evasione",
-                    "desc": "[OnSucceedEvade] Gain 1 Offense Level Up next turn (Max 3)",
+                    "desc": "[OnSucceedEvade] Ottiene 1 [AttackUp] il turno successivo (Max 3)",
                     "coinlist": [
                         {
                             "coindescs": [

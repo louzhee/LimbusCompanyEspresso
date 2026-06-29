@@ -2,26 +2,26 @@
     "dataList": [
         {
             "id": 9009801,
-            "name": "Suppressed Pallidification",
-            "desc": "At Turn Start, gain Offense Level and Defense Level by the number of surviving allies (not including this unit)",
+            "name": "Pallidificazione Soppressa",
+            "desc": "A inizio turno, ottiene 1 Livello OFfensivo e Difensivo per ogni altro alleato in vita (esclude sé stesso)",
             "summary": ""
         },
         {
             "id": 9009802,
-            "name": "Captain's Orders",
-            "desc": "At Turn Start, heal PS by (# of other surviving allies x 3)",
+            "name": "Gli Ordini del Capitano",
+            "desc": "At inizio turno, Recupera (# di altri alleati in vita x 3) PS",
             "summary": ""
         },
         {
             "id": 9009803,
-            "name": "Injected Hatred and Animosity",
-            "desc": "Turn End: At 50%- PV, gain 1 Attack Power Up next turn. (once per encounter)",
+            "name": "Infuso di Odio e Ostilità",
+            "desc": "A inizio turno, se ha 50% o meno PV, ottiene 1 [Enhancement] nel turno successivo. (una volta per Incontro)",
             "summary": ""
         },
         {
             "id": 9009804,
-            "name": "Crashing Pallidification",
-            "desc": "Turn End: At less than 0 PS, 50% chance to change Skill patterns.",
+            "name": "Pallidificazione Incombente",
+            "desc": "A fine turno, se ha meno di 0 PS, ha una chance 50% di cambiare pattern.",
             "summary": ""
         }
     ]
