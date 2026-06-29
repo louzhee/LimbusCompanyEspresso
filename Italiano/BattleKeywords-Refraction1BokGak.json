@@ -10,7 +10,7 @@
     {
       "id": "DeadEGOResource",
       "name": "Determinazione Persistente",
-      "desc": "Se sconfitto, ottieni Risorse E.G.O in base alle Affinità e al Rango di ogni Abilità Attacco di questa Identità",
+      "desc": "Se sconfitto, ottiene Risorse E.G.O in base alle Affinità e al Rango di ogni Abilità Attacco di questa Identità",
       "undefined": "-"
     }
   ]
