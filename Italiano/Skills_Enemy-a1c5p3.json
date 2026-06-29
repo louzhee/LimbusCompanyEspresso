@@ -129,7 +129,7 @@
                 {
                     "level": 1,
                     "name": "Blocco",
-                    "desc": "When attacked while this unit has Scudo, ottiene 1 [AttackUp] il turno successivo",
+                    "desc": "Se colpito mentre ha scudo ha Scudo, ottiene 1 [AttackUp] il turno successivo",
                     "coinlist": [
                         {
                             "coindescs": [
