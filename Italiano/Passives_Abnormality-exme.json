@@ -3,7 +3,7 @@
     {
       "id": 145004,
       "name": "Ricordi Lancinanti",
-      "desc": "A Scontro perso, ottiene 1 [RegretSCorp] (once per turn)"
+      "desc": "A Scontro perso, ottiene 1 [RegretSCorp] (una volta per turno)"
     },
     {
       "id": 144804,
@@ -73,24 +73,24 @@
     },
     {
       "id": 145006,
-      "name": "Developed Memories",
-      "desc": "Upon entering the Encounter, gain 3 [PhotoTransitionChoi]\n\n<color=#ff6000><mark color=#ff000040><b><u>Turn Start: At 0 [PhotoTransitionChoi] Stack, Retreat and transition into a different location</color></mark></b></u>\n\nWhen Returning to the field, based on current Forma da Battaglia della Patria, gain or lose [ChoiSwordsmanship]\n- When in [ChoiSwordsmanshipOne]: Gain Stack\n- When in [ChoiSwordsmanshipMany]: Lose Stack"
+      "name": "Memorie Sviluppate",
+      "desc": "Quando entra nell'Incontro, ottiene 3 [PhotoTransitionChoi]\n\n<color=#ff6000><mark color=#ff000040><b><u>A inizio turno, se ha 0 [PhotoTransitionChoi], si ritira e cambia il terreno</color></mark></b></u>\n\nQuando ritorna in battaglia, ottiene o perde [ChoiSwordsmanship] in base alla Forma da Battaglia della Patria\n- In [ChoiSwordsmanshipOne], ottiene Stack.\n- In [ChoiSwordsmanshipMany], perde Stack"
     },
     {
       "id": 145007,
-      "name": "Mismatched Memories",
-      "desc": "Turn Start: Gain the following effects:\n- When in [ChoiSwordsmanshipOne]: At less than 5 [ChoiSwordsmanship] Stack, gain (5 - [ChoiSwordsmanship] Stack) <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>\n- When in [ChoiSwordsmanshipMany]: At more than 5 [ChoiSwordsmanship] Stack, gain <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u> equal to surplus [ChoiSwordsmanship] Stack past 5 "
+      "name": "Memorie Scompagnate",
+      "desc": "A inizio turno, attiva i seguenti effetti:\n- In [ChoiSwordsmanshipOne]: Se ha meno di 5 [ChoiSwordsmanship], ottiene (5 - [ChoiSwordsmanship]) <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>\n- In [ChoiSwordsmanshipMany]: Se ha più di 5 [ChoiSwordsmanship], ottiene <color=#ff6000><mark color=#ff000040><b><u>1 [Vulnerable] per ogni [ChoiSwordsmanship] in eccesso</color></mark></b></u>"
     },
     {
       "id": 145101,
       "name": "Spada della Patria [Sal] - Dividere Carne dalla Carne",
-      "desc": "Encounter Start: Gain 5 [ChoiSwordsmanship]\n\nAssume una Forma da Battaglia della Patria diversa ogni 3 turni\n\nSe colpisce con un'Abilità Tagliente, ottiene 1 Potenza [Breath] (una volta per Abilità)\n\nUsa un pattern che include l'Abilità \"Arco della Patria <noparse>[Sal]</noparse> - Freccialibera\" se una delle seguenti condizioni viene soddisfatta:\n- Se quest'unità ha perso tutti gli Scontri per 2 turni di fila (non considera gli Attacchi Incontrastati)\n- Nel turno successivo a quello in cui quest'unità era Stordita\n- Se in Panico o Morale Basso\n\nA inizio turno, a Min o Max Stack di [ChoiSwordsmanship], usa un'Abilità potente\nSe ha usato \"Arco della Patria <noparse>[Sal]</noparse> - Freccialibera\" nel turno precedente, usa un'Abilità potente a prescindere dagli Stack di [ChoiSwordsmanship] su di sé\nA 55% o meno PV, usa un'Abilità potente a prescindere dagli Stack di [ChoiSwordsmanship] su di sé",
+      "desc": "A inizio Incontro, ottiene 5 [ChoiSwordsmanship]\n\nAssume una Forma da Battaglia della Patria diversa ogni 3 turni\n\nSe colpisce con un'Abilità Tagliente, ottiene 1 Potenza [Breath] (una volta per Abilità)\n\nUsa un pattern che include l'Abilità \"Arco della Patria <noparse>[Sal]</noparse> - Freccialibera\" se una delle seguenti condizioni viene soddisfatta:\n- Se quest'unità ha perso tutti gli Scontri per 2 turni di fila (non considera gli Attacchi Incontrastati)\n- Nel turno successivo a quello in cui quest'unità era Stordita\n- Se in Panico o Morale Basso\n\nA inizio turno, a Min o Max Stack di [ChoiSwordsmanship], usa un'Abilità potente\nSe ha usato \"Arco della Patria <noparse>[Sal]</noparse> - Freccialibera\" nel turno precedente, usa un'Abilità potente a prescindere dagli Stack di [ChoiSwordsmanship] su di sé\nA 55% o meno PV, usa un'Abilità potente a prescindere dagli Stack di [ChoiSwordsmanship] su di sé",
       "flavor": "La Spada della Patria tramandata nel Circolo di Corte Sal non è, nella sua essenza, un'arte dell'uccisione.\nTagliare ancora e ancora fin quando il sangue non smette di scorrere e le ossa sono totalmente esposte, quella è l'essenza di questa arte che rende la carne dell'avversario\nQuesto è lo Scherma della Patria praticato dai \"Sal.\""
     },
     {
       "id": 145104,
       "name": "Brigantina Dujeong [Sal] - Cambia Forma da Battaglia",
-      "desc": "<color=#ff6000><mark color=#ff000040><b><u>A inizio turno, ottiene o perde 2 [ChoiSwordsmanship] in base alla Forma da Battaglia della Patria su di sé (questo effetto non si attiva nel primo turno dell'Incontro)</color></mark></b></u>\n- [ChoiSwordsmanshipOne]: Ottiene Stack\n- [ChoiSwordsmanshipMany]: Perde Stack\n\nNel turno in cui quest'unità ha equipaggiato un'Abilità di tipo Invidia, essa non è affetta da [ChoiSwordsmanship] e <color=#ff6000><mark color=#ff000040><b><u>riporterà lo Stack di [ChoiSwordsmanship] a 5 nel turno successivo</color></mark></b></u>"
+      "desc": "<color=#ff6000><mark color=#ff000040><b><u>A inizio turno, ottiene o perde 2 [ChoiSwordsmanship] in base alla Forma da Battaglia della Patria su di sé (questo effetto non si attiva nel primo turno dell'Incontro)</color></mark></b></u>\n- [ChoiSwordsmanshipOne]: Ottiene Stack\n- [ChoiSwordsmanshipMany]: Perde Stack\n\nNel turno in cui quest'unità ha equipaggiato un'Abilità Invidia, essa non è affetta dagli effetti di modifica di [ChoiSwordsmanship] e <color=#ff6000><mark color=#ff000040><b><u>riporta lo Stack di [ChoiSwordsmanship] a 5 nel turno successivo</color></mark></b></u>"
     },
     {
       "id": 145105,
