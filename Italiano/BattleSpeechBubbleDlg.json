@@ -1458,12 +1458,12 @@
     {
       "id": "battle_s4_10512_2",
       "desc": "Lei Sault - S3-2 start",
-      "dlg": "Preparatevi ad affrontare tutta la mia forza."
+      "dlg": "Preparatevi ad affrontare\ntutta la mia forza."
     },
     {
       "id": "battle_s3_10512_1_2-01",
       "desc": "Lei Sault - S3-2 end",
-      "dlg": "... Scarica totale."
+      "dlg": "... Scarica totale!"
     },
     {
       "id": "battle_s3_11013_1_1",
@@ -3351,6 +3351,11 @@
       "dlg": "Cambio Postura—Terzo Gambetto."
     },
     {
+      "id": "battle_s3_10815_1_2-03",
+      "desc": "Ishdu - S3-1 mid",
+      "dlg": "Terzo Gambetto."
+    },
+    {
       "id": "battle_s3_10815_1_2-02",
       "desc": "Ishdu - S3-1 mid",
       "dlg": "Terzo Gambetto."
@@ -3482,7 +3487,7 @@
     },
     {
       "id": "battle_special_10916_4",
-      "desc": "Thumb Rodion - After attack while Heathcliff is dead",
+      "desc": "Thumb Rodion - Shin gain",
       "dlg": "Visto, Manuale? Era davvero così difficile?"
     },
     {
