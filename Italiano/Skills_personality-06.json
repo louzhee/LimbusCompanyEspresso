@@ -3370,7 +3370,7 @@
         },
         {
           "level": 4,
-          "name": "Throwing the Ohra Bond",
+          "name": "Lanciando la Catena Ohra",
           "desc": "[DuelCounter]\n[WhenUse] A 6+ ([Breath] su sè + [Laceration] sul bersaglio), Potere Scontro +2\n[WhenUse] Ottiene 5 [Breath]\n[WinDuel] Ottiene +3 Conteggio [Breath]",
           "coinlist": [
             {
