@@ -2,28 +2,28 @@
   "dataList": [
     {
       "id": 122801,
-      "name": "'O Clock",
-      "desc": "Turn End: if this unit's [LimitedTime] is evenly divisible by 60, gain 2 [SlashDamageUp] and 2 [PenetrateDamageUp] next turn"
+      "name": "In Punto",
+      "desc": "A fine turno, se il [LimitedTime], o la somma del [OwnTime], è divisibile per 60, ottiene 2 [SlashDamageUp] e 2 [PenetrateDamageUp] nel turno successivo"
     },
     {
       "id": 122802,
-      "name": "Remaining Time",
-      "desc": "If this unit is in [TimeAcceleration] state, deal 10% of the damage it dealt On Hit as bonus damage in the Skill's Sin Affinity (2 times per turn)"
+      "name": "Tempo Rimanente",
+      "desc": "Sul Colpo, se questa unità si trova in stato di [TimeAcceleration], infligge il 10% del danno inflitto come danni bonus dell'Affinità dell'Abilità usata (2 volte per turno)"
     },
     {
       "id": 122901,
-      "name": "'O Clock",
-      "desc": "Turn End: if this unit's [LimitedTime], or the sum of [OwnTime] is evenly divisible by 60, gain 2 [SlashDamageUp] and 2 [PenetrateDamageUp] next turn"
+      "name": "In Punto",
+      "desc": "A fine turno, se il [LimitedTime], o la somma del [OwnTime], è divisibile per 60, ottiene 2 [SlashDamageUp] e 2 [PenetrateDamageUp] nel turno successivo"
     },
     {
       "id": 122902,
-      "name": "Time Hyperacceleration",
-      "desc": "If this unit is in [EquitableDistribution] state, deal 10% of the damage it dealt On Hit as bonus damage in the Skill's Sin Affinity (2 times per turn)"
+      "name": "Iperaccelerazione del Tempo",
+      "desc": "Sul Colpo, se questa unità si trova in stato di [TimeAcceleration], infligge il 10% del danno inflitto come danni bonus dell'Affinità dell'Abilità usata (2 volte per turno)"
     },
     {
       "id": 123001,
-      "name": "Time Hyperacceleration",
-      "desc": "Turn End: if this unit is alive, apply 1 [Protection] next turn to a random Part on The Time Ripper."
+      "name": "Iperaccelerazione del Tempo",
+      "desc": "A fine turno, se questa unità è viva, applica 1 [Protection] su una Parte casuale dello Squartatempo nel turno successivo."
     }
   ]
 }

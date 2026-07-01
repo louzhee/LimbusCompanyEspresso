@@ -2,8 +2,8 @@
   "dataList": [
     {
       "id": 9102401,
-      "name": "For Everyone",
-      "desc": "When gaining [VibrationDistribution], even if there are no surviving allies, behave as though there is 1 other surviving ally\nIf this unit gains [VibrationDistribution] while there are no surviving allies, gain 1 [Vulnerable] next turn"
+      "name": "Per Tutti",
+      "desc": "Quando ottiene [VibrationDistribution] mentre non ci sono altri alleati in vita, si comporta come se ci fosse ancora 1 altro alleato in vita\nSe ottiene [VibrationDistribution] mentre non ci sono altri alleati in vita, ottiene 1 [Vulnerable] il turno successivo"
     }
   ]
 }
