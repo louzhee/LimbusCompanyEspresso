@@ -743,7 +743,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Arti dell'Accoglienza 4: Chiudicuori",
+          "name": "Arti del Ricevimento 4: Chiudicuori",
           "desc": "",
           "coinlist": [
             {
@@ -769,7 +769,7 @@
         },
         {
           "level": 4,
-          "name": "Arti dell'Accoglienza 4: Chiudicuori",
+          "name": "Arti del Ricevimento 4: Chiudicuori",
           "desc": "[WhenUse] Se il bersaglio ha 5+ Conteggio [Sinking], Potere Moneta +2",
           "coinlist": [
             {
