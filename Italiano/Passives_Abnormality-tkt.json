@@ -8,12 +8,12 @@
     {
       "id": 827702,
       "name": "Rigenerazione Accelerata",
-      "desc": "Alla fine del turno: Se una parte è rotta, spendi 100 Tempo da quella parte per farla guarire il turno successivo."
+      "desc": "A fine turno, se una Parte è rotta, spendi 100 Tempo da quella Parte per rigenerarla nel turno successivo."
     },
     {
       "id": 827801,
-      "name": "Il Tempo è Di Tutti",
-      "desc": "Al 75% dei PV, entra nella seconda fase. Al cambio di fase, recupera PS fino a 30, e dividi [LimitedTime] fra tutte le parti come [OwnTime]."
+      "name": "Il Tempo Di Tutti",
+      "desc": "A 75%- PV, entra nella seconda fase. Al cambio di fase, porta i PS a 30, e dividi il [LimitedTime] fra tutte le parti come [OwnTime]."
     },
     {
       "id": 827802,
@@ -27,7 +27,7 @@
     },
     {
       "id": 827804,
-      "name": "Prendi Prima Il Loro!",
+      "name": "Prendi Prima Il Suo!",
       "desc": "A 60%- PV, converti [EquitableDistribution] in [UnfairDistribution]."
     }
   ]

@@ -31,7 +31,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Capisco, Sei Senza Vergogna",
+          "name": "Dunque, Non Ti Vergogni Affatto.",
           "desc": "[WhenUse] Ottiene +2 Conteggio [Vibration]\n[WhenUse] A 5+ Conteggio [Vibration], Potere Scontro +1",
           "coinlist": [
             {
@@ -70,10 +70,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] A 10+ Conteggio [Vibration] su di sé, innesca [VibrationExplosion]; infine, riduce il Conteggio [Vibration] del bersaglio di 1"
+                  "desc": "[OnSucceedAttack] A 10+ Conteggio [Vibration] su di sé, innesca [VibrationExplosion]; riduce poi il Conteggio [Vibration] sul bersaglio di 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Se il bersaglio ha 15+ Potenza [Vibration], innesca [VibrationExplosion]; infine, riduce il Conteggio [Vibration] del bersaglio di 1"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha 15+ Potenza [Vibration], innesca [VibrationExplosion]; riduce poi il Conteggio [Vibration] sul bersaglio di 1"
                 }
               ]
             }
@@ -119,8 +119,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pronti Per Prenderle?",
-          "desc": "Dà priorità ai bersagli con [VibrationCollapse]\n[WhenUse] Applica Conteggio [Vibration] pari al Conteggio [Vibration] su di sé a tutti gli altri alleati\n[WhenUse] Innesca [Switch_Vibration] su tutti gli alleati(inclusa questa unità) per convertire la loro [Vibration] in [VibrationDistribution]\n[DefeatDuel] Infligge -80% danni e i danni inflitti da questa abilità non Stordiscono il bersaglio",
+          "name": "Pronti alla Sconfitta?",
+          "desc": "Dà priorità ai bersagli con [VibrationCollapse]\n[WhenUse] Applica Conteggio [Vibration] pari al Conteggio [Vibration] su di sé a tutti gli altri alleati\n[WhenUse] Innesca [Switch_Vibration] su tutti gli alleati (inclusa questa unità) e converte la loro [Vibration] in [VibrationDistribution]\n[DefeatDuel] Infligge -80% danni e i danni inflitti da questa abilità non Stordiscono il bersaglio",
           "coinlist": [
             {
               "coindescs": [
@@ -166,7 +166,7 @@
         {
           "level": 1,
           "name": "Guardia",
-          "desc": "[StartBattle] Ottiene 5 x (Conteggio [Vibration] su di sé) Scudo PV (max 60)",
+          "desc": "[StartBattle] Ottiene 5 x (Conteggio [Vibration] su di sé) Scudo (max 60)",
           "coinlist": [
             {
               "coindescs": [
@@ -184,7 +184,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Per Il Bene Superiore",
+          "name": "Per la Causa Maggiore",
           "desc": "[CantDuel]\n[StartBattle] Raccoglie il Conteggio [Vibration] di tutti gli alleati su di sé; la [Vibration] su tutti gli alleati si esaurisce\n[StartBattle] Ottiene 1 [AttackUp] per ogni 3 Conteggio [Vibration] su di sé\n[WhenUse] Ottiene 10 Conteggio [Vibration]",
           "coinlist": [
             {
@@ -210,13 +210,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consuma 1 Conteggio [Vibration] su di sé, e innesca [VibrationExplosion]; infine, riduce il Conteggio [Vibration] del bersaglio di 1"
+                  "desc": "[OnSucceedAttack] Consuma 1 Conteggio [Vibration] su di sé, e innesca [VibrationExplosion]; riduce poi il Conteggio [Vibration] sul bersaglio di 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consuma 1 Conteggio [Vibration] su di sé, e innesca [VibrationExplosion]; infine, riduce il Conteggio [Vibration] del bersaglio di 1"
+                  "desc": "[OnSucceedAttack] Consuma 1 Conteggio [Vibration] su di sé, e innesca [VibrationExplosion]; riduce poi il Conteggio [Vibration] sul bersaglio di 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consuma 1 Conteggio [Vibration] su di sé, e innesca [VibrationExplosion]; infine, riduce il Conteggio [Vibration] del bersaglio di 1"
+                  "desc": "[OnSucceedAttack] Consuma 1 Conteggio [Vibration] su di sé, e innesca [VibrationExplosion]; riduce poi il Conteggio [Vibration] sul bersaglio di 1"
                 }
               ]
             }
