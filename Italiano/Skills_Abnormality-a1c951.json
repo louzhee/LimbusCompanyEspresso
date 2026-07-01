@@ -130,7 +130,7 @@
                 {
                     "level": 1,
                     "name": "È Ora di Farsi Impacchettare",
-                    "desc": "Se lo Scudo viene distrutto, viene Stordito nel turno successivo.\nSe rimane ancora dello Scudo, ottiene 2 [Enhancement] nel turno successivo",
+                    "desc": "[EndBattle] Se lo Scudo viene distrutto, viene Stordito nel turno successivo.\n- Se invece lo Scudo non viene distrutto, ottiene 2 [Enhancement] nel turno successivo",
                     "coinlist": [
                         {}
                     ]

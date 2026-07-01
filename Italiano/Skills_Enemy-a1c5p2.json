@@ -919,7 +919,7 @@
                 {
                     "level": 1,
                     "name": "Pronto a Scrivere",
-                    "desc": "Se lo Scudo di questa unità è sceso a 0, ottiene 1 [AttackDmgUp] il turno successivo",
+                    "desc": "[EndBattle] Se lo Scudo di questa unità è stato distrutto, ottiene 1 [AttackDmgUp] il turno successivo",
                     "coinlist": [
                         {
                             "coindescs": [
