@@ -2,12 +2,12 @@
   "dataList": [
     {
       "id": "AtkDamageMultiplier",
-      "desc": "{0}% to damage dealt",
+      "desc": "Danno inflitto +{0}% danni",
       "variation": "{1}% al {0} danno inflitto"
     },
     {
       "id": "AtkAndTakeAtkDamageMultiplier",
-      "desc": "{0}% al danno inflitto & subito",
+      "desc": "Danno inflitto e subito +{0}%",
       "variation": "{1}% al danno inflitto & subito con Affinità {0}"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "id": "AtkAdderIfNotDamagedPrevTurn",
-      "desc": "Offense Level {0} if user took no HP damage for a turn\n(Shield damage ≠ HP damage)"
+      "desc": "Livello Offensivo {0} se questo personaggio non ha subito danni ai PV per un turno\n(danno allo Scudo ≠ danno ai PV)"
     },
     {
       "id": "MaxSpeedAdderAsStack",
@@ -64,7 +64,7 @@
     },
     {
       "id": "AtkAndDefAdder",
-      "desc": "Livello Offensivo {0}, Livello Difensivo Level {0}"
+      "desc": "Livello Offensivo {0}, Livello Difensivo {0}"
     },
     {
       "id": "GiveBuffOnRoundStartToAllAlly",
@@ -134,7 +134,7 @@
     },
     {
       "id": "TakeAtkDamageMultiplier",
-      "desc": "Danno Subito {0}%"
+      "desc": "Danno subito {0}%"
     },
     {
       "id": "ParryingResultAdder",

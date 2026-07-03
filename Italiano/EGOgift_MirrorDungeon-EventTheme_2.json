@@ -819,7 +819,7 @@
     {
       "id": 9794,
       "name": "Tanica di Carburante Traboccante",
-      "desc": "[Gli effetti si applicano solo alla 2°, 4° Identità Schierate]\n\nQuando si subisce un attacco letale, 60% di possibilità di non subire quel danno e recuperare 30 PV. (una volta per Identità per Incontro)\nL'effetto non si attiva sotto le seguenti condizioni:\n- Quando il danno dell'Abilità supera i PV max dell'unità\n- Quando l'unità ha [SubisciHpRecuperaReduce]",
+      "desc": "[Gli effetti si applicano solo alla 2°, 4° Identità Schierate]\n\nQuando si subisce un attacco letale, 60% di possibilità di non subire quel danno e recuperare 30 PV. (una volta per Identità per Incontro)\nL'effetto non si attiva sotto le seguenti condizioni:\n- Quando il danno dell'Abilità supera i PV max dell'unità\n- Quando l'unità ha [TakeHpHealReduce]",
       "simpleDesc": [
         {
           "abilityID": 9794,
