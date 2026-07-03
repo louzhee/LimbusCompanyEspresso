@@ -596,7 +596,7 @@
     {
       "id": 9278,
       "name": "Ceppo di Legno Spezzato",
-      "desc": "Per Colpo contro un nemico che usa un'Abilitàà Tagliente, infliggi 1 [DefenseDown] il turno dopo (2 volte per Abilità)\nSe un alleato è più veloce del nemico, tale alleato infligge +3% di danni usando le Abilità Attacco Base per ciascuna differenza di Velocità (max 12%)\n- Se il nemico ha [Binding], raddoppia il precedente potenziamento ai danni e il suo limite massimo",
+      "desc": "Per Colpo contro un nemico che usa un'Abilità Tagliente, infliggi 1 [DefenseDown] il turno dopo (2 volte per Abilità)\nSe un alleato è più veloce del nemico, tale alleato infligge +3% di danni usando le Abilità Attacco Base per ciascuna differenza di Velocità (max 12%)\n- Se il nemico ha [Binding], raddoppia il precedente potenziamento ai danni e il suo limite massimo",
       "simpleDesc": [
         {
           "abilityID": 9278,
