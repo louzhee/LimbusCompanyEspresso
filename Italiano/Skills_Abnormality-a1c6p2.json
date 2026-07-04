@@ -5,16 +5,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Grasp",
+          "name": "Presa",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Vibration] e +2 Conteggio [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttackHead] Infligge 2 [Binding] nel turno successivo"
                 }
               ]
             }
@@ -27,26 +27,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Piling Rocks",
-          "desc": "[WhenUse] If the target has 5+ [Vibration], Clash Power +1",
+          "name": "Pila di Rocce",
+          "desc": "[WhenUse] Se il bersaglio ha 5+ [Vibration], Potere Scontro +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Paralysis] nel turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 [Vibration]"
+                  "desc": "[OnSucceedAttack] Infligge 8 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [AttackDown] nel turno successivo"
                 }
               ]
             }
@@ -59,19 +59,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slothful Press",
-          "desc": "[WhenUse] If this unit's Speed is faster than the target's, Clash Power +1 for each Speed difference (max 3)",
+          "name": "Spinta Pigra",
+          "desc": "[WhenUse] Se la Velocità di questa unità è maggiore di quella del bersaglio, Potere Scontro +1 per ogni differenza di Velocità (max 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Binding] nel turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [AttackDown] nel turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Innesca [VibrationExplosion]"
                 }
               ]
             }
@@ -85,7 +85,7 @@
         {
           "level": 1,
           "name": "Blocco",
-          "desc": "[WhenUse] Gain 3 [Protection]",
+          "desc": "[WhenUse] Ottiene 3 [Protection]",
           "coinlist": [
             {
               "coindescs": [
@@ -103,20 +103,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Maul",
-          "desc": "When this Attack Skill hits, gain [TakeHpHealIncrease] next turn",
+          "name": "Morso",
+          "desc": "Quando colpisce, ottiene [TakeHpHealIncrease] nel turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                 }
               ]
             }
@@ -129,46 +129,46 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Devouring",
-          "desc": "[WhenUse] If the target has [Burst], Base Power +1",
+          "name": "Divorare",
+          "desc": "[WhenUse] Se il bersaglio ha [Burst], Potere Base +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Core and Part both gain 3 PV"
+                  "desc": "[OnSucceedAttackHead] Il Nucleo e la Parte recuperano 3 PV"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Core and Part both gain 3 PV"
+                  "desc": "[OnSucceedAttackHead] Il Nucleo e la Parte recuperano 3 PV"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Core and Part both gain 3 PV"
+                  "desc": "[OnSucceedAttackHead] Il Nucleo e la Parte recuperano 3 PV"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Core and Part both gain 3 PV"
+                  "desc": "[OnSucceedAttackHead] Il Nucleo e la Parte recuperano 3 PV"
                 }
               ]
             }
@@ -181,46 +181,46 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ravenous Devouring",
-          "desc": "[WhenUse] If the target has 5+ [Burst], inflict 2 [DefenseDown]\nGain +1 Base Power for every [TakeHpHealIncrease] value on self (max 3)",
+          "name": "Fame Insaziabile",
+          "desc": "[WhenUse] Se il bersaglio ha 5+ [Burst], infligge 2 [DefenseDown]\nOttiene +1 Potere Base per ogni [TakeHpHealIncrease] su di sé (max 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Core and Part both gain 5 PV"
+                  "desc": "[OnSucceedAttackHead] Il Nucleo e la Parte recuperano 5 PV"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Burst]"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Core and Part both gain 5 PV"
+                  "desc": "[OnSucceedAttackHead] Il Nucleo e la Parte recuperano 5 PV"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Core and Part both gain 5 PV"
+                  "desc": "[OnSucceedAttackHead] Il Nucleo e la Parte recuperano 5 PV"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Burst]"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Core and Part both gain 5 PV"
+                  "desc": "[OnSucceedAttackHead] Il Nucleo e la Parte recuperano 5 PV"
                 }
               ]
             }
@@ -234,19 +234,19 @@
         {
           "level": 1,
           "name": "Contrattacco",
-          "desc": "At less than 50% Core PV, Core and Part heal on Coin Hit",
+          "desc": "A 50%- PV, Il Nucleo e la Parte recuperano PV sul colpo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst] and +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Burst] e +2 Conteggio [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst] and +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Burst] e +2 Conteggio [Burst]"
                 }
               ]
             }
@@ -259,20 +259,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bat Bash",
+          "name": "Mazzata",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                 }
               ]
             }
@@ -285,30 +285,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Smackdown",
-          "desc": "[WinDuel] Gain 1 [Enhancement] and 1 [AttackDmgUp] next turn",
+          "name": "Batosta",
+          "desc": "[WinDuel] Ottiene 1 [Enhancement] e 1 [AttackDmgUp] il turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Laceration] equal to [Burst] on target"
+                  "desc": "[OnSucceedAttack] Infligge [Laceration] pari alla [Burst] sul bersaglio"
                 }
               ]
             }
@@ -321,30 +321,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Upheaval",
-          "desc": "If the target has 5+ [Burst], Clash Power +1\nIf the target has 5+ [Laceration], Clash Power +1\n[WinDuel] Inflict +3 [Burst] Count",
+          "name": "Randellata",
+          "desc": "Se il bersaglio ha 5+ [Burst], Potere Scontro +1\nSe il bersaglio ha 5+ [Laceration], Potere Scontro +1\n[WinDuel] Infligge +3 Conteggio [Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Next Coin has +1 Power"
+                  "desc": "[OnSucceedAttackHead] Potere della prossima Moneta +1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Next Coin has +2 Power"
+                  "desc": "[OnSucceedAttackHead] Potere della Prossima Moneta +2"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Paralysis] il turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 8 [Laceration]"
                 }
               ]
             }
@@ -357,34 +357,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Time to Repent",
+          "name": "Ora del Pentimento",
           "desc": "[CantChangeTarget]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] Count and 3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Infligge 3 Conteggio [Laceration] e 3 Conteggio [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration] e 3 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration] e 3 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Enhancement] next turn"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [Enhancement] nel turno successivo"
                 }
               ]
             }
@@ -397,27 +397,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You Must Suffer More!",
-          "desc": "[CantChangeTarget]\n[WinDuel] Inflict 3 [Burst] Count",
+          "name": "Devi Soffrire Di Più!",
+          "desc": "[CantChangeTarget]\n[WinDuel] Infligge 3 Conteggio [Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Next Coin has +1 Power"
+                  "desc": "[OnSucceedAttackHead] Potere della prossima Moneta +1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Next Coin has +2 Power"
+                  "desc": "[OnSucceedAttackHead] Potere della Prossima Moneta +2"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 8 [Laceration]"
                 }
               ]
             }
@@ -431,7 +431,7 @@
         {
           "level": 1,
           "name": "Blocco",
-          "desc": "[WhenUse] Gain 1 [Enhancement] next turn",
+          "desc": "[WhenUse] Ottiene 1 [Enhancement] nel turno successivo",
           "coinlist": [
             {
               "coindescs": [
@@ -450,12 +450,12 @@
         {
           "level": 1,
           "name": "Contrattacco",
-          "desc": "[WhenUse] Gain 1 [Enhancement] next turn",
+          "desc": "[WhenUse] Ottiene 1 [Enhancement] nel turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Laceration]"
                 }
               ]
             }
@@ -468,23 +468,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Remove You",
-          "desc": "Core and Part heal by 10% of the damage dealt by this Attack Skill",
+          "name": "Ti Butto Fuori!",
+          "desc": "Il Nucleo e la Parte recuperano PV pari al 10% del danno inflitto da quest'Abilità",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [AttackUp]"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [AttackUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [AttackUp]"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [AttackUp]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttackHead] Ottiene 1 [Agility] nel turno successivo"
                 }
               ]
             }
@@ -497,23 +497,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bloody Bastard!",
-          "desc": "If this unit's Speed is faster than the target's Clash Power +2",
+          "name": "Brutto Bastardo!",
+          "desc": "Se la Velocità di questa unità è maggiore di quella del bersaglio, Potere Scontro +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Laceration] e +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Laceration] e +2 Conteggio [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit's Speed is faster than the target's by 3 or more, reuse this Coin (once)"
+                  "desc": "[OnSucceedAttack] Se la Velocità di questa unità è maggiore di quella del bersaglio di 3 o più, riusa questa Moneta (max 1 volta)"
                 }
               ]
             }
@@ -526,40 +526,40 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This Is My Home!",
-          "desc": "Prioritize targets with the least PV\n[WhenUse] If the target has less than 70% PV, Clash Power +2",
+          "name": "Questa Dimora È Mia!",
+          "desc": "Dà priorità al bersaglio con meno PV\n[WhenUse] Se il bersaglio ha meno di 70% PV, Potere Scontro +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [Agility] nel turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [Vulnerable]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Laceration] e +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Infligge 5 [Laceration] e +2 Conteggio [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 20+ [Laceration], deal +100% damage"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha 20+ [Laceration], infligge +100% danni"
                 },
                 {
-                  "desc": "[EnemyKill] Reuse this Skill (1 time max)"
+                  "desc": "[EnemyKill] Riusa quest'Abilità (max 1 volta)"
                 }
               ]
             }
@@ -573,19 +573,19 @@
         {
           "level": 1,
           "name": "I'll Get You...!",
-          "desc": "Prioritizes Heathcliff\n[WhenUse] If the target is the enemy with the slowest Speed, Base Power +3\n[WhenUse] Inflict [AaCfPbBe], 2 [Vulnerable], 3 [Paralysis], and 5 [Binding] next turn",
+          "desc": "Dà priorità a Heathcliff\n[WhenUse] Se il bersaglio è il nemico più lento, Potere Base +3\n[WhenUse] Infligge [AaCfPbBe], 2 [Vulnerable], 3 [Paralysis], e 5 [Binding] nel turno successivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [AttackUp] next turn"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [AttackUp] nel turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [AttackUp] next turn"
+                  "desc": "[OnSucceedAttack] Ottiene 1 [AttackUp] nel turno successivo"
                 }
               ]
             }
@@ -598,37 +598,37 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Give It Back...!!",
+          "name": "Ridammelo...!!",
           "desc": "[CantDuel]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 [AttackUp] next turn"
+                  "desc": "[OnSucceedAttackHead] Ottiene 2 [AttackUp] nel turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 [AttackUp] next turn"
+                  "desc": "[OnSucceedAttackHead] Ottiene 2 [AttackUp] nel turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 [AttackUp] next turn"
+                  "desc": "[OnSucceedAttackHead] Ottiene 2 [AttackUp] nel turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], deal +30% of damage dealt as Blunt"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha 10+ [Laceration], infligge danni Contundenti pari al 30% del danno inflitto"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 5+ [Laceration], heal by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha 5+ [Laceration], recupera PV pari al 50% del danno inflitto"
                 }
               ]
             }
@@ -641,20 +641,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You Little...",
-          "desc": "Prioritizes targets with [AaCfPbBe]\nIf this unit's Speed is faster than the target by 3 or more, reuse this Skill (1 time max)",
+          "name": "Brutto...",
+          "desc": "Dà priorità alla [AaCfPbBe]\nSe la Velocità di questa unità è maggiore di quella del bersaglio di 3 o più, riusa quest'Abilità (max 1 volta)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal Core and Part by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Il Nucleo e la Parte recuperano PV pari al 50% del danno inflitto"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal Core and Part by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Il Nucleo e la Parte recuperano PV pari al 50% del danno inflitto"
                 }
               ]
             }
@@ -668,7 +668,7 @@
         {
           "level": 1,
           "name": "Blocco",
-          "desc": "If this Unit has remaining Shield PV at Turn End, gain 4 [Protection] next turn",
+          "desc": "[EndBattle] Se lo Scudo di questa unità non è stato distrutto, ottiene 4 [Protection] nel turno successivo",
           "coinlist": [
             {
               "coindescs": [
@@ -687,7 +687,7 @@
         {
           "level": 1,
           "name": "Evasione",
-          "desc": "[OnSucceedEvade] Inflict 1 [Binding] next turn (2 times max)",
+          "desc": "[OnSucceedEvade] Infligge 1 [Binding] nel turno successivo (max 2 volte)",
           "coinlist": [
             {
               "coindescs": [
@@ -705,37 +705,37 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This is My Place!",
-          "desc": "If this unit's Speed is faster than the target's, Coin Power +1",
+          "name": "Questa È Casa Mia!",
+          "desc": "Se la Velocità di questa unità è maggiore di quella del bersaglio, Potere Moneta +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], deal +30% of damage dealt as Blunt"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha 10+ [Laceration], infligge danni Contundenti pari al 30% del danno inflitto"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], deal +30% of damage dealt as Blunt"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha 10+ [Laceration], infligge danni Contundenti pari al 30% del danno inflitto"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], deal +30% of damage dealt as Blunt"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha 10+ [Laceration], infligge danni Contundenti pari al 30% del danno inflitto"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], deal +30% of damage dealt as Blunt"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha 10+ [Laceration], infligge danni Contundenti pari al 30% del danno inflitto"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], heal by 70% of damage dealt"
+                  "desc": "[OnSucceedAttack] Se il bersaglio ha 10+ [Laceration], recupera PV pari al 70% del danno inflitto"
                 }
               ]
             }
