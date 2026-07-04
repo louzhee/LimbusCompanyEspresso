@@ -1090,7 +1090,7 @@
     {
       "id": 805003,
       "name": "Stand in his way.",
-      "desc": "\"Ho deciso... di cancellare tutto il mio passato.\"\n\n\"In altre parole, non avrò più niente a che fare con voi una volta tolto di mezzo Yi Sang.\"\n\nDongrang aggrotta, sembrando alquanto dispiaciuto.\n\n\"Ma allora... Perché continuate ad interferire?\"\n\nSembra che Dongrang stia preparando un attacco potente. Magari possiamo usare questo momento a nostro vantaggio.",
+      "desc": "\"Ho deciso... di cancellare tutto il mio passato.\"\n\n\"In altre parole, non avrò più niente a che fare con voi una volta tolto di mezzo Yi Sang.\"\n\nDongrang si incupisce, sembrando alquanto amareggiato.\n\n\"Ma allora... Perché continuate ad interferire?\"\n\nSembra che Dongrang stia preparando un attacco potente.\nMagari possiamo usare questo momento a nostro vantaggio.",
       "options": [
         {
           "message": "Fermalo.",
