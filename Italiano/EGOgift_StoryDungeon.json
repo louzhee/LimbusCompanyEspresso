@@ -563,7 +563,7 @@
     {
       "id": 2012,
       "name": "Frammento di un'Estate Frantumata",
-      "desc": "Subisci -10% di danni da affinità Gola\n\n<i>\"Non vedevo alcun senso nel tentare di comprendere i capricci del tempo. Preferivo semplicemente attendere che le acque si calmasserò, aspettando l'arrivo di quel nuovo giorno.\"</i>",
+      "desc": "Subisci -10% di danni da affinità Gola\n\n<i>\"Non vedevo alcun senso nel tentare di comprendere i capricci del tempo. Preferivo semplicemente attendere che le acque si calmassero, aspettando l'arrivo di quel nuovo giorno.\"</i>",
       "simpleDesc": [
         {
           "abilityID": 2012,
