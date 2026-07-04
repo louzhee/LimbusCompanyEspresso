@@ -577,10 +577,10 @@
       "eventDesc": "Tenendo in considerazione la nostra esperienza nel ricevere doni dalle Anormalità,\nforse riusciremo ad ottenere qualcosa che possa aiutarci nell'esplorazione di questo dungeon.",
       "behaveDesc": "Chi è il più adatto per questo lavoro?\nDelle mani delicate potrebbero fare la differenza.",
       "successDesc": [
-        "\"Whoa!\"\n[{0}] tocca l'uovo. L'uovo inizia ad illuminarsi.\nPoco dopo, si è indurito per poi dare forma ad una gemma unica nel suo genere.\n\"Potrebbe valerne la pena prendercela.\"\n[{0}] mostra segni di stanchezza, ma non c'era niente di strano col suo corpo per quel che potevamo vedere.\nAbbiamo lasciato il posto con la gemma in nostro possesso."
+        "\"Whoa!\"\n[{0}] tocca l'uovo. L'uovo inizia ad illuminarsi.\nPoco dopo, si è indurito per poi dare forma ad una gemma unica nel suo genere.\n\"Potrebbe valerne la pena prendercela.\"\n[{0}] mostra segni di stanchezza, ma non c'era niente di strano nel suo corpo per quel che potevamo vedere.\nAbbiamo lasciato il posto con la gemma in nostro possesso."
       ],
       "failureDesc": [
-        "\"Whoa!\"\n[{0}] tocca l'uovo. L'uovo inizia ad illuminarsi.\nPerò, presto si è ridotto in un mucchio di polvere.\n\"Ugh...\"\nNella mano di [{0}] era rimasta una misteriosa ferita.\nInoltre notavamo un'improvvisa stanchezza da parte sua.\n...Abbiamo lasciato la stanza, consolando [{0}]."
+        "\"Whoa!\"\n[{0}] tocca l'uovo. L'uovo inizia ad illuminarsi.\nPerò, presto si è ridotto in un mucchio di polvere.\n\"Ugh...\"\nNella mano di [{0}] era rimasta una strana ferita.\nInoltre notavamo un'improvvisa stanchezza da parte sua.\n...Abbiamo lasciato la stanza, consolando [{0}]."
       ]
     },
     {

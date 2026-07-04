@@ -342,7 +342,7 @@
     },
     {
       "id": "852701_statue_failure_1_2",
-      "content": "Il Karma colpisce ogni Peccatore a caso!"
+      "content": "Il Karma colpisce casualmente ogni Peccatore!"
     },
     {
       "id": "852701_statue_failure_1_3",
@@ -430,15 +430,15 @@
     },
     {
       "id": "804601_umbrellafox_success_1_1",
-      "content": "<color=#ebcaa2>Tutti i [Vecchi Ombrelli]</color> <color=#00ff9c>perdono il {1} dei propri PV Max</color>"
+      "content": "<color=#ebcaa2>Ogni [{0}]</color> <color=#00ff9c>perde il {1}% dei propri PV Max</color>"
     },
     {
       "id": "804601_umbrellafox_success_1_2",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>perde {1} PS</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>perde {1} PS</color>"
     },
     {
       "id": "804601_umbrellafox_failure_1_1",
-      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>perde {1} PS</color>"
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>perde {1} PS</color>"
     },
     {
       "id": "804701_nobodygonnacry_success_1_1",

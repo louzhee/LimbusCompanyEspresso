@@ -877,7 +877,7 @@
           "message": "Vattene.",
           "messageDesc": "Niente accade.",
           "result": [
-            "Non c'è ragione di rischiare altre ferite.\nCe ne siamo andati, lamentandoci del misfatto."
+            "Non c'è motivo di rischiare altre ferite.\nCe ne siamo andati, lamentandoci del misfatto."
           ]
         }
       ]
@@ -897,7 +897,7 @@
           "message": "Non usare l'ampolla.",
           "messageDesc": "Niente accade.",
           "result": [
-            "Non saprei se è una buona idea testare sui Peccatori queste cose di cui non ne so molto.\nAbbiamo deciso di lasciare la stanza."
+            "Non so se sia una buona idea testare questi oggetti di cui non so granché sui Peccatori.\nAbbiamo deciso di lasciare la stanza."
           ]
         }
       ]
@@ -905,13 +905,13 @@
     {
       "id": 1040201,
       "name": "An Ampule to Use",
-      "desc": "\"Guardate, degli avvertimenti sono scritti sulle ampolle!\"\nScorrendo tra le bottiglie di vetro, riesco a vedere delle piccole avvertenze attaccate ad esse.\nPerò, il testo è troppo denso per leggere chiaramente.\n\"Parti mancanti… insufficiente… fermare? Non ho idea di quel che sta dicendo.\"\n\"Illustre Manager! Pare che questo congegno abbia due modalità: singolo e gruppo!\"\nPare sia il momento di scegliere.\nCosa faremo?",
+      "desc": "\"Guardate, degli avvertimenti sono scritti sulle ampolle!\"\nScorrendo tra le bottiglie di vetro, riesco a vedere delle piccole avvertenze attaccate ad esse.\nPerò, il testo è troppo denso per leggere chiaramente.\n\"Parti mancanti… insufficiente… fermare? Non ho idea di cosa c'è scritto.\"\n\"Illustre Manager! Pare che questo congegno abbia due modalità: singolo e gruppo!\"\nPare sia il momento di scegliere.\nCosa faremo?",
       "options": [
         {
           "message": "Usa l'ampolla su tutti.",
           "messageDesc": "Tutti gli alleati con dei PV mancanti si curano completamente.\nGli alleati a PV pieni perdono PV e PS.",
           "result": [
-            "Non dovrebbe far male lasciare che tutti i Peccatori ne usufruiscano.\nHo premuto il pulsante 'gruppo'.\n\"Ngh!\"\n\"Che strano... improvvisamente mi sento male.\"\nQualche Peccatore geme dal dolore.\nPensando a cosa avevano in comune... Ho realizzato che non erano feriti.\n\"Questo non deve essere un qualcosa che si può amministrare agli individui in salute.\"\n...Devo fare più attenzione la prossima volta."
+            "Non dovrebbe far male lasciare che tutti i Peccatori ne usufruiscano.\nHo premuto il pulsante 'gruppo'.\n\"Ngh!\"\n\"Che strano... improvvisamente mi sento male.\"\nQualche Peccatore geme dal dolore.\nPensando a cosa potevano avere in comune... Ho realizzato che non erano feriti.\n\"Questo non deve essere un qualcosa che si può amministrare agli individui in salute.\"\n...Devo fare più attenzione la prossima volta."
           ]
         },
         {
@@ -956,7 +956,7 @@
     {
       "id": 10405,
       "name": "Make a Wish",
-      "desc": "\"Quelle lassù... sono delle stelle?\"\nGuardando in alto, vediamo una scena che assomiglia ad un cielo notturno dietro ad una crepa.\n\"Ammirate, una stella cadente!!\"\nHo sentito dire che esprimere un desiderio quando c'è una stella cadente lo fa avverare.\nForse dovremmo provarci?",
+      "desc": "\"Quelle lassù... sono delle stelle?\"\nGuardando in alto, vediamo una scena che assomiglia ad un cielo notturno dietro una fessura.\n\"Ammirate, una stella cadente!!\"\nHo sentito dire che esprimere un desiderio quando c'è una stella cadente lo fa avverare.\nForse dovremmo provarci?",
       "options": [
         {
           "message": "Esprimi un desiderio.",
@@ -978,18 +978,18 @@
     {
       "id": 10406,
       "name": "ApproachingTheFlower",
-      "desc": "<i>UnAlberoInFioresiergenelmezzodellaPiana.\nNonvèunAlberoInFiorenellevicinanze(近處).\nLAlberoInFioresiergeva\nCoiFiorisbocciaticonDedizione(熱心)\nTantoquantessopensadegliAlberiInFioreneisuoiPensiericonDedizione.</i>\n\nCosa farai?",
+      "desc": "<i>UnAlberoInFioresiergenelmezzodellaPiana.\nNonv'èunAlberoInFiorenellevicinanze(近處).\nL'AlberoInFioresiergeva\nCoiFiorisbocciaticonDedizione(熱心)\nTantoquant'essopensa\nDegliAlberiInFioreneisuoiPensiericonDedizione.</i>\n\nCosa farai?",
       "options": [
         {
           "message": "Avvicinati al fiore.",
           "result": [
-            "<i>LAlberoInFiorenonpuògiungereallAlberoInFioreneisuoiPensieri.</i>\n\nUna scossa potente ha spinto tutti via, impedendo di avvicinarci."
+            "<i>L'AlberoInFiorenonpuògiungereall'AlberoInFioreneisuoiPensieri.</i>\n\nUna scossa potente ha spinto tutti via, impedendo di avvicinarci."
           ]
         },
         {
           "message": "Vattene.",
           "result": [
-            "<i>LAlberoInFiorenonpuògiungereallAlberoInFioreneisuoiPensieri.\nMidileguai.\nComesiofacessi(爲)perunsingoloAlberoInFiore, iofeciunaPeculiareImitazione.</i>\n\nProprio quando stavate per andarvene, l'albero si disperde.\nHai preso il ramo rimasto."
+            "<i>L'AlberoInFiorenonpuògiungereall'AlberoInFioreneisuoiPensieri.\nMidileguai.\nComes'iofacessi(爲)perunsingoloAlberoInFiore, feciunaPeculiareImitazione.</i>\n\nProprio quando stavate per andarvene, l'albero si disperde.\nHai preso il ramo rimasto."
           ]
         }
       ]
@@ -997,7 +997,7 @@
     {
       "id": 10407,
       "name": "Run",
-      "desc": "Lo spazio si distorce.\nAllo stesso tempo, un verso familiare arriva dalle vostre spalle.\nAssomiglia tanto al verso di un'Anormalità che avevamo precedentemente ridotto ad un uovo.\n\"Iniziate a correre!!\"\nI tredici Peccatori corrono verso la via.\n\"Laggiù!\"\n\"Q-Quello è un vicolo cieco...\"\nI Peccatori sembrano terrorizzati... Proviamo lo stesso ad andare lì dentro?",
+      "desc": "Lo spazio si distorce.\nAllo stesso tempo, un verso familiare arriva dalle vostre spalle.\nAssomiglia tanto al verso di un'Anormalità che avevamo precedentemente ridotto a un uovo.\n\"Iniziate a correre!!\"\nI tredici Peccatori corrono verso la via.\n\"Laggiù!\"\n\"Q-Quello è un vicolo cieco...\"\nI Peccatori sembrano terrorizzati... Proviamo lo stesso ad andare lì dentro?",
       "options": [
         {
           "message": "Scappa.",
@@ -1029,7 +1029,7 @@
           "message": "Non scappare.",
           "messageDesc": "Inizia un combattimento. Vinci per ottenere un Dono E.G.O.",
           "result": [
-            "Non c'è scampo.\nMeglio smetterla di scappare e concentrare le forze rimaste per la battaglia inevitabile...\n\"Kgh!\"\nL'Anormalità incorna i Peccatori.\n\"Testardo di un toro...\"\nNon abbiamo scelta. Deve essere soppressa un'altra volta."
+            "Non c'è scampo.\nMeglio smetterla di scappare e concentrare le forze rimaste per l'inevitabile battaglia...\n\"Kgh!\"\nL'Anormalità incorna i Peccatori.\n\"Testardo di un toro...\"\nNon abbiamo scelta. Deve essere soppressa un'altra volta."
           ]
         }
       ]
@@ -1050,7 +1050,7 @@
           "message": "Non scappare.",
           "messageDesc": "Ottieni un Dono E.G.O.",
           "result": [
-            "Qui finisce la corsa.\nQuell'essere spaventoso ci caricherà tutti, ed esserne certi lo rende doppiamente spantoso.\nEppure, sento che in qualche modo tutto andrà bene.\n\"Ah...\"\nL'Anormalità passa attraverso noi per poi sparire nell'ignoto.\nHa lasciato una scia di un fluido bluastro."
+            "Qui finisce la corsa.\nQuella tremenda creatura ci caricherà tutti, ed esserne certi lo rende doppiamente terrificante.\nEppure, sento che in qualche modo tutto andrà bene.\n\"Ah...\"\nL'Anormalità passa attraverso noi per poi sparire nell'ignoto.\nHa lasciato una scia di un fluido bluastro."
           ]
         }
       ]
@@ -1103,7 +1103,7 @@
     {
       "id": 805005,
       "name": "Stand in his way.",
-      "desc": "\"Non dovrei sprecare il mio tempo in questo modo.\"\n\nArrivando ad una realizzazione, Dongrang si ferma sul posto.\nE ammirava il soffitto come se guardasse il cielo stellato.\n\n\"In questo momento... Ci sto rimettendo per ogni secondo che non piange.\"\n\n\"Il tempo e le opportunità di cambiare il mondo... stanno svanendo.\"\n\nDongrang lancia uno sguardo coi suoi occhi iniettati di sangue.\n\n\"Yi Sang... Tu, sei tu l'unico che se ne deve andare per che tutto ciò finisca!\"",
+      "desc": "\"Non dovrei sprecare il mio tempo in questo modo.\"\n\nArrivando ad una realizzazione, Dongrang si ferma sul posto.\nE ammirava il soffitto come se guardasse il cielo stellato.\n\n\"In questo momento... Ci sto rimettendo per ogni secondo che non piange.\"\n\n\"Il tempo e le opportunità di cambiare il mondo... stanno svanendo.\"\n\nDongrang lancia uno sguardo furente.\n\n\"Yi Sang... Tu, sei tu l'unico che se ne deve andare per che tutto ciò finisca!\"",
       "options": [
         {
           "message": "Fermalo.",
