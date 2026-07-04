@@ -78,17 +78,17 @@
     {
       "id": "battle_awaken_20509_1",
       "desc": "E.G.O Activation",
-      "dlg": "Awash in the yearning moonlight, I hew your throat and claim the breath that remains!"
+      "dlg": "Inondato da una struggente luce lunare, ti squarcio la gola e reclamo il tuo ultimo respiro!"
     },
     {
       "id": "battle_awaken_20509_2",
       "desc": "E.G.O Activation",
-      "dlg": "Awash in the yearning moonlight, I hew your throat!"
+      "dlg": "Inondato da una struggente luce lunare, ti squarcio la gola!"
     },
     {
       "id": "battle_awaken_20509_3",
       "desc": "E.G.O Activation",
-      "dlg": "I claim the breath that remains!"
+      "dlg": "E reclamo il tuo ultimo respiro!"
     },
     {
       "id": "battle_erosion_20509_1",
@@ -98,7 +98,7 @@
     {
       "id": "battle_erosion_20509_2",
       "desc": "E.G.O Corrosion",
-      "dlg": "Death!"
+      "dlg": "Morte!"
     }
   ]
 }
