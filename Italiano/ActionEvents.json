@@ -978,7 +978,7 @@
     {
       "id": 10406,
       "name": "ApproachingTheFlower",
-      "desc": "<i>UnAlberoInFioresergenelmezzodellaPiana.\nNonvèunAlberoInFiorenellevicinanze(近處).\nLAlberoInFioresergeva\nCoiFiorisbocciaticonDedizione(熱心)\nTantoquantessopensadegliAlberiInFioreneisuoiPensiericonDedizione.</i>\n\nCosa farai?",
+      "desc": "<i>UnAlberoInFioresiergenelmezzodellaPiana.\nNonvèunAlberoInFiorenellevicinanze(近處).\nLAlberoInFioresiergeva\nCoiFiorisbocciaticonDedizione(熱心)\nTantoquantessopensadegliAlberiInFioreneisuoiPensiericonDedizione.</i>\n\nCosa farai?",
       "options": [
         {
           "message": "Avvicinati al fiore.",
