@@ -42,23 +42,23 @@
     },
     {
       "id": 817101,
-      "name": "Superiority",
-      "desc": "Clash Win: If this unit's Speed is faster than the target's, heal 3 PS"
+      "name": "Superiorità",
+      "desc": "A Scontro vinto, se la Velocità di questa unità è maggiore di quella del bersaglio, recupera 3 PS"
     },
     {
       "id": 817102,
-      "name": "The Uninvited",
-      "desc": "If there are Staggered enemies, this unit prioritizes Staggered targets with its Attack Skills\nDeal +20% damage to Staggered enemies On Hit"
+      "name": "L'Indesiderato",
+      "desc": "Se ci sono nemici Storditi, dà priorità ai bersagli Storditi\nInfligge +20% danni sui bersagli Storditi"
     },
     {
       "id": 817103,
-      "name": "Receiving Arts 9: Binding",
-      "desc": "After this unit gains a new pattern, and after Combat End, inflict [AaCfPcBc] to a random Identity without [AaCfPcBc] next turn"
+      "name": "Arti dell'Accoglienza 9: Vincola",
+      "desc": "A fine combattimento, dopo aver ottenuto un nuovo pattern, infligge [AaCfPcBc] su un nemico senza [AaCfPcBc] nel turno successivo"
     },
     {
       "id": 817104,
-      "name": "Release From Binds",
-      "desc": "All [AaCfPcBc] less than or equal to 2 expires when this unit is Staggered"
+      "name": "Rilascio dalle Catene",
+      "desc": "Quando viene Stordita, fa scadere [AaCfPcBc] su ogni nemico con 2 o meno [AaCfPcBc]"
     },
     {
       "id": 817201,
