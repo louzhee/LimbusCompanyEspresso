@@ -2,38 +2,38 @@
   "dataList": [
     {
       "id": 836301,
-      "name": "BLACK Damage",
-      "desc": "When this unit deals damage, it also deals 1~3 PS damage"
+      "name": "Danno NERO",
+      "desc": "Quando questa unità infligge danno, infligge anche 1~3 danni ai PS"
     },
     {
       "id": 836401,
-      "name": "Fruit of Understanding",
-      "desc": "This unit self-terminates after a certain number of turns passes"
+      "name": "Frutto della Comprensione",
+      "desc": "Questa unità muore dopo un certo numero di turni"
     },
     {
       "id": 836402,
-      "name": "Fruit of Understanding",
-      "desc": "This unit self-terminates after a certain number of turns passes"
+      "name": "Frutto della Comprensione",
+      "desc": "Questa unità muore dopo un certo numero di turni"
     },
     {
       "id": 836403,
-      "name": "Fruit of Understanding",
-      "desc": "This unit self-terminates after a certain number of turns passes"
+      "name": "Frutto della Comprensione",
+      "desc": "Questa unità muore dopo un certo numero di turni"
     },
     {
       "id": 836601,
-      "name": "Corrosion",
-      "desc": "Turn End: Deal 3 damage to all enemies"
+      "name": "Corrosione",
+      "desc": "A fine turno, infligge 3 danni a ogni nemico"
     },
     {
       "id": 836302,
-      "name": "Imminent Decay",
-      "desc": "This unit self-terminates after a certain number of turns passes"
+      "name": "Decadimento Imminente",
+      "desc": "Questa unità muore dopo un certo numero di turni"
     },
     {
       "id": 836602,
-      "name": "Passive for the Arm Part",
-      "desc": "Break the Arm to disable certain Skills"
+      "name": "Passiva per le Braccia",
+      "desc": "Rompere le Braccia disattiva certe Abilità"
     }
   ]
 }

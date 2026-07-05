@@ -2,17 +2,17 @@
   "dataList": [
     {
       "id": 90178,
-      "name": "Threatening Gear Worshipper",
+      "name": "Fedele della Chiesa degli Ingranaggi Minaccioso",
       "desc": "Unità Nemica"
     },
     {
       "id": 90179,
-      "name": "Nimble Gear Worshipper",
+      "name": "Fedele della Chiesa degli Ingranaggi Agile",
       "desc": "Unità Nemica"
     },
     {
       "id": 90180,
-      "name": "Aggressive Gear Fanatic",
+      "name": "Fanatico della Chiesa degli Ingranaggi Aggressivo",
       "desc": "Unità Nemica"
     }
   ]

@@ -5,14 +5,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guidance of the Gears",
-          "desc": "[WhenUse] Gain 2 [Smoke]",
+          "name": "Guida degli Ingranaggi",
+          "desc": "[WhenUse] Ottiene 2 [Smoke]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Smoke] Count"
+                  "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Smoke]"
                 }
               ]
             }
@@ -25,26 +25,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Meat Gear: Stop",
-          "desc": "[WhenUse] Gain 4 [Smoke] and +2 [Smoke] Count",
+          "name": "Ingranaggio della Carne: Stop",
+          "desc": "[WhenUse] Ottiene 4 [Smoke] e +2 Conteggio [Smoke]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Smoke]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Smoke]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttackHead] Infligge 1 [Paralysis] nel turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Smoke]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [Smoke]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttackHead] Infligge 1 [Paralysis] nel turno successivo"
                 }
               ]
             }
@@ -57,20 +57,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vapour",
-          "desc": "Clash Power +1 for every 3 [Smoke] on the target (max 2)\nDeal +10% damage for every 3 [Smoke] on self (max 20%)\n[WhenUse] At 10 [Smoke], Coin Power +2\n[EndSkill] Consume all [Smoke] on self",
+          "name": "Vapore",
+          "desc": "Potere Scontro +1 per ogni 3 [Smoke] sul bersaglio (max 2)\nInfligge +10% danni per ogni 3 [Smoke] su di sé (max 20%)\n[WhenUse] A 10 [Smoke], Potere Moneta +2\n[EndSkill] Consuma tutto il [Smoke] su di sé",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Smoke]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Smoke]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Reuse Coin for every 3 [Smoke] on the target (3 times max)"
+                  "desc": "[OnSucceedAttack] Riusa questa Moneta per ogni 3 [Smoke] sul bersaglio (max 3 volte)"
                 }
               ]
             }
@@ -83,8 +83,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade Order",
-          "desc": "[OnSucceedEvade] Gain 3 [Smoke] and +1 [Smoke] Count\n[OnSucceedEvade] At 10 [Smoke], gain 1 [ParryingResultUp] and 3 [Protection] next turn (once per turn)",
+          "name": "Ordine di Evasione",
+          "desc": "[OnSucceedEvade] Ottiene 3 [Smoke] e +1 Conteggio [Smoke]\n[OnSucceedEvade] A 10 [Smoke], ottiene 1 [ParryingResultUp] e 3 [Protection] nel turno successivo (una volta per turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -102,14 +102,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guided by Gears",
-          "desc": "[WhenUse] Gain 2 [Smoke]",
+          "name": "Guida degli Ingranaggi",
+          "desc": "[WhenUse] Ottiene 2 [Smoke]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Smoke] Count"
+                  "desc": "[OnSucceedAttack] Ottiene +1 Conteggio [Smoke]"
                 }
               ]
             }
@@ -122,26 +122,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Meat Gear: Grapple",
-          "desc": "[WhenUse] Gain 4 [Smoke] and +2 [Smoke] Count",
+          "name": "Ingranaggio della Carne: Rissa",
+          "desc": "[WhenUse] Ottiene 4 [Smoke] e +2 Conteggio [Smoke]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Smoke] Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Smoke]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttackHead] Infligge 1 [Binding] nel turno successivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Smoke] Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Smoke]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttackHead] Infligge 1 [Binding] nel turno successivo"
                 }
               ]
             }
@@ -154,20 +154,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Assault Order",
-          "desc": "Clash Power +1 for every 3 [Smoke] on the target (max 2)\nDeal +10% damage for every 3 [Smoke] on self (max 20%)\n[WhenUse] At 10 [Smoke], Coin Power +2\n[EndSkill] Consume all [Smoke] on self",
+          "name": "Ordine d'Assalto",
+          "desc": "Potere Scontro +1 per ogni 3 [Smoke] sul bersaglio (max 2)\nInfligge +10% danni per ogni 3 [Smoke] su di sé (max 20%)\n[WhenUse] A 10 [Smoke], Potere Moneta +2\n[EndSkill] Consuma tutto il [Smoke] su di sé",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Smoke] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Smoke]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Reuse Coin for every 3 [Smoke] on the target (3 times max)"
+                  "desc": "[OnSucceedAttack] Riusa questa Moneta per ogni 3 [Smoke] sul bersaglio (max 3 volte)"
                 }
               ]
             }
@@ -180,8 +180,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade Order",
-          "desc": "[OnSucceedEvade] Gain 3 [Smoke] and +1 [Smoke] Count\n[OnSucceedEvade] At 10 [Smoke], gain 1 [ParryingResultUp] and 3 [Protection] next turn (once per turn)",
+          "name": "Ordine di Evasione",
+          "desc": "[OnSucceedEvade] Ottiene 3 [Smoke] e +1 Conteggio [Smoke]\n[OnSucceedEvade] A 10 [Smoke], ottiene 1 [ParryingResultUp] e 3 [Protection] nel turno successivo (una volta per turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -199,13 +199,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Meat Gear: Command",
-          "desc": "[WhenUse] Gain 3 [Smoke] and +2 [Smoke] Count",
+          "name": "Ingranaggio della Carne: Comando",
+          "desc": "[WhenUse] Ottiene 3 [Smoke] e +2 Conteggio [Smoke]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Smoke] and +2 [Smoke] Count"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Smoke] e +2 Conteggio [Smoke]"
                 }
               ]
             }
@@ -218,16 +218,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thought Gear: Collect",
-          "desc": "[WhenUse] Gain 4 [Smoke] and +2 [Smoke] Count",
+          "name": "Ingranaggio del Pensiero: Raccogli",
+          "desc": "[WhenUse] Ottiene 4 [Smoke] e +2 Conteggio [Smoke]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Smoke] and +2 [Smoke] Count"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Smoke] e +2 Conteggio [Smoke]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttackHead] Infligge 1 [Paralysis] nel turno successivo"
                 }
               ]
             }
@@ -240,20 +240,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Meat Gear: Restrict",
-          "desc": "Coin Power +1 for every 3 [Smoke] on the target\nDeal +10% damage for every 3 [Smoke] on self\nConsume 3 [Smoke] on self every time this Skill Reuses Coin\n[WhenUse] At 10 [Smoke], Coin Power +1",
+          "name": "Ingranaggio della Carne: Confina",
+          "desc": "Potere Moneta +1 per ogni 3 [Smoke] sul bersaglio\nInfligge +10% danni per ogni 3 [Smoke] su di sé\nConsuma 3 [Smoke] su di sé ogni volta che quest'Abilità Riusa una Moneta\n[WhenUse] A 10 [Smoke], Potere Moneta +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Smoke] Count"
+                  "desc": "[OnSucceedAttack] Infligge +1 Conteggio [Smoke]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Reuse Coin for every 5 [Smoke] on the target (2 times max)"
+                  "desc": "[OnSucceedAttack] Riusa questa Moneta per ogni 5 [Smoke] sul bersaglio (max 2 volte)"
                 }
               ]
             }
@@ -266,27 +266,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thought Gear: Remove",
-          "desc": "Clash Power +1 for every 3 [Smoke] on the target\nDeal +20% damage for every 3 [Smoke] on self\n[WhenUse] At 10 [Smoke], Coin Power +2\n[EndSkill] Consume all [Smoke] on self",
+          "name": "Ingranaggio del Pensiero: Rimuovi",
+          "desc": "Potere Scontro +1 per ogni 3 [Smoke] sul bersaglio\nInfligge +20% danni per ogni 3 [Smoke] su di sé\n[WhenUse] A 10 [Smoke], Potere Moneta +2\n[EndSkill] Consuma tutto il [Smoke] su di sé",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Smoke]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Smoke]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Smoke] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Smoke]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Reuse Coin for every 3 [Smoke] on the target (3 times max)"
+                  "desc": "[OnSucceedAttack] Riusa questa Moneta per ogni 3 [Smoke] sul bersaglio (max 3 volte)"
                 }
               ]
             }
@@ -299,8 +299,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thought Gear: Vapour",
-          "desc": "[WhenUse] Gain 5 [Smoke] and +2 [Smoke] Count\n[WhenUse] At 10 [Smoke], gain 2 [PlusCoinValueUp] and 3 [Protection] next turn (once per turn)",
+          "name": "Ingranaggio del Pensiero: Vapore",
+          "desc": "[WhenUse] Ottiene 5 [Smoke] e +2 Conteggio [Smoke]\n[WhenUse] A 10 [Smoke], ottiene 2 [PlusCoinValueUp] e 3 [Protection] nel turno successivo (una volta per turno)",
           "coinlist": [
             {}
           ]

@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Understanding",
-          "desc": "If the target has 10- PS, Clash Power +1\n[WhenUse] Gain 1 [VioletUnderstand]",
+          "name": "Comprensione",
+          "desc": "Se il bersaglio ha 10 o meno PS, Potere Scontro +1\n[WhenUse] Ottiene 1 [VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [MentalCrack]"
                 }
               ]
             }
@@ -24,20 +24,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Perception",
-          "desc": "If the target has 10- PS, Clash Power +1\n[WhenUse] Gain 2 [VioletUnderstand]",
+          "name": "Percezione",
+          "desc": "Se il bersaglio ha 10 o meno PS, Potere Scontro +1\n[WhenUse] Ottiene 2 [VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [VioletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [VioletTakeDamageUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [MentalCrack]"
                 }
               ]
             }
@@ -50,20 +50,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Salvation",
-          "desc": "If the target has 10- PS, Clash Power +1\n[WhenUse] Gain 1 [VioletUnderstand]",
+          "name": "Salvezza",
+          "desc": "Se il bersaglio ha 10 o meno PS, Potere Scontro +1\n[WhenUse] Ottiene 1 [VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [VioletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [VioletTakeDamageUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [MentalCrack]"
                 }
               ]
             }
@@ -76,8 +76,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "What is Incomprehensible",
-          "desc": "[WhenUse] Gain 2 [VioletUnderstand]",
+          "name": "Ciò Che È Incomprensibile",
+          "desc": "[WhenUse] Ottiene 2 [VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
@@ -95,16 +95,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Decay",
-          "desc": "[CantDuel]\n[EndSkill] Dies",
+          "name": "Decadimento",
+          "desc": "[CantDuel]\n[EndSkill] Muore",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [VioletTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttack] Infligge 2 [VioletTakeDamageUp] nel turno successivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 10~14 PS damage"
+                  "desc": "[OnSucceedAttack] Infligge 10~14 danni ai PS"
                 }
               ]
             }
@@ -117,20 +117,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Mercy",
-          "desc": "If the target has 20- PS, Clash Power +1",
+          "name": "Pietà",
+          "desc": "Se il bersaglio ha 20 o meno PS, Potere Scontro +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [VioletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [VioletTakeDamageUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [MentalCrack]"
                 }
               ]
             }
@@ -143,20 +143,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Love",
-          "desc": "If the target has 20- PS, Clash Power +1",
+          "name": "Amore",
+          "desc": "Se il bersaglio ha 20 o meno PS, Potere Scontro +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [VioletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [VioletTakeDamageUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [MentalCrack]"
                 }
               ]
             }
@@ -169,20 +169,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flickering Glyphs of Understanding",
+          "name": "Glifi Della Comprensione Tremolanti",
           "desc": "[CantDuel]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [MentalCrack]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [MentalCrack]"
                 }
               ]
             }
@@ -195,20 +195,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flickering Glyphs of Understanding",
-          "desc": "If the target has 20- PS, Clash Power +1",
+          "name": "Glifi Della Comprensione Tremolanti",
+          "desc": "Se il bersaglio ha 20 o meno PS, Potere Scontro +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [VioletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Infligge 2 [VioletTakeDamageUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] Infligge 1 [MentalCrack]"
                 }
               ]
             }
@@ -221,8 +221,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "What is Incomprehensible",
-          "desc": "[WhenUse] Gain 2 [Protection]",
+          "name": "Ciò Che È Incomprensibile",
+          "desc": "[WhenUse] Ottiene 2 [Protection]",
           "coinlist": [
             {
               "coindescs": [
@@ -240,13 +240,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rushing Arms of Rest",
+          "name": "Il Rapido Abbraccio della Morte",
           "desc": "[CantDuel]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal 100 PV damage"
+                  "desc": "[OnSucceedAttack] Infligge 100 danni"
                 }
               ]
             }
