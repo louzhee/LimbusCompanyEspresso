@@ -51,7 +51,7 @@
     {
       "id": 10,
       "model": "뫼르소",
-      "content": "D'accord."
+      "content": "<i>D'accord.</i>"
     },
     {
       "id": 11,
@@ -213,7 +213,7 @@
     },
     {
       "id": 45,
-      "content": "Nonostante fossi preoccupato per l'improvvisa cupezza di Ishmael, avevo fiducia che sarebbe stata bene. Dopotutto, aveva sempre tutto sotto controllo."
+      "content": "Nonostante fossi preoccupato per l'improvvisa cupezza di Ishmael, avevo fiducia nel fatto che sarebbe stata bene. Dopotutto, aveva sempre tutto sotto controllo."
     },
     {
       "id": 46,
@@ -298,7 +298,7 @@
     {
       "id": 63,
       "model": "돈키호테",
-      "content": "Owowow… What Che scelleratezza è mai questa? Un'imboscata?!"
+      "content": "Owowow… Che scelleratezza è mai questa? Un'imboscata?!"
     },
     {
       "id": 64,

@@ -22,7 +22,7 @@
     },
     {
       "id": 5,
-      "content": "Proprio come Ishmael aveva ligitato con me."
+      "content": "Proprio come con Ishmael."
     },
     {
       "id": 6,
@@ -216,7 +216,7 @@
     {
       "id": 36,
       "model": "카론",
-      "content": "Si affoga, splish splash."
+      "content": "Affoghiamo, splish splash."
     },
     {
       "id": 37,
@@ -260,7 +260,7 @@
     },
     {
       "id": 45,
-      "content": "E così iniziò davvero il nostro viaggio sul Grande Lago..."
+      "content": "E così iniziò il nostro viaggio sul Grande Lago davvero..."
     }
   ]
 }

@@ -19,7 +19,7 @@
     {
       "id": 3,
       "model": "싱클레어",
-      "content": "Ma, possiamo davvero... chiamare questo posto una \"spiaggia\"?"
+      "content": "Ma possiamo davvero... chiamare questo posto \"spiaggia\"?"
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@
     {
       "id": 5,
       "model": "돈키호테",
-      "content": "Ben lo so, gentile Gregor! Gradisco il tuo consiglio, eppure il mio core non mi accorda di declinare tal proposta, ora che si appresenta l'occasione di rinsaldare la nostra amicizia!"
+      "content": "Ben lo so, gentile Gregor! Gradisco il tuo consiglio, eppure il mio cuore non mi accorda di declinare tal proposta, ora che si appresenta l'occasione di rinsaldare la nostra amicizia!"
     },
     {
       "id": 6,
@@ -69,7 +69,7 @@
     {
       "id": 13,
       "model": "이스마엘",
-      "content": "Non siamo affatto pronti..."
+      "content": "<size=85%>Non siamo affatto pronti...</size>"
     },
     {
       "id": 14,
@@ -79,7 +79,7 @@
     {
       "id": 15,
       "model": "이스마엘",
-      "content": "Non è il momento di giocare a palla... Stiamo bighellonando troppo... Sì, siamo stati troppo fortunati la scorsa volta."
+      "content": "<size=85%>Non è il momento di giocare a palla... Stiamo bighellonando troppo... Sì, siamo stati troppo fortunati la scorsa volta.</size>"
     },
     {
       "id": 16,
@@ -165,7 +165,7 @@
     {
       "id": 34,
       "model": "홍루",
-      "content": "Hup!"
+      "content": "Oplà!"
     },
     {
       "id": 35,
@@ -210,7 +210,7 @@
     {
       "id": 43,
       "model": "싱클레어",
-      "content": "Uh, uhh... hup!"
+      "content": "Uh, uhh... ah!"
     },
     {
       "id": 44,

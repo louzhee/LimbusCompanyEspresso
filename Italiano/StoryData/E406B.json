@@ -87,12 +87,12 @@
     {
       "id": 16,
       "model": "료슈",
-      "content": "VSICC."
+      "content": "<ruby=Vi Spezzo Il Collo Completamente>VSICC</ruby>."
     },
     {
       "id": 17,
       "model": "뫼르소",
-      "content": "No, qui TLG sarebbe meglio."
+      "content": "No, qui <ruby=Tagliare Le Gambe>TLG</size> sarebbe meglio."
     },
     {
       "id": 18,
@@ -172,7 +172,7 @@
     },
     {
       "id": 32,
-      "content": "Si dice che la pratica rende perfetti. Tutti stavano eseguendo attacchi piuttosto ben coordinati, anche senza il mio contributo."
+      "content": "Si dice che la pratica renda perfetti. Tutti stavano eseguendo attacchi piuttosto ben coordinati, anche senza il mio contributo."
     },
     {
       "id": 33,
@@ -339,7 +339,7 @@
     {
       "id": 66,
       "model": "베르길리우스",
-      "content": "Considera la \"chiacchierata\" che ho avuto di mia spontanea volontà con quei due un piccolo favore per il tuo recente andamento discreto."
+      "content": "Considera la \"chiacchierata\" che ho avuto di mia spontanea volontà con quei due un piccolo favore per la tua recente performance discreta."
     },
     {
       "id": 67,
@@ -374,7 +374,7 @@
     },
     {
       "id": 74,
-      "content": "Cosa dovrei fare per lei? No, cosa <i>io</i> avrei dovuto fare?"
+      "content": "Cosa dovrei fare per lei? Anzi, cosa avrei dovuto fare <i>io</i>?"
     },
     {
       "id": 75,

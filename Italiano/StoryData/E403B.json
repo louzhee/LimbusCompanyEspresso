@@ -155,7 +155,7 @@
       "id": 28,
       "teller": "???",
       "title": "???",
-      "content": "Hop!"
+      "content": "Ugh!"
     },
     {
       "id": 29,
@@ -282,7 +282,7 @@
     {
       "id": 50,
       "model": "돈키호테",
-      "content": "Siete dunque una Fixer?! Sapevo di aver avvertito l'odore di un'anima nobile! Perché mai vi allontanaste dal cammino dei Fixer? La vita di un Fixer dev'essere stata estenuante, indubbiamente! Quale fu il vostro distretto più prolifico?! Quale Associazione e quale esame sosteneste per ascendere al Grado 5? Un esame per officine presso l'Associazione Tres, per caso? Mmh? Mmh?"
+      "content": "Siete dunque una Fixer?! *sniff sniff* Sapevo di aver avvertito l'odore di un'anima nobile! Perché mai vi allontanaste dal cammino dei Fixer? La vita di un Fixer dev'essere stata estenuante, indubbiamente! Quale fu il vostro distretto più prolifico?! Quale Associazione e quale esame sosteneste per ascendere al Grado 5? Un esame per officine presso l'Associazione Tres, per caso? Mmh? Mmh?"
     },
     {
       "id": 51,
@@ -427,7 +427,7 @@
     },
     {
       "id": 75,
-      "content": "E proprio quando pensava di essere spacciato, rinvenne all'improvviso, cominciò a vagabondare, per poi ritrovare Olga..."
+      "content": "E proprio quando pensava di essere spacciato, rinvenne all'improvviso e cominciò a vagabondare, per poi ritrovare Olga..."
     },
     {
       "id": 76,
@@ -441,7 +441,7 @@
     {
       "id": 78,
       "model": "베르길리우스",
-      "content": "...Lo schema non mi si è ancora rivelato."
+      "content": "...Lo schema non mi si è ancora chiaro."
     },
     {
       "id": 79,
