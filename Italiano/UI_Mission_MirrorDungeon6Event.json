@@ -78,7 +78,7 @@
 		},
 		{
 			"id": "mission_ui_condition_tags_201005016_6",
-      		"content": "Infliggi {0}+ danni con l'uso di una sola Abilità contro un nemico (il danno allo Scudo PV & il danno inflitto Sul Colpo come Annegamento Instantaneo o Tempus Moratorium contano; viene escluso il danno dai Tratti e da altre fonti)"
+      		"content": "Infliggi {0}+ danni con l'uso di una sola Abilità contro un nemico (il danno allo Scudo PV & il danno inflitto Sul Colpo come Annegamento Istantaneo o Tempus Moratorium contano; viene escluso il danno dai Tratti e da altre fonti)"
 		},
 		{
 			"id": "mission_ui_condition_tags_201005017_6",

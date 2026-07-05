@@ -1319,7 +1319,7 @@
     },
     {
       "id": "SinkingSurge",
-      "name": "Annegamento Instantaneo",
+      "name": "Annegamento Istantaneo",
       "desc": "Infligge danni ai PS pari a (Conteggio Annegamento * Potenza Annegamento), per poi rimuovere Annegamento\nSe i PS del bersaglio sono a -45, il danno in eccesso sarà convertito in danno da Tristezza\n(Le unità senza PS subiscono sempre danni da Tristezza)"
     },
     {
@@ -3926,7 +3926,7 @@
     },
     {
       "id": "TeachersPreyRodion",
-      "name": "Bersagli​o",
+      "name": "Bersaglio",
       "desc": "- Subisce +15% danni dalle Abilità Base Skills usate da Il Nido dei Ragni: Il Precettore del Pollice Rodion",
       "summary": "",
       "undefined": "-"
