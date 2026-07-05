@@ -2,66 +2,66 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Molar Boatworks Entrance",
+      "place": "Ingresso Officina Nautica Molare",
       "model": "단테2",
-      "content": "<Hey, Ishmael.>"
+      "content": "<Ehi, Ishmael.>"
     },
     {
       "id": 1,
       "model": "이스마엘",
-      "content": "...Yes."
+      "content": "...Dimmi."
     },
     {
       "id": 2,
       "model": "단테2",
-      "content": "<Can we talk, at least for a bit?>"
+      "content": "<Possiamo parlare, almeno per un po'?>"
     },
     {
       "id": 3,
-      "content": "I called over to Ishmael once the battle was over."
+      "content": "Chiamai Ishmael, una volta terminata la battaglia."
     },
     {
       "id": 4,
-      "content": "Right, I've never done anything like this before... I don't even know if this is the right thing to do, or what kind of results this conversation is going to yield, but..."
+      "content": "Giusto, non avevo mia fatto nulla del genere prima... Non sapevo neanche se quella fosse la cosa giusta da fare o a che tipo di risultati avrebbe portato la conversazione, ma..."
     },
     {
       "id": 5,
-      "content": "I can't just sit here and watch."
+      "content": "Non potevo rimanere con le mani in mano."
     },
     {
       "id": 6,
       "model": "이스마엘",
-      "content": "Yeah. Whatever."
+      "content": "Sì, come ti pare."
     },
     {
       "id": 7,
       "model": "단테2",
-      "content": "<It looks to me that you've been preoccupied with something ever since we got here...>"
+      "content": "<Mi sembra che tu ti stia preoccupando di qualcosa da quando siamo arrivati qui...>"
     },
     {
       "id": 8,
       "model": "단테2",
-      "content": "<You know, you're not really participating in group activities and things like that.>"
+      "content": "<Insomma, non stai davvero partecipando nelle attività di gruppo e tutto il resto.>"
     },
     {
       "id": 9,
       "model": "이스마엘",
-      "content": "Isn't it obvious? There's something more important at hand, but they're all busy enjoying themselves, playing this stupid game."
+      "content": "Non è ovvio? C'è qualcosa di più importante da fare, ma qui tutti sono impegnati a divertirsi, a giocare a questa roba stupida."
     },
     {
       "id": 10,
       "model": "단테2",
-      "content": "<Something more important... is this about the Great Lake?>"
+      "content": "<Qualcosa di più importante... si tratta del Grande Lago?>"
     },
     {
       "id": 11,
       "model": "이스마엘",
-      "content": "Yes."
+      "content": "Sì."
     },
     {
       "id": 12,
       "model": "단테2",
-      "content": "<That we, in our current state, shouldn't go there?>"
+      "content": "<Dove noi, nel nostro stato attuale, non dovremmo andare?>"
     },
     {
       "id": 13,
@@ -71,77 +71,77 @@
     {
       "id": 14,
       "model": "단테2",
-      "content": "<Right... So, why do you think that we don't have a chance against whatever is there?>"
+      "content": "<Okay... Quindi, perché pensi che non abbiamo possibilità contro qualunque cosa ci sia lì?>"
     },
     {
       "id": 15,
       "model": "이스마엘",
-      "content": "I told you. We're not ready."
+      "content": "Te l'ho detto. Non siamo pronti."
     },
     {
       "id": 16,
       "model": "이스마엘",
-      "content": "We're going to need at least half a year to acclimate to the Great Lake and the things that are there."
+      "content": "Abbiamo bisogno di almeno mezzo anno per ambientarci al Grande Lago e alle cose che ci sono lì."
     },
     {
       "id": 17,
       "model": "이스마엘",
-      "content": "Or, we could try to gain more experience, enough to overwhelm our disadvantages. And that goes the same for you, Dante. You need to be strong enough to at least take care of yourself."
+      "content": "Oppure potremmo provare ad acquisire più esperienza, abbastanza a superare i nostri punti deboli. E lo stesso vale per te, Dante. Devi essere abbastanza forte da prenderti cura almeno di te stesso."
     },
     {
       "id": 18,
       "model": "이스마엘",
-      "content": "Which I can help with. And Outis... I'm sure she can help with your training, too."
+      "content": "Posso aiutarti. E Outis... Sono sicura che anche lei possa aiutarti."
     },
     {
       "id": 19,
       "model": "오티스",
-      "content": "...If push comes to shove, yes."
+      "content": "...Se arriviamo al dunque, sì."
     },
     {
       "id": 20,
       "model": "단테2",
-      "content": "<W-wait. Wait.>"
+      "content": "<A-aspetta. Aspetta.>"
     },
     {
       "id": 21,
       "model": "단테2",
-      "content": "<Half a year, Ishmael...? We just don't have that much time to spare.>"
+      "content": "<Metà anno, Ishmael...? Non abbiamo tutto questo tempo a disposizione.>"
     },
     {
       "id": 22,
       "model": "이스마엘",
-      "content": "Really? Is that why we were playing beach volleyball? Because we don't have the time to spare?"
+      "content": "Davvero? Allora è per questo che stavamo giocando a beach volleyball? Perché non abbiamo tempo a disposizione?"
     },
     {
       "id": 23,
       "model": "이스마엘",
-      "content": "And... it's not like I'm saying that we should just sit on our butts and do nothing for half a year. I'm saying that we should visit other destinations first before coming back here."
+      "content": "E non... non sto dicendo che dovremmo starcene seduti a far niente per sei mesi. Sto dicendo che dovremmo visitare le altre destinazioni, prima di tornare qui."
     },
     {
       "id": 24,
       "model": "파우스트",
-      "content": "That is impossible. Not every location of Golden Boughs in the Nests has been identified, and the Pre Clearance Department hasn't completed their preliminary surveys yet."
+      "content": "Questo è impossibile. Non tutte le posizioni dei Rami Dorati nei Nidi sono state identificate, e il Team Before non ha ancora completato le indagini preliminari."
     },
     {
       "id": 25,
       "model": "이스마엘",
-      "content": "Excuses."
+      "content": "Sono solo scuse."
     },
     {
       "id": 26,
       "model": "이스마엘",
-      "content": "I've known for a while that you've had some fancy ulterior motive."
+      "content": "So da un po' che hai qualche secondo fine."
     },
     {
       "id": 27,
       "model": "이스마엘",
-      "content": "...And whatever that is, this is a mistake you won't ever forget."
+      "content": "...E qualsiasi sia, questo è un errore che non dimenticherai mai."
     },
     {
       "id": 28,
       "model": "파우스트",
-      "content": "...Perhaps."
+      "content": "...Forse."
     },
     {
       "id": 29,
@@ -151,125 +151,125 @@
     {
       "id": 30,
       "model": "이스마엘",
-      "content": "Gah, what a mess."
+      "content": "Ah, che casino."
     },
     {
       "id": 31,
       "model": "이스마엘",
-      "content": "In that case, we should at least map a detailed sailing route and plan out a combat strategy..."
+      "content": "In tal caso, dovremmo almeno mappare una rotta di navigazione e pianificare una strategia di combattimento..."
     },
     {
       "id": 32,
       "model": "히스클리프",
-      "content": "Prattling on and on and on..."
+      "content": "Blateri ancora e ancora..."
     },
     {
       "id": 33,
-      "content": "Just when I thought our discussion was reaching a stalemate, Heathcliff butted in."
+      "content": "Proprio quando pensavo che la nostra discussione fosse arrivata ad uno stallo, Heathcliff si intromise."
     },
     {
       "id": 34,
       "model": "이스마엘",
-      "content": "What's your problem?"
+      "content": "Ma che problema hai?"
     },
     {
       "id": 35,
       "model": "히스클리프",
-      "content": "Shut your gob. Think you're the only one struggling here? We've all died more times than we can count. Every single one of us!"
+      "content": "Chiudi quella fogna. Pensi di essere l'unica in difficoltà qui dentro? Siamo tutti morti più volte di quante possiamo contare. Ognuno di noi!"
     },
     {
       "id": 36,
       "model": "히스클리프",
-      "content": "So I'm telling you that it'll work out again, somehow!"
+      "content": "Ti sto dicendo che anche stavolta funzionerà, in qualche modo!"
     },
     {
       "id": 37,
       "model": "이스마엘",
-      "content": "And I'm telling you that the Great Lake is different. What if the manager drowns? What if that thing eats us and our bodies can't be recovered?"
+      "content": "E io ti sto dicendo che il Grande Lago sia diverso. E se il manager annega? E se quella roba ci mangia e non è possibile recuperare i nostri corpi?"
     },
     {
       "id": 38,
       "model": "이스마엘",
-      "content": "Do you understand? This isn't anything like we've been through so far! This could be the end of us!"
+      "content": "Capisci? Non è nulla di simile a quello che abbiamo passato finora! Questa potrebbe essere la nostra fine!"
     },
     {
       "id": 39,
       "model": "이스마엘",
-      "content": "Then I... won't have the chance to kill that bastard..."
+      "content": "Allora io... non avrei la possibilità di uccidere quella bastarda..."
     },
     {
       "id": 40,
       "model": "히스클리프",
-      "content": "...Okay. Let's say that you're right. If we go now, we're all going to bite it and I won't be able to get Cath... I mean, get back up."
+      "content": "...Okay. Mettiamo che tu abbia ragione. Se andiamo ora, schiatteremo tutti e non potrò ritornare da Cath... Cioè, ritornare in vita."
     },
     {
       "id": 41,
       "model": "히스클리프",
-      "content": "So what's wrong with faffin' about for a little while? What, are those whales working out or something?"
+      "content": "Quindi che male c'è a cazzeggiare per un po'? Per caso le balene si stanno allenando?"
     },
     {
       "id": 42,
       "model": "히스클리프",
-      "content": "You've been mucking up the mood ever since we got here, so how about you use some bloody common sense to not bring everyone else down with you!"
+      "content": "Stai rovinando l'atmosfera da quando siamo arrivati, perché non usi un po' del tuo cazzo di buon senso per non farlo?"
     },
     {
       "id": 43,
       "model": "이스마엘",
-      "content": "That's rich coming from you, Heathcliff."
+      "content": "Senti chi parla, Heathcliff."
     },
     {
       "id": 44,
       "model": "이스마엘",
-      "content": "What 'common sense' do you have of the Great Lake? Have you even seen a whale? Since when were you such a know-it-all?"
+      "content": "Che 'buon senso' hai sul Grande Lago? Hai mai visto una balena, signor so-tutto-io?"
     },
     {
       "id": 45,
       "model": "이스마엘",
-      "content": "What do you even know about a sailor's life? Hah, how would you? All day you're whining about your girlfriend or something, dozing off in the bus, or throwing a hissy fit once in a while!"
+      "content": "Sai qualcosa della vita da marinaio? No, come potresti? Stai tutto il giorno a piagnucolare della tua ragazza o quel che è, ti appisoli nel bus o fai una scenata ogni tanto!"
     },
     {
       "id": 46,
       "model": "히스클리프",
-      "content": "...Quit it."
+      "content": "...Smettila."
     },
     {
       "id": 47,
       "model": "이스마엘",
-      "content": "It's kill or be killed, by everything from the depths of the waters to the heights of the skies crawling and falling onto the deck..."
+      "content": "Uccidi o vieni ucciso, dalle profondità marine fino ai cieli che si innalzano e ricadono sul ponte..."
     },
     {
       "id": 48,
       "model": "이스마엘",
-      "content": "Innumerable natural disasters like acid typhoons, tuna tsunamis, cerebra storms, and a multitude of other terrors of the lake I can't even recall the names of!"
+      "content": "Ci sono innumerevoli disastri naturali, come i tifoni acidi, gli tsunami di tonno, le tempeste di cerebra e altre moltitudini di orrori del lago di cui non riesco neanche a ricordare il nome!"
     },
     {
       "id": 49,
       "model": "이스마엘",
-      "content": "And from the storms, high-waves as tall as mountains! Following that, those fucking monsters that wash up on the deck!"
+      "content": "E dalle tempeste nascono onde alte quanto le montagne! E poi ci sono quei fottuti mostri che finiscono sul ponte!"
     },
     {
       "id": 50,
       "model": "이스마엘",
-      "content": "Look away for a moment and your mate, whom you've trusted with your life, is slain! Everyone and every goddamn thing goes mad and is transformed into something else entirely on that abominable lake!"
+      "content": "Distogli lo sguardo per un secondo e la persona che è sul ponte con te, di cui ti sei fidata per tutta la vita, viene ammazzata! Ogni persona e ogni fottuta cosa impazzisce e si trasforma in qualcosa di completamente diverso in quel lago ripugnante!"
     },
     {
       "id": 51,
       "model": "이스마엘",
-      "content": "It's something that a pathetic lovey-dovey tenderfoot like you..."
+      "content": "Non è qualcosa che un patetico tenerone come te..."
     },
     {
       "id": 52,
       "model": "이스마엘",
-      "content": "...Won't ever understand, not after dying a hundred deaths."
+      "content": "...Potrebbe mai capire, neanche dopo essere morto cento volte."
     },
     {
       "id": 53,
       "model": "히스클리프",
-      "content": "I told you to quit it!"
+      "content": "Ti ho detto di smetterla!"
     },
     {
       "id": 54,
-      "content": "Before anyone could even step in, Heathcliff swung wildly at Ishmael."
+      "content": "Prima che qualcuno potesse intromettersi, Heathcliff si scagliò con ferocia verso Ishmael."
     },
     {
       "id": 55,
@@ -279,20 +279,20 @@
     {
       "id": 56,
       "model": "히스클리프",
-      "content": "You don't know shite about me, a prick like you!"
+      "content": "Non sai un cazzo di me, piccola bastarda!"
     },
     {
       "id": 57,
       "model": "이상",
-      "content": "F-fellows..."
+      "content": "R-ragazzi..."
     },
     {
       "id": 58,
-      "content": "The tussle was such a blitz that no one could even attempt to intervene; Yi Sang almost looked pitiful as he stood there bewildered."
+      "content": "La zuffa partì così velocemente che nesssuno riuscì ad intervenire. Yi Sang sembrava quasi patetico mentre rimaneva lì, sconcertato."
     },
     {
       "id": 59,
-      "content": "For a moment, it appeared as though Heathcliff had the upper hand as his fist struck Ishmael right in her jaw..."
+      "content": "Per un momento sembrò come se Heathcliff avesse avuto il sopravvento, dopo aver colpito Ishmael alla mascella..."
     },
     {
       "id": 60,
@@ -302,44 +302,44 @@
     {
       "id": 61,
       "model": "히스클리프",
-      "content": "Woah?!"
+      "content": "Ahh?!"
     },
     {
       "id": 62,
-      "content": "Just as Ishmael appeared to throw a punch, she kicked Heathcliff's leg, throwing him to the ground."
+      "content": "Proprio mentre Ishmael sembrava star sferrando un pugno, calciò la gamba di Heathcliff, lanciandolo a terra."
     },
     {
       "id": 63,
       "model": "단테2",
-      "content": "<I-Ishmael, wait!>"
+      "content": "<I-Ishmael, aspetta!>"
     },
     {
       "id": 64,
-      "content": "In the blink of an eye, Ishmael took up her mace."
+      "content": "In un batter d'occhio, Ishmael prese la sua mazza."
     },
     {
       "id": 65,
-      "content": "She raises it high, as though she could strike it down at any moment. Her arm trembles with uncontrollable fury."
+      "content": "L'alzò in alto, come se fosse pronta ad abbatterla in qualsiasi momento. Le sue braccia tremavano con una furia incontrollabile."
     },
     {
       "id": 66,
       "model": "히스클리프",
-      "content": "...Yeah, what'll you do? Bash my head in? Like I did you before?"
+      "content": "...Okay, e adesso che farai? Mi spaccherai il cranio come l'altra volta?"
     },
     {
       "id": 67,
       "model": "히스클리프",
-      "content": "Fine, kill me. No matter. I'll be right as rain in a minute."
+      "content": "Va bene, uccidimi pure. Non importa, tra un minuto sarò di nuovo in piedi."
     },
     {
       "id": 68,
       "model": "히스클리프",
-      "content": "...I was a fool to think you'd be any different from me."
+      "content": "...Sono stato un cretino a pensare che tu potessi essere diversa da me."
     },
     {
       "id": 69,
       "model": "히스클리프",
-      "content": "Hah, everyone's the same, after all."
+      "content": "Hah, dopotutto, siamo tutti uguali."
     },
     {
       "id": 70,
@@ -353,108 +353,108 @@
     },
     {
       "id": 72,
-      "content": "I wasn't sure what caused her sudden change of heart, but it was a relief of sorts, at least. She looked at Heathcliff with her eyes wide open... and dropped the mace to the ground."
+      "content": "Non ero sicuro di cosa avesse fatto cambiare idea a Ishmael, ma almeno fu un sollievo. Guardò Heathcliff con occhi spalancanti... e lasciò cadere la mazza a terra."
     },
     {
       "id": 73,
       "model": "이상",
-      "content": "I wished that I would not have to again be witness to such belligerency amongst friends..."
+      "content": "Speravo di non dover essere nuovamente testimone di una simile belligeranza tra amici..."
     },
     {
       "id": 74,
       "model": "이상",
-      "content": "Yet, such quarrels among fellows is but an ineluctability, perhaps..."
+      "content": "Eppure, tali dispute tra compagni non sono forse altro che un'ineluttabilità, dopotutto..."
     },
     {
       "id": 75,
       "model": "올가",
       "teller": "Olga",
-      "title": "Molar Boatworks",
-      "content": "Hyaah~ Now that brings me back, watching them fight! We used to tussle just like they do now."
+      "title": "Officina Nautica Molare",
+      "content": "Hyaah~ Guardarli litigare mi riporta indietro! Anche noi ci azzuffavamo proprio come fanno loro adesso."
     },
     {
       "id": 76,
       "model": "레인",
       "teller": "Rain",
-      "title": "Molar Boatworks",
-      "content": "Big Sis, shush! Shh!!"
+      "title": "Officina Nautica Molare",
+      "content": "Sorellona, fa' silenzio! Shh!!"
     },
     {
       "id": 77,
       "model": "미카",
       "teller": "Mika",
-      "title": "Molar Boatworks",
+      "title": "Officina Nautica Molare",
       "content": "Haah..."
     },
     {
       "id": 78,
       "model": "파우스트",
-      "content": "Dante, I neglected to mention this to you since we have not had a dispute like this since our first mission..."
+      "content": "Dante, ho tralasciato di menzionare questo dettaglio poiché non avevamo più avuto una simile disputa dalla nostra prima missione..."
     },
     {
       "id": 79,
       "model": "파우스트",
-      "content": "But you could be held responsible in the future for management failure, should a similar workplace conflict arise."
+      "content": "Ma in futuro potresti essere ritenuto responsabile di fallimento gestionale, qualora dovesse sorgere un conflitto analogo sul posto di lavoro."
     },
     {
       "id": 80,
       "model": "단테2",
-      "content": "<I...>"
+      "content": "<Io...>"
     },
     {
       "id": 81,
-      "content": "What the hell was I supposed to do about this?"
+      "content": "Cosa diamine avrei dovuto fare?"
     },
     {
       "id": 82,
-      "content": "...Was what I wanted to say, but I managed to hold my metaphorical tongue."
+      "content": "...Era quello che avrei voluto dire, ma tenni zitta a bada la mia metaforica lingua."
     },
     {
       "id": 83,
       "model": "오티스",
-      "content": "How does the fault lie with the Executive Manager, Faust? It's those two fools who got into this senseless altercation."
+      "content": "Faust, in che modo è colpa del Manager Esecutivo? Sono stati quei due idioti a finire in una lite insensata."
     },
     {
       "id": 84,
       "model": "파우스트",
-      "content": "Preventing senseless altercations between coworkers is a job of a manager."
+      "content": "Prevenire litigi insensati tra colleghi è proprio il compito di un manager."
     },
     {
       "id": 85,
       "model": "오티스",
-      "content": "You..."
+      "content": "Tu..."
     },
     {
       "id": 86,
       "model": "싱클레어",
-      "content": "S-stop it, everyone..."
+      "content": "B-basta così, tutti quanti..."
     },
     {
       "id": 87,
       "model": "돈키호테",
-      "content": "Indeed, such behavior ill fits the heroic nature of Limbus Company."
+      "content": "Invero, un simile comportamento mal si addice alla natura eroica della Limbus Company."
     },
     {
       "id": 88,
-      "content": "Sinclair's hesitance, Don Quixote's attempts to defuse, Faust's impassive voice, and Outis's increasingly rising voice in my defense."
+      "content": "L'esitazioni di Sinclair, i tentativi di Don Quixote di placare la situazione, la voce imperturbabile di Faust e la voce crescente di Outis in mia difesa."
     },
     {
       "id": 89,
-      "content": "All of that combined was starting to get incredibly irritating..."
+      "content": "Tutte quelle cose assieme stavano iniziando ad essere terribilmente irritanti..."
     },
     {
       "id": 90,
       "model": "단테2",
-      "content": "<Stop...>"
+      "content": "<Basta...>"
     },
     {
       "id": 91,
       "model": "단테2",
-      "content": "<Guys. Enough.>"
+      "content": "<Ragazzi. Basta così.>"
     },
     {
       "id": 92,
-      "content": "I had no other recourse left at this moment."
+      "content": "Non avevo altri modi, al momento."
     },
     {
       "id": 93,
@@ -464,7 +464,7 @@
     {
       "id": 94,
       "model": "히스클리프",
-      "content": "...What."
+      "content": "...Che è."
     },
     {
       "id": 95,
@@ -474,43 +474,43 @@
     {
       "id": 96,
       "model": "단테2",
-      "content": "<The two of you, stop working together for a while. Distance yourselves.>"
+      "content": "<Smettete di lavorare assieme, per ora. Separatevi.>"
     },
     {
       "id": 97,
       "model": "단테2",
-      "content": "<At least... at least until I can think of a way to deal with you two.>"
+      "content": "<Almeno... almeno finché non mi verrà in mente modo per gestirvi.>"
     },
     {
       "id": 98,
       "model": "히스클리프",
-      "content": "It's not like I enjoy looking at her mug."
+      "content": "Non che mi piaccia guardare la sua faccia."
     },
     {
       "id": 99,
       "model": "이스마엘",
-      "content": "...Ok."
+      "content": "...Okay."
     },
     {
       "id": 100,
-      "content": "Thus the mood fell into a pit as depressing as this mudflat..."
+      "content": "E così l'atmosfera precipitò in una fossa deprimente, proprio come la distesa fangosa dov'eravamo..."
     },
     {
       "id": 101,
       "model": "레인",
       "teller": "Rain",
-      "title": "Molar Boatworks",
-      "content": "Okay, okay... We have an approximate quote now, so feel free to go collecting those scraps."
+      "title": "Officina Nautica Molare",
+      "content": "Va bene, va bene... Ora abbiamo un preventivo approssimativo, quindi sentitevi liberi di andare a raccogliere quei rottami."
     },
     {
       "id": 102,
-      "teller": "Sinners",
-      "title": "The LCB",
+      "teller": "Peccatori",
+      "title": "La LCB",
       "content": "……"
     },
     {
       "id": 103,
-      "content": "We spent the next few days collecting scraps with the rest of the Sinners."
+      "content": "Trascorremmo i giorni successivi a raccogliere i pezzi con il resto dei Peccatori."
     }
   ]
 }

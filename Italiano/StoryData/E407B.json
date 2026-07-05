@@ -2,50 +2,50 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Molar Boatworks Entrance",
-      "content": "All the Sinners, save for Ishmael, gathered to behold the finished product."
+      "place": "Ingresso Officina Nautica Molare",
+      "content": "Tutti i Peccatori, tranne Ishmael, si riunirono per ammirare il prodotto finale."
     },
     {
       "id": 1,
       "model": "돈키호테",
-      "content": "Ooh! Do I behold with mine eyes the transformed bus?"
+      "content": "Ooh! Che i miei occhi stiano forse mirando l'autobus trasformato?"
     },
     {
       "id": 2,
       "model": "이상",
-      "content": "Would one call this a busboat, or a boatbus?"
+      "content": "Dovremmo definirlo un'autobarca, o un barcabus?"
     },
     {
       "id": 3,
       "model": "단테2",
-      "content": "<I think I'll go with busboat?>"
+      "content": "<Io credo userò barcabus...?>"
     },
     {
       "id": 4,
       "model": "싱클레어",
-      "content": "Where did the wheels go? We'll need them again once we're done with U Corp's District..."
+      "content": "Dove sono finite le ruote? Ne avremo nuovamente bisogno, una volta che ce ne andremo dal Distretto della U Corp..."
     },
     {
       "id": 5,
       "model": "오티스",
-      "content": "A needless concern. Of course it has been modified to be amphibious, with both a boat form and a bus form."
+      "content": "Un'inutile preoccupazione. L'autobus è stato ovviamente modificato per essere anfibio, sia con la modalità barca che quella da bus."
     },
     {
       "id": 6,
       "model": "그레고르",
-      "content": "What is this, some kind of magic bus...?"
+      "content": "Cos'è, una specie di autobus magico...?"
     },
     {
       "id": 7,
       "model": "파우스트",
-      "content": "The myriad of possibilities Mephistopheles holds means it has always been capable of various functions. Hasn't Faust expounded upon this detail once?"
+      "content": "La miriade di possibilità racchiuse in Mephistopheles significa che è sempre stato capace di svariate funzioni. Faust non ha già esposto questo dettaglio in passato?"
     },
     {
       "id": 8,
       "model": "미카",
       "teller": "Mika",
-      "title": "Molar Boatworks",
-      "content": "Now now, that's enough of that... Let's start it up."
+      "title": "Officina Nautica Molare",
+      "content": "Su, su, adesso basta... Mettiamolo in moto."
     },
     {
       "id": 9,
@@ -54,7 +54,7 @@
     },
     {
       "id": 10,
-      "content": "As Mika fiddled with its controls, the bus... I mean, the boat... I mean, the busboat shuddered awake..."
+      "content": "Mentre Mika armeggiava con i comandi, il bus... o meglio, la barca... anzi, la barcabus si accese..."
     },
     {
       "id": 11,
@@ -63,45 +63,45 @@
     },
     {
       "id": 12,
-      "content": "And sputtered off with the odd screeching noise we heard earlier."
+      "content": "E si spense con quello strano rumore stridente che avevamo sentito prima."
     },
     {
       "id": 13,
       "model": "미카",
       "teller": "Mika",
-      "title": "Molar Boatworks",
-      "content": "Nhgh... I think we're missing something. Maybe it's the form transmogrifier that's messing up."
+      "title": "Officina Nautica Molare",
+      "content": "Nhgh... Credo che manchi qualcosa. Forse è il trasmogrificatore di forma che sta facendo i capricci."
     },
     {
       "id": 14,
       "model": "로쟈",
-      "content": "Yeow~ I thought my eardrums were going to burst. What could possibly be causing that noise?"
+      "content": "Ahio~ Pensavo che i miei timpani stessero per esplodere. Cosa potrebbe causare quel rumoraccio?"
     },
     {
       "id": 15,
       "model": "레인",
       "teller": "Rain",
-      "title": "Molar Boatworks",
-      "content": "Mika... I think it's that one part where we had to make do with what we had."
+      "title": "Officina Nautica Molare",
+      "content": "Mika... Penso sia quel pezzo per cui abbiamo dovuto arrangiarci con quello che avevamo."
     },
     {
       "id": 16,
       "model": "오티스",
-      "content": "What was that? Did you just say \"make do\"?"
+      "content": "Cosa sto sentendo? Hai appena detto \"arrangiarci\"?"
     },
     {
       "id": 17,
       "model": "미카",
       "teller": "Mika",
-      "title": "Molar Boatworks",
-      "content": "W-we didn't have a choice! There weren't enough parts in stock..."
+      "title": "Officina Nautica Molare",
+      "content": "N-non avevamo scelta! Non c'erano abbastanza pezzi in magazzino..."
     },
     {
       "id": 18,
       "model": "미카",
       "teller": "Mika",
-      "title": "Molar Boatworks",
-      "content": "There's this one thing that was supposed to be irreplaceable, but the problem is..."
+      "title": "Officina Nautica Molare",
+      "content": "C'è questo componente che doveva essere insostituibile, ma il problema è..."
     },
     {
       "id": 19,
@@ -112,138 +112,138 @@
       "id": 20,
       "model": "레인",
       "teller": "Rain",
-      "title": "Molar Boatworks",
-      "content": "...This wasn't the sound of its engine, was it?"
+      "title": "Officina Nautica Molare",
+      "content": "...Quello non era il rumore del motore, vero?"
     },
     {
       "id": 21,
       "model": "파우스트",
-      "content": "It's the gigantic mutant we've encountered before. It's headed this way."
+      "content": "È il gigantesco mutante che abbiamo incontrato in precedenza. È diretto qui."
     },
     {
       "id": 22,
       "model": "이상",
-      "content": "It is likely drawn here by the same clamor as afore."
+      "content": "È probabile che sia stato attratto fin qui dal medesimo clamore di prima."
     },
     {
       "id": 23,
       "model": "올가",
       "teller": "Olga",
-      "title": "Molar Boatworks",
-      "content": "Hmm hmm, that's good news~"
+      "title": "Officina Nautica Molare",
+      "content": "Mmh mmh, questa sì che è una buona notizia~"
     },
     {
       "id": 24,
       "model": "올가",
       "teller": "Olga",
-      "title": "Molar Boatworks",
-      "content": "That big boy has the exact part we're missing on its back, don't it?"
+      "title": "Officina Nautica Molare",
+      "content": "Quel bel bestione ha proprio il pezzo che ci manca sulla schiena, no?"
     },
     {
       "id": 25,
       "model": "미카",
       "teller": "Mika",
-      "title": "Molar Boatworks",
-      "content": "I-it does, I guess..."
+      "title": "Officina Nautica Molare",
+      "content": "S-sì, credo di sì..."
     },
     {
       "id": 26,
       "model": "레인",
       "teller": "Rain",
-      "title": "Molar Boatworks",
-      "content": "Big Sis, are you really...?"
+      "title": "Officina Nautica Molare",
+      "content": "Sorellona, dici sul serio...?"
     },
     {
       "id": 27,
       "model": "올가",
       "teller": "Olga",
-      "title": "Molar Boatworks",
-      "content": "I am, really~ It's that one expensive and tricky to manufacture part, isn't it?"
+      "title": "Officina Nautica Molare",
+      "content": "Dico sul serio~ È quel pezzo così costoso e complicato da fabbricare, no?"
     },
     {
       "id": 28,
       "model": "레인",
       "teller": "Rain",
-      "title": "Molar Boatworks",
-      "content": "Don't you remember the way it killed the employees of other boat workshops?"
+      "title": "Officina Nautica Molare",
+      "content": "Non ricordi come ha fatto a pezzi i dipendenti delle altre officine nautiche?"
     },
     {
       "id": 29,
       "model": "올가",
       "teller": "Olga",
-      "title": "Molar Boatworks",
-      "content": "Well, that's because it crashed into us, not because we were hunting the bastard for parts."
+      "title": "Officina Nautica Molare",
+      "content": "Beh, quello è successo perché ci è piombato addosso, non perché stessimo dando la caccia a quel bastardo per i pezzi di ricambio."
     },
     {
       "id": 30,
       "model": "올가",
       "teller": "Olga",
-      "title": "Molar Boatworks",
-      "content": "But now~ I have these lads and lassies to help us."
+      "title": "Officina Nautica Molare",
+      "content": "Ma adesso~ abbiamo tutti questi ragazzi e ragazze ad aiutarci."
     },
     {
       "id": 31,
       "model": "올가",
       "teller": "Olga",
-      "title": "Molar Boatworks",
-      "content": "Besides, it killed the people that helped us start Molar Boatworks from our bum days, didn't it? Looks like this is just the time to give it a right smashing down its noggin."
+      "title": "Officina Nautica Molare",
+      "content": "E poi, ha ucciso le persone che ci hanno aiutato a fondare l'Officina Molare quando eravamo una manciata di straccioni, no? Direi che è proprio il momento di dargli una bella mazzata sul grugno."
     },
     {
       "id": 32,
       "model": "올가",
       "teller": "Olga",
-      "title": "Molar Boatworks",
-      "content": "And make me some more wine outta its brain juice, too..."
+      "title": "Officina Nautica Molare",
+      "content": "E magari mi ci faccio pure dell'altro vino con il succo del suo cervello..."
     },
     {
       "id": 33,
       "model": "레인",
       "teller": "Rain",
-      "title": "Molar Boatworks",
-      "content": "...Big Sis?"
+      "title": "Officina Nautica Molare",
+      "content": "...Sorellona?"
     },
     {
       "id": 34,
       "model": "로쟈",
-      "content": "C-can we get some, too?"
+      "content": "P-possiamo averne un po' anche noi?"
     },
     {
       "id": 35,
       "model": "싱클레어",
-      "content": "Wha, what do you mean, \"we\"?"
+      "content": "Che, che intendi con, \"noi\"?"
     },
     {
       "id": 36,
       "model": "미카",
       "teller": "Mika",
-      "title": "Molar Boatworks",
-      "content": "Hmm, this king trash crab is supposed to be a few years old, so it has to be the same one from earlier."
+      "title": "Officina Nautica Molare",
+      "content": "Mmh, questa Pagumiera Reale dovrebbe avere qualche anno, quindi dev'essere la stessa di prima."
     },
     {
       "id": 37,
       "model": "히스클리프",
-      "content": "Anyway... all we need to do is catch and kill that prick, innit?"
+      "content": "Beh... tutto quello che dobbiamo fare è catturare quel coglione e ucciderlo, dico bene?"
     },
     {
       "id": 38,
       "model": "올가",
       "teller": "Olga",
-      "title": "Molar Boatworks",
-      "content": "Right on~"
+      "title": "Officina Nautica Molare",
+      "content": "Proprio così~"
     },
     {
       "id": 39,
       "model": "히스클리프",
-      "content": "You heard 'er, clockface."
+      "content": "L'hai sentita, faccia di orologio?"
     },
     {
       "id": 40,
-      "content": "Heathcliff turned to me, visibly eager to go up and crush some shells."
+      "content": "Heathcliff si girò verso di me, palesemente entusiasta all'idea di andare a fare a pezzi qualche guscio."
     },
     {
       "id": 41,
       "model": "이스마엘",
-      "content": "Let's not. Isn't this better for us?"
+      "content": "No. Non è meglio così per noi?"
     },
     {
       "id": 42,
@@ -253,42 +253,42 @@
     {
       "id": 43,
       "model": "로쟈",
-      "content": "Gee, Ishy... Where have you been all this time?"
+      "content": "Oh, Ishy... Dove sei stata per tutto questo tempo?"
     },
     {
       "id": 44,
       "model": "이스마엘",
-      "content": "I was making preparations for our survival on the Great Lake, obviously."
+      "content": "Stavo preparando degli strumenti utili alla nostra sopravvivenza nel Grande Lago, ovviamente."
     },
     {
       "id": 45,
       "model": "이스마엘",
-      "content": "The least I can do is make an exhaustive guide on whales you can study up on, right?"
+      "content": "Il minimo che io possa fare è una guida esaustiva alle balene su cui potete studiare, no?"
     },
     {
       "id": 46,
       "model": "로쟈",
-      "content": "You know I don't read that kinda stuff..."
+      "content": "Sai che non leggo quelle robe..."
     },
     {
       "id": 47,
       "model": "이스마엘",
-      "content": "Then I'll keep reminding you until you have no choice but to read it."
+      "content": "Allora continuerò a ricordartelo finché non avrai altra scelta se non leggerla."
     },
     {
       "id": 48,
       "model": "이스마엘",
-      "content": "See, manager? We still need more time. There is so much more to prepare."
+      "content": "Visto, manager? Abbiamo bisogno di tempo, c'è ancora tanto da preparare."
     },
     {
       "id": 49,
       "model": "이스마엘",
-      "content": "That king trash crab can be repelled, can't it? Then let's do that and finish modifying the bus later. With more time on our hands..."
+      "content": "Quella Pagumiera Reale può essere respinta, dico bene? Facciamolo adesso, più tardi modificheremo il bus. Con più tempo a disposizione..."
     },
     {
       "id": 50,
       "model": "단테2",
-      "content": "<Ishmael... I'm not sure. My lack of memory doesn't help, of course, but...>"
+      "content": "<Ishmael... Non ne sono sicuro. La mia mancanza di ricordi non aiuta, è vero, ma...>"
     },
     {
       "id": 51,
@@ -298,17 +298,17 @@
     {
       "id": 52,
       "model": "단테2",
-      "content": "<I don't get what you're so scared of, or what we're supposed to be preparing for.>"
+      "content": "<Non capisco di cosa tu sia spaventata, o per cosa dovremmo prepararci.>"
     },
     {
       "id": 53,
       "model": "단테2",
-      "content": "<As much as I want to respect your opinions and reflect them... I don't think this is the best for all of us. So—>"
+      "content": "<Per quanto io voglia rispettare le tue opinioni... Non credo che questa sia la soluzione migliore per tutti noi. Quindi—>"
     },
     {
       "id": 54,
       "model": "이스마엘",
-      "content": "There is no \"all of us\"."
+      "content": "Non c'è nessun \"tutti noi\"."
     },
     {
       "id": 55,
@@ -318,42 +318,42 @@
     {
       "id": 56,
       "model": "이스마엘",
-      "content": "Let's be honest here. Is any one of us devoting themselves for the sake of this \"all of us\"?"
+      "content": "Siamo sinceri. Qualcuno di noi si sta dedicando con tutto sé stesso a questo \"tutti noi\"?"
     },
     {
       "id": 57,
       "model": "이스마엘",
-      "content": "We all signed a contract with Limbus Company for our own goals. I did, Yi Sang did as we saw last time, and all the other Sinners did."
+      "content": "Tutti abbiamo firmato un contratto con la Limbus Company per i nostri obiettivi. Io l'ho fatto, Yi Sang pure, come abbiamo visto la scorsa volta, ed è lo stesso degli altri Peccatori."
     },
     {
       "id": 58,
       "model": "이스마엘",
-      "content": "Aren't we only in this together to achieve our personal aims?"
+      "content": "Non stiamo facendo tutto questo solo per raggiungere i nostri obiettivi personali?"
     },
     {
       "id": 59,
       "model": "이스마엘",
-      "content": "And you, too..."
+      "content": "Anche tu..."
     },
     {
       "id": 60,
       "model": "이스마엘",
-      "content": "You're forcing yourself to look for those Golden Boughs, things you've probably never heard of once in your life, just so you can get your memories back."
+      "content": "Ti stai costringendo a cercarei quei Rami Dorati, di cui probabilmente non hai mai sentito parlare in vita tua, solo per riavere i tuoi ricordi."
     },
     {
       "id": 61,
       "model": "이스마엘",
-      "content": "You have a more selfish motive than anyone else here, so why do you pretend like you're doing anything for all of us?"
+      "content": "Hai una motivazione più egoistica di chiunque altro qui, quindi perché pretendi che lo stai facendo per tutti noi?"
     },
     {
       "id": 62,
       "model": "오티스",
-      "content": "How dare you raise your voice against—"
+      "content": "Come osi alzare la voce verso—"
     },
     {
       "id": 63,
       "model": "베르길리우스",
-      "content": "Enough."
+      "content": "Basta così."
     },
     {
       "id": 64,
@@ -362,50 +362,50 @@
     },
     {
       "id": 65,
-      "content": "Vergilius, who seemed to have been discreetly listening in on our conversation, joined as though he'd been a part of it from the start."
+      "content": "Vergilius, che sembrava stesse ascoltando discretamente la nostra conversazione, si intromise come se ne facesse parte sin dall'inizio."
     },
     {
       "id": 66,
       "model": "베르길리우스",
-      "content": "Ishmael. I believe I made myself clear during our meeting."
+      "content": "Ishmael. Credo di essere stato chiaro durante la nostra chiacchierata."
     },
     {
       "id": 67,
       "model": "베르길리우스",
-      "content": "The 'contract' comes first."
+      "content": "Il 'contratto' viene prima di ogni cosa."
     },
     {
       "id": 68,
       "model": "이스마엘",
-      "content": "...The contract, huh."
+      "content": "...Il contratto, eh."
     },
     {
       "id": 69,
       "model": "이스마엘",
-      "content": "Sure, this is a company I'm working for. Of course it does."
+      "content": "Certamente, questa è la compagnia per cui lavoro. Ovvio che viene prima."
     },
     {
       "id": 70,
-      "content": "Ishmael glared at me with a face unlike anything she'd shown before."
+      "content": "Ishmael mi guardò con un'espressione totalmente diversa da quelle che aveva mostrato prima."
     },
     {
       "id": 71,
-      "content": "I sensed... clear hostility in her eyes."
+      "content": "Percepii... una chiara ostilità nei suoi occhi."
     },
     {
       "id": 72,
       "model": "이스마엘",
-      "content": "Fine, I'll abide by the oh-so honorable contract. Manager. Give me your orders, and I'll follow them."
+      "content": "D'accordo, rispetterò il così-tanto-onorevole contratto. Manager, dammi degli ordini, ed io li seguirò."
     },
     {
       "id": 73,
       "model": "이스마엘",
-      "content": "So, if there's anything you want from me from now on, state it. Clearly."
+      "content": "D'ora in poi, se c'è qualcosa che vuoi da me, dillo. Chiaramente."
     },
     {
       "id": 74,
       "model": "이스마엘",
-      "content": "I won't get out of line by providing unsolicited help or explanations anymore."
+      "content": "Non sarò più inopportuna fornendo aiuto o spiegazioni non richieste."
     },
     {
       "id": 75,
@@ -415,28 +415,28 @@
     {
       "id": 76,
       "model": "이스마엘",
-      "content": "What are we waiting for? Weren't you going to order us to go kill that giant crustacean? I'll gladly obey as it is stipulated in the contract, Manager Dante."
+      "content": "Cosa stiamo aspettando? Non ci dai l'ordine di uccidere quel crostaceo gigante? Obbedirò volentieri come previsto dal contratto, Manager Dante."
     },
     {
       "id": 77,
-      "content": "After Ishmael finished speaking, she blankly stared at me as if awaiting my order..."
+      "content": "Ishmael mi fissò con un'espressione vuota, come se aspettasse il mio ordine..."
     },
     {
       "id": 78,
-      "content": "To which I could only reply with:"
+      "content": "A cui risposi solo con:"
     },
     {
       "id": 79,
       "model": "단테2",
-      "content": "<...Let's go.>"
+      "content": "<...Andiamo.>"
     },
     {
       "id": 80,
-      "content": "As soon as I finished, Ishmael turned around and left the shop as if on cue."
+      "content": "Non appena smisi di parlare, Ishmael si girò dall'altro lato ed uscì dal negozio, come se quello fosse il segnale."
     },
     {
       "id": 81,
-      "content": "All I could do was lead the other Sinners and follow her."
+      "content": "Tutto quello che potevo fare era guidare gli altri Peccatori e seguirla."
     },
     {
       "id": 82,
@@ -445,27 +445,27 @@
     },
     {
       "id": 83,
-      "content": "Just then,"
+      "content": "Solo allora,"
     },
     {
       "id": 84,
-      "content": "I heard vicious sounds of crashing waves and roars of an all-crushing storm."
+      "content": "Sentii i suoni feroci delle onde che si infrangevano e i ruggiti di una tempesta schiacciante."
     },
     {
       "id": 85,
-      "content": "Visions of destruction pass before me."
+      "content": "Delle visioni di distruzione si palesano nella mia vista."
     },
     {
       "id": 86,
-      "content": "Limbs and bits of flesh tear off in the shredding storm that brings crashing waves, Ishmael clings to the ship for dear life..."
+      "content": "Arti e pezzi di carne si strappano nella tempesta che porta onde che si infrangono, Ishmael che si aggrappa alla nave con tutte le sue forze..."
     },
     {
       "id": 87,
-      "content": "And a behemoth of an eye, its overwhelming and all-consuming size looming over the ship, watches her in silence."
+      "content": "Ed un occhio gigantesco, le sue dimensioni travolgente e totalizzanti incombono sulla nave, guardando Ishmael in silenzio."
     },
     {
       "id": 88,
-      "content": "Perhaps... This could be a clue to Ishmael's perplexing behavior."
+      "content": "Forse... Questo può essere un indizio del suo comportamento incomprensibile."
     }
   ]
 }

@@ -2,221 +2,221 @@
   "dataList": [
     {
       "id": 0,
-      "content": "According to Vergilius..."
+      "content": "Secondo Vergilius..."
     },
     {
       "id": 1,
-      "content": "The people at the boatworks have been saving up for a trip back to V Corp's Backstreets where their Fixer Office used to be."
+      "content": "I ragazzi dell'officina nautica stavano risparmiando per un viaggio nei Vicoli di V Corp, dove un tempo era situato il loro Ufficio."
     },
     {
       "id": 2,
-      "content": "After experiencing a WARP train malfunction, they apparently decided they'd rather take the car."
+      "content": "Dopo una brutta esperienza con un malfunzionamento su un treno WARP, hanno deciso che avrebbero preferito andare con una macchina."
     },
     {
       "id": 3,
-      "content": "...I considered telling them the truth I learned from a number of Identities, but I figured ignorance is bliss and kept my figurative mouth shut."
+      "content": "...Ho considerato l'idea di dire loro la verità che avevo appreso da un certo numero di Identità, ma pensai che l'ignoranza fosse una benedizione, e tenni la mia bocca figurativa chiusa."
     },
     {
       "id": 4,
-      "content": "...Maybe I feared that the things I said could bring bad results again."
+      "content": "...Forse avevo paura che quello che avrei detto potesse portare dei pessimi risultati."
     },
     {
       "id": 5,
-      "content": "Like how Ishmael has fallen out with me."
+      "content": "Proprio come Ishmael aveva ligitato con me."
     },
     {
       "id": 6,
-      "place": "Molar Boatworks Entrance",
+      "place": "Ingresso Officina Nautica Molare",
       "model": "미카",
       "teller": "Mika",
-      "title": "Molar Boatworks",
-      "content": "C'mon... Get working..."
+      "title": "Officina Nautica Molare",
+      "content": "Dai... Mettiti in moto..."
     },
     {
       "id": 7,
       "model": "올가",
       "teller": "Olga",
-      "title": "Molar Boatworks",
-      "content": "Ohh, we've got 'em now!"
+      "title": "Officina Nautica Molare",
+      "content": "Ohh, ce l'abbiamo fatta, è andata!"
     },
     {
       "id": 8,
       "model": "미카",
       "teller": "Mika",
-      "title": "Molar Boatworks",
-      "content": "Phew... Looks like our job's done."
+      "title": "Officina Nautica Molare",
+      "content": "Fiuu... Pare che il nostro lavoro sia finito."
     },
     {
       "id": 9,
       "model": "레인",
       "teller": "Rain",
-      "title": "Molar Boatworks",
-      "content": "And... lucky you, the tide is in. You should be able to set off now."
+      "title": "Officina Nautica Molare",
+      "content": "E... fortunatamente per voi, c'è l'alta marea. Dovreste riuscire a salpare adesso."
     },
     {
       "id": 10,
       "model": "미카",
       "teller": "Mika",
-      "title": "Molar Boatworks",
-      "content": "Now, then... Switch to boat mode!"
+      "title": "Officina Nautica Molare",
+      "content": "Bene, e ora... Passiamo alla modalità barca!"
     },
     {
       "id": 11,
       "model": "돈키호테",
-      "content": "Oooh?! It transforms thusly, then!"
+      "content": "Oooh?! Si trasforma in tal modo, dunque!"
     },
     {
       "id": 12,
       "model": "미카",
       "teller": "Mika",
-      "title": "Molar Boatworks",
-      "content": "I've got to say, I have great admiration for whoever designed this vehicle. I heard stories of it, but to see it in motion firsthand..."
+      "title": "Officina Nautica Molare",
+      "content": "Devo ammetterlo, provo una grande ammirazione per chiunque abbia progettato questo veicolo. Ne avevo sentito parlare, ma vederlo in azione con i miei occhi..."
     },
     {
       "id": 13,
       "model": "미카",
       "teller": "Mika",
-      "title": "Molar Boatworks",
-      "content": "If you tried, it could most certainly change into other forms, as long as the core is intact."
+      "title": "Officina Nautica Molare",
+      "content": "Se ci provaste, potrebbe senz'altro assumere altre forme, a patto che il nucleo rimanga intatto."
     },
     {
       "id": 14,
       "model": "미카",
       "teller": "Mika",
-      "title": "Molar Boatworks",
-      "content": "How can such a core be real? I'm just... amazed, for lack of a better term."
+      "title": "Officina Nautica Molare",
+      "content": "Come può esistere un nucleo del genere? Sono semplicemente... sbalordita, in mancanza di un termine migliore."
     },
     {
       "id": 15,
       "model": "파우스트",
-      "content": "Indeed, Faust is amazing."
+      "content": "In effetti, Faust è straordinaria."
     },
     {
       "id": 16,
       "model": "레인",
       "teller": "Rain",
-      "title": "Molar Boatworks",
-      "content": "Alright, now... Get in your vehicle. You can switch the mode again once you're in the water."
+      "title": "Officina Nautica Molare",
+      "content": "Va bene, ora... Salite a bordo del veicolo. Potrete cambiare di nuovo modalità una volta in acqua."
     },
     {
       "id": 17,
-      "place": "The Great Lake",
-      "content": "Aboard the now boat-shaped Mephistopheles, we forged ahead, into the ever-rising waters."
+      "place": "Il Grande Lago",
+      "content": "A bordo del Mephistopheles a forma di barca, ci dirigemmo verso acque che continuavano a salire."
     },
     {
       "id": 18,
-      "content": "My relationship with Ishmael was still precarious, which was something I still wasn't sure what to do about..."
+      "content": "La mia relazione con Ishmael era comunque fragile, ed era qualcosa su cui non ero ancora sicuro come lavorare..."
     },
     {
       "id": 19,
-      "content": "But since some of the Sinners were also trying to be supportive towards Ishmael, I decided that it would be best if I tried to come up with a solution in the meantime."
+      "content": "Ma visto che altri Peccatori cercavano di essere supportivi nei suoi confronti, decisi che sarebbe stato meglio se, nel frattempo, avessi cercato una soluzione."
     },
     {
       "id": 20,
-      "content": "Maybe I'll find out more the further we get from the shores of the Great Lake."
+      "content": "Forse saprò di più allontandoci dalla riva del Grande Lago."
     },
     {
       "id": 21,
-      "place": "Molar Boatworks Bay",
+      "place": "Baia dell'Officina Nautica Molare",
       "model": "레인",
       "teller": "Rain",
-      "title": "Molar Boatworks",
-      "content": "Mm. It's sailing, all right."
+      "title": "Officina Nautica Molare",
+      "content": "Mm. Galleggia, non c'è che dire."
     },
     {
       "id": 22,
       "model": "올가",
       "teller": "Olga",
-      "title": "Molar Boatworks",
-      "content": "Does that mean we can get paid and go out for a meal now?"
+      "title": "Officina Nautica Molare",
+      "content": "Significa che ora possiamo intascare la paga e andare a mangiare fuori?"
     },
     {
       "id": 23,
       "model": "레인",
       "teller": "Rain",
-      "title": "Molar Boatworks",
-      "content": "We actually got our money a minute ago. As soon as we fulfilled our end of the contract, a delivery Fixer from the Devyat Association came by and paid us the remainder."
+      "title": "Officina Nautica Molare",
+      "content": "In realtà i soldi li abbiamo già presi poco fa. Non appena abbiamo portato a termine la nostra parte del contratto, è passato un Fixer dell'Associazione Devyat addetto alle consegne e ci ha pagati."
     },
     {
       "id": 24,
       "model": "올가",
       "teller": "Olga",
-      "title": "Molar Boatworks",
-      "content": "Oho~ Our contractor turned out to be a pretty big deal, huh?"
+      "title": "Officina Nautica Molare",
+      "content": "Oho~ Allora il nostro contraente si è rivelato essere un pezzo grosso, eh?"
     },
     {
       "id": 25,
       "model": "올가",
       "teller": "Olga",
-      "title": "Molar Boatworks",
-      "content": "Hot damn, now that's a catch! How about we take a break from trash crabs and splurge for some pork? Pork belly barbecue!"
+      "title": "Officina Nautica Molare",
+      "content": "Miseria, questo sì che è un colpaccio! Che ne dite di prenderci una pausa dalle pagumiere e viziarci con un po' di maiale? Grigliata di pancetta!"
     },
     {
       "id": 26,
       "model": "레인",
       "teller": "Rain",
-      "title": "Molar Boatworks",
-      "content": "Sounds good, Big Sis."
+      "title": "Officina Nautica Molare",
+      "content": "Mi sembra un'ottima idea, Sorellona."
     },
     {
       "id": 27,
       "model": "올가",
       "teller": "Olga",
-      "title": "Molar Boatworks",
-      "content": "Hahaha! ...By the way, Mika?"
+      "title": "Officina Nautica Molare",
+      "content": "Hahaha! ...A proposito, Mika?"
     },
     {
       "id": 28,
       "model": "미카",
       "teller": "Mika",
-      "title": "Molar Boatworks",
-      "content": "Yes?"
+      "title": "Officina Nautica Molare",
+      "content": "Sì?"
     },
     {
       "id": 29,
       "model": "올가",
       "teller": "Olga",
-      "title": "Molar Boatworks",
-      "content": "When did we add a submersible mode to the modifications?"
+      "title": "Officina Nautica Molare",
+      "content": "Quand'è che abbiamo aggiunto la modalità sottomarino alle modifiche?"
     },
     {
       "id": 30,
       "model": "미카",
       "teller": "Mika",
-      "title": "Molar Boatworks",
-      "content": "We... didn't?"
+      "title": "Officina Nautica Molare",
+      "content": "Ma non... non lo abbiamo mai fatto?"
     },
     {
       "id": 31,
       "model": "레인",
       "teller": "Rain",
-      "title": "Molar Boatworks",
-      "content": "The ship looks like it's listing..."
+      "title": "Officina Nautica Molare",
+      "content": "La nave mi sembra un tantino inclinata..."
     },
     {
       "id": 32,
       "model": "히스클리프",
-      "content": "Oi! Get the water out, quick!"
+      "content": "Oi! Levate l'acqua, veloci!"
     },
     {
       "id": 33,
       "model": "싱클레어",
-      "content": "Buckets! Where are the buckets?!"
+      "content": "I secchi! Dove sono i secchi?!"
     },
     {
       "id": 34,
       "model": "이상",
-      "content": "I have found a hole! This must be..."
+      "content": "Ho trovato una falla! Dev'essere..."
     },
     {
       "id": 35,
       "model": "료슈",
-      "content": "T. D."
+      "content": "<ruby=Il Ponte>I. P.</ruby>"
     },
     {
       "id": 36,
       "model": "카론",
-      "content": "We're off, glub glub."
+      "content": "Si affoga, splish splash."
     },
     {
       "id": 37,
@@ -227,22 +227,22 @@
       "id": 38,
       "model": "레인",
       "teller": "Rain",
-      "title": "Molar Boatworks",
-      "content": "...I'll get the lifeboat."
+      "title": "Officina Nautica Molare",
+      "content": "...Vado a prendere la scialuppa di salvataggio."
     },
     {
       "id": 39,
       "model": "미카",
       "teller": "Mika",
-      "title": "Molar Boatworks",
-      "content": "Guess we should also prepare to pony up penalty fees..."
+      "title": "Officina Nautica Molare",
+      "content": "Immagino che dovremmo anche prepararci a sborsare i soldi per le penali..."
     },
     {
       "id": 40,
       "model": "올가",
       "teller": "Olga",
-      "title": "Molar Boatworks",
-      "content": "Haha... We're so screwed."
+      "title": "Officina Nautica Molare",
+      "content": "Ahah... Siamo completamente fottuti."
     },
     {
       "id": 41
@@ -252,15 +252,15 @@
     },
     {
       "id": 43,
-      "content": "...With our frantic attempts to drain the bus, and Charon's skillful rowing..."
+      "content": "...Con i nostri frenetici tentativi di svuotare l'autobus e il canottaggio magistrale di Charon..."
     },
     {
       "id": 44,
-      "content": "We managed to get back to the boatworks and have the bus repaired..."
+      "content": "Riuscimmo ad attraccare all'officina nautica e a far riparare il bus..."
     },
     {
       "id": 45,
-      "content": "With that, our voyage on the Great Lake began somehow in earnest..."
+      "content": "E così iniziò davvero il nostro viaggio sul Grande Lago..."
     }
   ]
 }
