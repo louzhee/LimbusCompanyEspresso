@@ -1158,7 +1158,7 @@
     {
       "id": "Talisman",
       "name": "Talismano",
-      "desc": "Stack Max: 6\nSul Colpo, infligge Lacerazione in base alle Stack; Quando subisce un colpo, ottiene Lacerazione in base alle Stack\nA Fine Turno: A 6+ Stack, rimuove tutti i Talismani e subisce danno fisso in base alle Stack.",
+      "desc": "Stack Max: 6\nSul Colpo, consuma 1 Conteggio Lacerazione per infliggere (Stack / 2) Lacerazione (infligge almeno 1 Lacerazione se il Conteggio Lacerazione è stato consumato; arrotondato per difetto\nQuando subisce un colpo, ottiene (Stack / 2) Lacerazione e perde 1 Stack (ottiene almeno 1 Lacerazione; arrotondato per difetto)\nA Fine Turno: a 6+ Stack, rimuove tutti i Talismani su di sé e subisce danno fisso in base alle Stack",
       "summary": "Infligge Lacerazione con gli attacchi ed ottiene Lacerazione quando subisce un colpo"
     },
     {
@@ -3330,7 +3330,7 @@
     },
     {
       "id": "TeachersPreyRodion",
-      "name": "Bersaglio",
+      "name": "Bersagli​o",
       "desc": "- Subisce +15% danni dalle Abilità Base Skills usate da Il Nido dei Ragni: Il Precettore del Pollice Rodion",
       "summary": "",
       "undefined": "-"
