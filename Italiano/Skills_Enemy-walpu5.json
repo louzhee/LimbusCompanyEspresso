@@ -122,7 +122,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ingranaggio della Carne: Rissa",
+          "name": "Ingranaggio della Carne: Presa",
           "desc": "[WhenUse] Ottiene 4 [Smoke] e +2 Conteggio [Smoke]",
           "coinlist": [
             {
