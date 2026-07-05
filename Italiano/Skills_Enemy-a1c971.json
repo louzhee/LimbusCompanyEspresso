@@ -5,16 +5,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "■■ew",
-          "desc": "[WhenUse] If the target does not have [Burst], Clash Power +1",
+          "name": "■■so",
+          "desc": "[WhenUse] Se il bersaglio non ha [Burst], Potere Scontro +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 2 PS damage"
+                  "desc": "[OnSucceedAttack] Infligge 2 danni ai PS"
                 }
               ]
             }
@@ -27,29 +27,29 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Le■'■ ■■t",
-          "desc": "[WhenUse] If the target has 5+ [Burst], Coin Power +1",
+          "name": "Ma■■■amo",
+          "desc": "[WhenUse] Se il bersaglio ha 5+ [Burst], Potere Moneta +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 3 PS damage"
+                  "desc": "[OnSucceedAttack] Infligge 3 danni ai PS"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal PV equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] Recupera PV pari al danno inflitto (Max 20)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 PS damage"
+                  "desc": "[OnSucceedAttack] Infligge 5 danni ai PS"
                 }
               ]
             }
@@ -62,39 +62,39 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I■'s Y■■r ■■rn N■■!!",
-          "desc": "[WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)",
+          "name": "O■a T■■ca ■ T■!!",
+          "desc": "[WhenUse] Potere Moneta +1 per ogni 3 [Burst] sul bersaglio (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Infligge +3 Conteggio [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal PV equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] Recupera PV pari al danno inflitto (Max 20)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At less than 50% PV, Reuse Coin once"
+                  "desc": "[OnSucceedAttack] A 50%- PV, Riusa questa Moneta una volta"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 10 PS damage"
+                  "desc": "[OnSucceedAttack] Infligge 10 danni ai PS"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal PV equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] Recupera PV pari al danno inflitto (Max 20)"
                 }
               ]
             }
@@ -107,8 +107,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gua■■",
-          "desc": "[WhenUse] Gain Shield PV for every 5 [Burst] on the target\n[EndBattle] Heal PV equal to the remaining Shield PV",
+          "name": "Bl■■■o",
+          "desc": "[WhenUse] Ottiene 1 Scudo per ogni 5 [Burst] sul bersaglio\n[EndBattle] Recupera PV pari allo Scudo rimanente",
           "coinlist": [
             {
               "coindescs": [
@@ -127,15 +127,15 @@
         {
           "level": 1,
           "name": "Wa■■■■ha",
-          "desc": "[WhenUse] If the target does not have [Burst], Clash Power +1",
+          "desc": "[WhenUse] Se il bersaglio non ha [Burst], Potere Scontro +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Infligge +2 Conteggio [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 2 PS damage"
+                  "desc": "[OnSucceedAttack] Infligge 2 danni ai PS"
                 }
               ]
             }
@@ -149,28 +149,28 @@
         {
           "level": 1,
           "name": "C■■an",
-          "desc": "[WhenUse] If the target has 5+ [Burst], Coin Power +1",
+          "desc": "[WhenUse] Se il bersaglio ha 5+ [Burst], Potere Moneta +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 3 PS damage"
+                  "desc": "[OnSucceedAttack] Infligge 3 danni ai PS"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal PV equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] Recupera PV pari al danno inflitto (Max 20)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 PS damage"
+                  "desc": "[OnSucceedAttack] Infligge 5 danni ai PS"
                 }
               ]
             }
@@ -183,39 +183,39 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ti■■ to E■■!",
-          "desc": "[WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)",
+          "name": "S■ Ma■■ia!",
+          "desc": "[WhenUse] Potere Moneta +1 per ogni 3 [Burst] sul bersaglio (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] Infligge 4 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal PV equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] Recupera PV pari al danno inflitto (Max 20)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At less than 50% PV, Reuse Coin once"
+                  "desc": "[OnSucceedAttack] A 50%- PV, Riusa questa Moneta una volta"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Infligge 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 10 PS damage"
+                  "desc": "[OnSucceedAttack] Infligge 10 danni ai PS"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal PV equal to damage dealt (Max 20)"
+                  "desc": "[OnSucceedAttack] Recupera PV pari al danno inflitto (Max 20)"
                 }
               ]
             }
@@ -228,8 +228,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "■■■rd",
-          "desc": "[WhenUse] Gain Shield PV for every 5 [Burst] on the target\n[EndBattle] Heal PV equal to the remaining Shield PV",
+          "name": "■loc■■",
+          "desc": "[WhenUse] Ottiene 1 Scudo per ogni 5 [Burst] sul bersaglio\n[EndBattle] Recupera PV pari allo Scudo rimanente",
           "coinlist": [
             {
               "coindescs": [
