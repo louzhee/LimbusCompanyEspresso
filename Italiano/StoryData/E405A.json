@@ -22,7 +22,7 @@
     },
     {
       "id": 4,
-      "content": "Giusto, non avevo mia fatto nulla del genere prima... Non sapevo neanche se quella fosse la cosa giusta da fare o a che tipo di risultati avrebbe portato la conversazione, ma..."
+      "content": "Giusto, non avevo mai fatto nulla del genere prima... Non sapevo neanche se quella fosse la cosa giusta da fare o a che tipo di risultati avrebbe portato la conversazione, ma..."
     },
     {
       "id": 5,
@@ -41,7 +41,7 @@
     {
       "id": 8,
       "model": "단테2",
-      "content": "<Insomma, non stai davvero partecipando nelle attività di gruppo e tutto il resto.>"
+      "content": "<Insomma, non stai davvero partecipando alle attività di gruppo e tutto il resto.>"
     },
     {
       "id": 9,
@@ -81,17 +81,17 @@
     {
       "id": 16,
       "model": "이스마엘",
-      "content": "Abbiamo bisogno di almeno mezzo anno per ambientarci al Grande Lago e alle cose che ci sono lì."
+      "content": "Abbiamo bisogno di almeno sei mesi per ambientarci al Grande Lago e alle cose che ci sono lì."
     },
     {
       "id": 17,
       "model": "이스마엘",
-      "content": "Oppure potremmo provare ad acquisire più esperienza, abbastanza a superare i nostri punti deboli. E lo stesso vale per te, Dante. Devi essere abbastanza forte da prenderti cura almeno di te stesso."
+      "content": "Oppure potremmo provare ad acquisire più esperienza, abbastanza per superare i nostri punti deboli. E lo stesso vale per te, Dante. Devi essere abbastanza forte da prenderti cura almeno di te stesso."
     },
     {
       "id": 18,
       "model": "이스마엘",
-      "content": "Posso aiutarti. E Outis... Sono sicura che anche lei possa farlo."
+      "content": "Posso aiutarti. E Outis... Sono sicura che anche lei possa con l'addestramento."
     },
     {
       "id": 19,
@@ -106,7 +106,7 @@
     {
       "id": 21,
       "model": "단테2",
-      "content": "<Metà anno, Ishmael...? Non abbiamo tutto questo tempo a disposizione.>"
+      "content": "<Sei mesi, Ishmael...? Non abbiamo tutto questo tempo a disposizione.>"
     },
     {
       "id": 22,
@@ -156,7 +156,7 @@
     {
       "id": 31,
       "model": "이스마엘",
-      "content": "In tal caso, dovremmo almeno mappare una rotta di navigazione e pianificare una strategia di combattimento..."
+      "content": "In tal caso, dovremmo almeno mappare una rotta di navigazione dettagliata e pianificare una strategia di combattimento..."
     },
     {
       "id": 32,
@@ -195,7 +195,7 @@
     {
       "id": 39,
       "model": "이스마엘",
-      "content": "Allora io... non avrei la possibilità di uccidere quella bastarda..."
+      "content": "Allora io... non avrò la possibilità di uccidere quella bastarda..."
     },
     {
       "id": 40,
@@ -235,12 +235,12 @@
     {
       "id": 47,
       "model": "이스마엘",
-      "content": "Uccidi o vieni ucciso, dalle profondità marine fino ai cieli che si innalzano e ricadono sul ponte..."
+      "content": "Uccidi o vieni ucciso, da qualsiasi cosa, dalle profondità delle acque fino alle altezze dei cieli, che striscia e cade sul ponte..."
     },
     {
       "id": 48,
       "model": "이스마엘",
-      "content": "Ci sono innumerevoli disastri naturali, come i tifoni acidi, gli tsunami di tonno, le tempeste di cerebra e altre moltitudini di orrori del lago di cui non riesco neanche a ricordare il nome!"
+      "content": "Ci sono innumerevoli disastri naturali, come i tifoni acidi, gli tsunami di tonno, le tempeste cerebrali e altre moltitudini di orrori del lago di cui non riesco neanche a ricordare il nome!"
     },
     {
       "id": 49,
@@ -255,7 +255,7 @@
     {
       "id": 51,
       "model": "이스마엘",
-      "content": "Non è qualcosa che un patetico tenerone come te..."
+      "content": "Non è qualcosa che un patetico, sdolcinato novellino come te..."
     },
     {
       "id": 52,
@@ -288,7 +288,7 @@
     },
     {
       "id": 58,
-      "content": "La zuffa partì così velocemente che nesssuno riuscì ad intervenire. Yi Sang sembrava quasi patetico mentre rimaneva lì, sconcertato."
+      "content": "La zuffa partì così velocemente che nessuno riuscì ad intervenire. Yi Sang sembrava quasi patetico mentre rimaneva lì, sconcertato."
     },
     {
       "id": 59,
@@ -306,7 +306,7 @@
     },
     {
       "id": 62,
-      "content": "Proprio mentre Ishmael sembrava star sferrando un pugno, calciò la gamba di Heathcliff, lanciandolo a terra."
+      "content": "Proprio mentre Ishmael sembrava sul punto di sferrare un pugno, calciò la gamba di Heathcliff, lanciandolo a terra."
     },
     {
       "id": 63,
@@ -319,7 +319,7 @@
     },
     {
       "id": 65,
-      "content": "L'alzò in alto, come se fosse pronta ad abbatterla in qualsiasi momento. Le sue braccia tremavano con una furia incontrollabile."
+      "content": "L'alzò in alto, come se fosse pronta ad abbatterla in qualsiasi momento. Il suo braccio tremava con una furia incontrollabile."
     },
     {
       "id": 66,
@@ -353,7 +353,7 @@
     },
     {
       "id": 72,
-      "content": "Non ero sicuro di cosa avesse fatto cambiare idea a Ishmael, ma almeno fu un sollievo. Guardò Heathcliff con occhi spalancanti... e lasciò cadere la mazza a terra."
+      "content": "Non ero sicuro di cosa avesse fatto cambiare idea a Ishmael, ma almeno fu un sollievo. Guardò Heathcliff con occhi spalancati... e lasciò cadere la mazza a terra."
     },
     {
       "id": 73,
@@ -407,7 +407,7 @@
     },
     {
       "id": 82,
-      "content": "...Era quello che avrei voluto dire, ma tenni zitta a bada la mia metaforica lingua."
+      "content": "...Era quello che avrei voluto dire, ma tenni a bada la mia metaforica lingua."
     },
     {
       "id": 83,
@@ -436,7 +436,7 @@
     },
     {
       "id": 88,
-      "content": "L'esitazioni di Sinclair, i tentativi di Don Quixote di placare la situazione, la voce imperturbabile di Faust e la voce crescente di Outis in mia difesa."
+      "content": "L'esitazione di Sinclair, i tentativi di Don Quixote di placare la situazione, la voce imperturbabile di Faust e la voce crescente di Outis in mia difesa."
     },
     {
       "id": 89,
@@ -479,7 +479,7 @@
     {
       "id": 97,
       "model": "단테2",
-      "content": "<Almeno... almeno finché non mi verrà in mente modo per gestirvi.>"
+      "content": "<Almeno... almeno finché non mi verrà in mente un modo per gestirvi.>"
     },
     {
       "id": 98,

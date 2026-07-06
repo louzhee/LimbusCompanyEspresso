@@ -18,7 +18,7 @@
     {
       "id": 3,
       "model": "단테2",
-      "content": "<Io credo userò barcabus...?>"
+      "content": "<Io credo che userò barcabus...?>"
     },
     {
       "id": 4,
@@ -186,7 +186,7 @@
       "model": "올가",
       "teller": "Olga",
       "title": "Officina Nautica Molare",
-      "content": "E poi, ha ucciso le persone che ci hanno aiutato a fondare l'Officina Molare quando eravamo una manciata di straccioni, no? Direi che è proprio il momento di dargli una bella mazzata sul grugno."
+      "content": "E poi, ha ucciso le persone che ci hanno aiutato a fondare l'Officina Nautica Molare quando eravamo una manciata di straccioni, no? Direi che è proprio il momento di dargli una bella mazzata sul grugno."
     },
     {
       "id": 32,
@@ -234,7 +234,7 @@
     {
       "id": 39,
       "model": "히스클리프",
-      "content": "L'hai sentita, faccia di orologio?"
+      "content": "L'hai sentita, faccia da orologio?"
     },
     {
       "id": 40,
@@ -343,12 +343,12 @@
     {
       "id": 61,
       "model": "이스마엘",
-      "content": "Hai una motivazione più egoistica di chiunque altro qui, quindi perché pretendi che lo stai facendo per tutti noi?"
+      "content": "Hai una motivazione più egoistica di chiunque altro qui, quindi perché fai finta di starlo facendo per tutti noi?"
     },
     {
       "id": 62,
       "model": "오티스",
-      "content": "Come osi alzare la voce verso—"
+      "content": "Come osi alzare la voce contro—"
     },
     {
       "id": 63,
@@ -419,7 +419,7 @@
     },
     {
       "id": 77,
-      "content": "Ishmael mi fissò con un'espressione vuota, come se aspettasse il mio ordine..."
+      "content": "Dopo aver finito di parlare, Ishmael mi fissò con un'espressione vuota, come se aspettasse il mio ordine..."
     },
     {
       "id": 78,
@@ -445,7 +445,7 @@
     },
     {
       "id": 83,
-      "content": "Solo allora..."
+      "content": "Proprio allora..."
     },
     {
       "id": 84,
@@ -457,11 +457,11 @@
     },
     {
       "id": 86,
-      "content": "Arti e pezzi di carne si strappano nella tempesta che porta onde che si infrangono, Ishmael che si aggrappa alla nave con tutte le sue forze..."
+      "content": "Arti e pezzi di carne si strappano nella tempesta che porta onde che si infrangono, mentre Ishmael si aggrappa alla nave con tutte le sue forze..."
     },
     {
       "id": 87,
-      "content": "Ed un occhio gigantesco, le sue dimensioni travolgente e totalizzanti incombono sulla nave, guardando Ishmael in silenzio."
+      "content": "Ed un occhio gigantesco, cui dimensioni travolgenti e totalizzanti incombono sulla nave, la guarda in silenzio."
     },
     {
       "id": 88,

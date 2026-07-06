@@ -7,7 +7,7 @@
     },
     {
       "id": 1,
-      "content": "Eravamo riusciti a sconfiggere un numero considerebole di pagumiere e a raccogliere abbastanza rottami da riempiere un furgone intero, se non di più."
+      "content": "Eravamo riusciti a sconfiggere un numero considerevole di pagumiere e a raccogliere abbastanza rottami da riempire un furgone intero, se non di più."
     },
     {
       "id": 2,
@@ -109,7 +109,7 @@
     {
       "id": 19,
       "model": "뫼르소",
-      "content": "Considerando il nostro attuale tasso di produttività, sembra che non ci verrà formito del tempo per riposare adeguatamente."
+      "content": "Considerando il nostro attuale tasso di produttività, sembra che non ci verrà fornito del tempo per riposare adeguatamente."
     },
     {
       "id": 20,
@@ -159,7 +159,7 @@
       "model": "레인",
       "teller": "Rain",
       "title": "Officina Nautica Molare",
-      "content": "Divertente, la sorellona ha detto l'esatta stessa cosa. Nel caso non lo sapeste, alcuni Nidi hanno più di un modo per utilizzare la propria Singolarità."
+      "content": "Divertente, la sorellona ha detto la stessa identica cosa. Nel caso non lo sapeste, alcuni Nidi hanno più di un modo per utilizzare la propria Singolarità."
     },
     {
       "id": 29,
@@ -169,7 +169,7 @@
     {
       "id": 30,
       "model": "이스마엘",
-      "content": "Diapson di risonanza..."
+      "content": "Diapason di risonanza..."
     },
     {
       "id": 31,
@@ -269,7 +269,7 @@
     {
       "id": 50,
       "model": "이스마엘",
-      "content": "Nella peggiore delle ipotesi, Dante potrebbe riavvolgere le lancette per tutto il giorno e non essere in grado di riportarci in vita!"
+      "content": "Nella peggiore delle ipotesi, Dante potrebbe far girare le lancette tutto il giorno senza comunque riuscire a riportarci indietro!"
     },
     {
       "id": 51,
@@ -336,7 +336,7 @@
     },
     {
       "id": 64,
-      "content": "Quella era la prima volta che Yi Sang si dimostrò affidabile, da quando era iniziato il nostro viaggio...!"
+      "content": "Quella era la prima volta che Yi Sang si dimostrava affidabile, da quando era iniziato il nostro viaggio...!"
     },
     {
       "id": 65,
@@ -377,7 +377,7 @@
     },
     {
       "id": 72,
-      "content": "L'atmosfera quasi gelida sembrò scongelarsi almento un po'."
+      "content": "L'atmosfera quasi gelida sembrò scongelarsi, almeno un po'."
     }
   ]
 }
