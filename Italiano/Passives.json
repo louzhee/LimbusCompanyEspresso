@@ -2123,7 +2123,7 @@
     {
       "id": 1091221,
       "name": "Veleno Intravascolare",
-      "desc": "Quando 1 alleato con la Velocità più alta infligge [Burst] danni a un nemico, infligge 1 [AttackDown] e 1 [DefenseDown] il turno successivo (1 volta per turno)"
+      "desc": "Quando 1 alleato con la Velocità più alta infligge danni da [Burst] a un nemico, infligge 1 [AttackDown] e 1 [DefenseDown] il turno successivo (1 volta per turno)"
     },
     {
       "id": 1021201,
